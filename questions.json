@@ -1,422 +1,424 @@
 [
   {
-    "question": "A 68-year-old man presents with a 2-year history of progressive bradykinesia, resting tremor in his right hand, and postural instability. Neurological examination reveals masked facies, decreased arm swing, and cogwheel rigidity. He is started on carbidopa-levodopa therapy, which initially improves his symptoms. However, 6 years later, he develops involuntary, dance-like movements in his limbs, especially when the medication is at peak effectiveness. What is the most likely cause of his new symptoms?",
+    "question": "A 52-year-old woman presents with a 3-month history of pain and numbness in her right hand, which worsens at night. She describes 'pins and needles' in her thumb, index, and middle fingers. On physical exam, tapping on the wrist elicits tingling in these fingers. Nerve conduction studies show prolonged latency to first deflection. Which of the following fiber types is most likely affected in this condition?",
     "choices": [
-      "Disease progression causing worsening of bradykinesia",
-      "Exaggerated dopaminergic stimulation from peak levodopa levels",
-      "Development of multiple system atrophy",
-      "Underlying Huntington's disease",
-      "Co-administration of a COMT inhibitor"
+      "A-alpha",
+      "A-beta",
+      "A-delta",
+      "B fibers",
+      "C fibers"
     ],
     "correctAnswer": 1,
-    "explanation": "This patient has developed levodopa-induced dyskinesia (LID), which occurs due to exaggerated dopaminergic stimulation, especially when plasma levodopa concentrations are at their peak. Dyskinesia often manifests as involuntary writhing or choreiform movements and is a common complication in advanced Parkinson’s disease treated with dopaminergic therapy. A is incorrect—disease progression worsens rigidity and bradykinesia, not dyskinesia. C is incorrect—multiple system atrophy is characterized by poor levodopa response and autonomic dysfunction. D is incorrect—Huntington’s disease has earlier onset and genetic etiology. E is incorrect—COMT inhibitors extend levodopa's half-life but do not directly cause dyskinesias."
+    "explanation": "This patient has classic signs of carpal tunnel syndrome, which compresses the median nerve and affects sensory fibers innervating the lateral three and a half digits. A-beta fibers are myelinated with medium-large diameters and are responsible for tactile sensations via cutaneous mechanoreceptors. Delayed conduction velocity in these fibers is diagnostic. A-alpha fibers are motor or proprioceptive. A-delta and C fibers transmit pain and temperature. B fibers are autonomic."
   },
   {
-    "question": "A 30-year-old woman develops involuntary, slow, writhing movements of her hands and face 3 weeks after recovering from a sore throat. Physical exam shows no rigidity or bradykinesia. MRI is normal. Labs are negative for copper metabolism defects. What is the most likely diagnosis?",
+    "question": "A 35-year-old man sustains a penetrating stab wound to the left side of his spinal cord at the T8 level. Neurologic exam shows loss of proprioception and vibratory sensation on the left side below T8, and loss of pain and temperature sensation on the right side below T10. Which of the following tracts is most likely damaged on the right side?",
     "choices": [
-      "Huntington’s disease",
-      "Sydenham’s chorea",
-      "Wilson’s disease",
-      "Essential tremor",
-      "Dystonia"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sydenham’s chorea is an autoimmune post-streptococcal complication, typically occurring in children and adolescents, characterized by rapid, irregular, purposeless movements that may present weeks to months after a Group A streptococcal infection. A is incorrect—Huntington’s chorea has autosomal dominant inheritance and psychiatric features, typically in the fourth decade. C is incorrect—Wilson’s disease presents with hepatic, psychiatric, and neurologic symptoms, and is diagnosed by low ceruloplasmin and high urinary copper. D is incorrect—essential tremor is action-related, not choreiform. E is incorrect—dystonia involves sustained, twisting postures rather than rapid movements."
-  },
-  {
-    "question": "A 45-year-old man with schizophrenia presents with involuntary facial grimacing, tongue protrusion, and lip smacking. He has been on haloperidol for the past 4 years. Examination shows repetitive, purposeless oral movements. Which of the following is the most likely underlying mechanism?",
-    "choices": [
-      "Decreased GABAergic output from the striatum",
-      "Progressive neuronal degeneration in the substantia nigra",
-      "Autoimmune destruction of the subthalamic nucleus",
-      "Dopamine receptor supersensitivity",
-      "Accumulation of copper in basal ganglia"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Tardive dyskinesia results from long-term dopamine receptor blockade (e.g., antipsychotics), leading to upregulation and hypersensitivity of postsynaptic dopamine receptors in the basal ganglia. This manifests as involuntary, repetitive movements, particularly in the oral-buccal-lingual region. A is incorrect—this is a feature of Huntington’s disease. B is incorrect—seen in Parkinson’s disease. C is incorrect—associated with hemiballismus. E is incorrect—relevant in Wilson’s disease."
-  },
-  {
-    "question": "A 61-year-old man presents with a 3-year history of resting tremor, bradykinesia, and postural instability. Postmortem examination reveals depigmentation of the substantia nigra and eosinophilic cytoplasmic inclusions in neurons that stain positive for alpha-synuclein. Which of the following best describes the pathophysiologic mechanism of this condition?",
-    "choices": [
-      "Loss of upper and lower motor neurons with Bunina bodies",
-      "Trinucleotide repeat expansion causing caudate degeneration",
-      "Abnormal protein aggregation disrupting ubiquitin-proteasome and autophagy pathways",
-      "Impaired DNA repair due to ATM gene mutation",
-      "Excessive copper accumulation due to ATP7B mutation"
+      "Left fasciculus gracilis",
+      "Right lateral corticospinal tract",
+      "Right lateral spinothalamic tract",
+      "Left anterior spinothalamic tract",
+      "Right spinocerebellar tract"
     ],
     "correctAnswer": 2,
-    "explanation": "This patient's findings are classic for idiopathic Parkinson disease. Alpha-synuclein misfolds and aggregates into Lewy bodies and neurites, disrupting neuronal degradation pathways including the ubiquitin-proteasome and lysosomal-autophagy systems. Choice 1 describes ALS. Choice 2 is Huntington disease. Choice 4 describes ataxia-telangiectasia. Choice 5 refers to Wilson disease."
+    "explanation": "This is classic Brown-Sequard syndrome. The lesion on the left side affects the ipsilateral dorsal column, leading to left-sided proprioception and vibration loss. The right lateral spinothalamic tract, which carries pain and temperature from the left side, is affected due to crossing over within a few segments of entry. Other tracts listed are either on the wrong side or responsible for different modalities."
   },
   {
-    "question": "A 38-year-old man presents with progressive jerky movements and irritability. His father had similar symptoms in his 50s. MRI shows atrophy of the caudate and putamen. Genetic analysis confirms CAG repeat expansion on chromosome 4. Which of the following best explains the mechanism of this disease?",
+    "question": "A 28-year-old man presents with bilateral loss of pain and temperature sensation over the shoulders and arms, but light touch is preserved. MRI reveals a syrinx expanding the central canal at the C5–T1 levels. Which of the following best explains the sensory findings?",
     "choices": [
-      "Toxic gain of function from mutant huntingtin protein",
-      "Copper accumulation in basal ganglia due to transport defect",
-      "Loss of alpha motor neurons in the spinal cord",
-      "Failure of bilirubin conjugation in hepatocytes",
-      "Deposition of alpha-synuclein in cortical neurons"
+      "Compression of the anterior horns",
+      "Disruption of the posterior columns",
+      "Damage to the anterior white commissure",
+      "Lesion of the medial lemniscus",
+      "Compression of the dorsal root ganglia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Syringomyelia damages the anterior white commissure, where decussating spinothalamic fibers cross. This leads to bilateral segmental loss of pain and temperature in a 'cape-like' distribution. The anterior horns are motor. Posterior columns mediate vibration and proprioception. Medial lemniscus and dorsal root ganglia lesions would produce different patterns of deficits."
+  },
+  {
+    "question": "A 62-year-old man with type 2 diabetes presents with numbness and burning pain in his feet, worsening over the past year. Examination reveals decreased pinprick, vibration, and position sense in a stocking-glove distribution. Which of the following best describes the type of nerve fibers and clinical findings expected in this patient’s condition?",
+    "choices": [
+      "Large fiber loss; preserved deep tendon reflexes",
+      "Small fiber loss; enhanced heat and cold sensitivity",
+      "Large fiber loss; vibration and proprioceptive deficits",
+      "Motor fiber loss; facial paralysis and diplopia",
+      "Small fiber loss; hyperreflexia and spasticity"
+    ],
+    "correctAnswer": 2,
+    "explanation": "This patient has diabetic peripheral neuropathy, particularly the large fiber type, which results in loss of vibration and proprioception. Reflexes may be reduced. Small fiber neuropathy typically presents earlier with burning pain and temperature sensitivity. Motor deficits and cranial nerve involvement would suggest alternate diagnoses."
+  },
+  {
+    "question": "A 44-year-old woman presents with progressive asymmetric weakness and numbness in both arms over several weeks. She also reports weight loss and arthralgia. Exam shows absent ankle jerks, weakness in hand grip, and patchy sensory loss in multiple dermatomes. EMG shows axonal damage. What is the most likely underlying etiology?",
+    "choices": [
+      "Diabetic polyneuropathy",
+      "Guillain-Barré syndrome",
+      "Multifocal demyelinating neuropathy",
+      "Mononeuritis multiplex due to vasculitis",
+      "Hereditary motor neuropathy"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Mononeuritis multiplex is characterized by asymmetric, patchy motor and sensory deficits. It often results from vasculitic disorders like polyarteritis nodosa or SLE. Diabetic and hereditary neuropathies tend to be symmetric and distal. Guillain-Barré is typically acute and symmetric."
+  },
+  {
+    "question": "A 29-year-old man presents with progressive bilateral loss of pain and temperature sensation in the shoulders and arms. He retains normal proprioception and vibratory sensation. MRI reveals a fluid-filled cavity expanding the central canal at the cervical level. Which structure is most likely affected?",
+    "choices": [
+      "Dorsal columns",
+      "Anterior horns",
+      "Anterior white commissure",
+      "Lateral corticospinal tracts",
+      "Medial lemniscus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "This is classic for syringomyelia, which affects the anterior white commissure where the second-order spinothalamic fibers decussate. This leads to a 'cape-like' distribution of pain and temperature loss. Dorsal columns mediate vibration/proprioception, which is spared. Anterior horns produce motor deficits; lateral corticospinal tracts cause spasticity; medial lemniscus carries fine touch and proprioception centrally."
+  },
+  {
+    "question": "A 30-year-old man presents with loss of pain and temperature sensation in both shoulders and upper arms. MRI reveals a syrinx at the cervical level expanding the central canal. Which of the following structures is most likely damaged, explaining the patient's sensory deficit?",
+    "choices": [
+      "Dorsal column-medial lemniscal pathway",
+      "Anterior white commissure of the spinal cord",
+      "Lateral corticospinal tract",
+      "Dorsal root ganglion",
+      "Anterior horn cells"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A cervical syrinx affects the anterior white commissure, where second-order neurons of the spinothalamic tract decussate. This causes bilateral segmental loss of pain and temperature, especially in a cape-like distribution. The dorsal columns (choice 0) carry vibration and proprioception, which are spared. The corticospinal tract (choice 2) controls motor function. The dorsal root ganglion (choice 3) mediates all sensory input, and anterior horn cells (choice 4) control motor output."
+  },
+  {
+    "question": "A histological section of CNS tissue reveals small cells with oval nuclei, scant cytoplasm, and processes that extend between neurons and blood vessels. These cells stain positive for GFAP. Which of the following functions is most associated with this cell type?",
+    "choices": [
+      "Myelination of CNS axons",
+      "Blood-brain barrier maintenance",
+      "Phagocytosis of debris",
+      "Immune surveillance",
+      "CSF production"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Astrocytes, which stain for GFAP, are star-shaped glial cells that maintain the blood-brain barrier, provide metabolic support, and respond to injury with gliosis. Oligodendrocytes (choice 0) myelinate CNS axons. Microglia (choices 2 and 3) are the CNS's resident macrophages and perform immune surveillance and phagocytosis. Ependymal cells (choice 4) line ventricles and contribute to CSF circulation."
+  },
+  {
+    "question": "A 55-year-old woman with a history of multiple sclerosis undergoes brain biopsy. Histological examination shows demyelination with relative preservation of axons. Which of the following CNS cells is most likely damaged?",
+    "choices": [
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Microglia",
+      "Ependymal cells",
+      "Neurons"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Oligodendrocytes are responsible for myelinating axons in the CNS. In multiple sclerosis, autoimmune destruction of oligodendrocytes leads to demyelination while initially sparing axons. Astrocytes (choice 0) provide support and repair. Microglia (choice 2) are immune cells. Ependymal cells (choice 3) line ventricles and help circulate CSF. Neurons (choice 4) are damaged later in disease progression but are not the primary target in MS."
+  },
+  {
+    "question": "A 62-year-old man undergoing elective surgery is given sevoflurane for induction of anesthesia. He is noted to have rapid onset of unconsciousness. Which of the following properties of sevoflurane best explains its rapid onset?",
+    "choices": [
+      "High blood:gas partition coefficient",
+      "Low MAC value",
+      "High oil:gas partition coefficient",
+      "Low blood:gas partition coefficient",
+      "High rate of hepatic metabolism"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The blood:gas partition coefficient reflects how soluble an anesthetic is in blood. A low coefficient means the agent is less soluble, allowing alveolar partial pressure to rise quickly, which correlates with a faster onset of action. Sevoflurane has a low blood:gas partition coefficient (0.69). High solubility (choice 0) slows onset. MAC (choice 1) relates to potency, not speed. Oil:gas coefficient (choice 2) relates to potency. Hepatic metabolism (choice 4) does not determine onset."
+  },
+  {
+    "question": "A 38-year-old man with a history of severe asthma is undergoing elective surgery. Which of the following inhaled anesthetic agents is most appropriate for induction in this patient due to its bronchodilatory properties and non-pungent nature?",
+    "choices": [
+      "Desflurane",
+      "Halothane",
+      "Sevoflurane",
+      "Isoflurane",
+      "Nitrous oxide"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sevoflurane is non-pungent and causes significant bronchodilation, making it ideal for patients with reactive airway disease. Desflurane and isoflurane are airway irritants. Halothane is no longer widely used due to toxicity. Nitrous oxide is neither a potent bronchodilator nor suitable for induction alone."
+  },
+  {
+    "question": "A 7-year-old boy undergoing orthopedic surgery develops tachycardia, muscle rigidity, and a rapidly rising temperature intraoperatively after administration of halogenated anesthetics and succinylcholine. Which of the following is the most appropriate immediate next step in management?",
+    "choices": [
+      "Administer dantrolene",
+      "Give naloxone",
+      "Increase inhaled anesthetic concentration",
+      "Start beta-blockers",
+      "Administer atropine"
     ],
     "correctAnswer": 0,
-    "explanation": "Huntington disease is caused by a toxic gain of function from an expanded CAG repeat in the HTT gene, leading to formation of mutant huntingtin protein aggregates. Choice 1 is correct. Choice 2 describes Wilson disease. Choice 3 refers to ALS. Choice 4 pertains to kernicterus. Choice 5 is seen in dementia with Lewy bodies or Parkinson disease."
+    "explanation": "This is malignant hyperthermia, a life-threatening reaction to volatile anesthetics and succinylcholine. Dantrolene is the definitive treatment; it acts by inhibiting calcium release via ryanodine receptors in skeletal muscle. Naloxone (choice 1) treats opioid overdose. Increasing anesthetic (choice 2) worsens the condition. Beta-blockers (choice 3) are not first-line. Atropine (choice 4) is used for bradycardia, not malignant hyperthermia."
   },
   {
-    "question": "A 63-year-old woman presents with progressive weakness in her hands and legs, spasticity in the lower extremities, and difficulty speaking. Examination shows tongue fasciculations, hyperreflexia, and a positive Babinski sign. MRI shows corticospinal tract hyperintensity. Which of the following histopathologic findings is most specific to this condition?",
+    "question": "A 36-year-old woman receives lidocaine for a dental procedure. Minutes later, she becomes agitated, complains of dizziness, and develops seizures. Which of the following best explains this adverse effect?",
     "choices": [
-      "Atrophy of caudate nucleus and boxcar ventricles",
-      "Lewy bodies in substantia nigra",
-      "Bunina bodies in anterior horn cells",
-      "Copper deposits in lenticular nucleus",
-      "Bilirubin deposition in cerebellum and medulla"
-    ],
-    "correctAnswer": 2,
-    "explanation": "This patient's mixed upper and lower motor neuron findings are characteristic of ALS. Bunina bodies, composed of TDP-43, are a specific histologic finding in surviving anterior horn neurons. Choice 1 is Huntington disease. Choice 2 is Parkinson disease. Choice 4 is Wilson disease. Choice 5 is kernicterus."
-  },
-  {
-    "question": "A 72-year-old woman presents with a 2-year history of memory loss and difficulty managing her finances. Neurologic exam shows no focal deficits. Cognitive testing reveals poor delayed recall and impaired executive function. CSF analysis shows decreased amyloid-β42 and increased phosphorylated tau. Which of the following brain structures is most directly associated with early pathologic changes in this disease?",
-    "choices": [
-      "Subthalamic nucleus",
-      "Basal nucleus of Meynert",
-      "Amygdala",
-      "Cerebellar vermis",
-      "Red nucleus"
+      "Lidocaine directly stimulates NMDA receptors in the cerebral cortex",
+      "Rapid increase in plasma lidocaine levels causing inhibition of inhibitory cortical pathways",
+      "Hypersensitivity reaction due to para-aminobenzoic acid metabolite",
+      "Central nervous system toxicity due to bupivacaine accumulation",
+      "Selective inhibition of GABAergic interneurons in the spinal cord"
     ],
     "correctAnswer": 1,
-    "explanation": "Alzheimer’s disease typically begins with degeneration of the basal nucleus of Meynert, which provides widespread cholinergic input to the cortex. This structure is one of the earliest affected in AD and is linked to impaired attention and memory. The subthalamic nucleus is affected in hemiballismus. The amygdala may be affected later but is not the earliest site. The cerebellar vermis is involved in truncal coordination. The red nucleus is involved in motor control and not primarily affected in Alzheimer’s disease."
+    "explanation": "This is a classic presentation of CNS toxicity from local anesthetics like lidocaine. A rapid rise in plasma concentration blocks inhibitory pathways in the cerebral cortex, leading to unopposed excitation and seizures. NMDA receptors (choice 0) are not involved in this mechanism. Hypersensitivity reactions (choice 2) are more common with ester anesthetics due to PABA metabolites. Bupivacaine (choice 3) is not used here. GABAergic inhibition (choice 4) is not the primary mechanism of toxicity."
   },
   {
-    "question": "A 65-year-old man presents with progressive visual hallucinations, fluctuating attention, and recent development of parkinsonian gait. His symptoms began with cognitive changes prior to the motor findings. Which of the following findings would most likely be seen on histopathologic examination?",
+    "question": "A 48-year-old man undergoes a nerve block for minor surgery. He has hepatic cirrhosis and reduced liver function. Which of the following local anesthetics should be used with caution due to impaired hepatic metabolism and risk of toxicity?",
     "choices": [
-      "Intracytoplasmic inclusions positive for alpha-synuclein in cortical neurons",
-      "Periventricular plaques and tangles with demyelination",
-      "Ballooned neurons with tau accumulation in frontal cortex",
-      "Spongiform changes with 14-3-3 protein in CSF",
-      "Neurofibrillary tangles in hippocampal neurons"
-    ],
-    "correctAnswer": 0,
-    "explanation": "This patient has dementia with Lewy bodies, characterized by early cognitive changes, visual hallucinations, fluctuating cognition, and later parkinsonism. The hallmark histology is cortical Lewy bodies composed of alpha-synuclein. Option 1 is correct. Option 2 describes multiple sclerosis. Option 3 is seen in frontotemporal dementia. Option 4 is characteristic of Creutzfeldt-Jakob disease. Option 5 is associated with Alzheimer’s disease."
-  },
-  {
-    "question": "A 55-year-old man with a history of hypertension and diabetes presents with a stepwise decline in memory and executive function. MRI reveals multiple small infarcts in the deep white matter. Which of the following treatment strategies is most appropriate to reduce further cognitive decline in this patient?",
-    "choices": [
-      "Memantine and donepezil",
-      "Tight glycemic and blood pressure control",
-      "Monoclonal antibody therapy targeting amyloid",
-      "Dopaminergic agents and physical therapy",
-      "Low-dose corticosteroids and immunosuppressants"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The clinical presentation and imaging are consistent with vascular cognitive impairment (VCI), a type of dementia caused by cerebrovascular disease. The mainstay of treatment is addressing modifiable vascular risk factors such as hypertension and diabetes. Memantine and donepezil may be helpful in mixed dementia but are not first-line for pure vascular dementia. Monoclonal antibodies target amyloid and are used in early Alzheimer’s disease. Dopaminergic therapy is used for Parkinson’s. Corticosteroids and immunosuppressants are used in inflammatory or autoimmune conditions."
-  },
-  {
-    "question": "A 29-year-old man suffers a traumatic brain injury resulting in bilateral medial temporal lobe damage. He is unable to form new episodic memories but can still learn new motor tasks like riding a bicycle. Which of the following types of memory is most likely preserved in this patient?",
-    "choices": [
-      "Episodic memory",
-      "Semantic memory",
-      "Working memory",
-      "Procedural memory",
-      "Explicit memory"
+      "Procaine",
+      "Chloroprocaine",
+      "Tetracaine",
+      "Lidocaine",
+      "Cocaine"
     ],
     "correctAnswer": 3,
-    "explanation": "This clinical scenario is consistent with anterograde amnesia due to medial temporal lobe damage, as famously seen in patient H.M. Procedural memory, which involves skills and habits and is mediated by the striatum and cerebellum, remains intact. Episodic and semantic memory are types of explicit memory, which are impaired. Working memory depends on the prefrontal cortex and may be spared but is distinct from procedural memory."
+    "explanation": "Lidocaine is an amide anesthetic primarily metabolized in the liver. Patients with liver dysfunction are at increased risk of systemic toxicity due to slower metabolism. Procaine, chloroprocaine, and tetracaine (choices 0, 1, and 2) are esters metabolized by plasma cholinesterases. Cocaine (choice 4), although an ester, undergoes partial hepatic metabolism but also has vasoconstrictive effects that differ from other agents."
   },
   {
-    "question": "A 67-year-old woman with early Alzheimer’s disease shows impaired recent memory but can still recall distant events. Which brain region is most associated with this memory gradient?",
+    "question": "A 28-year-old woman presents for labor and is given an epidural containing bupivacaine. She experiences good analgesia with minimal motor weakness. This clinical effect is best explained by which of the following pharmacologic properties of bupivacaine?",
     "choices": [
-      "Basolateral amygdala",
-      "Prefrontal cortex",
-      "Hippocampus and adjacent temporal cortex",
-      "Striatum and thalamus",
-      "Cerebellum"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Alzheimer’s disease preferentially affects the hippocampus and adjacent medial temporal structures, which are essential for encoding and consolidating new memories. This leads to an anterograde and temporally graded retrograde amnesia, with recent memories more affected. The basolateral amygdala modulates emotional memory. The striatum and cerebellum mediate procedural learning. The prefrontal cortex is more important in working memory and executive function."
-  },
-  {
-    "question": "A 60-year-old man with Parkinson’s disease is asked to perform a probabilistic card prediction task. He fails to learn the card-outcome associations, though he remembers the details of the task. Which of the following best explains his difficulty with the task?",
-    "choices": [
-      "Hippocampal dysfunction due to dopaminergic depletion",
-      "Impairment of amygdala-dependent emotional learning",
-      "Lesion of dorsolateral prefrontal cortex affecting working memory",
-      "Damage to the striatum impairing implicit learning",
-      "Cortical atrophy impairing semantic knowledge"
+      "High lipid solubility and low pKa",
+      "Low protein binding and short duration of action",
+      "Selective blockade of sympathetic fibers only",
+      "Preferential blockade of sensory over motor fibers at low concentrations",
+      "Rapid hydrolysis in plasma by pseudocholinesterase"
     ],
     "correctAnswer": 3,
-    "explanation": "Patients with Parkinson’s disease have degeneration of the dopaminergic neurons projecting to the striatum, which is essential for implicit learning tasks like probabilistic classification. Unlike amnesics, Parkinson’s patients typically have intact declarative memory. The hippocampus, amygdala, and cortical areas are not primarily responsible for this specific type of procedural learning."
+    "explanation": "Bupivacaine at low concentrations exhibits differential blockade, meaning it preferentially blocks sensory nerves while sparing motor function, making it ideal for labor analgesia. Lipid solubility and pKa (choice 0) affect onset and potency but not sensory preference. It has high protein binding and long duration (contradicting choice 1). It does not selectively block sympathetic fibers (choice 2). As an amide, it is metabolized hepatically, not via plasma hydrolysis (choice 4)."
   },
   {
-    "question": "A 65-year-old man presents with a resting tremor in his right hand, difficulty initiating movement, and a stooped posture. Neurological examination reveals bradykinesia, rigidity, and a masked facial expression. The tremor improves with purposeful movement. Levodopa therapy is initiated with excellent symptom control. Over the next few years, he develops involuntary, writhing movements of his limbs, especially during peak medication efficacy. Which of the following best explains this new symptom?",
+    "question": "A 55-year-old man with atrial fibrillation is taking warfarin for stroke prevention. He recently began self-medicating with an herbal supplement for memory enhancement. He now presents with signs of intracranial bleeding, and his INR remains within therapeutic range. Which of the following herbal supplements is most likely responsible for this complication?",
     "choices": [
-      "Progression of Parkinson’s disease",
-      "Excess dopamine in the striatum",
-      "Neurodegeneration of the substantia nigra",
-      "Blockade of dopamine receptors",
-      "Withdrawal of dopamine agonists"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The patient developed levodopa-induced dyskinesias, which are involuntary movements due to peak-dose dopamine levels exceeding the therapeutic window. This is a classic complication in Parkinson's disease patients treated with levodopa over time. Progression of PD and degeneration of the substantia nigra are central to the disease itself but do not directly cause dyskinesias. Dopamine receptor blockade would cause parkinsonism, not dyskinesia. Withdrawal of agonists might cause 'off' symptoms, not hyperkinesia."
-  },
-  {
-    "question": "A 38-year-old woman presents with involuntary flinging movements of her left arm that started suddenly. Neurologic exam confirms large amplitude, proximal, violent, irregular movements. MRI reveals a small lesion in the contralateral subthalamic nucleus. Which of the following best describes the mechanism of her symptoms?",
-    "choices": [
-      "Loss of GABAergic inhibition in the caudate",
-      "Increased dopaminergic activity in the striatum",
-      "Disinhibition of the thalamus via globus pallidus internus",
-      "Damage to cerebellar Purkinje cells",
-      "Decreased cortical output from the premotor cortex"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The clinical description is consistent with hemiballismus, classically caused by lesions of the contralateral subthalamic nucleus, which leads to decreased excitation of the GPi. The result is reduced inhibition of the thalamus, promoting excessive, involuntary movement. GABAergic loss in the caudate is more associated with Huntington’s disease. Dopamine excess can cause chorea but not hemiballismus. Cerebellar damage causes ataxia, not flinging movements. Cortical output loss would lead to paresis or apraxia, not hyperkinesia."
-  },
-  {
-    "question": "A 10-year-old girl presents with involuntary, irregular, purposeless movements involving her limbs and face. Her parents note she has had recent emotional lability and clumsiness. History reveals a sore throat 2 months ago. On exam, there is milkmaid grip and darting tongue movements. What is the most appropriate next diagnostic step?",
-    "choices": [
-      "Serum ceruloplasmin",
-      "MRI of the brain",
-      "Throat culture",
-      "Antistreptolysin O titer",
-      "Genetic testing for trinucleotide repeats"
+      "Valerian",
+      "Garlic",
+      "St. John's Wort",
+      "Ginkgo biloba",
+      "Saw palmetto"
     ],
     "correctAnswer": 3,
-    "explanation": "The girl’s symptoms are classic for Sydenham’s chorea, a post-streptococcal autoimmune movement disorder associated with acute rheumatic fever. ASO titers help confirm recent group A Streptococcus infection. Ceruloplasmin is used for Wilson’s disease, MRI may be used but is not first line here, throat culture is not useful weeks after infection, and trinucleotide testing is for Huntington's disease, which presents later in life."
+    "explanation": "Ginkgo biloba can inhibit platelet aggregation and platelet activating factor, increasing bleeding risk without affecting INR. Valerian (choice 0) is a sedative and does not affect coagulation. Garlic (choice 1) can have antiplatelet effects but is less associated with intracranial hemorrhage in clinical practice. St. John's Wort (choice 2) induces CYP450 enzymes, lowering warfarin efficacy. Saw palmetto (choice 4) may have mild effects on DHT but not on coagulation."
   },
   {
-    "question": "A 55-year-old man exhibits socially inappropriate behavior, compulsive overeating, and apathy. Over the next two years, he develops expressive aphasia and impaired comprehension. MRI reveals frontal and anterior temporal lobe atrophy. Which of the following is the most likely histopathologic hallmark of his condition?",
+    "question": "A 36-year-old woman begins using an herbal tea for insomnia. She reports unusual vivid dreams and grogginess in the morning. Which of the following most accurately describes the mechanism of the herbal compound she is likely using?",
     "choices": [
-      "Lewy bodies positive for alpha-synuclein",
-      "Neuritic plaques composed of beta-amyloid",
-      "Pick bodies positive for hyperphosphorylated tau",
-      "Spongiform changes with no inflammation",
-      "Perivascular tau accumulation at depths of cortical sulci"
+      "MAO inhibition",
+      "COX-2 inhibition and serotonin blockade",
+      "Inhibition of reuptake and stimulation of release of GABA",
+      "Antagonism of DHT receptors",
+      "Inhibition of HMG CoA reductase"
     ],
     "correctAnswer": 2,
-    "explanation": "This is a classic presentation of frontotemporal dementia (Pick's disease), characterized by early behavioral disinhibition and language deficits. The most specific histopathologic hallmark is the presence of Pick bodies, which are round intracytoplasmic inclusions containing hyperphosphorylated tau. Lewy bodies (choice A) are associated with dementia with Lewy bodies. Neuritic plaques (choice B) are characteristic of Alzheimer disease. Spongiform changes (choice D) are typical of prion diseases. Perivascular tau (choice E) is found in chronic traumatic encephalopathy."
+    "explanation": "Valerian exerts its sedative effects by inhibiting the reuptake and stimulating the release of GABA. MAO inhibition (choice 0) is associated with St. John’s Wort. COX-2 inhibition (choice 1) and serotonin blockade are linked to feverfew. DHT antagonism (choice 3) is the mechanism of saw palmetto. Inhibiting HMG CoA reductase (choice 4) is related to garlic's cholesterol-lowering effect."
   },
   {
-    "question": "A 68-year-old woman has progressive cognitive decline characterized by memory loss and executive dysfunction. Imaging shows diffuse cerebral atrophy, predominantly in the temporal and parietal lobes. Histology reveals neuritic plaques and neurofibrillary tangles. Which biomarker pattern is most supportive of her diagnosis?",
+    "question": "A 22-year-old student presents with severe mouth ulcerations after ingesting several leaves of a plant traditionally used to prevent migraine headaches. She reports that her mother used it for similar issues. Which of the following best explains the most likely mechanism of this herbal agent?",
     "choices": [
-      "CSF Aβ42 low, CSF tau low",
-      "CSF Aβ42 high, CSF p-tau low",
-      "CSF Aβ42 low, CSF p-tau high",
-      "CSF Aβ42/Aβ40 ratio high, CSF p-tau low",
-      "Normal CSF Aβ42 and tau levels"
+      "MAO inhibition and serotonin reuptake inhibition",
+      "COX-2 inhibition and mast cell stabilization",
+      "Activation of T-lymphocytes and NK cells",
+      "Serotonin receptor antagonism and nitric oxide release",
+      "HMG CoA reductase inhibition and platelet activation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Feverfew works through COX-2 inhibition, serotonin receptor blockade, and mast cell stabilization, which help reduce migraine frequency. MAO inhibition and serotonin reuptake inhibition (choice 0) is associated with St. John’s Wort. Immune cell activation (choice 2) is a feature of echinacea. Serotonin receptor antagonism and nitric oxide release (choice 3) might relate to ginkgo, but ginkgo doesn't cause mouth ulceration. Garlic (choice 4) inhibits HMG CoA reductase and inhibits platelets but is unrelated to the case scenario."
+  },
+  {
+    "question": "A 42-year-old firefighter presents with a 3-day history of severe, sharp headache behind his left eye. He reports transient vision loss in the same eye and denies trauma. On examination, he has left-sided ptosis, miosis, and a carotid bruit. What is the most likely underlying pathology?",
+    "choices": [
+      "Cavernous sinus thrombosis",
+      "Posterior communicating artery aneurysm",
+      "Internal carotid artery dissection",
+      "Giant cell arteritis",
+      "Cluster headache"
     ],
     "correctAnswer": 2,
-    "explanation": "The combination of low CSF Aβ42 and elevated phosphorylated tau (p-tau) is the most supportive biomarker profile for Alzheimer disease. Low Aβ42 indicates amyloid plaque accumulation, while high p-tau reflects neurofibrillary tangle pathology. Choices A and B are inconsistent with Alzheimer pathology. A high Aβ42/Aβ40 ratio (choice D) suggests normal amyloid metabolism. Normal biomarkers (choice E) would not support the diagnosis in a symptomatic individual."
+    "explanation": "Internal carotid artery dissection can cause headache, transient vision loss, and Horner’s syndrome (ptosis, miosis). The presence of a carotid bruit supports this vascular pathology. Cavernous sinus thrombosis (choice 0) would cause cranial nerve palsies. Posterior communicating aneurysm (choice 1) causes third nerve palsy, not Horner’s. GCA (choice 3) presents in older patients with jaw claudication. Cluster headaches (choice 4) do not cause Horner’s or bruits."
   },
   {
-    "question": "A 70-year-old man with poorly controlled hypertension presents with sudden-onset confusion and memory impairment following a recent stroke. Neuroimaging reveals multiple small infarcts in the subcortical white matter and basal ganglia. What is the most likely mechanism underlying his cognitive impairment?",
+    "question": "A 28-year-old obese woman complains of diffuse daily headaches with transient visual obscurations and a pulsatile sound in her right ear. Examination reveals bilateral papilledema. No cranial nerve deficits are noted. Which of the following is the most appropriate next step in confirming the suspected diagnosis?",
     "choices": [
-      "Perivascular deposition of amyloid beta",
-      "Cortical spongiform degeneration",
-      "Strategic infarction of hippocampus and thalamus",
-      "Lacunar infarcts and white matter axonal degeneration",
-      "TDP43-positive neuronal inclusions"
+      "Head CT without contrast",
+      "MRI with venography",
+      "Temporal artery biopsy",
+      "Carotid Doppler ultrasound",
+      "Lumbar puncture with opening pressure measurement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The patient likely has idiopathic intracranial hypertension (IIH). MRI with MR venography is important to rule out cerebral venous sinus thrombosis, which can mimic IIH. CT without contrast (choice 0) may miss venous sinus pathology. Temporal artery biopsy (choice 2) is used for GCA. Carotid Doppler (choice 3) is not helpful here. LP (choice 4) should be performed after ruling out structural lesions to avoid herniation."
+  },
+  {
+    "question": "A 27-year-old woman presents with throbbing unilateral headaches that build over hours, associated with photophobia and nausea. They occur around her menstrual cycle and force her to leave work. What is the best acute treatment option for this patient?",
+    "choices": [
+      "Propranolol",
+      "Sumatriptan",
+      "Gabapentin",
+      "Ergotamine with caffeine",
+      "Amitriptyline"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This is a classic case of migraine. Sumatriptan, a 5-HT1B receptor agonist, is effective for abortive therapy. Propranolol (choice 0) and amitriptyline (choice 4) are used for prophylaxis. Gabapentin (choice 2) is not first-line abortive therapy. Ergots (choice 3) are older agents with more side effects and are less preferred than triptans."
+  },
+  {
+    "question": "A 35-year-old woman presents with a severe migraine that has not responded to over-the-counter NSAIDs. Her physician prescribes a medication that acts as a selective 5-HT1B/1D receptor agonist. Which of the following is an absolute contraindication to this medication?",
+    "choices": [
+      "Asthma",
+      "Celiac disease",
+      "Ischemic heart disease",
+      "Migraine with aura",
+      "Pregnancy"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Triptans, which are selective 5-HT1B/1D receptor agonists, are contraindicated in patients with ischemic heart disease due to their vasoconstrictive effects. Asthma (choice 0) and celiac disease (choice 1) are not contraindications. Migraine with aura (choice 3) is not an absolute contraindication, although caution is advised in hemiplegic or basilar migraines. Pregnancy (choice 4) requires risk-benefit analysis but is not an absolute contraindication."
+  },
+  {
+    "question": "A 44-year-old woman has migraines 3–4 times per week and cannot tolerate triptans due to chest tightness. Her neurologist prescribes a new class of medication that blocks CGRP receptors. Which of the following side effects is most likely with this class of medication?",
+    "choices": [
+      "Serotonin syndrome",
+      "Hypertension",
+      "Drowsiness and xerostomia",
+      "Weight gain and fatigue",
+      "Hyperkalemia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gepants, such as ubrogepant and rimegepant, block CGRP receptors and are associated with drowsiness, dry mouth (xerostomia), and nausea. Serotonin syndrome (choice 0) is more common with serotonergic agents. Hypertension (choice 1) and hyperkalemia (choice 4) are not typical. Weight gain and fatigue (choice 3) are associated with some antidepressants and antiepileptics used for prophylaxis, not CGRP antagonists."
+  },
+  {
+    "question": "A 30-year-old man with frequent migraines is placed on topiramate for prevention. Two months later, he complains of difficulty concentrating and tingling in his fingers. Which of the following best explains the mechanism of this drug's antimigraine effect?",
+    "choices": [
+      "Inhibition of serotonin reuptake",
+      "Cleavage of SNAP-25",
+      "AMPA/kainate glutamate receptor antagonism",
+      "5-HT1F receptor agonism",
+      "Inhibition of nitric oxide production"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Topiramate exerts its prophylactic antimigraine effect by antagonizing AMPA/kainate glutamate receptors and enhancing GABA activity. Serotonin reuptake inhibition (choice 0) is the mechanism for antidepressants. SNAP-25 cleavage (choice 1) is the mechanism for botulinum toxin. 5-HT1F receptor agonism (choice 3) applies to lasmiditan. Inhibition of nitric oxide production (choice 4) is associated with beta-blockers."
+  },
+  {
+    "question": "A 68-year-old man with metastatic prostate cancer is prescribed morphine for severe bone pain. He soon experiences excessive sedation and respiratory depression. Which of the following best explains the molecular mechanism responsible for morphine’s analgesic and respiratory depressant effects?",
+    "choices": [
+      "Opening of voltage-gated Ca2+ channels",
+      "Activation of Gq-coupled protein receptors",
+      "Increased glutamate release at the dorsal horn",
+      "Opening of K+ channels and inhibition of adenylyl cyclase",
+      "Blockade of NMDA receptors"
     ],
     "correctAnswer": 3,
-    "explanation": "This patient most likely has subcortical vascular dementia due to small vessel disease. The typical mechanism is lacunar infarcts and diffuse white matter axonal damage affecting connectivity between brain regions. Amyloid deposition (choice A) is characteristic of cerebral amyloid angiopathy. Spongiform changes (choice B) are seen in prion disease. Strategic infarcts (choice C) cause cortical vascular dementia. TDP43 inclusions (choice E) are associated with frontotemporal dementia and ALS."
+    "explanation": "Opioid receptors (particularly μ) are Gi/Go protein-coupled and reduce neuronal excitability by inhibiting adenylyl cyclase, closing presynaptic Ca2+ channels, and opening postsynaptic K+ channels. This reduces neurotransmitter release and hyperpolarizes neurons. Ca2+ channels (choice 0) are closed, not opened. Gq signaling (choice 1) is not involved in opioid signaling. Glutamate release (choice 2) is inhibited, not enhanced. NMDA blockade (choice 4) is not a primary mechanism for morphine."
   },
   {
-    "question": "A 67-year-old man with a history of type 2 diabetes and hypertension presents with episodes of transient left-sided numbness lasting 30 minutes to an hour. MRI-DWI shows no acute infarct. Which of the following most accurately describes the current definition of his condition?",
+    "question": "A 52-year-old woman is given meperidine postoperatively for pain management. She later develops agitation, muscle twitches, and a tonic-clonic seizure. Which of the following best explains the likely cause of her symptoms?",
     "choices": [
-      "Cerebral ischemia lasting less than 24 hours with imaging evidence of infarction",
-      "Neurologic symptoms from ischemia lasting less than 1 hour without infarction",
-      "Transient symptoms due to hemorrhagic stroke",
-      "Recurrent seizures presenting as focal neurologic deficits",
-      "Cerebral dysfunction from embolic infarct with rapid recovery"
+      "Dopamine receptor blockade",
+      "Accumulation of normeperidine in renal dysfunction",
+      "Opioid withdrawal due to naloxone use",
+      "Acetylcholine receptor antagonism",
+      "Serotonin depletion in the brainstem"
     ],
     "correctAnswer": 1,
-    "explanation": "The modern definition of a transient ischemic attack (TIA) includes neurological symptoms of presumed ischemic origin lasting less than 1 hour and no evidence of infarction on imaging. The older definition used a 24-hour time limit but is now replaced to account for MRI findings. Choices 1 and 5 incorrectly imply infarction. Choice 3 is a hemorrhagic event, and choice 4 describes seizure-related symptoms."
+    "explanation": "Meperidine is metabolized to normeperidine, which is neurotoxic and can accumulate in patients with renal impairment, causing CNS excitation including seizures. Dopamine blockade (choice 0) is more typical of antipsychotics. Naloxone (choice 2) can cause withdrawal but not seizures. Anticholinergic toxicity (choice 3) would present differently. Serotonin depletion (choice 4) causes depression, not seizures."
   },
   {
-    "question": "A 70-year-old man with hypertension presents with sudden-onset right hemiparesis and aphasia. Noncontrast CT rules out hemorrhage. IV tPA is administered 2 hours after symptom onset. What is the primary therapeutic target of tPA in this setting?",
+    "question": "A 40-year-old man is started on buprenorphine-naloxone therapy for opioid use disorder. Which of the following best describes buprenorphine’s mechanism of action?",
     "choices": [
-      "Neurons in the ischemic core",
-      "Restoring perfusion to the ischemic penumbra",
-      "Reducing long-term atherosclerosis",
-      "Preventing hemorrhagic transformation",
-      "Lowering systemic blood pressure acutely"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The ischemic penumbra is the area of brain tissue that is functionally impaired but structurally viable. The goal of IV tPA is to restore perfusion to this region and salvage brain tissue. The core is already infarcted and not recoverable (choice 0). tPA does not reduce atherosclerosis or acutely prevent hemorrhagic transformation (choices 2 and 3). BP lowering (choice 4) is done cautiously and is not the goal of tPA administration."
-  },
-  {
-    "question": "A 58-year-old woman with atrial fibrillation presents with left-sided weakness and right gaze deviation. Her NIH Stroke Scale score is 20. CT angiogram reveals a proximal right MCA occlusion. She receives IV tPA at 90 minutes and is transferred for endovascular therapy. What feature most strongly supports her eligibility for mechanical thrombectomy?",
-    "choices": [
-      "NIHSS score above 10",
-      "Any proximal MCA occlusion within 24 hours",
-      "Large vessel occlusion with favorable collateral circulation",
-      "History of atrial fibrillation",
-      "Absence of hemorrhage on CT"
+      "Full agonist at μ-opioid receptors",
+      "Partial agonist at μ and κ-opioid receptors",
+      "Partial agonist at μ-opioid and antagonist at κ-opioid receptors",
+      "Antagonist at μ-opioid receptors",
+      "Full agonist at δ-opioid receptors"
     ],
     "correctAnswer": 2,
-    "explanation": "Mechanical thrombectomy is indicated in patients with large vessel occlusion (like MCA M1) and favorable imaging findings, particularly good collateral circulation or a large mismatch on perfusion imaging. NIHSS >10 (choice 0) suggests severity but is not sufficient alone. Atrial fibrillation (choice 3) increases stroke risk but does not determine thrombectomy eligibility. CT without hemorrhage (choice 4) is needed for tPA, not thrombectomy specifically."
+    "explanation": "Buprenorphine is a partial μ-opioid receptor agonist and κ-receptor antagonist. This combination allows for analgesia and treatment of opioid dependence with less respiratory depression and abuse potential. It is not a full agonist (choice 0), nor does it agonize κ-receptors (choice 1). Naloxone provides antagonism, not buprenorphine alone (choice 3). δ-receptor agonism (choice 4) is not the mechanism of buprenorphine."
   },
   {
-    "question": "A 68-year-old man presents with sudden-onset right-sided weakness and expressive aphasia. Non-contrast CT scan is negative for hemorrhage. He is given tPA within 3 hours of symptom onset. An MRI later shows a left-sided infarct in the distribution of the middle cerebral artery. Which of the following pathologic processes most likely underlies the damage seen in this patient?",
+    "question": "A 75-year-old man presents with acute bilateral leg weakness and loss of pain and temperature sensation below the level of the umbilicus following thoracic aortic aneurysm repair. His proprioception remains intact. Which of the following spinal cord syndromes is most consistent with these findings?",
     "choices": [
-      "Atherosclerotic occlusion of lenticulostriate arteries",
-      "Amyloid deposition in cortical vessels",
-      "Thromboembolic occlusion of a large artery",
-      "Charcot-Bouchard microaneurysm rupture",
-      "Fibrinoid necrosis of penetrating arterioles"
-    ],
-    "correctAnswer": 2,
-    "explanation": "This patient presents with symptoms of a large-vessel stroke involving the MCA, consistent with a thromboembolic event. This type of stroke commonly results from emboli originating in the heart or large arteries. Choice 0 describes small vessel disease leading to lacunar strokes. Choice 1 is associated with lobar hemorrhages, not infarction. Choice 3 involves hemorrhagic strokes due to microaneurysm rupture. Choice 4 is seen in malignant hypertension leading to hemorrhage."
-  },
-  {
-    "question": "A 72-year-old woman is brought to the ER after collapsing at home. She had complained of the 'worst headache of her life' moments before losing consciousness. CT scan shows blood in the basal cisterns and ventricles. Which of the following underlying vascular abnormalities is most likely responsible?",
-    "choices": [
-      "Charcot-Bouchard microaneurysm",
-      "Arteriovenous malformation",
-      "Saccular aneurysm at a branch point of the Circle of Willis",
-      "Fibrinoid necrosis of penetrating arteries",
-      "Atherosclerotic occlusion of internal carotid artery"
-    ],
-    "correctAnswer": 2,
-    "explanation": "This presentation is classic for subarachnoid hemorrhage, most commonly due to rupture of a saccular (Berry) aneurysm at branch points of the Circle of Willis. Charcot-Bouchard aneurysms (choice 0) lead to deep intraparenchymal hemorrhage. AVMs (choice 1) are less common causes. Fibrinoid necrosis (choice 3) and atherosclerosis (choice 4) are more associated with hypertensive or ischemic strokes respectively."
-  },
-  {
-    "question": "A 66-year-old man with a history of poorly controlled hypertension and smoking presents with right hemiparesis and slurred speech. CT scan reveals a small infarct (<1.5 cm) in the internal capsule. What is the most likely underlying histopathological finding in this patient?",
-    "choices": [
-      "Red neuron formation in the hippocampus",
-      "Arteriolosclerosis with lipohyalinosis in deep penetrating arteries",
-      "Atherosclerotic plaque rupture with distal embolization",
-      "Charcot-Bouchard aneurysm rupture",
-      "Cerebral amyloid angiopathy"
-    ],
-    "correctAnswer": 1,
-    "explanation": "This is a classic lacunar stroke caused by small vessel disease from chronic hypertension. The characteristic finding is arteriolosclerosis with lipohyalinosis in the small penetrating arteries. Choice 0 describes early ischemic neuron changes but is not specific. Choice 2 describes embolic infarcts. Choice 3 leads to hemorrhagic stroke, and choice 4 causes lobar hemorrhages in the elderly."
-  },
-  {
-    "question": "A 5-week-old embryo demonstrates a neural tube defect with failure of the anterior neuropore to close. This results in the absence of a forebrain and skull. Which of the following neural derivatives would fail to develop in this embryo?",
-    "choices": [
-      "Midbrain tectum",
-      "Diencephalon",
-      "Cerebellum",
-      "Pons",
-      "Medulla oblongata"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The failure of the anterior (rostral) neuropore to close results in anencephaly, a lethal condition marked by the absence of the forebrain. The diencephalon, a derivative of the prosencephalon (forebrain), would be absent. The midbrain (choice 0), pons (choice 3), medulla (choice 4), and cerebellum (choice 2) develop from more caudal regions and would not be affected by anterior neuropore closure failure."
-  },
-  {
-    "question": "A newborn presents with a midline neck mass and a sinus tract that discharges clear fluid. Imaging reveals a persistent tract lined with neural tissue. This defect most likely results from abnormal development of which of the following structures?",
-    "choices": [
-      "Surface ectoderm",
-      "Neural crest",
-      "Mesoderm",
-      "Neural tube",
-      "Endoderm"
+      "Brown-Séquard syndrome",
+      "Posterior cord syndrome",
+      "Central cord syndrome",
+      "Anterior cord syndrome",
+      "Cauda equina syndrome"
     ],
     "correctAnswer": 3,
-    "explanation": "A sinus tract with neural elements suggests a dermal sinus resulting from incomplete separation of the cutaneous ectoderm from the neural tube during neurulation. This implicates defective neural tube closure. Surface ectoderm (choice 0) gives rise to skin but does not produce neural tissue. Neural crest (choice 1) contributes to peripheral nerves and melanocytes. Mesoderm (choice 2) gives rise to bone and muscle, and endoderm (choice 4) forms gut lining."
+    "explanation": "Anterior cord syndrome results from infarction or compression of the anterior spinal artery, which supplies the anterior two-thirds of the spinal cord. This includes motor pathways (corticospinal tracts) and the spinothalamic tracts but spares the posterior columns (proprioception, vibration). Brown-Séquard (A) involves hemicord injury with asymmetric findings. Posterior cord syndrome (B) presents with isolated proprioceptive loss. Central cord syndrome (C) mainly affects upper extremities. Cauda equina (E) involves LMN signs and saddle anesthesia."
   },
   {
-    "question": "A researcher is studying the effect of retinoic acid on early neural development. Exposure of embryos to high levels of retinoic acid results in failure of the caudal neural tube to form. Which structure derived from the secondary neurulation process would be affected?",
+    "question": "A 24-year-old man is brought to the emergency department after being stabbed in the back. He has right-sided lower extremity weakness and loss of vibration and proprioception, and left-sided loss of pain and temperature sensation below the level of L1. Which of the following syndromes best explains these findings?",
     "choices": [
-      "Telencephalon",
-      "Mesencephalon",
-      "Myelencephalon",
-      "Sacral spinal cord",
-      "Diencephalon"
+      "Central cord syndrome",
+      "Anterior spinal artery syndrome",
+      "Posterior cord syndrome",
+      "Brown-Séquard syndrome",
+      "Cauda equina syndrome"
     ],
     "correctAnswer": 3,
-    "explanation": "Secondary neurulation forms the most caudal portions of the neural tube, including the sacral and coccygeal spinal cord. High levels of retinoic acid can disrupt this process, leading to caudal regression. The telencephalon (choice 0), mesencephalon (choice 1), myelencephalon (choice 2), and diencephalon (choice 4) all derive from the primary neurulation process and would not be directly affected."
+    "explanation": "Brown-Séquard syndrome is caused by hemisection of the spinal cord. It produces ipsilateral loss of motor function and dorsal column modalities (proprioception and vibration) due to corticospinal and posterior column involvement, and contralateral loss of pain and temperature due to damage to the spinothalamic tract, which crosses 1–2 levels above. The other choices don't match this asymmetric distribution of deficits."
   },
-{
-  "question": "A 62-year-old female is brought to the clinic for rapidly increasing forgetfulness over the past 3 months. She also has ataxia and develops jerky movements of her legs in response to loud noise. MRI shows hyperintensity, and EEG shows intermittent high voltage spikes on the background of slow waves. The most likely pathologic finding would be:",
-  "choices": [
-    "Amyloid plaques and tangles",
-    "Caudate atrophy",
-    "Lewy bodies",
-    "Multiple infarcts",
-    "Spongiform change caused by prions"
-  ],
-  "correctAnswer": 4,
-  "explanation": "This patient has clinical signs of Creutzfeldt-Jakob disease (CJD), a rapidly progressive neurodegenerative disorder. Key findings include myoclonus (especially triggered by stimuli), ataxia, periodic sharp wave complexes on EEG, and cortical ribboning on MRI. The pathognomonic pathology is spongiform change caused by prion proteins. Amyloid plaques (choice 0) are seen in Alzheimer disease. Caudate atrophy (choice 1) is typical of Huntington disease. Lewy bodies (choice 2) are seen in dementia with Lewy bodies. Multiple infarcts (choice 3) suggest vascular dementia."
-},
-{
-  "question": "A 65-year-old male has new-onset hallucinations. His wife notes that, for the past few weeks, he has thrashed around in the bed needing to sleep in a different room. He has become forgetful about appointments and no longer pays bills on time. Physical examination reveals resting tremor, rigidity, and bradykinesia. Mini-Mental State Examination reveals deficits in memory. The most likely pathologic finding would be:",
-  "choices": [
-    "Caudate atrophy",
-    "Lewy bodies",
-    "Multiple infarcts",
-    "Plaques and tangles",
-    "Selective fronto-temporal atrophy"
-  ],
-  "correctAnswer": 1,
-  "explanation": "This patient's combination of visual hallucinations, fluctuating cognition, REM sleep behavior disorder (acting out dreams), and parkinsonian features is characteristic of dementia with Lewy bodies. The defining pathologic finding is Lewy bodies, which are eosinophilic inclusions composed of alpha-synuclein in cortical neurons. Caudate atrophy (choice 0) is seen in Huntington disease. Multiple infarcts (choice 2) point to vascular dementia. Plaques and tangles (choice 3) are hallmark findings in Alzheimer disease. Selective frontotemporal atrophy (choice 4) is typical of frontotemporal dementia."
-},
-{
-  "question": "A 65-year-old male diagnosed with dementia 5 years ago no longer pays bills on time and is noticed wandering about his neighborhood trying to find his home. His neighbors are happy to help him. He dies a year later of pneumonia. Gross examination of brain is likely to reveal:",
-  "choices": [
-    "Selective fronto-temporal atrophy",
-    "Diffuse cerebral atrophy",
-    "Pallor of substantia nigra",
-    "Atrophy of caudate nucleus",
-    "Multiple infarcts"
-  ],
-  "correctAnswer": 1,
-  "explanation": "This patient had progressive dementia with memory loss and functional decline over several years, consistent with Alzheimer disease. The classic gross pathologic finding in Alzheimer disease is diffuse cerebral atrophy, particularly affecting the hippocampus and association cortices. Choice 0 is characteristic of frontotemporal dementia. Choice 2 is typical in Parkinson disease. Choice 3 is seen in Huntington disease. Choice 4 suggests vascular dementia."
-},
-{
-  "question": "A 40-year-old man has become increasingly restless over the past 2 years. Recently, he has been making jerky, dancelike movements with his arms and legs and is unable to control his extremities during these episodes. He also has become forgetful with trouble completing tasks. His father had similar symptoms in his sixties and later developed dementia. His CNS is most likely to show:",
-  "choices": [
-    "Atrophy of caudate nuclei with box-car ventricles",
-    "Cerebellar degeneration",
-    "Degeneration of anterior horn neurons",
-    "Loss of pigmented neurons",
-    "Spongiform encephalopathy"
-  ],
-  "correctAnswer": 0,
-  "explanation": "This patient likely has Huntington disease, an autosomal dominant neurodegenerative disorder characterized by chorea, behavioral changes, and dementia. The hallmark pathology is atrophy of the caudate nucleus, leading to enlargement of the lateral ventricles, often described as 'boxcar ventricles.' Cerebellar degeneration (choice 1) is associated with ataxias. Degeneration of anterior horn neurons (choice 2) is seen in ALS. Loss of pigmented neurons (choice 3) is seen in Parkinson disease. Spongiform encephalopathy (choice 4) is characteristic of prion diseases such as CJD."
-},
-{
-  "question": "A 60-year-old previously healthy construction worker has progressive difficulty in holding his tools. Two years later he has weakness of extremities with spasticity, difficulty in walking, speaking and swallowing. On examination, some of the reflexes are reduced, but others are exaggerated. Fasciculations of tongue, as well as Babinski sign are noted. His CNS is most likely to show:",
-  "choices": [
-    "Atrophy of caudate nuclei with box-car ventricles",
-    "Cerebellar degeneration",
-    "Degeneration of anterior horn neurons",
-    "Loss of pigmented neurons",
-    "Spongiform encephalopathy"
-  ],
-  "correctAnswer": 2,
-  "explanation": "This patient's progressive mixed upper and lower motor neuron signs, including spasticity, tongue fasciculations, and Babinski sign, point to amyotrophic lateral sclerosis (ALS). The hallmark pathologic feature of ALS is degeneration of anterior horn neurons (LMNs) and corticospinal tracts (UMNs). Choice 0 corresponds to Huntington disease. Choice 1 refers to cerebellar ataxias. Choice 3 indicates Parkinson disease, and choice 4 is seen in prion diseases such as Creutzfeldt-Jakob disease."
-},
-{
-  "question": "A 78-year-old man is brought because of frequent falls over the past 2 months. Physical examination reveals a shuffling gait, marked rigidity at his knees and elbows, an upper extremity tremor, and bradykinesia on finger-to-nose testing. His muscle strength is intact. Which of the following structures is most likely affected in this patient?",
-  "choices": [
-    "Anterior horn neurons",
-    "Caudate nuclei",
-    "Cerebellum",
-    "Hippocampus",
-    "Substantia nigra"
-  ],
-  "correctAnswer": 4,
-  "explanation": "This patient's resting tremor, bradykinesia, rigidity, and shuffling gait are classic signs of Parkinson disease. The characteristic pathology involves degeneration of dopaminergic neurons in the substantia nigra pars compacta. Anterior horn neurons (choice 0) are affected in ALS. Caudate nucleus (choice 1) is involved in Huntington disease. Cerebellar dysfunction (choice 2) causes ataxia rather than rigidity. The hippocampus (choice 3) is primarily involved in Alzheimer disease."
-},
-{
-  "question": "Tetrabenazine (TBZ) is commonly used for symptomatic relief in Huntington’s disease. Which of the following is the mechanism of action of TBZ?",
-  "choices": [
-    "It is a selective serotonin reuptake inhibitor",
-    "It is a dopamine agonist",
-    "It is a gamma-aminobutyric acid agonist",
-    "It depletes monoamine neurotransmitters and blocks dopamine receptors",
-    "It is an alpha1 adrenergic receptor antagonist"
-  ],
-  "correctAnswer": 3,
-  "explanation": "Tetrabenazine acts by inhibiting vesicular monoamine transporter 2 (VMAT2), which reduces the uptake of monoamines like dopamine into synaptic vesicles. This leads to depletion of dopamine at synapses and helps control chorea in Huntington disease. Choice 0 describes SSRIs. Choice 1 would worsen chorea, not treat it. Choice 2 is incorrect—TBZ does not act on GABA receptors. Choice 4 refers to drugs used in hypertension or PTSD, not movement disorders."
-},
-{
-  "question": "The advantage of combining carbidopa with L-DOPA in the treatment of Parkinson’s disease results from?",
-  "choices": [
-    "Inhibition of the decarboxylation of DOPA in the liver and gastrointestinal tract",
-    "Inhibition of decarboxylation of DOPA in the brain",
-    "Inhibition of the catechol-O-methyltransferase in the periphery",
-    "The capacity of carbidopa to slow the progressive death of dopaminergic neurons in the substantia nigra",
-    "The capacity of carbidopa to antagonize the action of dopamine at alpha1 and beta1-adrenergic receptors in the periphery"
-  ],
-  "correctAnswer": 0,
-  "explanation": "Carbidopa inhibits aromatic L-amino acid decarboxylase in the periphery, preventing the premature conversion of L-DOPA to dopamine outside the CNS. This ensures more L-DOPA reaches the brain where it can be converted to dopamine. Dopamine itself cannot cross the blood-brain barrier. Choice 1 is incorrect because carbidopa does not cross the BBB and thus has no central action. Choice 2 refers to COMT inhibitors, not carbidopa. Choice 3 is not true; carbidopa does not slow neurodegeneration. Choice 4 misrepresents carbidopa’s mechanism—it does not antagonize adrenergic receptors."
-}
+  {
+    "question": "A 70-year-old woman with long-standing diabetes presents with progressive weakness in her hands and arms. She denies trauma. Neurologic exam shows decreased strength and reflexes in the upper extremities, mild lower extremity weakness, and preserved proprioception and vibration. MRI reveals a small syrinx at the cervical level. Which of the following best describes her condition?",
+    "choices": [
+      "Posterior cord syndrome",
+      "Central cord syndrome",
+      "Brown-Séquard syndrome",
+      "Complete cord transection",
+      "Cauda equina syndrome"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Central cord syndrome often results from hyperextension injury or syringomyelia, especially in older adults. It affects the medial corticospinal fibers that innervate the upper extremities more than the lower extremities, explaining the disproportionate arm weakness. Sensory involvement may be mild or variable. Posterior cord syndrome (A) affects proprioception and vibration. Brown-Séquard (C) presents with asymmetric deficits. Complete transection (D) causes bilateral, complete loss of function. Cauda equina (E) affects lower extremity LMNs."
+  },
+  {
+    "question": "A 19-year-old man presents with bilateral loss of pain and temperature sensation in his shoulders and upper arms following a minor neck injury. Vibration and proprioception are intact. MRI reveals a fluid-filled cavity in the central cervical spinal cord. Which neural structure is most likely affected?",
+    "choices": [
+      "Dorsal columns",
+      "Anterior horn cells",
+      "Anterior white commissure",
+      "Lateral corticospinal tract",
+      "Spinocerebellar tract"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The anterior white commissure is where second-order neurons of the spinothalamic tract decussate. A syrinx compressing this area causes bilateral loss of pain and temperature in a cape-like distribution. Dorsal columns (choice 0) carry vibration and proprioception, which are spared. Anterior horn cells (choice 1) control LMNs and would cause flaccid paralysis. Lateral corticospinal tract (choice 3) carries motor signals. Spinocerebellar tract (choice 4) handles unconscious proprioception."
+  },
+  {
+    "question": "A lesion affecting the right dorsal column of the spinal cord at T10 would most likely result in which of the following deficits?",
+    "choices": [
+      "Loss of pain and temperature sensation in the left leg",
+      "Loss of pain and temperature sensation in the right leg",
+      "Loss of fine touch and vibration sense in the left leg",
+      "Loss of fine touch and vibration sense in the right leg",
+      "Bilateral lower extremity weakness"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The dorsal columns carry proprioception, vibration, and fine touch ipsilaterally. A right-sided lesion at T10 will affect these modalities on the same (right) side below the lesion. Pain and temperature fibers cross immediately upon entering the spinal cord, so choices 0 and 1 are incorrect. Bilateral motor weakness (choice 4) would require corticospinal tract damage."
+  },
+  {
+    "question": "A patient has a lesion in the left medial lemniscus at the level of the pons. Which of the following deficits would most likely be observed?",
+    "choices": [
+      "Loss of pain and temperature sensation on the left side of the face",
+      "Loss of vibration and proprioception on the left side of the body",
+      "Loss of pain and temperature on the right side of the body",
+      "Loss of vibration and proprioception on the right side of the body",
+      "Loss of motor control on the right side of the body"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The medial lemniscus carries second-order neurons that have already decussated from the dorsal column nuclei and convey vibration and proprioception to the thalamus. A left medial lemniscus lesion causes right-sided deficits in vibration and proprioception. Pain and temperature deficits on the right (choice 2) would require a spinothalamic tract lesion. Motor control (choice 4) involves corticospinal tract injury."
+  },
+  {
+    "question": "A 65-year-old man recently diagnosed with Parkinson’s disease is referred to occupational therapy. In an initial session, the therapist focuses on the patient’s values, daily routines, and goals, rather than prescribing a fixed regimen. Which of the following best describes the guiding principle of occupational therapy illustrated in this scenario?",
+    "choices": [
+      "Biomedical model focused on strength and flexibility",
+      "Pathophysiological diagnosis-directed treatment",
+      "Client-centered, occupation-based approach",
+      "Prognosis-driven physical performance testing",
+      "Standardized mobility enhancement protocol"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Occupational therapy (OT) prioritizes a holistic, client-centered approach that considers a patient’s values and desired activities rather than just medical diagnosis or physical impairments. Unlike the biomedical model (choice 0), OT emphasizes meaningful occupations. Choice 1 is more aligned with traditional medical models. Choices 3 and 4 imply more rigid or standardized protocols, which are inconsistent with OT’s individualized strategy."
+  },
+  {
+    "question": "A 72-year-old woman with moderate Parkinson’s disease begins OT focused on improving motor coordination and balance. Her OT recommends engaging in rhythmic movements using a metronome and encourages participation in Tai Chi and dance classes. These interventions most likely aim to achieve which of the following outcomes?",
+    "choices": [
+      "Increase dopaminergic neuron proliferation",
+      "Reduce autonomic dysfunction and sleep latency",
+      "Stimulate cerebellar plasticity for involuntary tremor suppression",
+      "Improve gait velocity, balance, and quality of life through motor entrainment",
+      "Replace the need for pharmacologic therapy"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Evidence-based OT interventions like rhythmic auditory stimulation (metronome), music, dance, and Tai Chi are shown to improve gait velocity, balance, and quality of life by enhancing motor timing and neural connectivity. Choice 0 is incorrect because OT does not influence neuron proliferation. Choice 1 targets non-motor symptoms more commonly managed medically. Choice 2 misattributes the motor benefits to cerebellar activity. OT complements, not replaces, medications (choice 4)."
+  }
 ]
+
+
