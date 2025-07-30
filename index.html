@@ -4,8 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Week 54 Quiz</title>
-    <link rel="stylesheet" href="style.css">
+    <!-- The external stylesheet is still linked for other styles -->
+    <link rel="stylesheet" href="style.css"> 
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.js"></script>
+
+    <!-- Internal Stylesheet to add the background image -->
+    <style>
+        body {
+            /* This points to your uploaded Stadium.jpg image */
+            background-image: url('Stadium.jpg'); 
+            
+            background-size: cover; /* This makes the image cover the entire screen */
+            background-position: center; /* This centers the image */
+            background-repeat: no-repeat; /* This prevents the image from tiling */
+            background-attachment: fixed; /* This keeps the background in place when you scroll */
+            background-color: #272b47; /* This is a fallback color if the image can't load */
+        }
+    </style>
 </head>
 <body>
 
@@ -39,7 +54,6 @@
                 </div>
                 <div id="choices-container"></div>
                 <div id="explanation" class="hidden"></div>
-                <!-- This is the container for the reference link -->
                 <div id="reference-container" class="hidden"></div>
             </div>
 
