@@ -126,9 +126,9 @@ document.addEventListener("DOMContentLoaded", () => {
             explanationBox.className = explanationsShown[index] ? "" : "hidden";
             explanationBox.textContent = explanationsShown[index] ? q.explanation : "";
 
-            // Show reference link if it exists
-            if (q.reference) {
-                referenceContainer.innerHTML = `<a href="${q.reference}" target="_blank">View Reference Material</a>`;
+            // Show reference link if it exists and is in the correct format
+            if (q.reference && q.reference.url && q.reference.text) {
+                referenceContainer.innerHTML = `<a href="${q.reference.url}" target="_blank">${q.reference.text}</a>`;
                 referenceContainer.className = "reference-box";
             } else {
                 referenceContainer.className = "hidden";
