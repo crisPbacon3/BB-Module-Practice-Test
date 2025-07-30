@@ -6,10 +6,19 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #272b47;
     color: white;
     display: flex;
     justify-content: center;
+
+    /* --- BACKGROUND STYLES FOR LOCAL FILE --- */
+    /* This now points to your uploaded Stadium.jpg image */
+    background-image: url('Stadium.jpg'); 
+    
+    background-size: cover; /* This makes the image cover the entire screen */
+    background-position: center; /* This centers the image */
+    background-repeat: no-repeat; /* This prevents the image from tiling */
+    background-attachment: fixed; /* This keeps the background in place when you scroll */
+    background-color: #272b47; /* This is a fallback color if the image can't load */
 }
 
 /* Main Quiz Layout */
@@ -23,7 +32,7 @@ body {
 /* Scrollable Question Navigation */
 .question-nav {
     width: 250px;
-    background: #4a6958;
+    background: rgba(74, 105, 88, 0.9); /* Added some transparency */
     padding: 15px;
     border-radius: 10px;
     overflow-y: auto;
@@ -63,7 +72,7 @@ body {
 .quiz-content {
     flex-grow: 1;
     padding: 20px;
-    background: #222;
+    background: rgba(34, 34, 34, 0.9); /* Added some transparency */
     border-radius: 10px;
     margin-left: 20px;
     display: flex;
@@ -198,7 +207,6 @@ header h1 {
     border-radius: 5px;
 }
 
-/* --- NEW STYLES FOR REFERENCE BOX --- */
 .reference-box {
     margin-top: 15px;
     padding: 12px;
@@ -219,8 +227,6 @@ header h1 {
     color: #ffffff;
     text-decoration: underline;
 }
-/* --- END OF NEW STYLES --- */
-
 
 .hidden {
     display: none !important;
@@ -252,7 +258,7 @@ header h1 {
     flex-grow: 1;
     margin-left: 20px;
     text-align: center;
-    background: #222;
+    background: rgba(34, 34, 34, 0.9); /* Added some transparency */
     padding: 20px;
     border-radius: 10px;
     margin-top: 20px;
