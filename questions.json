@@ -304,6 +304,36 @@
     }
   },
   {
+    "question": "A 34-year-old woman presents with chronic pain and swelling in her right hand following a minor wrist fracture 3 months ago. On exam, she has marked allodynia, localized warmth, edema, and trophic skin changes. Neurogenic inflammation is suspected as a contributing factor. Which of the following mediators is most likely responsible for the vasodilation observed in this condition?",
+    "choices": [
+      "Histamine",
+      "Interleukin-1",
+      "Calcitonin Gene-Related Peptide (CGRP)",
+      "Dopamine",
+      "Gamma-aminobutyric acid (GABA)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CGRP is released by activated sensory neurons and is a potent vasodilator, playing a major role in neurogenic inflammation. Histamine (choice 0) is involved in allergic responses but is not the primary mediator in neurogenic inflammation. Interleukin-1 (choice 1) is a cytokine involved in systemic inflammation. Dopamine (choice 3) and GABA (choice 4) are not involved in this inflammatory cascade.",
+    "reference": {
+      "url": "https://augustauniversity.box.com/s/5pyx5k9nuhwrxz96uprgb5ck5sh6yex3",
+      "text": "View Reference on Page 30"
+  },
+  {
+    "question": "A 42-year-old man develops persistent pain following a shingles outbreak localized to the T4 dermatome. He describes the pain as burning and worsened by light touch. This pain is thought to result from sensitization of central pain pathways. Which of the following best describes this phenomenon?",
+    "choices": [
+      "Peripheral sensitization due to histamine release",
+      "Mast cell degranulation in the skin",
+      "Central sensitization from persistent nociceptive input",
+      "Direct nerve injury causing Wallerian degeneration",
+      "Hyperalgesia due to opioid receptor blockade"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Central sensitization is the increased excitability of spinal and supraspinal neurons following persistent peripheral nociceptive input, leading to chronic pain and allodynia. Peripheral sensitization (choice 0) involves increased excitability of nociceptors but does not fully explain post-herpetic neuralgia. Mast cell activation (choice 1) contributes to acute responses. Wallerian degeneration (choice 3) is related to direct nerve injury. Opioid receptor blockade (choice 4) does not explain this chronic sensitization.",
+     "reference": {
+      "url": "https://augustauniversity.box.com/s/5pyx5k9nuhwrxz96uprgb5ck5sh6yex3",
+      "text": "View Reference on Page 30"
+  },
+  {
     "question": "A 28-year-old obese woman complains of diffuse daily headaches with transient visual obscurations and a pulsatile sound in her right ear. Examination reveals bilateral papilledema. No cranial nerve deficits are noted. Which of the following is the most appropriate next step in confirming the suspected diagnosis?",
     "choices": [
       "Head CT without contrast",
