@@ -11,7 +11,7 @@ body {
     justify-content: center;
 
     /* --- BACKGROUND STYLES FOR LOCAL FILE --- */
-    /* This now points to your uploaded Stadium.jpg image */
+    /* This points to your uploaded Stadium.jpg image */
     background-image: url('Stadium.jpg'); 
     
     background-size: cover; /* This makes the image cover the entire screen */
