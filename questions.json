@@ -1,562 +1,376 @@
 [
   {
-    "question": "A 52-year-old woman presents with a 3-month history of pain and numbness in her right hand, which worsens at night. She describes 'pins and needles' in her thumb, index, and middle fingers. On physical exam, tapping on the wrist elicits tingling in these fingers. Nerve conduction studies show prolonged latency to first deflection. Which of the following fiber types is most likely affected in this condition?",
+    "question": "A 42-year-old woman presents to the emergency department after being struck in the face during a soccer match. She reports new-onset diplopia and numbness over her right cheek. Physical examination reveals limited upward gaze of the right eye and hypoesthesia in the infraorbital region. CT imaging confirms an orbital floor fracture. Which of the following bones is most likely fractured?",
     "choices": [
-      "A-alpha",
-      "A-beta",
-      "A-delta",
-      "B fibers",
-      "C fibers"
+      "Frontal bone",
+      "Sphenoid bone",
+      "Zygomatic bone",
+      "Ethmoid bone",
+      "Maxillary bone"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is the maxillary bone, as it forms the majority of the orbital floor. A 'blowout fracture' in this location explains the patient's symptoms: entrapment of the inferior rectus muscle, leading to limited upward gaze, and injury to the infraorbital nerve, causing numbness over the cheek. The other bones form different parts of the orbit; the frontal bone forms the roof, the zygomatic bone forms the lateral wall, the sphenoid forms the posterior aspect, and the ethmoid bone forms the medial wall. A fracture of the ethmoid bone, for instance, would more likely entrap the medial rectus muscle, impairing adduction rather than upward gaze."
+  },
+  {
+    "question": "A 60-year-old man presents with right-sided proptosis, ophthalmoplegia, and decreased corneal reflex. He has a history of chronic sinusitis. Neurologic examination reveals right-sided ptosis and impaired adduction of the right eye. MRI reveals a lesion in the cavernous sinus. Which of the following cranial nerves is most likely involved in this patient's ocular findings?",
+    "choices": [
+      "CN I",
+      "CN II",
+      "CN III",
+      "CN VIII",
+      "CN XII"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A lesion in the cavernous sinus affecting CN III (oculomotor nerve) best explains the patient's symptoms of ophthalmoplegia (impaired eye movement), ptosis (drooping eyelid), and impaired adduction. The cavernous sinus contains cranial nerves III, IV, V1, V2, and VI. The other nerves listed are incorrect because they do not pass through the cavernous sinus; CN I (olfactory) relates to smell, CN II (optic) passes through the optic canal, CN VIII (vestibulocochlear) is involved in hearing and balance, and CN XII (hypoglossal) controls the tongue."
+  },
+  {
+    "question": "A 24-year-old man presents after a motor vehicle collision with complaints of double vision. On physical exam, his right eye fails to abduct when attempting lateral gaze. The remainder of the ocular exam is unremarkable. Which of the following extraocular muscles is most likely impaired in this patient?",
+    "choices": [
+      "Superior rectus",
+      "Inferior oblique",
+      "Lateral rectus",
+      "Medial rectus",
+      "Superior oblique"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The inability to abduct the eye (move it laterally) points directly to a paralysis of the lateral rectus muscle. This muscle's sole function is abduction and it is innervated by the abducens nerve (CN VI). The medial rectus adducts the eye, the superior rectus elevates it, the superior oblique is responsible for depression and intorsion, and the inferior oblique elevates and abducts. Weakness in any of these other muscles would not cause an isolated failure of abduction."
+  },
+  {
+    "question": "A 55-year-old man is evaluated for a drooping right eyelid and a constricted pupil on the same side. He also reports decreased sweating on the right side of his face. On physical examination, ptosis, miosis, and anhidrosis are noted. These findings are consistent with which of the following disruptions?",
+    "choices": [
+      "Optic nerve lesion",
+      "Oculomotor nerve palsy",
+      "Sympathetic chain lesion",
+      "Ciliary ganglion injury",
+      "Trigeminal ganglion lesion"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The triad of ptosis, miosis (constricted pupil), and anhidrosis is the classic presentation of Horner syndrome, which results from a lesion of the sympathetic chain to the head. An oculomotor nerve (CN III) palsy also causes ptosis but would lead to a dilated pupil (mydriasis), not miosis. Lesions of the optic nerve (vision), trigeminal ganglion (sensation), or ciliary ganglion (which would cause pupil dilation) would not produce this specific combination of autonomic signs."
+  },
+  {
+    "question": "A 38-year-old woman presents to the emergency department with sudden onset of severe right eye pain, nausea, and blurred vision. She describes seeing halos around lights. On examination, the pupil is mid-dilated and non-reactive to light. Intraocular pressure is significantly elevated. Which of the following structures is most directly implicated in the pathogenesis of this patient’s condition?",
+    "choices": [
+      "Scleral venous sinus",
+      "Canal of Schlemm",
+      "Trabecular meshwork",
+      "Choroid",
+      "Aqueous humor in anterior chamber"
+    ],
+    "correctAnswer": 2,
+    "explanation": "This patient's presentation is classic for acute angle-closure glaucoma. The underlying pathogenesis is a sudden physical blockage of the trabecular meshwork by the peripheral iris, which prevents aqueous humor from draining. This leads to a rapid, painful spike in intraocular pressure. While the Canal of Schlemm (also known as the scleral venous sinus) is part of the drainage system, the primary obstruction occurs upstream at the meshwork. The aqueous humor is the fluid that builds up, and the choroid is a vascular layer not directly involved in the outflow obstruction."
+  },
+  {
+    "question": "A 27-year-old man is struck in the eye with a racquetball and experiences sudden visual loss and photopsia. Fundoscopic examination reveals a gray, elevated retina. Which of the following best explains this condition?",
+    "choices": [
+      "Increased intraocular pressure",
+      "Lens dislocation",
+      "Retinal detachment",
+      "Vitreous hemorrhage",
+      "Central retinal artery occlusion"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The symptoms of trauma followed by photopsia (flashes of light) and a fundoscopic exam showing a gray, elevated retina are pathognomonic for a retinal detachment. A vitreous hemorrhage would obscure the retinal view with blood, and a central retinal artery occlusion presents with a pale retina and a 'cherry-red spot'. Lens dislocation and increased intraocular pressure (glaucoma) do not cause these specific fundoscopic changes."
+  },
+  {
+    "question": "A 50-year-old woman with a family history of glaucoma is found to have elevated intraocular pressure on routine exam. She denies pain or visual symptoms. Fundoscopic exam reveals increased cup-to-disc ratio. Which of the following best describes the underlying pathophysiology?",
+    "choices": [
+      "Decreased aqueous humor production",
+      "Increased outflow via uveoscleral pathway",
+      "Blockage of trabecular meshwork",
+      "Retinal artery embolism",
+      "Optic neuritis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "This patient has primary open-angle glaucoma. The pathophysiology involves a chronic, microscopic blockage of the trabecular meshwork, which increases resistance to aqueous humor outflow and leads to elevated intraocular pressure. This pressure causes progressive optic nerve damage, seen as an increased cup-to-disc ratio. Conversely, decreased aqueous production or increased uveoscleral outflow would lower intraocular pressure. Retinal artery embolism and optic neuritis are acute conditions unrelated to the chronic, progressive nature of open-angle glaucoma."
+  },
+  {
+    "question": "A 68-year-old man presents to his ophthalmologist with a complaint of slowly progressive, painless loss of his peripheral vision over the past several years. His visual acuity is 20/20. On examination, his intraocular pressure is found to be elevated. A fundoscopic exam reveals damage to the axons of the retinal ganglion cells as they converge at the optic disc. The physician explains that this condition is most often caused by increased intraocular pressure due to decreased drainage of aqueous humor. Based on the provided information, an obstruction at which of the following locations is the most likely cause of this patient's condition?",
+    "choices": [
+      "Ciliary processes",
+      "Scleral venous sinus",
+      "Trabecular meshwork",
+      "Posterior surface of the iris",
+      "Outer nuclear layer"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is Trabecular meshwork. The patient's presentation is classic for glaucoma, which is characterized by damage to retinal ganglion cell axons due to increased intraocular pressure. Aqueous humor is produced by the ciliary processes, flows into the posterior chamber, through the pupil, and into the anterior chamber. To exit the eye, it must pass through the trabecular meshwork to drain into the scleral venous sinus (Canal of Schlemm). The presentation states glaucoma is most often caused by decreased aqueous humor drainage at the trabecular meshwork or Schlemm's canal. The trabecular meshwork is the primary site of resistance and blockage in the most common forms of glaucoma. Ciliary processes are incorrect because they are responsible for the production of aqueous humor, not its drainage. The scleral venous sinus (Canal of Schlemm) is incorrect because while it is the final exit channel, the primary obstruction and site of increased resistance occurs upstream in the trabecular meshwork. The posterior surface of the iris is incorrect; while it is in the path of aqueous humor flow, it is not the site of outflow obstruction. The posterior surface is a two-layered epithelium heavily filled with melanin to block light. The outer nuclear layer is incorrect as it is a layer of the retina containing the cell bodies of photoreceptors and has no role in aqueous humor dynamics."
+  },
+  {
+    "question": "A 55-year-old woman with a history of hypertension and hyperlipidemia experiences a sudden, painless loss of vision in her left eye. A fundoscopic exam reveals findings consistent with an occlusion of the central retinal artery. This artery, along with the central retinal vein, enters the eye within the optic nerve. Given this diagnosis, which of the following retinal layers is most likely to be spared from initial ischemic damage due to its unique blood supply?",
+    "choices": [
+      "Nerve fiber layer",
+      "Ganglion cell layer",
+      "Inner nuclear layer",
+      "Inner plexiform layer",
+      "Rod and cone layer"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is Rod and cone layer. The retina has a dual blood supply. The inner two-thirds of the retina, which includes the nerve fiber layer, ganglion cell layer, inner plexiform layer, and inner nuclear layer, are supplied by branches of the central retinal artery. Therefore, an occlusion of this artery would cause ischemia in all of these layers. However, the outer one-third of the retina is supplied by diffusion from the underlying choroid (choriocapillaris). This outer portion includes the rod and cone layer (photoreceptors) and the outer nuclear layer. Therefore, the rod and cone layer would be spared initial ischemic damage in a central retinal artery occlusion because its nutrient and oxygen supply comes from the choroid, not the central retinal artery. The nerve fiber layer, ganglion cell layer, inner nuclear layer, and inner plexiform layer are all incorrect because they reside within the inner two-thirds of the retina and are dependent on the central retinal artery for their blood supply."
+  },
+  {
+    "question": "A 22-year-old student is preparing for an exam and spends several hours reading a textbook placed 30 centimeters from her face. To maintain clear, focused vision on the nearby text, her eyes must undergo the process of visual accommodation. Which of the following correctly describes the series of events that occurs during this process?",
+    "choices": [
+      "Ciliary muscle contracts, tension on zonular fibers increases, and the lens becomes flatter.",
+      "Ciliary muscle relaxes, tension on zonular fibers decreases, and the lens becomes more rounded.",
+      "Ciliary muscle contracts, tension on zonular fibers decreases, and the lens becomes more rounded.",
+      "Ciliary muscle relaxes, tension on zonular fibers increases, and the lens becomes more rounded.",
+      "Sphincter pupillae muscle relaxes, dilator pupillae muscle contracts, and the lens becomes flatter."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is Ciliary muscle contracts, tension on zonular fibers decreases, and the lens becomes more rounded. The process of visual accommodation allows for focusing on near and far objects by changing the curvature of the lens. When gazing at near objects, the ciliary muscle contracts. The ciliary muscle is composed of smooth muscle fibers that alter the shape of the lens. This contraction reduces the tension on the ciliary zonular fibers, allowing the lens to become more convex or rounded. A is incorrect because it describes the process for focusing on distant objects: the ciliary muscle is relaxed, which keeps the zonule fibers under tension, causing the lens to be flatter. B is incorrect because ciliary muscle relaxation leads to increased, not decreased, tension on the zonular fibers. D is incorrect because relaxation of the ciliary muscle flattens, not rounds, the lens, and it increases, not decreases, zonular tension. E is incorrect because the sphincter and dilator pupillae muscles control pupil size, not the shape of the lens for accommodation."
+  },
+  {
+    "question": "A 45-year-old patient is brought to the emergency department after a motor vehicle collision. During the neurological exam, the physician assesses the pupillary light reflex. When a light is shone into the patient's right eye, neither the right pupil (direct response) nor the left pupil (consensual response) constricts. When the light is then shone into the patient's left eye, both the left pupil (direct response) and the right pupil (consensual response) constrict normally and equally. Throughout the examination, the pupils remain equal in size (isocoria). A lesion affecting which of the following structures best explains these findings?",
+    "choices": [
+      "Right oculomotor nerve (CN III)",
+      "Left optic nerve (CN II)",
+      "Right optic nerve (CN II)",
+      "Pretectal nucleus",
+      "Left oculomotor nerve (CN III)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is Right optic nerve (CN II). This clinical scenario describes a complete lesion of the right afferent limb of the pupillary light reflex, which is the right optic nerve (CN II). When light is shone into the right eye, the sensory signal cannot be transmitted to the brainstem, so neither Edinger-Westphal nucleus is activated, and thus there is no direct or consensual response. When light is shone into the left eye, the afferent signal via the left CN II is intact. This signal reaches the pretectal nuclei, which project bilaterally to both Edinger-Westphal nuclei, resulting in a normal direct constriction of the left pupil and a normal consensual constriction of the right pupil. This confirms that both efferent limbs (both CN III nerves) are functioning correctly. Lesions of the afferent limb (CN II) result in isocoria because both efferent limbs receive the same signal (or lack thereof) and therefore respond equally. A) A lesion of the right oculomotor nerve (CN III), the efferent limb, would result in anisocoria, with the right pupil being larger and unresponsive to light shone in either eye. B) A lesion of the left optic nerve would present with the opposite findings: no response when light is shone in the left eye, but normal direct and consensual responses when light is shone in the right eye. D) A lesion of the pretectal nucleus could cause an Argyll Robertson pupil where the light reflex is absent but accommodation is intact; however, the intact response when light is shone in the left eye makes a complete bilateral pretectal lesion unlikely. E) A lesion of the left oculomotor nerve would result in anisocoria with the left pupil being larger and unreactive to light shone in either eye."
+  },
+  {
+    "question": "A 32-year-old woman with a history of multiple sclerosis presents with acute onset of horizontal diplopia. On neurologic examination, she is asked to look to her right. Her right eye abducts, but it exhibits a coarse, rhythmic nystagmus. Her left eye fails to adduct past the midline. When she is asked to look to her left, both eyes move normally. Her ability to converge her eyes when focusing on a near object is intact. These findings are most consistent with a lesion in which of the following structures?",
+    "choices": [
+      "Right paramedian pontine reticular formation (PPRF)",
+      "Left medial longitudinal fasciculus (MLF)",
+      "Left frontal eye field (FEF)",
+      "Right abducens nucleus (CN VI)",
+      "Left oculomotor nerve (CN III)"
     ],
     "correctAnswer": 1,
-    "explanation": "This patient has classic signs of carpal tunnel syndrome, which compresses the median nerve and affects sensory fibers innervating the lateral three and a half digits. A-beta fibers are myelinated with medium-large diameters and are responsible for tactile sensations via cutaneous mechanoreceptors. Delayed conduction velocity in these fibers is diagnostic. A-alpha fibers are motor or proprioceptive. A-delta and C fibers transmit pain and temperature. B fibers are autonomic.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 1"
-    }
+    "explanation": "The correct answer is Left medial longitudinal fasciculus (MLF). This is the classic presentation of an internuclear ophthalmoplegia (INO), which is caused by a lesion of the medial longitudinal fasciculus (MLF). The MLF connects the abducens nucleus (CN VI) on one side to the contralateral oculomotor nucleus (CN III) to coordinate horizontal gaze. To look to the right, the left frontal eye field (FEF) activates the right PPRF, which activates the right abducens nucleus. The right abducens nucleus sends a signal via the left MLF to the left oculomotor nucleus to cause the left eye to adduct. In this patient, a lesion in the left MLF prevents the signal from reaching the left oculomotor nucleus, resulting in a failure of left eye adduction on rightward gaze. The nystagmus in the abducting right eye is also characteristic of INO. Convergence is often spared because its inputs do not travel in the caudal MLF. A) A lesion of the right PPRF would cause a right lateral gaze palsy, where neither eye can look to the right. C) A lesion in the left frontal eye field would result in an inability to look to the right, and the eyes would deviate toward the side of the lesion (to the left) at rest. D) A lesion in the right abducens nucleus would also cause a right lateral gaze palsy. E) A lesion of the left oculomotor nerve would cause a 'down and out' deviation of the left eye at rest and an inability to adduct, but it would not cause nystagmus in the contralateral eye during abduction."
   },
   {
-    "question": "A 35-year-old man sustains a penetrating stab wound to the left side of his spinal cord at the T8 level. Neurologic exam shows loss of proprioception and vibratory sensation on the left side below T8, and loss of pain and temperature sensation on the right side below T10. Which of the following tracts is most likely damaged on the right side?",
+    "question": "A 65-year-old man is evaluated for neurological deficits. On examination, his pupils are noted to be small and do not constrict when a bright light is shone into either eye. However, when the examiner asks the patient to focus on a pen moving from a distance toward his nose, both pupils constrict briskly as the eyes converge. This clinical finding is known as an Argyll Robertson pupil. This dissociation between the light reflex and the accommodation reflex is caused by a lesion in which specific structure?",
     "choices": [
-      "Left fasciculus gracilis",
-      "Right lateral corticospinal tract",
-      "Right lateral spinothalamic tract",
-      "Left anterior spinothalamic tract",
-      "Right spinocerebellar tract"
+      "Superior colliculi",
+      "Ciliary ganglion",
+      "Optic chiasm",
+      "Edinger-Westphal nuclei",
+      "Pretectal nucleus"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is Pretectal nucleus. An Argyll Robertson pupil, where the pupil accommodates but does not react to light, is a classic example of light-near dissociation. This condition is caused by a selective lesion affecting the pretectal nucleus in the dorsal midbrain. The pupillary light reflex pathway requires retinal ganglion cell axons to synapse in the pretectal nucleus, which then projects bilaterally to the Edinger-Westphal nuclei to initiate pupillary constriction. The accommodation (near vision) reflex, which involves pupillary constriction, originates from the visual association cortex and projects to the superior colliculi and then to the Edinger-Westphal nuclei, bypassing the pretectal nucleus. Therefore, a lesion of the pretectal nucleus, classically associated with neurosyphilis, will compromise the pupillary light reflex while leaving the accommodation reflex intact. A) While the superior colliculi are involved in the accommodation pathway, a lesion here would not produce this specific dissociation. B, C, and D are incorrect because lesions of the ciliary ganglion, optic chiasm, or Edinger-Westphal nuclei would affect both the light reflex and the near-response component of pupillary constriction, and would not result in this specific dissociation."
+  },
+  {
+    "question": "A 48-year-old woman presents to her primary care physician with a six-month history of worsening headaches. She also mentions that she has been bumping into objects on both her left and right sides more frequently. Her visual acuity is normal. A formal visual field examination reveals a loss of vision in the temporal field of each eye. An MRI reveals a mass compressing the visual pathway. Based on these findings, the lesion is most likely located at which of the following structures?",
+    "choices": [
+      "Right optic tract",
+      "Optic chiasm",
+      "Left optic nerve",
+      "Right lingual gyrus",
+      "Left Meyer's loop"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is Optic chiasm. The patient's visual field deficit is a bitemporal (heteronymous) hemianopia, which is the loss of both temporal visual fields. This specific deficit is caused by a lesion compressing the midline of the optic chiasm. At the optic chiasm, the axons originating from the nasal hemi-retina of each eye decussate (cross the midline). Since the nasal hemi-retinae receive information from the temporal visual fields, a midline compression selectively damages these crossing fibers, resulting in loss of vision in both temporal fields. This type of lesion is commonly caused by a pituitary adenoma, which sits just inferior to the chiasm. A) A lesion in the right optic tract would cause a left homonymous hemianopia, as the optic tract contains fibers from the contralateral visual field. C) A lesion in the left optic nerve would cause monocular visual loss in the left eye only. D) A lesion in the right lingual gyrus would cause a left superior homonymous quadrantanopia. E) A lesion in the left Meyer's loop would cause a right superior homonymous quadrantanopia."
+  },
+  {
+    "question": "A 65-year-old man is evaluated after suffering a stroke. His family reports that he now frequently ignores food on the upper right portion of his dinner plate and does not seem to notice people approaching him from his upper right side. A confrontation visual field test confirms a right superior homonymous quadrantanopia. This visual deficit, colloquially known as a 'pie in the sky' defect, is caused by damage to which part of the visual pathway?",
+    "choices": [
+      "Left superior optic radiation in the parietal lobe",
+      "Right superior optic radiation in the parietal lobe",
+      "Left inferior optic radiation in the temporal lobe",
+      "Right inferior optic radiation in the temporal lobe",
+      "Left cuneus"
     ],
     "correctAnswer": 2,
-    "explanation": "This is classic Brown-Sequard syndrome. The lesion on the left side affects the ipsilateral dorsal column, leading to left-sided proprioception and vibration loss. The right lateral spinothalamic tract, which carries pain and temperature from the left side, is affected due to crossing over within a few segments of entry. Other tracts listed are either on the wrong side or responsible for different modalities.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 4"
-    }
+    "explanation": "The correct answer is Left inferior optic radiation in the temporal lobe. A right superior homonymous quadrantanopia results from a lesion in the contralateral (left) visual pathway that processes the superior visual field. Information from the superior visual field is projected onto the inferior retina. Axons carrying this information travel from the lateral geniculate nucleus (LGN) via the inferior optic radiation, also known as Meyer's loop. Meyer's loop takes an inferior trajectory through the temporal lobe to reach the lingual gyrus (the inferior bank of the calcarine fissure). Therefore, a lesion in the left temporal lobe affecting Meyer's loop will cause a deficit in the right superior visual field. A) A lesion of the left superior optic radiation in the parietal lobe would cause a right inferior homonymous quadrantanopia ('pie on the floor'). B) A lesion of the right superior optic radiation would cause a left inferior homonymous quadrantanopia. D) A lesion of the right inferior optic radiation (Meyer's loop) would cause a left superior homonymous quadrantanopia. E) The left cuneus processes information from the right inferior visual field, and a lesion here would cause a right inferior homonymous quadrantanopia."
   },
   {
-    "question": "A 28-year-old man presents with bilateral loss of pain and temperature sensation over the shoulders and arms, but light touch is preserved. MRI reveals a syrinx expanding the central canal at the C5–T1 levels. Which of the following best explains the sensory findings?",
+    "question": "A 78-year-old man with a history of atrial fibrillation who is not compliant with his anticoagulation medication presents to the emergency department with a sudden onset of visual changes. He states he cannot see anything on the left side of his world. A detailed examination reveals a left homonymous hemianopia, but his central, high-acuity vision is remarkably preserved. This preservation of central vision is referred to as macular sparing. An infarct in the territory of which artery would best explain this patient's clinical presentation?",
     "choices": [
-      "Compression of the anterior horns",
-      "Disruption of the posterior columns",
-      "Damage to the anterior white commissure",
-      "Lesion of the medial lemniscus",
-      "Compression of the dorsal root ganglia"
+      "Right middle cerebral artery",
+      "Left posterior cerebral artery",
+      "Right posterior cerebral artery",
+      "Right anterior choroidal artery",
+      "Left middle cerebral artery"
     ],
     "correctAnswer": 2,
-    "explanation": "Syringomyelia damages the anterior white commissure, where decussating spinothalamic fibers cross. This leads to bilateral segmental loss of pain and temperature in a 'cape-like' distribution. The anterior horns are motor. Posterior columns mediate vibration and proprioception. Medial lemniscus and dorsal root ganglia lesions would produce different patterns of deficits.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 4"
-    }
+    "explanation": "The correct answer is Right posterior cerebral artery. A left homonymous hemianopia is caused by a lesion posterior to the optic chiasm in the right hemisphere, such as in the right optic tract or right primary visual cortex. The primary visual cortex, located in the occipital lobe, is primarily supplied by the posterior cerebral artery (PCA). The phenomenon of macular sparing occurs because the caudal pole of the visual cortex, which processes vision from the macula, often has a dual blood supply from both the PCA and the middle cerebral artery (MCA). Therefore, an occlusion of the right PCA can cause an infarct of most of the right visual cortex, leading to a left homonymous hemianopia, but collateral flow from the right MCA can preserve the occipital pole, thus sparing macular vision. A) A right MCA stroke would more likely cause contralateral face/arm weakness and neglect, and while it could affect the optic radiations, it would not typically cause a hemianopia with macular sparing in this classic fashion. B) A left PCA stroke would cause a right homonymous hemianopia. D) A right anterior choroidal artery stroke could cause a left homonymous hemianopia by damaging the optic tract, but macular sparing is less likely and less characteristic than with a PCA territory infarct. E) A left MCA stroke would cause right-sided deficits."
   },
   {
-    "question": "A 62-year-old man with type 2 diabetes presents with numbness and burning pain in his feet, worsening over the past year. Examination reveals decreased pinprick, vibration, and position sense in a stocking-glove distribution. Which of the following best describes the type of nerve fibers and clinical findings expected in this patient’s condition?",
+    "question": "A 68-year-old woman with a history of hyperopia presents to the emergency department complaining of a sudden onset of severe right eye pain, blurred vision, and nausea. She reports seeing halos around lights. On physical examination, her right eye is red, and the pupil is fixed in a mid-dilated position. Intraocular pressure is significantly elevated. Which of the following is the most likely diagnosis?",
     "choices": [
-      "Large fiber loss; preserved deep tendon reflexes",
-      "Small fiber loss; enhanced heat and cold sensitivity",
-      "Large fiber loss; vibration and proprioceptive deficits",
-      "Motor fiber loss; facial paralysis and diplopia",
-      "Small fiber loss; hyperreflexia and spasticity"
+      "Central Retinal Artery Occlusion",
+      "Acute Angle-Closure Glaucoma",
+      "Retinal Detachment",
+      "Cataract",
+      "Corneal Ulcer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is Acute Angle-Closure Glaucoma. This patient's presentation is a classic example of acute angle-closure glaucoma. The key features include the sudden onset of severe eye pain, redness, decreased vision, and seeing rainbows or halos around lights. Nausea and vomiting are also common systemic symptoms. A fixed, mid-dilated pupil on examination is another hallmark sign. The patient's risk factors, including older age, female gender, and a history of hyperopia (farsightedness), are all strongly associated with this condition. A) Central Retinal Artery Occlusion is incorrect because it typically presents as a sudden, painless, and near-total loss of vision, not with severe pain and redness. C) Retinal Detachment is also typically painless, presenting with a monocular, sectoral loss of peripheral vision that may progress over time. D) A cataract causes a gradual, painless decline in vision and would not present with acute pain and nausea. E) A corneal ulcer presents with pain, redness, and photophobia, but it is an infection of the cornea and does not typically cause a fixed, mid-dilated pupil or nausea and vomiting."
+  },
+  {
+    "question": "An 18-month-old child is brought to the pediatrician after his parents noticed a white reflection in his right pupil in recent flash photographs, a finding known as leukocoria. The left eye has a normal red reflex. The child is diagnosed with retinoblastoma, the most common intraocular malignancy in children. A biopsy of the tumor would most likely reveal which key histologic feature?",
+    "choices": [
+      "Drusen deposits",
+      "Flexner-Wintersteiner rosettes",
+      "Cotton wool spots",
+      "Neurofibrillary tangles",
+      "Psammoma bodies"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is Flexner-Wintersteiner rosettes. Retinoblastoma is the most common pediatric intraocular tumor. The presentation of leukocoria, or a white pupillary reflex, is a classic sign of this malignancy. The key histologic feature used for diagnosis and prognostic classification of retinoblastoma is the presence of Flexner-Wintersteiner rosettes, which are tumor cells that surround a central lumen. This condition is associated with a mutation in the RB1 tumor suppressor gene on chromosome 13. A) Drusen deposits are yellowish lipid-rich materials found in the retina and are characteristic of dry age-related macular degeneration, not retinoblastoma. C) Cotton wool spots are ischemic infarcts of the nerve fiber layer seen in conditions like hypertensive or diabetic retinopathy. D) Neurofibrillary tangles are intracellular aggregates of hyperphosphorylated tau protein, a hallmark of Alzheimer's disease. E) Psammoma bodies are laminated calcifications found in various tumors, such as papillary thyroid carcinoma or meningioma, but are not characteristic of retinoblastoma."
+  },
+  {
+    "question": "A 59-year-old woman with a history of systemic lupus erythematosus is on long-term therapy with hydroxychloroquine. During a routine annual ophthalmology screening, a fundoscopic exam of her right eye reveals a circular pattern of depigmentation in the macula. This finding is highly concerning for an irreversible drug toxicity. What is the classic term for this specific pattern of retinal damage?",
+    "choices": [
+      "Cherry-red spot maculopathy",
+      "Bull's-eye maculopathy",
+      "Hypertensive retinopathy",
+      "Ectopia lentis",
+      "Drusen maculopathy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is Bull's-eye maculopathy. Hydroxychloroquine, used to treat autoimmune disorders like lupus, can cause an irreversible toxicity to the retina, primarily affecting the parafoveal macula. The characteristic fundoscopic finding is known as 'bull's-eye maculopathy' due to the ring of depigmentation surrounding the fovea. The risk of this toxicity is related to the cumulative dose and duration of use, and toxicity is rare before five years of usage. Patients on this medication must be monitored annually by an ophthalmologist. A) A cherry-red spot is seen in central retinal artery occlusion, where the ischemic macula appears white, contrasting with the choroidal circulation supplying the fovea. C) Hypertensive retinopathy involves arterial narrowing, AV-nicking, hemorrhages, exudates, and potentially disc swelling, but not a bull's-eye pattern. D) Ectopia lentis is a dislocation of the crystalline lens, not a retinal finding. E) Drusen maculopathy refers to the presence of drusen, which are characteristic of age-related macular degeneration."
+  },
+  {
+    "question": "A 66-year-old man with primary open-angle glaucoma is started on a once-daily eye drop that is considered a first-line therapy. At his six-month follow-up appointment, his intraocular pressure is well-controlled. He mentions as an aside that his wife has commented that his green eyes now appear more brownish and that his eyelashes seem longer and darker than before. The medication he is taking most likely exerts its therapeutic effect through which of the following mechanisms?",
+    "choices": [
+      "Decreasing aqueous humor synthesis and inflow at the ciliary body",
+      "Increasing aqueous humor outflow through the uveoscleral pathway",
+      "Contracting the ciliary muscle to widen spaces in the trabecular meshwork",
+      "Blocking water flow into the eye by inhibiting carbonic anhydrase",
+      "Reducing cell contraction in the trabecular meshwork via Rho kinase inhibition"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is Increasing aqueous humor outflow through the uveoscleral pathway. The patient is experiencing darkening of the iris color and increased eyelash growth, which are characteristic side effects of prostaglandin analogs such as latanoprost. Prostaglandin analogs are considered first-line therapy for open-angle glaucoma. Their primary mechanism of action is to lower intraocular pressure by increasing the outflow of aqueous humor through the uveoscleral drainage route. A) Decreasing aqueous humor synthesis and inflow is the mechanism of beta-blockers, such as timolol. These do not cause iris darkening. C) Contracting the ciliary muscle to increase outflow through the trabecular meshwork is the mechanism of muscarinic/cholinergic agents like pilocarpine. D) Blocking water flow to inhibit aqueous humor production is the mechanism of carbonic anhydrase inhibitors like dorzolamide. E) Rho kinase inhibitors, like netarsudil, increase outflow through the trabecular meshwork, but they are associated with a high incidence of conjunctival hyperemia and are not typically associated with iris color change."
+  },
+  {
+    "question": "A 68-year-old man is being treated for a disseminated Mycobacterium avium complex infection with a multi-drug regimen that includes ethambutol. He has a history of stage 3 chronic kidney disease. He presents to his ophthalmologist with a complaint of a gradual, painless, bilateral blurring of his central vision and a noticeable difficulty in distinguishing red objects from their background. Which of the following best describes the pathophysiology of this patient's ocular condition?",
+    "choices": [
+      "Accumulation in the retinal pigment epithelium leading to lysosomal damage and a bull's-eye maculopathy",
+      "Increased resistance to aqueous humor drainage through the trabecular meshwork causing open-angle glaucoma",
+      "Toxic optic neuropathy due to the chelation of copper and zinc in mitochondria",
+      "Clouding of the natural intraocular lens due to protein aggregation",
+      "Contraction of the sphincter pupillae muscle leading to sustained miosis and blurred vision"
     ],
     "correctAnswer": 2,
-    "explanation": "This patient has diabetic peripheral neuropathy, particularly the large fiber type, which results in loss of vibration and proprioception. Reflexes may be reduced. Small fiber neuropathy typically presents earlier with burning pain and temperature sensitivity. Motor deficits and cranial nerve involvement would suggest alternate diagnoses.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 5"
-    }
+    "explanation": "The correct answer is Toxic optic neuropathy due to the chelation of copper and zinc in mitochondria. This patient is presenting with classic symptoms of ethambutol-induced toxic optic neuropathy, which includes loss of central visual acuity and loss of color perception, particularly red. The risk of this toxicity is influenced by the daily dose and the patient's kidney function; his chronic kidney disease puts him at higher risk. The proposed mechanism of ethambutol toxicity is its chelating property, which is thought to disrupt oxidative phosphorylation in mitochondria secondary to decreased free copper or inhibit lysosomal activation due to zinc chelation, leading to optic neuropathy. A) This describes the pathophysiology of hydroxychloroquine (Plaquenil) retinopathy, not ethambutol toxicity. B) This describes the mechanism of open-angle glaucoma, a potential side effect of long-term corticosteroid use, but not ethambutol. D) This describes the formation of cataracts, which can be a side effect of corticosteroids, but is not the primary toxicity of ethambutol. E) This describes the effect of a muscarinic agonist like pilocarpine, which is used to treat glaucoma, not a complication of ethambutol."
   },
   {
-    "question": "A 44-year-old woman presents with progressive asymmetric weakness and numbness in both arms over several weeks. She also reports weight loss and arthralgia. Exam shows absent ankle jerks, weakness in hand grip, and patchy sensory loss in multiple dermatomes. EMG shows axonal damage. What is the most likely underlying etiology?",
+    "question": "A 72-year-old woman is brought to the emergency department with a sudden onset of severe pain, redness, and blurred vision in her left eye. She also complains of a headache and nausea. On examination, her left pupil is mid-dilated and non-reactive to light, and the eye is firm to palpation. A diagnosis of acute closed-angle glaucoma is made. In addition to systemic agents to lower intraocular pressure, which topical medication is specifically preferred in this acute setting to help mechanically open the obstructed drainage angle?",
     "choices": [
-      "Diabetic polyneuropathy",
-      "Guillain-Barré syndrome",
-      "Multifocal demyelinating neuropathy",
-      "Mononeuritis multiplex due to vasculitis",
-      "Hereditary motor neuropathy"
+      "Timolol",
+      "Latanoprost",
+      "Brinzolamide",
+      "Pilocarpine",
+      "Netarsudil"
     ],
     "correctAnswer": 3,
-    "explanation": "Mononeuritis multiplex is characterized by asymmetric, patchy motor and sensory deficits. It often results from vasculitic disorders like polyarteritis nodosa or SLE. Diabetic and hereditary neuropathies tend to be symmetric and distal. Guillain-Barré is typically acute and symmetric.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 7 Under Asymmetric Neuropathy"
-    }
+    "explanation": "The correct answer is Pilocarpine. In an acute closed-angle glaucoma attack, the drainage of aqueous humor is physically obstructed by the iris. Pilocarpine is a muscarinic/cholinergic agent that is preferred in this acute setting. It works by causing miosis (constriction of the sphincter pupillae muscle), which pulls the peripheral iris away from the trabecular meshwork, thereby relieving the pupillary block and opening the drainage angle. It also causes contraction of the ciliary muscle, which further helps to increase outflow through the trabecular meshwork. A) Timolol, a beta-blocker, C) Brinzolamide, a carbonic annhydrase inhibitor, and other aqueous suppressants are used to lower pressure but do not address the mechanical obstruction. B) Latanoprost, a prostaglandin analog, works on the uveoscleral outflow pathway and is a first-line agent for open-angle glaucoma, not the acute closed-angle emergency. E) Netarsudil, a Rho kinase inhibitor, works on the trabecular meshwork but is not the primary agent for mechanically breaking an acute angle-closure attack."
   },
   {
-    "question": "A 29-year-old man presents with progressive bilateral loss of pain and temperature sensation in the shoulders and arms. He retains normal proprioception and vibratory sensation. MRI reveals a fluid-filled cavity expanding the central canal at the cervical level. Which structure is most likely affected?",
+    "question": "A 24-year-old woman presents to an urgent care clinic with a three-day history of severe pain, photophobia, and decreased visual acuity in her right eye. She denies wearing contact lenses. On examination, a fluorescein stain is applied to her cornea, which reveals a distinct dendritic branching lesion when viewed under a cobalt blue light. Which of the following is the most likely causative pathogen?",
     "choices": [
-      "Dorsal columns",
-      "Anterior horns",
-      "Anterior white commissure",
-      "Lateral corticospinal tracts",
-      "Medial lemniscus"
+      "Adenovirus",
+      "Pseudomonas aeruginosa",
+      "Herpes simplex virus",
+      "Staphylococcus aureus",
+      "Acanthamoeba"
     ],
     "correctAnswer": 2,
-    "explanation": "This is classic for syringomyelia, which affects the anterior white commissure where the second-order spinothalamic fibers decussate. This leads to a 'cape-like' distribution of pain and temperature loss. Dorsal columns mediate vibration/proprioception, which is spared. Anterior horns produce motor deficits; lateral corticospinal tracts cause spasticity; medial lemniscus carries fine touch and proprioception centrally.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 4"
-    }
-  },
- {
-  "question": "A 60-year-old man with a 15-year history of poorly controlled type 2 diabetes presents with progressive numbness and burning pain in his feet, especially at night. Neurological exam reveals decreased pinprick and temperature sensation in a stocking distribution, with preserved vibration and proprioception. Which of the following best explains the underlying pathophysiology affecting his sensory function?",
-  "choices": [
-    "Demyelination of large myelinated Aβ fibers",
-    "Axonal degeneration of small unmyelinated C fibers and thinly myelinated Aδ fibers",
-    "Loss of motor neurons in the anterior horn",
-    "Demyelination of dorsal column fibers in the spinal cord",
-    "Ischemia of the posterior spinal arteries"
-  ],
-  "correctAnswer": 1,
-  "explanation": "The patient's symptoms are consistent with diabetic small fiber neuropathy, which primarily affects unmyelinated C fibers and thinly myelinated Aδ fibers responsible for pain and temperature sensation. This results in burning or tingling pain with preserved proprioception and vibration (mediated by large Aβ fibers). Choice 0 is incorrect because large fiber demyelination would lead to loss of proprioception, not burning pain. Choice 2 refers to motor neuron diseases like ALS. Choice 3 and 4 would cause dorsal column signs like impaired proprioception and vibration, which are not present here.",
-  "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 6"
-    }
+    "explanation": "The correct answer is Herpes simplex virus. The patient's presentation of severe pain, photophobia, and decreased visual acuity is characteristic of keratitis, which is more severe than conjunctivitis. The key diagnostic finding is the dendritic branching lesion seen on fluorescein stain, which is pathognomonic for Herpes simplex virus (HSV) keratitis. A) Adenovirus is the most common cause of viral conjunctivitis, which is highly contagious but typically presents with watery discharge and is less painful than keratitis, and it does not produce dendritic lesions. B) Pseudomonas aeruginosa is a common cause of bacterial keratitis, but it is strongly associated with contact lens use and typically causes a corneal ulcer without a dendritic pattern. D) Staphylococcus aureus is another common cause of bacterial conjunctivitis and keratitis but does not form dendritic lesions. E) Acanthamoeba is a protozoan that can cause a severe and painful keratitis, but it is almost exclusively seen in contact lens users exposed to contaminated water and does not present with a dendritic lesion."
   },
   {
-    "question": "A histological section of CNS tissue reveals small cells with oval nuclei, scant cytoplasm, and processes that extend between neurons and blood vessels. These cells stain positive for GFAP. Which of the following functions is most associated with this cell type?",
+    "question": "A 45-year-old man with a history of poorly controlled type 2 diabetes and recent intravenous drug use is admitted to the hospital with Staphylococcus aureus bacteremia. During his hospital stay, he develops acute, painful vision loss in his left eye. An ophthalmology consult is called, and the fundoscopic exam reveals creamy-white, well-defined lesions on the retina and a significant vitreous haze. This clinical picture is most consistent with which of the following ocular infections?",
     "choices": [
-      "Myelination of CNS axons",
-      "Blood-brain barrier maintenance",
-      "Phagocytosis of debris",
-      "Immune surveillance",
-      "CSF production"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Astrocytes, which stain for GFAP, are star-shaped glial cells that maintain the blood-brain barrier, provide metabolic support, and respond to injury with gliosis. Oligodendrocytes (choice 0) myelinate CNS axons. Microglia (choices 2 and 3) are the CNS's resident macrophages and perform immune surveillance and phagocytosis. Ependymal cells (choice 4) line ventricles and contribute to CSF circulation.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 10"
-    }
-  },
-  {
-    "question": "A 55-year-old woman with a history of multiple sclerosis undergoes brain biopsy. Histological examination shows demyelination with relative preservation of axons. Which of the following CNS cells is most likely damaged?",
-    "choices": [
-      "Astrocytes",
-      "Oligodendrocytes",
-      "Microglia",
-      "Ependymal cells",
-      "Neurons"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Oligodendrocytes are responsible for myelinating axons in the CNS. In multiple sclerosis, autoimmune destruction of oligodendrocytes leads to demyelination while initially sparing axons. Astrocytes (choice 0) provide support and repair. Microglia (choice 2) are immune cells. Ependymal cells (choice 3) line ventricles and help circulate CSF. Neurons (choice 4) are damaged later in disease progression but are not the primary target in MS.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 10"
-    }
-  },
-  {
-    "question": "A 62-year-old man undergoing elective surgery is given sevoflurane for induction of anesthesia. He is noted to have rapid onset of unconsciousness. Which of the following properties of sevoflurane best explains its rapid onset?",
-    "choices": [
-      "High blood:gas partition coefficient",
-      "Low MAC value",
-      "High oil:gas partition coefficient",
-      "Low blood:gas partition coefficient",
-      "High rate of hepatic metabolism"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The blood:gas partition coefficient reflects how soluble an anesthetic is in blood. A low coefficient means the agent is less soluble, allowing alveolar partial pressure to rise quickly, which correlates with a faster onset of action. Sevoflurane has a low blood:gas partition coefficient (0.69). High solubility (choice 0) slows onset. MAC (choice 1) relates to potency, not speed. Oil:gas coefficient (choice 2) relates to potency. Hepatic metabolism (choice 4) does not determine onset.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 24"
-    }
-  },
-  {
-    "question": "A 38-year-old man with a history of severe asthma is undergoing elective surgery. Which of the following inhaled anesthetic agents is most appropriate for induction in this patient due to its bronchodilatory properties and non-pungent nature?",
-    "choices": [
-      "Desflurane",
-      "Halothane",
-      "Sevoflurane",
-      "Isoflurane",
-      "Nitrous oxide"
+      "Keratitis",
+      "Posterior uveitis",
+      "Endophthalmitis",
+      "Periorbital cellulitis",
+      "Conjunctivitis"
     ],
     "correctAnswer": 2,
-    "explanation": "Sevoflurane is non-pungent and causes significant bronchodilation, making it ideal for patients with reactive airway disease. Desflurane and isoflurane are airway irritants. Halothane is no longer widely used due to toxicity. Nitrous oxide is neither a potent bronchodilator nor suitable for induction alone.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 24"
-    }
+    "explanation": "The correct answer is Endophthalmitis. Endophthalmitis is a medical emergency defined as a bacterial or fungal infection involving the vitreous and/or aqueous humor. This patient has a clear risk factor for endogenous spread of infection from the bloodstream due to his IV drug use and S. aureus bacteremia. S. aureus is listed as a common cause of endogenous endophthalmitis. The clinical findings of vitreous haze (vitritis) and retinal lesions are classic for this condition. A) Keratitis is an infection of the cornea and would not present with vitreous haze or retinal lesions. B) While posterior uveitis involves inflammation of the posterior segment, endophthalmitis specifically describes an infection within the vitreous or aqueous humor, which is a more accurate diagnosis given the findings and fulminant presentation. D) Periorbital cellulitis is an infection of the eyelid and tissues surrounding the eye, anterior to the orbital septum, and does not involve the intraocular structures. E) Conjunctivitis is an inflammation of the conjunctiva and is a superficial infection that does not cause vision loss or involve the vitreous humor."
   },
   {
-    "question": "A 7-year-old boy undergoing orthopedic surgery develops tachycardia, muscle rigidity, and a rapidly rising temperature intraoperatively after administration of halogenated anesthetics and succinylcholine. Which of the following is the most appropriate immediate next step in management?",
+    "question": "A 28-year-old woman presents to her ophthalmologist with several weeks of painless blurred vision and an increase in floaters in her right eye. A dilated fundoscopic examination reveals a white, fluffy retinal lesion with significant overlying inflammation of the vitreous humor. The ophthalmologist describes the finding as a classic 'headlight in the fog' appearance. This presentation is most characteristic of an infection with which of the following organisms?",
     "choices": [
-      "Administer dantrolene",
-      "Give naloxone",
-      "Increase inhaled anesthetic concentration",
-      "Start beta-blockers",
-      "Administer atropine"
+      "Toxoplasma gondii",
+      "Bartonella henselae",
+      "Cytomegalovirus (CMV)",
+      "Mycobacterium tuberculosis",
+      "Candida albicans"
     ],
     "correctAnswer": 0,
-    "explanation": "This is malignant hyperthermia, a life-threatening reaction to volatile anesthetics and succinylcholine. Dantrolene is the definitive treatment; it acts by inhibiting calcium release via ryanodine receptors in skeletal muscle. Naloxone (choice 1) treats opioid overdose. Increasing anesthetic (choice 2) worsens the condition. Beta-blockers (choice 3) are not first-line. Atropine (choice 4) is used for bradycardia, not malignant hyperthermia.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 23"
-    }
+    "explanation": "The correct answer is Toxoplasma gondii. The patient's presentation of painless vision loss and floaters is consistent with posterior uveitis. The fundoscopic finding of a 'headlight in the fog,' which describes a white, fluffy retinochoroidal lesion with an overlying vitreous inflammatory reaction, is the pathognomonic sign for ocular toxoplasmosis, caused by the parasite Toxoplasma gondii. B) Bartonella henselae, the agent of cat-scratch disease, typically causes neuroretinitis with a macular star pattern of exudates, not a 'headlight in the fog' appearance. C) Cytomegalovirus (CMV) generally presents as retinitis in severely immunocompromised patients, often with multifocal, yellow-white, deep retinal lesions and minimal inflammation, sometimes described as progressive outer retinal necrosis (PORN). D) Ocular tuberculosis can present with focal yellow lesions called tubercles or a diffuse retinitis, but not the classic finding described. E) Candida endophthalmitis can present with creamy-white retinal lesions, but these are often multiple and can form a 'string of pearls' pattern, which is distinct from the 'headlight in the fog' appearance."
   },
   {
-    "question": "A 36-year-old woman receives lidocaine for a dental procedure. Minutes later, she becomes agitated, complains of dizziness, and develops seizures. Which of the following best explains this adverse effect?",
+    "question": "A 12-year-old girl is brought to the optometrist because she has been complaining of difficulty seeing the whiteboard in her classroom, though she has no trouble reading books up close. Her vision is measured at 20/80 in both eyes and corrects to 20/20 with glasses. Her condition is caused by light rays focusing in front of the retina rather than directly on it. Which of the following best describes the underlying anatomic or refractive cause of her condition?",
     "choices": [
-      "Lidocaine directly stimulates NMDA receptors in the cerebral cortex",
-      "Rapid increase in plasma lidocaine levels causing inhibition of inhibitory cortical pathways",
-      "Hypersensitivity reaction due to para-aminobenzoic acid metabolite",
-      "Central nervous system toxicity due to bupivacaine accumulation",
-      "Selective inhibition of GABAergic interneurons in the spinal cord"
-    ],
-    "correctAnswer": 1,
-    "explanation": "This is a classic presentation of CNS toxicity from local anesthetics like lidocaine. A rapid rise in plasma concentration blocks inhibitory pathways in the cerebral cortex, leading to unopposed excitation and seizures. NMDA receptors (choice 0) are not involved in this mechanism. Hypersensitivity reactions (choice 2) are more common with ester anesthetics due to PABA metabolites. Bupivacaine (choice 3) is not used here. GABAergic inhibition (choice 4) is not the primary mechanism of toxicity.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 20"
-    }
-  },
-  {
-    "question": "A 48-year-old man undergoes a nerve block for minor surgery. He has hepatic cirrhosis and reduced liver function. Which of the following local anesthetics should be used with caution due to impaired hepatic metabolism and risk of toxicity?",
-    "choices": [
-      "Procaine",
-      "Chloroprocaine",
-      "Tetracaine",
-      "Lidocaine",
-      "Cocaine"
+      "The axial length of the eye is too short for the refractive power of the eye",
+      "The cornea has an irregular, non-spherical shape causing multiple focal points",
+      "The lens has hardened with age and is unable to change shape for near focus",
+      "The refractive power of the eye is too strong for the corresponding axial length",
+      "The drainage of aqueous humor through the trabecular meshwork is obstructed"
     ],
     "correctAnswer": 3,
-    "explanation": "Lidocaine is an amide anesthetic primarily metabolized in the liver. Patients with liver dysfunction are at increased risk of systemic toxicity due to slower metabolism. Procaine, chloroprocaine, and tetracaine (choices 0, 1, and 2) are esters metabolized by plasma cholinesterases. Cocaine (choice 4), although an ester, undergoes partial hepatic metabolism but also has vasoconstrictive effects that differ from other agents.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 18"
-    }
+    "explanation": "The correct answer is The refractive power of the eye is too strong for the corresponding axial length. The patient's symptoms of clear near vision but blurry distance vision are characteristic of myopia, or nearsightedness. In myopia, the image is focused in front of the retina. This occurs for one of two reasons: either the refractive power of the eye is too strong for its axial length, or the axial length of the eye is too long for its refractive power. Both result in the same optical problem. A) An axial length that is too short or a refractive power that is too weak for the axial length is the definition of hyperopia (farsightedness), where the image is focused behind the retina. B) An irregular corneal shape describes astigmatism, which causes distorted or blurred vision at all distances. C) A lens that has hardened with age and lost its ability to accommodate describes presbyopia, which typically affects individuals over 40 and causes difficulty focusing on close objects. E) Obstruction of aqueous humor drainage is the pathophysiology of glaucoma, which affects intraocular pressure and causes peripheral vision loss, not a primary refractive error."
   },
   {
-    "question": "A 28-year-old woman presents for labor and is given an epidural containing bupivacaine. She experiences good analgesia with minimal motor weakness. This clinical effect is best explained by which of the following pharmacologic properties of bupivacaine?",
+    "question": "A 40-year-old man who works as an auto mechanic presents to the emergency department after an incident where he was striking a metal part with a hammer and felt something hit his right eye. He was not wearing safety glasses. He complains of pain and a foreign body sensation. The initial exam is highly suspicious for a penetrating globe injury. Which imaging modality must be avoided in the workup of this patient due to the risk of causing further catastrophic intraocular damage?",
     "choices": [
-      "High lipid solubility and low pKa",
-      "Low protein binding and short duration of action",
-      "Selective blockade of sympathetic fibers only",
-      "Preferential blockade of sensory over motor fibers at low concentrations",
-      "Rapid hydrolysis in plasma by pseudocholinesterase"
+      "Thin-slice computed tomography (CT)",
+      "B-scan ultrasonography",
+      "Magnetic resonance imaging (MRI)",
+      "Plain film X-ray of the orbits",
+      "Slit-lamp examination with fluorescein"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is Magnetic resonance imaging (MRI). In cases of trauma involving metal-striking-metal, there is a very high suspicion for a penetrating injury with a retained intraocular metallic foreign body. The powerful magnetic field of an MRI is strictly contraindicated because it can cause the metallic fragment to move or torque within the eye, leading to severe damage to the retina, lens, and other delicate structures. Metal is also noted to be very toxic to the retina. A) A thin-slice CT is the imaging modality of choice for ruling out a penetrating injury and localizing a potential foreign body. B, D, and E are all parts of the diagnostic workup that can be performed safely; a B-scan ultrasound can visualize intraocular structures, a plain film can identify larger metallic objects, and a slit-lamp exam is crucial for assessing the anterior segment, though care must be taken to avoid applying pressure to a potentially ruptured globe."
+  },
+  {
+    "question": "A 72-year-old man with a long-standing history of smoking and diabetes presents with a several-year history of gradual, painless decline in vision that can no longer be corrected with glasses. He notes particular difficulty with glare while driving at night and poor vision in low-light conditions. On examination, a slit-lamp evaluation reveals significant clouding of the natural crystalline lens in both eyes. What is the most likely diagnosis?",
+    "choices": [
+      "Age-related macular degeneration",
+      "Glaucoma",
+      "Retinitis pigmentosa",
+      "Cataract",
+      "Presbyopia"
     ],
     "correctAnswer": 3,
-    "explanation": "Bupivacaine at low concentrations exhibits differential blockade, meaning it preferentially blocks sensory nerves while sparing motor function, making it ideal for labor analgesia. Lipid solubility and pKa (choice 0) affect onset and potency but not sensory preference. It has high protein binding and long duration (contradicting choice 1). It does not selectively block sympathetic fibers (choice 2). As an amide, it is metabolized hepatically, not via plasma hydrolysis (choice 4).",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 18"
-    }
+    "explanation": "The correct answer is Cataract. This patient's presentation is classic for the development of cataracts, which is the leading cause of preventable blindness worldwide. The key features are a gradual, painless decline in vision, issues with glare or halos, and poor vision in low light. The pathophysiology is a clouding of the natural intraocular crystalline lens. The patient also has several significant risk factors mentioned in the presentation, including diabetes, smoking, and older age. A) Age-related macular degeneration causes loss of central vision, not the generalized blurriness and glare described. B) Glaucoma is typically asymptomatic until late stages and causes progressive loss of peripheral vision. C) Retinitis pigmentosa is a genetic disease that initially causes loss of peripheral and night vision, but it is a disease of the photoreceptors, not the lens. E) Presbyopia is the age-related loss of the ability to focus on near objects due to hardening of the lens, but it does not cause the lens to become cloudy or produce glare."
   },
   {
-    "question": "A 55-year-old man with atrial fibrillation is taking warfarin for stroke prevention. He recently began self-medicating with an herbal supplement for memory enhancement. He now presents with signs of intracranial bleeding, and his INR remains within therapeutic range. Which of the following herbal supplements is most likely responsible for this complication?",
+    "question": "A 72-year-old woman with a history of poorly controlled hypertension presents to the emergency department with a sudden onset of vertigo, nausea, vomiting, and difficulty swallowing. On examination, she is found to have hoarseness and a diminished gag reflex on the right side. Sensation testing reveals a loss of pain and temperature sensation on the right side of her face and the left side of her body. She also demonstrates ataxia of her right-sided limbs and a right-sided Horner's syndrome, characterized by ptosis and miosis. Which of the following vascular territories is most likely affected?",
     "choices": [
-      "Valerian",
-      "Garlic",
-      "St. John's Wort",
-      "Ginkgo biloba",
-      "Saw palmetto"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Ginkgo biloba can inhibit platelet aggregation and platelet activating factor, increasing bleeding risk without affecting INR. Valerian (choice 0) is a sedative and does not affect coagulation. Garlic (choice 1) can have antiplatelet effects but is less associated with intracranial hemorrhage in clinical practice. St. John's Wort (choice 2) induces CYP450 enzymes, lowering warfarin efficacy. Saw palmetto (choice 4) may have mild effects on DHT but not on coagulation.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 26"
-    }
-  },
-  {
-    "question": "A 36-year-old woman begins using an herbal tea for insomnia. She reports unusual vivid dreams and grogginess in the morning. Which of the following most accurately describes the mechanism of the herbal compound she is likely using?",
-    "choices": [
-      "MAO inhibition",
-      "COX-2 inhibition and serotonin blockade",
-      "Inhibition of reuptake and stimulation of release of GABA",
-      "Antagonism of DHT receptors",
-      "Inhibition of HMG CoA reductase"
+      "Paramedian branches of the basilar artery",
+      "Anterior spinal artery",
+      "Posterior inferior cerebellar artery (PICA)",
+      "Anterior inferior cerebellar artery (AICA)",
+      "Paramedian branches of the posterior cerebral artery"
     ],
     "correctAnswer": 2,
-    "explanation": "Valerian exerts its sedative effects by inhibiting the reuptake and stimulating the release of GABA. MAO inhibition (choice 0) is associated with St. John’s Wort. COX-2 inhibition (choice 1) and serotonin blockade are linked to feverfew. DHT antagonism (choice 3) is the mechanism of saw palmetto. Inhibiting HMG CoA reductase (choice 4) is related to garlic's cholesterol-lowering effect.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 27"
-    }
+    "explanation": "The correct answer is Posterior inferior cerebellar artery (PICA). This patient presents with a classic constellation of symptoms known as Lateral Medullary Syndrome, or Wallenberg Syndrome. This syndrome results from an occlusion of the posterior inferior cerebellar artery (PICA), or less commonly, the vertebral artery. The crossed sensory findings are key: ipsilateral loss of pain and temperature on the face is due to involvement of the spinal trigeminal nucleus and tract, while contralateral loss of pain and temperature on the body is due to involvement of the spinothalamic tract. The other signs are also explained by a lesion in the lateral medulla: vertigo, nausea, and nystagmus from vestibular nuclei involvement; dysphagia and hoarseness from nucleus ambiguus (CN IX, X) involvement; ipsilateral ataxia from inferior cerebellar peduncle involvement; and ipsilateral Horner's syndrome from descending sympathetic tract involvement. A) Occlusion of the paramedian branches of the basilar artery causes Medial Pontine Syndrome. B) Occlusion of the anterior spinal artery causes Medial Medullary Syndrome. D) Occlusion of the AICA causes Lateral Pontine Syndrome, which is similar but typically includes ipsilateral facial paralysis (CN VII) and hearing loss (CN VIII). E) Occlusion of the paramedian branches of the PCA causes Medial Midbrain (Weber) Syndrome."
   },
   {
-    "question": "A 22-year-old student presents with severe mouth ulcerations after ingesting several leaves of a plant traditionally used to prevent migraine headaches. She reports that her mother used it for similar issues. Which of the following best explains the most likely mechanism of this herbal agent?",
+    "question": "A 63-year-old male with a history of hyperlipidemia presents with the sudden onset of weakness on the left side of his body. The neurological examination confirms a left-sided hemiparesis with upper motor neuron signs. There is also a corresponding loss of discriminative touch, vibration, and conscious proprioception on the left side. Pain and temperature sensation are intact. During the cranial nerve exam, the patient is asked to stick out his tongue, and it deviates markedly to the right. Atrophy and fasciculations are noted on the right side of the tongue. This specific combination of findings is best explained by a lesion in which of the following locations?",
     "choices": [
-      "MAO inhibition and serotonin reuptake inhibition",
-      "COX-2 inhibition and mast cell stabilization",
-      "Activation of T-lymphocytes and NK cells",
-      "Serotonin receptor antagonism and nitric oxide release",
-      "HMG CoA reductase inhibition and platelet activation"
+      "Right medial medulla",
+      "Left lateral pons",
+      "Right medial midbrain",
+      "Left medial pons",
+      "Right lateral medulla"
     ],
-    "correctAnswer": 1,
-    "explanation": "Feverfew works through COX-2 inhibition, serotonin receptor blockade, and mast cell stabilization, which help reduce migraine frequency. MAO inhibition and serotonin reuptake inhibition (choice 0) is associated with St. John’s Wort. Immune cell activation (choice 2) is a feature of echinacea. Serotonin receptor antagonism and nitric oxide release (choice 3) might relate to ginkgo, but ginkgo doesn't cause mouth ulceration. Garlic (choice 4) inhibits HMG CoA reductase and inhibits platelets but is unrelated to the case scenario.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 27"
-    }
+    "correctAnswer": 0,
+    "explanation": "The correct answer is Right medial medulla. This is a classic presentation of Medial Medullary Syndrome. The hallmark of brainstem lesions is crossed deficits, which this patient displays. The contralateral left hemiparesis is due to damage to the corticospinal tract in the right pyramid before its decussation. The contralateral left-sided loss of discriminative touch and proprioception is due to damage to the right medial lemniscus, which has already crossed. The ipsilateral right-sided tongue deviation is due to a lower motor neuron lesion of the hypoglossal nerve (CN XII), which exits medially in the medulla; the tongue deviates toward the side of the lesion due to the unopposed action of the contralateral genioglossus muscle. This localizes the lesion to the right medial medulla, which is typically supplied by the anterior spinal artery. B) A left lateral pons lesion would involve CN VII and VIII and would not affect the tongue. C) A right medial midbrain lesion would involve CN III. D) A left medial pons lesion would involve CN VI and would cause deficits on the right side of the body. E) A right lateral medulla lesion would present as Wallenberg syndrome, with crossed pain and temperature deficits, not the deficits seen here."
   },
   {
-    "question": "A 42-year-old firefighter presents with a 3-day history of severe, sharp headache behind his left eye. He reports transient vision loss in the same eye and denies trauma. On examination, he has left-sided ptosis, miosis, and a carotid bruit. What is the most likely underlying pathology?",
+    "question": "A 67-year-old male with a history of diabetes presents with the sudden onset of left-sided weakness and double vision. On examination, you confirm a left hemiparesis of the upper and lower extremities with upper motor neuron signs. There is also weakness of the lower facial muscles on the left. Examination of the eyes reveals a significant ptosis of the right eyelid. The right eye is deviated inferiorly and laterally ('down and out'). The right pupil is dilated and does not react to light. These findings are most consistent with an ischemic lesion affecting which of the following structures?",
     "choices": [
-      "Cavernous sinus thrombosis",
-      "Posterior communicating artery aneurysm",
-      "Internal carotid artery dissection",
-      "Giant cell arteritis",
-      "Cluster headache"
+      "Right medial lemniscus and right abducens nucleus",
+      "Left corticospinal tract and right facial nucleus",
+      "Right corticospinal tract and right oculomotor nerve fascicles",
+      "Right spinothalamic tract and right trochlear nucleus",
+      "Left cerebral peduncle and left oculomotor nerve fascicles"
     ],
     "correctAnswer": 2,
-    "explanation": "Internal carotid artery dissection can cause headache, transient vision loss, and Horner’s syndrome (ptosis, miosis). The presence of a carotid bruit supports this vascular pathology. Cavernous sinus thrombosis (choice 0) would cause cranial nerve palsies. Posterior communicating aneurysm (choice 1) causes third nerve palsy, not Horner’s. GCA (choice 3) presents in older patients with jaw claudication. Cluster headaches (choice 4) do not cause Horner’s or bruits.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "N/A"
-    }
-  },
-  {
-    "question": "A 34-year-old woman presents with chronic pain and swelling in her right hand following a minor wrist fracture 3 months ago. On exam, she has marked allodynia, localized warmth, edema, and trophic skin changes. Neurogenic inflammation is suspected as a contributing factor. Which of the following mediators is most likely responsible for the vasodilation observed in this condition?",
-    "choices": [
-      "Histamine",
-      "Interleukin-1",
-      "Calcitonin Gene-Related Peptide (CGRP)",
-      "Dopamine",
-      "Gamma-aminobutyric acid (GABA)"
-    ],
-    "correctAnswer": 2,
-    "explanation": "CGRP is released by activated sensory neurons and is a potent vasodilator, playing a major role in neurogenic inflammation. Histamine (choice 0) is involved in allergic responses but is not the primary mediator in neurogenic inflammation. Interleukin-1 (choice 1) is a cytokine involved in systemic inflammation. Dopamine (choice 3) and GABA (choice 4) are not involved in this inflammatory cascade.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 30"
-    }
-  },
-  {
-    "question": "A 42-year-old man develops persistent pain following a shingles outbreak localized to the T4 dermatome. He describes the pain as burning and worsened by light touch. This pain is thought to result from sensitization of central pain pathways. Which of the following best describes this phenomenon?",
-    "choices": [
-      "Peripheral sensitization due to histamine release",
-      "Mast cell degranulation in the skin",
-      "Central sensitization from persistent nociceptive input",
-      "Direct nerve injury causing Wallerian degeneration",
-      "Hyperalgesia due to opioid receptor blockade"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Central sensitization is the increased excitability of spinal and supraspinal neurons following persistent peripheral nociceptive input, leading to chronic pain and allodynia. Peripheral sensitization (choice 0) involves increased excitability of nociceptors but does not fully explain post-herpetic neuralgia. Mast cell activation (choice 1) contributes to acute responses. Wallerian degeneration (choice 3) is related to direct nerve injury. Opioid receptor blockade (choice 4) does not explain this chronic sensitization.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 30"
-    }
-  },
-  {
-    "question": "A 28-year-old obese woman complains of diffuse daily headaches with transient visual obscurations and a pulsatile sound in her right ear. Examination reveals bilateral papilledema. No cranial nerve deficits are noted. Which of the following is the most appropriate next step in confirming the suspected diagnosis?",
-    "choices": [
-      "Head CT without contrast",
-      "MRI with venography",
-      "Temporal artery biopsy",
-      "Carotid Doppler ultrasound",
-      "Lumbar puncture with opening pressure measurement"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The patient likely has idiopathic intracranial hypertension (IIH). MRI with MR venography is important to rule out cerebral venous sinus thrombosis, which can mimic IIH. CT without contrast (choice 0) may miss venous sinus pathology. Temporal artery biopsy (choice 2) is used for GCA. Carotid Doppler (choice 3) is not helpful here. LP (choice 4) should be performed after ruling out structural lesions to avoid herniation.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "N/A"
-    }
-  },
-  {
-    "question": "A 27-year-old woman presents with throbbing unilateral headaches that build over hours, associated with photophobia and nausea. They occur around her menstrual cycle and force her to leave work. What is the best acute treatment option for this patient?",
-    "choices": [
-      "Propranolol",
-      "Sumatriptan",
-      "Gabapentin",
-      "Ergotamine with caffeine",
-      "Amitriptyline"
-    ],
-    "correctAnswer": 1,
-    "explanation": "This is a classic case of migraine. Sumatriptan, a 5-HT1B receptor agonist, is effective for abortive therapy. Propranolol (choice 0) and amitriptyline (choice 4) are used for prophylaxis. Gabapentin (choice 2) is not first-line abortive therapy. Ergots (choice 3) are older agents with more side effects and are less preferred than triptans.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 28-29"
-    }
-  },
-  {
-    "question": "A 35-year-old woman presents with a severe migraine that has not responded to over-the-counter NSAIDs. Her physician prescribes a medication that acts as a selective 5-HT1B/1D receptor agonist. Which of the following is an absolute contraindication to this medication?",
-    "choices": [
-      "Asthma",
-      "Celiac disease",
-      "Ischemic heart disease",
-      "Migraine with aura",
-      "Pregnancy"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Triptans, which are selective 5-HT1B/1D receptor agonists, are contraindicated in patients with ischemic heart disease due to their vasoconstrictive effects. Asthma (choice 0) and celiac disease (choice 1) are not contraindications. Migraine with aura (choice 3) is not an absolute contraindication, although caution is advised in hemiplegic or basilar migraines. Pregnancy (choice 4) requires risk-benefit analysis but is not an absolute contraindication.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 30-31"
-    }
-  },
-  {
-    "question": "A 44-year-old woman has migraines 3–4 times per week and cannot tolerate triptans due to chest tightness. Her neurologist prescribes a new class of medication that blocks CGRP receptors. Which of the following side effects is most likely with this class of medication?",
-    "choices": [
-      "Serotonin syndrome",
-      "Hypertension",
-      "Drowsiness and xerostomia",
-      "Weight gain and fatigue",
-      "Hyperkalemia"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Gepants, such as ubrogepant and rimegepant, block CGRP receptors and are associated with drowsiness, dry mouth (xerostomia), and nausea. Serotonin syndrome (choice 0) is more common with serotonergic agents. Hypertension (choice 1) and hyperkalemia (choice 4) are not typical. Weight gain and fatigue (choice 3) are associated with some antidepressants and antiepileptics used for prophylaxis, not CGRP antagonists.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 34"
-    }
-  },
-  {
-    "question": "A 30-year-old man with frequent migraines is placed on topiramate for prevention. Two months later, he complains of difficulty concentrating and tingling in his fingers. Which of the following best explains the mechanism of this drug's antimigraine effect?",
-    "choices": [
-      "Inhibition of serotonin reuptake",
-      "Cleavage of SNAP-25",
-      "AMPA/kainate glutamate receptor antagonism",
-      "5-HT1F receptor agonism",
-      "Inhibition of nitric oxide production"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Topiramate exerts its prophylactic antimigraine effect by antagonizing AMPA/kainate glutamate receptors and enhancing GABA activity. Serotonin reuptake inhibition (choice 0) is the mechanism for antidepressants. SNAP-25 cleavage (choice 1) is the mechanism for botulinum toxin. 5-HT1F receptor agonism (choice 3) applies to lasmiditan. Inhibition of nitric oxide production (choice 4) is associated with beta-blockers.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 34"
-    }
-  },
-  {
-    "question": "A 68-year-old man with metastatic prostate cancer is prescribed morphine for severe bone pain. He soon experiences excessive sedation and respiratory depression. Which of the following best explains the molecular mechanism responsible for morphine’s analgesic and respiratory depressant effects?",
-    "choices": [
-      "Opening of voltage-gated Ca2+ channels",
-      "Activation of Gq-coupled protein receptors",
-      "Increased glutamate release at the dorsal horn",
-      "Opening of K+ channels and inhibition of adenylyl cyclase",
-      "Blockade of NMDA receptors"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Opioid receptors (particularly μ) are Gi/Go protein-coupled and reduce neuronal excitability by inhibiting adenylyl cyclase, closing presynaptic Ca2+ channels, and opening postsynaptic K+ channels. This reduces neurotransmitter release and hyperpolarizes neurons. Ca2+ channels (choice 0) are closed, not opened. Gq signaling (choice 1) is not involved in opioid signaling. Glutamate release (choice 2) is inhibited, not enhanced. NMDA blockade (choice 4) is not a primary mechanism for morphine.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 35"
-    }
-  },
-  {
-    "question": "A 52-year-old woman is given meperidine postoperatively for pain management. She later develops agitation, muscle twitches, and a tonic-clonic seizure. Which of the following best explains the likely cause of her symptoms?",
-    "choices": [
-      "Dopamine receptor blockade",
-      "Accumulation of normeperidine in renal dysfunction",
-      "Opioid withdrawal due to naloxone use",
-      "Acetylcholine receptor antagonism",
-      "Serotonin depletion in the brainstem"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Meperidine is metabolized to normeperidine, which is neurotoxic and can accumulate in patients with renal impairment, causing CNS excitation including seizures. Dopamine blockade (choice 0) is more typical of antipsychotics. Naloxone (choice 2) can cause withdrawal but not seizures. Anticholinergic toxicity (choice 3) would present differently. Serotonin depletion (choice 4) causes depression, not seizures.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 35"
-    }
-  },
-  {
-    "question": "A 40-year-old man is started on buprenorphine-naloxone therapy for opioid use disorder. Which of the following best describes buprenorphine’s mechanism of action?",
-    "choices": [
-      "Full agonist at μ-opioid receptors",
-      "Partial agonist at μ and κ-opioid receptors",
-      "Partial agonist at μ-opioid and antagonist at κ-opioid receptors",
-      "Antagonist at μ-opioid receptors",
-      "Full agonist at δ-opioid receptors"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Buprenorphine is a partial μ-opioid receptor agonist and κ-receptor antagonist. This combination allows for analgesia and treatment of opioid dependence with less respiratory depression and abuse potential. It is not a full agonist (choice 0), nor does it agonize κ-receptors (choice 1). Naloxone provides antagonism, not buprenorphine alone (choice 3). δ-receptor agonism (choice 4) is not the mechanism of buprenorphine.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 36"
-    }
-  },
-  {
-    "question": "A 75-year-old man presents with acute bilateral leg weakness and loss of pain and temperature sensation below the level of the umbilicus following thoracic aortic aneurysm repair. His proprioception remains intact. Which of the following spinal cord syndromes is most consistent with these findings?",
-    "choices": [
-      "Brown-Séquard syndrome",
-      "Posterior cord syndrome",
-      "Central cord syndrome",
-      "Anterior cord syndrome",
-      "Cauda equina syndrome"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Anterior cord syndrome results from infarction or compression of the anterior spinal artery, which supplies the anterior two-thirds of the spinal cord. This includes motor pathways (corticospinal tracts) and the spinothalamic tracts but spares the posterior columns (proprioception, vibration). Brown-Séquard (A) involves hemicord injury with asymmetric findings. Posterior cord syndrome (B) presents with isolated proprioceptive loss. Central cord syndrome (C) mainly affects upper extremities. Cauda equina (E) involves LMN signs and saddle anesthesia.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 5"
-    }
-  },
-  {
-    "question": "A 70-year-old woman with long-standing diabetes presents with progressive weakness in her hands and arms. She denies trauma. Neurologic exam shows decreased strength and reflexes in the upper extremities, mild lower extremity weakness, and preserved proprioception and vibration. MRI reveals a small syrinx at the cervical level. Which of the following best describes her condition?",
-    "choices": [
-      "Posterior cord syndrome",
-      "Central cord syndrome",
-      "Brown-Séquard syndrome",
-      "Complete cord transection",
-      "Cauda equina syndrome"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Central cord syndrome often results from hyperextension injury or syringomyelia, especially in older adults. It affects the medial corticospinal fibers that innervate the upper extremities more than the lower extremities, explaining the disproportionate arm weakness. Sensory involvement may be mild or variable. Posterior cord syndrome (A) affects proprioception and vibration. Brown-Séquard (C) presents with asymmetric deficits. Complete transection (D) causes bilateral, complete loss of function. Cauda equina (E) affects lower extremity LMNs.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 5"
-    }
-  },
-  {
-    "question": "A lesion affecting the right dorsal column of the spinal cord at T10 would most likely result in which of the following deficits?",
-    "choices": [
-      "Loss of pain and temperature sensation in the left leg",
-      "Loss of pain and temperature sensation in the right leg",
-      "Loss of fine touch and vibration sense in the left leg",
-      "Loss of fine touch and vibration sense in the right leg",
-      "Bilateral lower extremity weakness"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The dorsal columns carry proprioception, vibration, and fine touch ipsilaterally. A right-sided lesion at T10 will affect these modalities on the same (right) side below the lesion. Pain and temperature fibers cross immediately upon entering the spinal cord, so choices 0 and 1 are incorrect. Bilateral motor weakness (choice 4) would require corticospinal tract damage.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 15"
-    }
-  },
-  {
-    "question": "A patient has a lesion in the left medial lemniscus at the level of the pons. Which of the following deficits would most likely be observed?",
-    "choices": [
-      "Loss of pain and temperature sensation on the left side of the face",
-      "Loss of vibration and proprioception on the left side of the body",
-      "Loss of pain and temperature on the right side of the body",
-      "Loss of vibration and proprioception on the right side of the body",
-      "Loss of motor control on the right side of the body"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The medial lemniscus carries second-order neurons that have already decussated from the dorsal column nuclei and convey vibration and proprioception to the thalamus. A left medial lemniscus lesion causes right-sided deficits in vibration and proprioception. Pain and temperature deficits on the right (choice 2) would require a spinothalamic tract lesion. Motor control (choice 4) involves corticospinal tract injury.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "View Reference on Page 14"
-    }
-  },
-  {
-    "question": "A 65-year-old man recently diagnosed with Parkinson’s disease is referred to occupational therapy. In an initial session, the therapist focuses on the patient’s values, daily routines, and goals, rather than prescribing a fixed regimen. Which of the following best describes the guiding principle of occupational therapy illustrated in this scenario?",
-    "choices": [
-      "Biomedical model focused on strength and flexibility",
-      "Pathophysiological diagnosis-directed treatment",
-      "Client-centered, occupation-based approach",
-      "Prognosis-driven physical performance testing",
-      "Standardized mobility enhancement protocol"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Occupational therapy (OT) prioritizes a holistic, client-centered approach that considers a patient’s values and desired activities rather than just medical diagnosis or physical impairments. Unlike the biomedical model (choice 0), OT emphasizes meaningful occupations. Choice 1 is more aligned with traditional medical models. Choices 3 and 4 imply more rigid or standardized protocols, which are inconsistent with OT’s individualized strategy.",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "Not in Bible"
-    }
-  },
-  {
-    "question": "A 72-year-old woman with moderate Parkinson’s disease begins OT focused on improving motor coordination and balance. Her OT recommends engaging in rhythmic movements using a metronome and encourages participation in Tai Chi and dance classes. These interventions most likely aim to achieve which of the following outcomes?",
-    "choices": [
-      "Increase dopaminergic neuron proliferation",
-      "Reduce autonomic dysfunction and sleep latency",
-      "Stimulate cerebellar plasticity for involuntary tremor suppression",
-      "Improve gait velocity, balance, and quality of life through motor entrainment",
-      "Replace the need for pharmacologic therapy"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Evidence-based OT interventions like rhythmic auditory stimulation (metronome), music, dance, and Tai Chi are shown to improve gait velocity, balance, and quality of life by enhancing motor timing and neural connectivity. Choice 0 is incorrect because OT does not influence neuron proliferation. Choice 1 targets non-motor symptoms more commonly managed medically. Choice 2 misattributes the motor benefits to cerebellar activity. OT complements, not replaces, medications (choice 4).",
-    "reference": {
-      "url": "https://augustauniversity.box.com/s/1wyt5335tc8m9fh94zmgvt9kll4z9nmb",
-      "text": "Not in Bible"
-    }
+    "explanation": "The correct answer is Right corticospinal tract and right oculomotor nerve fascicles. This patient's presentation is characteristic of Medial Midbrain Syndrome, also known as Weber Syndrome. The lesion is in the right ventral midbrain. The contralateral (left) hemiparesis and lower facial weakness are caused by damage to the descending corticospinal and corticobulbar tracts located in the right cerebral peduncle. The ipsilateral (right) oculomotor nerve (CN III) palsy is caused by damage to the exiting fascicles of CN III. The CN III palsy accounts for the significant ptosis (paralysis of levator palpebrae superioris), the 'down and out' position of the eye (due to the unopposed action of the lateral rectus and superior oblique muscles), and the fixed, dilated pupil (due to loss of parasympathetic fibers that travel with CN III). A) This describes a lesion in the medial pons, which would cause a CN VI palsy, not a CN III palsy. B) This combination does not fit a single brainstem lesion, as the corticospinal tract damage would be on the right to cause left-sided weakness. D) This would cause sensory deficits, not the motor deficits described, and a trochlear (CN IV) palsy causes vertical diplopia, not a complete 'down and out' deviation. E) A lesion in the left cerebral peduncle would cause right-sided body weakness."
   }
 ]
+
+
