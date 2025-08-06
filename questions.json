@@ -48,16 +48,40 @@
     "explanation": "The triad of ptosis, miosis (constricted pupil), and anhidrosis is the classic presentation of Horner syndrome, which results from a lesion of the sympathetic chain to the head. An oculomotor nerve (CN III) palsy also causes ptosis but would lead to a dilated pupil (mydriasis), not miosis. Lesions of the optic nerve (vision), trigeminal ganglion (sensation), or ciliary ganglion (which would cause pupil dilation) would not produce this specific combination of autonomic signs."
   },
   {
-    "question": "A 38-year-old woman presents to the emergency department with sudden onset of severe right eye pain, nausea, and blurred vision. She describes seeing halos around lights. On examination, the pupil is mid-dilated and non-reactive to light. Intraocular pressure is significantly elevated. Which of the following structures is most directly implicated in the pathogenesis of this patient’s condition?",
+    "question": "A full-term infant is born via uncomplicated vaginal delivery. On newborn examination, the pediatrician notes that the infant's left eye is markedly small and underdeveloped, while the right eye appears normal. The remainder of the physical exam is unremarkable. An MRI confirms the presence of a small, malformed globe and optic nerve on the left. This infant's condition most likely resulted from a failure of which of the following developmental processes?",
     "choices": [
-      "Scleral venous sinus",
-      "Canal of Schlemm",
-      "Trabecular meshwork",
-      "Choroid",
-      "Aqueous humor in anterior chamber"
+      "Closure of the choroid fissure",
+      "Regression of the hyaloid artery",
+      "Induction of the surface ectoderm by the optic vesicle",
+      "Migration of neural crest cells into the pharyngeal arches",
+      "Halting of angiogenesis due to hyperoxia"
     ],
     "correctAnswer": 2,
-    "explanation": "This patient's presentation is classic for acute angle-closure glaucoma. The underlying pathogenesis is a sudden physical blockage of the trabecular meshwork by the peripheral iris, which prevents aqueous humor from draining. This leads to a rapid, painful spike in intraocular pressure. While the Canal of Schlemm (also known as the scleral venous sinus) is part of the drainage system, the primary obstruction occurs upstream at the meshwork. The aqueous humor is the fluid that builds up, and the choroid is a vascular layer not directly involved in the outflow obstruction."
+    "explanation": "The correct answer is Induction of the surface ectoderm by the optic vesicle. Microphthalmia (a small eye) and anophthalmia (an absent eye) can be caused by an interruption in the inductive tissue interactions that drive early eye formation. The presentation describes how the optic vesicle, an out-pouching of the neuroectoderm, induces the overlying surface ectoderm to thicken and form the lens placode, which is a critical step for the development of the entire globe. A failure in this primary inductive step can lead to a halt or severe disruption in eye development, resulting in microphthalmia or anophthalmia. (A) Failure of the choroid fissure to close results in a coloboma. (B) Failure of the hyaloid artery to regress results in persistent fetal vasculature. (D) While important for craniofacial development, this is not the primary inductive step for the eye itself. (E) This is the mechanism for Retinopathy of Prematurity."
+  },
+  {
+    "question": "A 2-year-old child is brought to the ophthalmologist for a routine check-up. The mother mentions that she sometimes notices an unusual shape to the child's left pupil. On examination, the physician notes a 'keyhole' appearance of the left iris, with the defect located in the inferior aspect. A fundoscopic exam reveals a corresponding defect in the inferior retina. This patient's condition is most likely due to the failure of which embryological structure to close?",
+    "choices": [
+      "Optic vesicle",
+      "Lens placode",
+      "Anterior neuropore",
+      "Choroid fissure",
+      "First pharyngeal cleft"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is Choroid fissure. The clinical presentation of a 'keyhole' pupil with an inferior retinal defect is classic for a coloboma. This condition results from the incomplete closure of the choroid (or optic) fissure, a ventral groove that normally closes during the 5th-7th weeks of development to enclose the hyaloid artery. Failure of this closure results in a gap in the inferior aspect of the iris, retina, and/or optic disc. (A) A defect in the optic vesicle would lead to a more severe malformation like anophthalmia. (B) A defect in the lens placode leads to aphakia or congenital cataracts. (C) Failure of the anterior neuropore to close causes anencephaly. (E) The first pharyngeal cleft forms the external auditory meatus."
+  },
+  {
+    "question": "A male infant is born prematurely at 27 weeks gestation and requires ventilatory support with high-concentration oxygen for several weeks in the neonatal intensive care unit (NICU). After being weaned to room air, a routine screening eye examination reveals abnormal proliferation of blood vessels extending from the retina into the vitreous humor. The pathogenesis of this infant's condition is best described by which of the following sequences?",
+    "choices": [
+      "A genetic mutation in crystallins leading to disorganized lens fibers",
+      "Initial hypoxia leading to a surge in vascular endothelial growth factor (VEGF), followed by hyperoxia-induced vessel regression",
+      "Failure of the fetal hyaloid artery to regress, leading to persistent vasculature",
+      "Initial hyperoxia-induced cessation of normal retinal vessel growth, followed by relative hypoxia-induced abnormal angiogenesis",
+      "Maternal rubella infection during the first trimester causing direct damage to developing retinal vessels"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is Initial hyperoxia-induced cessation of normal retinal vessel growth, followed by relative hypoxia-induced abnormal angiogenesis. This describes the two-phase pathogenesis of Retinopathy of Prematurity (ROP). When a premature infant is placed in a high-oxygen (hyperoxia) environment, the normal development of retinal vessels is halted. When the infant is later weaned to room air, the underdeveloped retina becomes relatively hypoxic, triggering an over-production of angiogenic factors that leads to abnormal, disorganized blood vessel proliferation. (A) This describes the cause of many congenital cataracts. (B) This reverses the correct sequence of events in ROP. (C) This describes persistent fetal vasculature, a different developmental anomaly. (E) Maternal rubella is a classic cause of congenital cataracts."
   },
   {
     "question": "A 27-year-old man is struck in the eye with a racquetball and experiences sudden visual loss and photopsia. Fundoscopic examination reveals a gray, elevated retina. Which of the following best explains this condition?",
@@ -70,18 +94,6 @@
     ],
     "correctAnswer": 2,
     "explanation": "The symptoms of trauma followed by photopsia (flashes of light) and a fundoscopic exam showing a gray, elevated retina are pathognomonic for a retinal detachment. A vitreous hemorrhage would obscure the retinal view with blood, and a central retinal artery occlusion presents with a pale retina and a 'cherry-red spot'. Lens dislocation and increased intraocular pressure (glaucoma) do not cause these specific fundoscopic changes."
-  },
-  {
-    "question": "A 50-year-old woman with a family history of glaucoma is found to have elevated intraocular pressure on routine exam. She denies pain or visual symptoms. Fundoscopic exam reveals increased cup-to-disc ratio. Which of the following best describes the underlying pathophysiology?",
-    "choices": [
-      "Decreased aqueous humor production",
-      "Increased outflow via uveoscleral pathway",
-      "Blockage of trabecular meshwork",
-      "Retinal artery embolism",
-      "Optic neuritis"
-    ],
-    "correctAnswer": 2,
-    "explanation": "This patient has primary open-angle glaucoma. The pathophysiology involves a chronic, microscopic blockage of the trabecular meshwork, which increases resistance to aqueous humor outflow and leads to elevated intraocular pressure. This pressure causes progressive optic nerve damage, seen as an increased cup-to-disc ratio. Conversely, decreased aqueous production or increased uveoscleral outflow would lower intraocular pressure. Retinal artery embolism and optic neuritis are acute conditions unrelated to the chronic, progressive nature of open-angle glaucoma."
   },
   {
     "question": "A 68-year-old man presents to his ophthalmologist with a complaint of slowly progressive, painless loss of his peripheral vision over the past several years. His visual acuity is 20/20. On examination, his intraocular pressure is found to be elevated. A fundoscopic exam reveals damage to the axons of the retinal ganglion cells as they converge at the optic disc. The physician explains that this condition is most often caused by increased intraocular pressure due to decreased drainage of aqueous humor. Based on the provided information, an obstruction at which of the following locations is the most likely cause of this patient's condition?",
