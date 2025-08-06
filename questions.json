@@ -1,6 +1,6 @@
 [
   {
-    "question": "A 42-year-old woman presents to the emergency department after being struck in the face during a soccer match. She reports new-onset diplopia and numbness over her right cheek. Physical examination reveals limited upward gaze of the right eye and hypoesthesia in the infraorbital region. CT imaging confirms an orbital floor fracture. Which of the following bones is most likely fractured?",
+    "question": "A 42-year-old woman presents to the emergency department after being struck in the face during a soccer match. She reports new-onset diplopia and numbness over her right cheek. Physical examination reveals limited vertical gaze of the right eye and hypoesthesia in the infraorbital region. CT imaging confirms an orbital floor fracture. Which of the following bones is most likely fractured?",
     "choices": [
       "Frontal bone",
       "Sphenoid bone",
@@ -9,7 +9,7 @@
       "Maxillary bone"
     ],
     "correctAnswer": 4,
-    "explanation": "The correct answer is the maxillary bone, as it forms the majority of the orbital floor. A 'blowout fracture' in this location explains the patient's symptoms: entrapment of the inferior rectus muscle, leading to limited upward gaze, and injury to the infraorbital nerve, causing numbness over the cheek. The other bones form different parts of the orbit; the frontal bone forms the roof, the zygomatic bone forms the lateral wall, the sphenoid forms the posterior aspect, and the ethmoid bone forms the medial wall. A fracture of the ethmoid bone, for instance, would more likely entrap the medial rectus muscle, impairing adduction rather than upward gaze."
+    "explanation": "The correct answer is the maxillary bone, as it forms the majority of the orbital floor. A 'blowout fracture' in this location explains the patient's symptoms: entrapment of the inferior rectus muscle, leading to limited vertical gaze, and injury to the infraorbital nerve, causing numbness over the cheek. The other bones form different parts of the orbit; the frontal bone forms the roof, the zygomatic bone forms the lateral wall, the sphenoid forms the posterior aspect, and the ethmoid bone forms the medial wall. A fracture of the ethmoid bone, for instance, would more likely entrap the medial rectus muscle, impairing adduction rather than upward gaze."
   },
   {
     "question": "A 60-year-old man presents with right-sided proptosis, ophthalmoplegia, and decreased corneal reflex. He has a history of chronic sinusitis. Neurologic examination reveals right-sided ptosis and impaired adduction of the right eye. MRI reveals a lesion in the cavernous sinus. Which of the following cranial nerves is most likely involved in this patient's ocular findings?",
