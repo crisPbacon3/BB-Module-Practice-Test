@@ -382,6 +382,30 @@
     ],
     "correctAnswer": 2,
     "explanation": "The correct answer is Right corticospinal tract and right oculomotor nerve fascicles. This patient's presentation is characteristic of Medial Midbrain Syndrome, also known as Weber Syndrome. The lesion is in the right ventral midbrain. The contralateral (left) hemiparesis and lower facial weakness are caused by damage to the descending corticospinal and corticobulbar tracts located in the right cerebral peduncle. The ipsilateral (right) oculomotor nerve (CN III) palsy is caused by damage to the exiting fascicles of CN III. The CN III palsy accounts for the significant ptosis (paralysis of levator palpebrae superioris), the 'down and out' position of the eye (due to the unopposed action of the lateral rectus and superior oblique muscles), and the fixed, dilated pupil (due to loss of parasympathetic fibers that travel with CN III). A) This describes a lesion in the medial pons, which would cause a CN VI palsy, not a CN III palsy. B) This combination does not fit a single brainstem lesion, as the corticospinal tract damage would be on the right to cause left-sided weakness. D) This would cause sensory deficits, not the motor deficits described, and a trochlear (CN IV) palsy causes vertical diplopia, not a complete 'down and out' deviation. E) A lesion in the left cerebral peduncle would cause right-sided body weakness."
+  },
+  {
+    "question": "A 28-year-old woman presents with a 5-year history of migraine headaches, which she experiences 3-4 times per month. The headaches are characterized by unilateral, throbbing pain, photophobia, and nausea, often lasting up to 12 hours. She reports that her current medications provide inadequate relief and have notable side effects. She tells you she and her partner are planning to conceive a child within the next year. She is interested in non-medication options for managing her headaches. According to the American Academy of Neurology guidelines mentioned, which of the following is the most appropriate recommendation for this patient?",
+    "choices": [
+      "Increase the dose of her current acute medication",
+      "Initiate a trial of prophylactic pharmacotherapy",
+      "Refer for a behavioral therapy such as biofeedback or relaxation training",
+      "Advise avoidance of all potential dietary triggers",
+      "Suggest a trial of over-the-counter herbal supplements"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is Refer for a behavioral therapy such as biofeedback or relaxation training. The presentation highlights consensus guidelines from the American Academy of Neurology that state behavioral and other non-pharmacological treatments are preferred over pharmacological treatment for migraine headaches in the presence of specific factors. This patient meets several of these criteria: she has a poor tolerance or response to pharmaceuticals, is experiencing negative side effects, has a preference for non-pharmacological treatments, and is planning a pregnancy. Therefore, referring her for an evidence-based behavioral therapy is the most appropriate next step. (A) Increasing the dose of her current medication is not ideal given her report of poor tolerance and negative side effects. (B) Initiating prophylactic pharmacotherapy is less preferred in a patient who wishes to avoid medication side effects and is planning a pregnancy. (D) While trigger management is a component of behavioral therapy, advising strict avoidance of all potential triggers can lead to lifestyle restrictions and is not a comprehensive, evidence-based standalone therapy. (E) This is not an evidence-based recommendation supported by the lecture."
+  },
+  {
+    "question": "A 45-year-old man with chronic tension headaches is enrolled in a headache management program. During his sessions, a therapist places sensors on his frontalis and trapezius muscles. These sensors are connected to a device that provides him with real-time auditory and visual information about the level of contraction in these muscles. He is then coached on techniques to consciously lower the muscle tension, using the device's output to gauge his success. This therapeutic technique is best described as which of the following?",
+    "choices": [
+      "Progressive Muscle Relaxation (PMR)",
+      "Autogenic Training",
+      "Mindfulness-Based Stress Reduction (MBSR)",
+      "Electromyogram (EMG) Biofeedback",
+      "Acceptance and Commitment Therapy (ACT)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is Electromyogram (EMG) Biofeedback. The presentation defines biofeedback as the use of an instrument to monitor a bodily response, such as muscle tension, as the person tries to modify that response. It specifically states that Electromyogram (EMG) biofeedback is used as a prevention approach for tension-type headaches and involves monitoring skeletal muscle tension in areas like the frontalis and trapezius muscles. The scenario described is a direct application of this technique. (A) Progressive Muscle Relaxation (PMR) involves systematically tensing and then relaxing various muscle groups but does not use electronic instruments for monitoring. (B) Autogenic Training is a form of self-hypnosis that involves repeating specific phrases to create calming sensations. (C) Mindfulness-Based Stress Reduction (MBSR) is a meditation therapy focused on non-judgmental awareness. (E) Acceptance and Commitment Therapy (ACT) emphasizes acceptance of pain and valued living as alternatives to avoidance."
   }
 ]
 
