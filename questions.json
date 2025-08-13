@@ -442,6 +442,30 @@
 ],
 "correctAnswer": 0,
 "explanation": "Choice 0 is correct. Progressive multifocal leukoencephalopathy occurs in immunosuppressed states and with natalizumab exposure; it shows multifocal demyelination with necrosis and characteristic viral inclusions in oligodendrocytes, and JC virus PCR is positive in CSF. Choice 1 is incorrect because central pontine myelinolysis presents after rapid correction of hyponatremia with a ‘bat-wing’ pontine lesion and is not linked to JC virus. Choice 2 is incorrect because active MS plaques show demyelination on Luxol fast blue, not intact myelin; they also feature foamy macrophages and perivascular lymphocytes but lack viral inclusions. Choice 3 is incorrect because remyelinating (shadow) plaques show thin myelin, not the destructive viral cytopathic changes of PML. Choice 4 is incorrect because leukodystrophies are dysmyelinating pediatric disorders with diffuse bilateral white matter involvement and sparing of subcortical U-fibers, often due to enzyme or peroxisomal defects, not an acquired opportunistic viral infection. "
+},
+{
+"question": "A 26-year-old woman with focal epilepsy controlled on lamotrigine develops breakthrough seizures two months after starting a combined estrogen–progestin oral contraceptive. She is otherwise healthy and not planning pregnancy for several years. Which is the most appropriate management to address the cause of her loss of seizure control?",
+"choices": [
+"Increase the lamotrigine maintenance dose and monitor levels and clinical response",
+"Switch lamotrigine to carbamazepine to avoid contraceptive interactions",
+"Add valproate to boost lamotrigine exposure without changing the dose",
+"Stop the oral contraceptive and rely on barrier contraception only",
+"Lower the lamotrigine dose to reduce adverse effects unmasked by estrogen"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct because estrogen-containing oral contraceptives increase lamotrigine clearance, often necessitating a higher lamotrigine dose to restore seizure control; dose adjustments should be guided by clinical response and, when available, serum levels. Choice 1 is incorrect because carbamazepine is a strong hepatic enzyme inducer that can reduce oral contraceptive effectiveness and adds interaction burden. Choice 2 is incorrect because valproate inhibits lamotrigine metabolism, increasing risk of serious rash and other toxicity; using it solely to raise lamotrigine levels is unsafe. Choice 3 is premature; contraception can be continued with appropriate lamotrigine dose titration rather than stopping an effective family-planning method. Choice 4 is the opposite of what is needed; estrogen lowers lamotrigine exposure, so decreasing the dose would worsen control. "
+},
+{
+"question": "An 81-year-old man in a nursing facility develops a new focal-onset seizure disorder after a lacunar stroke. History is significant for liver cirrhosis, type 2 diabetes mellitus, open-angle glaucoma, a prior calcium oxalate kidney stone, and polypharmacy. Which antiseizure medication is the best initial choice?",
+"choices": [
+"Levetiracetam",
+"Phenytoin",
+"Carbamazepine",
+"Valproic acid",
+"Topiramate"
+],
+"correctAnswer": 0,
+"explanation": "Levetiracetam is correct because it is effective for focal seizures, is generally well tolerated in older adults, has minimal drug–drug interactions, and is renally cleared, avoiding the patient’s hepatic impairment. Phenytoin is incorrect because it is a hepatic enzyme inducer, has complex nonlinear kinetics, and can worsen glycemic control by decreasing insulin secretion. Carbamazepine is incorrect due to strong CYP3A4 induction with many interactions in a polypharmacy patient and risks such as hyponatremia. Valproic acid is incorrect because preexisting liver disease increases the risk of hepatotoxicity. Topiramate is incorrect given this patient’s history of glaucoma and nephrolithiasis; its carbonic anhydrase–inhibiting effect increases risks of acute angle issues and kidney stones. "
 }
 ]
 
