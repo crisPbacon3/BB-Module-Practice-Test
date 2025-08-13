@@ -1,412 +1,447 @@
 [
   {
-    "question": "A 42-year-old woman presents to the emergency department after being struck in the face during a soccer match. She reports new-onset diplopia and numbness over her right cheek. Physical examination reveals limited vertical gaze of the right eye and hypoesthesia in the infraorbital region. CT imaging confirms an orbital floor fracture. Which of the following bones is most likely fractured?",
+    "question": "A 2-year-old boy has 2 days of fever and ear-tugging. Otoscopy shows a bulging, erythematous tympanic membrane with decreased mobility. This is his third episode this year. His parent asks why children get middle-ear infections more often and which nerve injury could make pressure equalization worse. Which combination is most accurate?",
     "choices": [
-      "Frontal bone",
-      "Sphenoid bone",
-      "Zygomatic bone",
-      "Ethmoid bone",
-      "Maxillary bone"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The correct answer is the maxillary bone, as it forms the majority of the orbital floor. A 'blowout fracture' in this location explains the patient's symptoms: entrapment of the inferior rectus muscle, leading to limited vertical gaze, and injury to the infraorbital nerve, causing numbness over the cheek. The other bones form different parts of the orbit; the frontal bone forms the roof, the zygomatic bone forms the lateral wall, the sphenoid forms the posterior aspect, and the ethmoid bone forms the medial wall. A fracture of the ethmoid bone, for instance, would more likely entrap the medial rectus muscle, impairing adduction rather than upward gaze."
-  },
-  {
-    "question": "A 60-year-old man presents with right-sided proptosis, ophthalmoplegia, and decreased corneal reflex. He has a history of chronic sinusitis. Neurologic examination reveals right-sided ptosis and impaired adduction of the right eye. MRI reveals a lesion in the cavernous sinus. Which of the following cranial nerves is most likely involved in this patient's ocular findings?",
-    "choices": [
-      "CN I",
-      "CN II",
-      "CN III",
-      "CN VIII",
-      "CN XII"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A lesion in the cavernous sinus affecting CN III (oculomotor nerve) best explains the patient's symptoms of ophthalmoplegia (impaired eye movement), ptosis (drooping eyelid), and impaired adduction. The cavernous sinus contains cranial nerves III, IV, V1, V2, and VI. The other nerves listed are incorrect because they do not pass through the cavernous sinus; CN I (olfactory) relates to smell, CN II (optic) passes through the optic canal, CN VIII (vestibulocochlear) is involved in hearing and balance, and CN XII (hypoglossal) controls the tongue."
-  },
-  {
-    "question": "A 24-year-old man presents after a motor vehicle collision with complaints of double vision. On physical exam, his right eye fails to abduct when attempting lateral gaze. The remainder of the ocular exam is unremarkable. Which of the following extraocular muscles is most likely impaired in this patient?",
-    "choices": [
-      "Superior rectus",
-      "Inferior oblique",
-      "Lateral rectus",
-      "Medial rectus",
-      "Superior oblique"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The inability to abduct the eye (move it laterally) points directly to a paralysis of the lateral rectus muscle. This muscle's sole function is abduction and it is innervated by the abducens nerve (CN VI). The medial rectus adducts the eye, the superior rectus elevates it, the superior oblique is responsible for depression and intorsion, and the inferior oblique elevates and abducts. Weakness in any of these other muscles would not cause an isolated failure of abduction."
-  },
-  {
-    "question": "A 55-year-old man is evaluated for a drooping right eyelid and a constricted pupil on the same side. He also reports decreased sweating on the right side of his face. On physical examination, ptosis, miosis, and anhidrosis are noted. These findings are consistent with which of the following disruptions?",
-    "choices": [
-      "Optic nerve lesion",
-      "Oculomotor nerve palsy",
-      "Sympathetic chain lesion",
-      "Ciliary ganglion injury",
-      "Trigeminal ganglion lesion"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The triad of ptosis, miosis (constricted pupil), and anhidrosis is the classic presentation of Horner syndrome, which results from a lesion of the sympathetic chain to the head. An oculomotor nerve (CN III) palsy also causes ptosis but would lead to a dilated pupil (mydriasis), not miosis. Lesions of the optic nerve (vision), trigeminal ganglion (sensation), or ciliary ganglion (which would cause pupil dilation) would not produce this specific combination of autonomic signs."
-  },
-  {
-    "question": "A full-term infant is born via uncomplicated vaginal delivery. On newborn examination, the pediatrician notes that the infant's left eye is markedly small and underdeveloped, while the right eye appears normal. The remainder of the physical exam is unremarkable. An MRI confirms the presence of a small, malformed globe and optic nerve on the left. This infant's condition most likely resulted from a failure of which of the following developmental processes?",
-    "choices": [
-      "Closure of the choroid fissure",
-      "Regression of the hyaloid artery",
-      "Induction of the surface ectoderm by the optic vesicle",
-      "Migration of neural crest cells into the pharyngeal arches",
-      "Halting of angiogenesis due to hyperoxia"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is Induction of the surface ectoderm by the optic vesicle. Microphthalmia (a small eye) and anophthalmia (an absent eye) can be caused by an interruption in the inductive tissue interactions that drive early eye formation. The presentation describes how the optic vesicle, an out-pouching of the neuroectoderm, induces the overlying surface ectoderm to thicken and form the lens placode, which is a critical step for the development of the entire globe. A failure in this primary inductive step can lead to a halt or severe disruption in eye development, resulting in microphthalmia or anophthalmia. (A) Failure of the choroid fissure to close results in a coloboma. (B) Failure of the hyaloid artery to regress results in persistent fetal vasculature. (D) While important for craniofacial development, this is not the primary inductive step for the eye itself. (E) This is the mechanism for Retinopathy of Prematurity."
-  },
-  {
-    "question": "A 2-year-old child is brought to the ophthalmologist for a routine check-up. The mother mentions that she sometimes notices an unusual shape to the child's left pupil. On examination, the physician notes a 'keyhole' appearance of the left iris, with the defect located in the inferior aspect. A fundoscopic exam reveals a corresponding defect in the inferior retina. This patient's condition is most likely due to the failure of which embryological structure to close?",
-    "choices": [
-      "Optic vesicle",
-      "Lens placode",
-      "Anterior neuropore",
-      "Choroid fissure",
-      "First pharyngeal cleft"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is Choroid fissure. The clinical presentation of a 'keyhole' pupil with an inferior retinal defect is classic for a coloboma. This condition results from the incomplete closure of the choroid (or optic) fissure, a ventral groove that normally closes during the 5th-7th weeks of development to enclose the hyaloid artery. Failure of this closure results in a gap in the inferior aspect of the iris, retina, and/or optic disc. (A) A defect in the optic vesicle would lead to a more severe malformation like anophthalmia. (B) A defect in the lens placode leads to aphakia or congenital cataracts. (C) Failure of the anterior neuropore to close causes anencephaly. (E) The first pharyngeal cleft forms the external auditory meatus."
-  },
-  {
-    "question": "A male infant is born prematurely at 27 weeks gestation and requires ventilatory support with high-concentration oxygen for several weeks in the neonatal intensive care unit (NICU). After being weaned to room air, a routine screening eye examination reveals abnormal proliferation of blood vessels extending from the retina into the vitreous humor. The pathogenesis of this infant's condition is best described by which of the following sequences?",
-    "choices": [
-      "A genetic mutation in crystallins leading to disorganized lens fibers",
-      "Initial hypoxia leading to a surge in vascular endothelial growth factor (VEGF), followed by hyperoxia-induced vessel regression",
-      "Failure of the fetal hyaloid artery to regress, leading to persistent vasculature",
-      "Initial hyperoxia-induced cessation of normal retinal vessel growth, followed by relative hypoxia-induced abnormal angiogenesis",
-      "Maternal rubella infection during the first trimester causing direct damage to developing retinal vessels"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is Initial hyperoxia-induced cessation of normal retinal vessel growth, followed by relative hypoxia-induced abnormal angiogenesis. This describes the two-phase pathogenesis of Retinopathy of Prematurity (ROP). When a premature infant is placed in a high-oxygen (hyperoxia) environment, the normal development of retinal vessels is halted. When the infant is later weaned to room air, the underdeveloped retina becomes relatively hypoxic, triggering an over-production of angiogenic factors that leads to abnormal, disorganized blood vessel proliferation. (A) This describes the cause of many congenital cataracts. (B) This reverses the correct sequence of events in ROP. (C) This describes persistent fetal vasculature, a different developmental anomaly. (E) Maternal rubella is a classic cause of congenital cataracts."
-  },
-  {
-    "question": "A 27-year-old man is struck in the eye with a racquetball and experiences sudden visual loss and photopsia. Fundoscopic examination reveals a gray, elevated retina. Which of the following best explains this condition?",
-    "choices": [
-      "Increased intraocular pressure",
-      "Lens dislocation",
-      "Retinal detachment",
-      "Vitreous hemorrhage",
-      "Central retinal artery occlusion"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The symptoms of trauma followed by photopsia (flashes of light) and a fundoscopic exam showing a gray, elevated retina are pathognomonic for a retinal detachment. A vitreous hemorrhage would obscure the retinal view with blood, and a central retinal artery occlusion presents with a pale retina and a 'cherry-red spot'. Lens dislocation and increased intraocular pressure (glaucoma) do not cause these specific fundoscopic changes."
-  },
-  {
-    "question": "A 68-year-old man presents to his ophthalmologist with a complaint of slowly progressive, painless loss of his peripheral vision over the past several years. His visual acuity is 20/20. On examination, his intraocular pressure is found to be elevated. A fundoscopic exam reveals damage to the axons of the retinal ganglion cells as they converge at the optic disc. The physician explains that this condition is most often caused by increased intraocular pressure due to decreased drainage of aqueous humor. Based on the provided information, an obstruction at which of the following locations is the most likely cause of this patient's condition?",
-    "choices": [
-      "Ciliary processes",
-      "Scleral venous sinus",
-      "Trabecular meshwork",
-      "Posterior surface of the iris",
-      "Outer nuclear layer"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is Trabecular meshwork. The patient's presentation is classic for glaucoma, which is characterized by damage to retinal ganglion cell axons due to increased intraocular pressure. Aqueous humor is produced by the ciliary processes, flows into the posterior chamber, through the pupil, and into the anterior chamber. To exit the eye, it must pass through the trabecular meshwork to drain into the scleral venous sinus (Canal of Schlemm). The presentation states glaucoma is most often caused by decreased aqueous humor drainage at the trabecular meshwork or Schlemm's canal. The trabecular meshwork is the primary site of resistance and blockage in the most common forms of glaucoma. Ciliary processes are incorrect because they are responsible for the production of aqueous humor, not its drainage. The scleral venous sinus (Canal of Schlemm) is incorrect because while it is the final exit channel, the primary obstruction and site of increased resistance occurs upstream in the trabecular meshwork. The posterior surface of the iris is incorrect; while it is in the path of aqueous humor flow, it is not the site of outflow obstruction. The posterior surface is a two-layered epithelium heavily filled with melanin to block light. The outer nuclear layer is incorrect as it is a layer of the retina containing the cell bodies of photoreceptors and has no role in aqueous humor dynamics."
-  },
-  {
-    "question": "A 55-year-old woman with a history of hypertension and hyperlipidemia experiences a sudden, painless loss of vision in her left eye. A fundoscopic exam reveals findings consistent with an occlusion of the central retinal artery. This artery, along with the central retinal vein, enters the eye within the optic nerve. Given this diagnosis, which of the following retinal layers is most likely to be spared from initial ischemic damage due to its unique blood supply?",
-    "choices": [
-      "Nerve fiber layer",
-      "Ganglion cell layer",
-      "Inner nuclear layer",
-      "Inner plexiform layer",
-      "Rod and cone layer"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The correct answer is Rod and cone layer. The retina has a dual blood supply. The inner two-thirds of the retina, which includes the nerve fiber layer, ganglion cell layer, inner plexiform layer, and inner nuclear layer, are supplied by branches of the central retinal artery. Therefore, an occlusion of this artery would cause ischemia in all of these layers. However, the outer one-third of the retina is supplied by diffusion from the underlying choroid (choriocapillaris). This outer portion includes the rod and cone layer (photoreceptors) and the outer nuclear layer. Therefore, the rod and cone layer would be spared initial ischemic damage in a central retinal artery occlusion because its nutrient and oxygen supply comes from the choroid, not the central retinal artery. The nerve fiber layer, ganglion cell layer, inner nuclear layer, and inner plexiform layer are all incorrect because they reside within the inner two-thirds of the retina and are dependent on the central retinal artery for their blood supply."
-  },
-  {
-    "question": "A 22-year-old student is preparing for an exam and spends several hours reading a textbook placed 30 centimeters from her face. To maintain clear, focused vision on the nearby text, her eyes must undergo the process of visual accommodation. Which of the following correctly describes the series of events that occurs during this process?",
-    "choices": [
-      "Ciliary muscle contracts, tension on zonular fibers increases, and the lens becomes flatter.",
-      "Ciliary muscle relaxes, tension on zonular fibers decreases, and the lens becomes more rounded.",
-      "Ciliary muscle contracts, tension on zonular fibers decreases, and the lens becomes more rounded.",
-      "Ciliary muscle relaxes, tension on zonular fibers increases, and the lens becomes more rounded.",
-      "Sphincter pupillae muscle relaxes, dilator pupillae muscle contracts, and the lens becomes flatter."
-    ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is Ciliary muscle contracts, tension on zonular fibers decreases, and the lens becomes more rounded. The process of visual accommodation allows for focusing on near and far objects by changing the curvature of the lens. When gazing at near objects, the ciliary muscle contracts. The ciliary muscle is composed of smooth muscle fibers that alter the shape of the lens. This contraction reduces the tension on the ciliary zonular fibers, allowing the lens to become more convex or rounded. A is incorrect because it describes the process for focusing on distant objects: the ciliary muscle is relaxed, which keeps the zonule fibers under tension, causing the lens to be flatter. B is incorrect because ciliary muscle relaxation leads to increased, not decreased, tension on the zonular fibers. D is incorrect because relaxation of the ciliary muscle flattens, not rounds, the lens, and it increases, not decreases, zonular tension. E is incorrect because the sphincter and dilator pupillae muscles control pupil size, not the shape of the lens for accommodation."
-  },
-  {
-    "question": "A 45-year-old patient is brought to the emergency department after a motor vehicle collision. During the neurological exam, the physician assesses the pupillary light reflex. When a light is shone into the patient's right eye, neither the right pupil (direct response) nor the left pupil (consensual response) constricts. When the light is then shone into the patient's left eye, both the left pupil (direct response) and the right pupil (consensual response) constrict normally and equally. Throughout the examination, the pupils remain equal in size (isocoria). A lesion affecting which of the following structures best explains these findings?",
-    "choices": [
-      "Right oculomotor nerve (CN III)",
-      "Left optic nerve (CN II)",
-      "Right optic nerve (CN II)",
-      "Pretectal nucleus",
-      "Left oculomotor nerve (CN III)"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is Right optic nerve (CN II). This clinical scenario describes a complete lesion of the right afferent limb of the pupillary light reflex, which is the right optic nerve (CN II). When light is shone into the right eye, the sensory signal cannot be transmitted to the brainstem, so neither Edinger-Westphal nucleus is activated, and thus there is no direct or consensual response. When light is shone into the left eye, the afferent signal via the left CN II is intact. This signal reaches the pretectal nuclei, which project bilaterally to both Edinger-Westphal nuclei, resulting in a normal direct constriction of the left pupil and a normal consensual constriction of the right pupil. This confirms that both efferent limbs (both CN III nerves) are functioning correctly. Lesions of the afferent limb (CN II) result in isocoria because both efferent limbs receive the same signal (or lack thereof) and therefore respond equally. A) A lesion of the right oculomotor nerve (CN III), the efferent limb, would result in anisocoria, with the right pupil being larger and unresponsive to light shone in either eye. B) A lesion of the left optic nerve would present with the opposite findings: no response when light is shone in the left eye, but normal direct and consensual responses when light is shone in the right eye. D) A lesion of the pretectal nucleus could cause an Argyll Robertson pupil where the light reflex is absent but accommodation is intact; however, the intact response when light is shone in the left eye makes a complete bilateral pretectal lesion unlikely. E) A lesion of the left oculomotor nerve would result in anisocoria with the left pupil being larger and unreactive to light shone in either eye."
-  },
-  {
-    "question": "A 32-year-old woman with a history of multiple sclerosis presents with acute onset of horizontal diplopia. On neurologic examination, she is asked to look to her right. Her right eye abducts, but it exhibits a coarse, rhythmic nystagmus. Her left eye fails to adduct past the midline. When she is asked to look to her left, both eyes move normally. Her ability to converge her eyes when focusing on a near object is intact. These findings are most consistent with a lesion in which of the following structures?",
-    "choices": [
-      "Right paramedian pontine reticular formation (PPRF)",
-      "Left medial longitudinal fasciculus (MLF)",
-      "Left frontal eye field (FEF)",
-      "Right abducens nucleus (CN VI)",
-      "Left oculomotor nerve (CN III)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is Left medial longitudinal fasciculus (MLF). This is the classic presentation of an internuclear ophthalmoplegia (INO), which is caused by a lesion of the medial longitudinal fasciculus (MLF). The MLF connects the abducens nucleus (CN VI) on one side to the contralateral oculomotor nucleus (CN III) to coordinate horizontal gaze. To look to the right, the left frontal eye field (FEF) activates the right PPRF, which activates the right abducens nucleus. The right abducens nucleus sends a signal via the left MLF to the left oculomotor nucleus to cause the left eye to adduct. In this patient, a lesion in the left MLF prevents the signal from reaching the left oculomotor nucleus, resulting in a failure of left eye adduction on rightward gaze. The nystagmus in the abducting right eye is also characteristic of INO. Convergence is often spared because its inputs do not travel in the caudal MLF. A) A lesion of the right PPRF would cause a right lateral gaze palsy, where neither eye can look to the right. C) A lesion in the left frontal eye field would result in an inability to look to the right, and the eyes would deviate toward the side of the lesion (to the left) at rest. D) A lesion in the right abducens nucleus would also cause a right lateral gaze palsy. E) A lesion of the left oculomotor nerve would cause a 'down and out' deviation of the left eye at rest and an inability to adduct, but it would not cause nystagmus in the contralateral eye during abduction."
-  },
-  {
-    "question": "A 65-year-old man is evaluated for neurological deficits. On examination, his pupils are noted to be small and do not constrict when a bright light is shone into either eye. However, when the examiner asks the patient to focus on a pen moving from a distance toward his nose, both pupils constrict briskly as the eyes converge. This clinical finding is known as an Argyll Robertson pupil. This dissociation between the light reflex and the accommodation reflex is caused by a lesion in which specific structure?",
-    "choices": [
-      "Superior colliculi",
-      "Ciliary ganglion",
-      "Optic chiasm",
-      "Edinger-Westphal nuclei",
-      "Pretectal nucleus"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The correct answer is Pretectal nucleus. An Argyll Robertson pupil, where the pupil accommodates but does not react to light, is a classic example of light-near dissociation. This condition is caused by a selective lesion affecting the pretectal nucleus in the dorsal midbrain. The pupillary light reflex pathway requires retinal ganglion cell axons to synapse in the pretectal nucleus, which then projects bilaterally to the Edinger-Westphal nuclei to initiate pupillary constriction. The accommodation (near vision) reflex, which involves pupillary constriction, originates from the visual association cortex and projects to the superior colliculi and then to the Edinger-Westphal nuclei, bypassing the pretectal nucleus. Therefore, a lesion of the pretectal nucleus, classically associated with neurosyphilis, will compromise the pupillary light reflex while leaving the accommodation reflex intact. A) While the superior colliculi are involved in the accommodation pathway, a lesion here would not produce this specific dissociation. B, C, and D are incorrect because lesions of the ciliary ganglion, optic chiasm, or Edinger-Westphal nuclei would affect both the light reflex and the near-response component of pupillary constriction, and would not result in this specific dissociation."
-  },
-  {
-    "question": "A 48-year-old woman presents to her primary care physician with a six-month history of worsening headaches. She also mentions that she has been bumping into objects on both her left and right sides more frequently. Her visual acuity is normal. A formal visual field examination reveals a loss of vision in the temporal field of each eye. An MRI reveals a mass compressing the visual pathway. Based on these findings, the lesion is most likely located at which of the following structures?",
-    "choices": [
-      "Right optic tract",
-      "Optic chiasm",
-      "Left optic nerve",
-      "Right lingual gyrus",
-      "Left Meyer's loop"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is Optic chiasm. The patient's visual field deficit is a bitemporal (heteronymous) hemianopia, which is the loss of both temporal visual fields. This specific deficit is caused by a lesion compressing the midline of the optic chiasm. At the optic chiasm, the axons originating from the nasal hemi-retina of each eye decussate (cross the midline). Since the nasal hemi-retinae receive information from the temporal visual fields, a midline compression selectively damages these crossing fibers, resulting in loss of vision in both temporal fields. This type of lesion is commonly caused by a pituitary adenoma, which sits just inferior to the chiasm. A) A lesion in the right optic tract would cause a left homonymous hemianopia, as the optic tract contains fibers from the contralateral visual field. C) A lesion in the left optic nerve would cause monocular visual loss in the left eye only. D) A lesion in the right lingual gyrus would cause a left superior homonymous quadrantanopia. E) A lesion in the left Meyer's loop would cause a right superior homonymous quadrantanopia."
-  },
-  {
-    "question": "A 65-year-old man is evaluated after suffering a stroke. His family reports that he now frequently ignores food on the upper right portion of his dinner plate and does not seem to notice people approaching him from his upper right side. A confrontation visual field test confirms a right superior homonymous quadrantanopia. This visual deficit, colloquially known as a 'pie in the sky' defect, is caused by damage to which part of the visual pathway?",
-    "choices": [
-      "Left superior optic radiation in the parietal lobe",
-      "Right superior optic radiation in the parietal lobe",
-      "Left inferior optic radiation in the temporal lobe",
-      "Right inferior optic radiation in the temporal lobe",
-      "Left cuneus"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is Left inferior optic radiation in the temporal lobe. A right superior homonymous quadrantanopia results from a lesion in the contralateral (left) visual pathway that processes the superior visual field. Information from the superior visual field is projected onto the inferior retina. Axons carrying this information travel from the lateral geniculate nucleus (LGN) via the inferior optic radiation, also known as Meyer's loop. Meyer's loop takes an inferior trajectory through the temporal lobe to reach the lingual gyrus (the inferior bank of the calcarine fissure). Therefore, a lesion in the left temporal lobe affecting Meyer's loop will cause a deficit in the right superior visual field. A) A lesion of the left superior optic radiation in the parietal lobe would cause a right inferior homonymous quadrantanopia ('pie on the floor'). B) A lesion of the right superior optic radiation would cause a left inferior homonymous quadrantanopia. D) A lesion of the right inferior optic radiation (Meyer's loop) would cause a left superior homonymous quadrantanopia. E) The left cuneus processes information from the right inferior visual field, and a lesion here would cause a right inferior homonymous quadrantanopia."
-  },
-  {
-    "question": "A 78-year-old man with a history of atrial fibrillation who is not compliant with his anticoagulation medication presents to the emergency department with a sudden onset of visual changes. He states he cannot see anything on the left side of his world. A detailed examination reveals a left homonymous hemianopia, but his central, high-acuity vision is remarkably preserved. This preservation of central vision is referred to as macular sparing. An infarct in the territory of which artery would best explain this patient's clinical presentation?",
-    "choices": [
-      "Right middle cerebral artery",
-      "Left posterior cerebral artery",
-      "Right posterior cerebral artery",
-      "Right anterior choroidal artery",
-      "Left middle cerebral artery"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is Right posterior cerebral artery. A left homonymous hemianopia is caused by a lesion posterior to the optic chiasm in the right hemisphere, such as in the right optic tract or right primary visual cortex. The primary visual cortex, located in the occipital lobe, is primarily supplied by the posterior cerebral artery (PCA). The phenomenon of macular sparing occurs because the caudal pole of the visual cortex, which processes vision from the macula, often has a dual blood supply from both the PCA and the middle cerebral artery (MCA). Therefore, an occlusion of the right PCA can cause an infarct of most of the right visual cortex, leading to a left homonymous hemianopia, but collateral flow from the right MCA can preserve the occipital pole, thus sparing macular vision. A) A right MCA stroke would more likely cause contralateral face/arm weakness and neglect, and while it could affect the optic radiations, it would not typically cause a hemianopia with macular sparing in this classic fashion. B) A left PCA stroke would cause a right homonymous hemianopia. D) A right anterior choroidal artery stroke could cause a left homonymous hemianopia by damaging the optic tract, but macular sparing is less likely and less characteristic than with a PCA territory infarct. E) A left MCA stroke would cause right-sided deficits."
-  },
-  {
-    "question": "A 68-year-old woman with a history of hyperopia presents to the emergency department complaining of a sudden onset of severe right eye pain, blurred vision, and nausea. She reports seeing halos around lights. On physical examination, her right eye is red, and the pupil is fixed in a mid-dilated position. Intraocular pressure is significantly elevated. Which of the following is the most likely diagnosis?",
-    "choices": [
-      "Central Retinal Artery Occlusion",
-      "Acute Angle-Closure Glaucoma",
-      "Retinal Detachment",
-      "Cataract",
-      "Corneal Ulcer"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is Acute Angle-Closure Glaucoma. This patient's presentation is a classic example of acute angle-closure glaucoma. The key features include the sudden onset of severe eye pain, redness, decreased vision, and seeing rainbows or halos around lights. Nausea and vomiting are also common systemic symptoms. A fixed, mid-dilated pupil on examination is another hallmark sign. The patient's risk factors, including older age, female gender, and a history of hyperopia (farsightedness), are all strongly associated with this condition. A) Central Retinal Artery Occlusion is incorrect because it typically presents as a sudden, painless, and near-total loss of vision, not with severe pain and redness. C) Retinal Detachment is also typically painless, presenting with a monocular, sectoral loss of peripheral vision that may progress over time. D) A cataract causes a gradual, painless decline in vision and would not present with acute pain and nausea. E) A corneal ulcer presents with pain, redness, and photophobia, but it is an infection of the cornea and does not typically cause a fixed, mid-dilated pupil or nausea and vomiting."
-  },
-  {
-    "question": "An 18-month-old child is brought to the pediatrician after his parents noticed a white reflection in his right pupil in recent flash photographs, a finding known as leukocoria. The left eye has a normal red reflex. The child is diagnosed with retinoblastoma, the most common intraocular malignancy in children. A biopsy of the tumor would most likely reveal which key histologic feature?",
-    "choices": [
-      "Drusen deposits",
-      "Flexner-Wintersteiner rosettes",
-      "Cotton wool spots",
-      "Neurofibrillary tangles",
-      "Psammoma bodies"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is Flexner-Wintersteiner rosettes. Retinoblastoma is the most common pediatric intraocular tumor. The presentation of leukocoria, or a white pupillary reflex, is a classic sign of this malignancy. The key histologic feature used for diagnosis and prognostic classification of retinoblastoma is the presence of Flexner-Wintersteiner rosettes, which are tumor cells that surround a central lumen. This condition is associated with a mutation in the RB1 tumor suppressor gene on chromosome 13. A) Drusen deposits are yellowish lipid-rich materials found in the retina and are characteristic of dry age-related macular degeneration, not retinoblastoma. C) Cotton wool spots are ischemic infarcts of the nerve fiber layer seen in conditions like hypertensive or diabetic retinopathy. D) Neurofibrillary tangles are intracellular aggregates of hyperphosphorylated tau protein, a hallmark of Alzheimer's disease. E) Psammoma bodies are laminated calcifications found in various tumors, such as papillary thyroid carcinoma or meningioma, but are not characteristic of retinoblastoma."
-  },
-  {
-    "question": "A 59-year-old woman with a history of systemic lupus erythematosus is on long-term therapy with hydroxychloroquine. During a routine annual ophthalmology screening, a fundoscopic exam of her right eye reveals a circular pattern of depigmentation in the macula. This finding is highly concerning for an irreversible drug toxicity. What is the classic term for this specific pattern of retinal damage?",
-    "choices": [
-      "Cherry-red spot maculopathy",
-      "Bull's-eye maculopathy",
-      "Hypertensive retinopathy",
-      "Ectopia lentis",
-      "Drusen maculopathy"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is Bull's-eye maculopathy. Hydroxychloroquine, used to treat autoimmune disorders like lupus, can cause an irreversible toxicity to the retina, primarily affecting the parafoveal macula. The characteristic fundoscopic finding is known as 'bull's-eye maculopathy' due to the ring of depigmentation surrounding the fovea. The risk of this toxicity is related to the cumulative dose and duration of use, and toxicity is rare before five years of usage. Patients on this medication must be monitored annually by an ophthalmologist. A) A cherry-red spot is seen in central retinal artery occlusion, where the ischemic macula appears white, contrasting with the choroidal circulation supplying the fovea. C) Hypertensive retinopathy involves arterial narrowing, AV-nicking, hemorrhages, exudates, and potentially disc swelling, but not a bull's-eye pattern. D) Ectopia lentis is a dislocation of the crystalline lens, not a retinal finding. E) Drusen maculopathy refers to the presence of drusen, which are characteristic of age-related macular degeneration."
-  },
-  {
-    "question": "A 66-year-old man with primary open-angle glaucoma is started on a once-daily eye drop that is considered a first-line therapy. At his six-month follow-up appointment, his intraocular pressure is well-controlled. He mentions as an aside that his wife has commented that his green eyes now appear more brownish and that his eyelashes seem longer and darker than before. The medication he is taking most likely exerts its therapeutic effect through which of the following mechanisms?",
-    "choices": [
-      "Decreasing aqueous humor synthesis and inflow at the ciliary body",
-      "Increasing aqueous humor outflow through the uveoscleral pathway",
-      "Contracting the ciliary muscle to widen spaces in the trabecular meshwork",
-      "Blocking water flow into the eye by inhibiting carbonic anhydrase",
-      "Reducing cell contraction in the trabecular meshwork via Rho kinase inhibition"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is Increasing aqueous humor outflow through the uveoscleral pathway. The patient is experiencing darkening of the iris color and increased eyelash growth, which are characteristic side effects of prostaglandin analogs such as latanoprost. Prostaglandin analogs are considered first-line therapy for open-angle glaucoma. Their primary mechanism of action is to lower intraocular pressure by increasing the outflow of aqueous humor through the uveoscleral drainage route. A) Decreasing aqueous humor synthesis and inflow is the mechanism of beta-blockers, such as timolol. These do not cause iris darkening. C) Contracting the ciliary muscle to increase outflow through the trabecular meshwork is the mechanism of muscarinic/cholinergic agents like pilocarpine. D) Blocking water flow to inhibit aqueous humor production is the mechanism of carbonic anhydrase inhibitors like dorzolamide. E) Rho kinase inhibitors, like netarsudil, increase outflow through the trabecular meshwork, but they are associated with a high incidence of conjunctival hyperemia and are not typically associated with iris color change."
-  },
-  {
-    "question": "A 68-year-old man is being treated for a disseminated Mycobacterium avium complex infection with a multi-drug regimen that includes ethambutol. He has a history of stage 3 chronic kidney disease. He presents to his ophthalmologist with a complaint of a gradual, painless, bilateral blurring of his central vision and a noticeable difficulty in distinguishing red objects from their background. Which of the following best describes the pathophysiology of this patient's ocular condition?",
-    "choices": [
-      "Accumulation in the retinal pigment epithelium leading to lysosomal damage and a bull's-eye maculopathy",
-      "Increased resistance to aqueous humor drainage through the trabecular meshwork causing open-angle glaucoma",
-      "Toxic optic neuropathy due to the chelation of copper and zinc in mitochondria",
-      "Clouding of the natural intraocular lens due to protein aggregation",
-      "Contraction of the sphincter pupillae muscle leading to sustained miosis and blurred vision"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is Toxic optic neuropathy due to the chelation of copper and zinc in mitochondria. This patient is presenting with classic symptoms of ethambutol-induced toxic optic neuropathy, which includes loss of central visual acuity and loss of color perception, particularly red. The risk of this toxicity is influenced by the daily dose and the patient's kidney function; his chronic kidney disease puts him at higher risk. The proposed mechanism of ethambutol toxicity is its chelating property, which is thought to disrupt oxidative phosphorylation in mitochondria secondary to decreased free copper or inhibit lysosomal activation due to zinc chelation, leading to optic neuropathy. A) This describes the pathophysiology of hydroxychloroquine (Plaquenil) retinopathy, not ethambutol toxicity. B) This describes the mechanism of open-angle glaucoma, a potential side effect of long-term corticosteroid use, but not ethambutol. D) This describes the formation of cataracts, which can be a side effect of corticosteroids, but is not the primary toxicity of ethambutol. E) This describes the effect of a muscarinic agonist like pilocarpine, which is used to treat glaucoma, not a complication of ethambutol."
-  },
-  {
-    "question": "A 72-year-old woman is brought to the emergency department with a sudden onset of severe pain, redness, and blurred vision in her left eye. She also complains of a headache and nausea. On examination, her left pupil is mid-dilated and non-reactive to light, and the eye is firm to palpation. A diagnosis of acute closed-angle glaucoma is made. In addition to systemic agents to lower intraocular pressure, which topical medication is specifically preferred in this acute setting to help mechanically open the obstructed drainage angle?",
-    "choices": [
-      "Timolol",
-      "Latanoprost",
-      "Brinzolamide",
-      "Pilocarpine",
-      "Netarsudil"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is Pilocarpine. In an acute closed-angle glaucoma attack, the drainage of aqueous humor is physically obstructed by the iris. Pilocarpine is a muscarinic/cholinergic agent that is preferred in this acute setting. It works by causing miosis (constriction of the sphincter pupillae muscle), which pulls the peripheral iris away from the trabecular meshwork, thereby relieving the pupillary block and opening the drainage angle. It also causes contraction of the ciliary muscle, which further helps to increase outflow through the trabecular meshwork. A) Timolol, a beta-blocker, C) Brinzolamide, a carbonic annhydrase inhibitor, and other aqueous suppressants are used to lower pressure but do not address the mechanical obstruction. B) Latanoprost, a prostaglandin analog, works on the uveoscleral outflow pathway and is a first-line agent for open-angle glaucoma, not the acute closed-angle emergency. E) Netarsudil, a Rho kinase inhibitor, works on the trabecular meshwork but is not the primary agent for mechanically breaking an acute angle-closure attack."
-  },
-  {
-    "question": "A 24-year-old woman presents to an urgent care clinic with a three-day history of severe pain, photophobia, and decreased visual acuity in her right eye. She denies wearing contact lenses. On examination, a fluorescein stain is applied to her cornea, which reveals a distinct dendritic branching lesion when viewed under a cobalt blue light. Which of the following is the most likely causative pathogen?",
-    "choices": [
-      "Adenovirus",
-      "Pseudomonas aeruginosa",
-      "Herpes simplex virus",
-      "Staphylococcus aureus",
-      "Acanthamoeba"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is Herpes simplex virus. The patient's presentation of severe pain, photophobia, and decreased visual acuity is characteristic of keratitis, which is more severe than conjunctivitis. The key diagnostic finding is the dendritic branching lesion seen on fluorescein stain, which is pathognomonic for Herpes simplex virus (HSV) keratitis. A) Adenovirus is the most common cause of viral conjunctivitis, which is highly contagious but typically presents with watery discharge and is less painful than keratitis, and it does not produce dendritic lesions. B) Pseudomonas aeruginosa is a common cause of bacterial keratitis, but it is strongly associated with contact lens use and typically causes a corneal ulcer without a dendritic pattern. D) Staphylococcus aureus is another common cause of bacterial conjunctivitis and keratitis but does not form dendritic lesions. E) Acanthamoeba is a protozoan that can cause a severe and painful keratitis, but it is almost exclusively seen in contact lens users exposed to contaminated water and does not present with a dendritic lesion."
-  },
-  {
-    "question": "A 45-year-old man with a history of poorly controlled type 2 diabetes and recent intravenous drug use is admitted to the hospital with Staphylococcus aureus bacteremia. During his hospital stay, he develops acute, painful vision loss in his left eye. An ophthalmology consult is called, and the fundoscopic exam reveals creamy-white, well-defined lesions on the retina and a significant vitreous haze. This clinical picture is most consistent with which of the following ocular infections?",
-    "choices": [
-      "Keratitis",
-      "Posterior uveitis",
-      "Endophthalmitis",
-      "Periorbital cellulitis",
-      "Conjunctivitis"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is Endophthalmitis. Endophthalmitis is a medical emergency defined as a bacterial or fungal infection involving the vitreous and/or aqueous humor. This patient has a clear risk factor for endogenous spread of infection from the bloodstream due to his IV drug use and S. aureus bacteremia. S. aureus is listed as a common cause of endogenous endophthalmitis. The clinical findings of vitreous haze (vitritis) and retinal lesions are classic for this condition. A) Keratitis is an infection of the cornea and would not present with vitreous haze or retinal lesions. B) While posterior uveitis involves inflammation of the posterior segment, endophthalmitis specifically describes an infection within the vitreous or aqueous humor, which is a more accurate diagnosis given the findings and fulminant presentation. D) Periorbital cellulitis is an infection of the eyelid and tissues surrounding the eye, anterior to the orbital septum, and does not involve the intraocular structures. E) Conjunctivitis is an inflammation of the conjunctiva and is a superficial infection that does not cause vision loss or involve the vitreous humor."
-  },
-  {
-    "question": "A 28-year-old woman presents to her ophthalmologist with several weeks of painless blurred vision and an increase in floaters in her right eye. A dilated fundoscopic examination reveals a white, fluffy retinal lesion with significant overlying inflammation of the vitreous humor. The ophthalmologist describes the finding as a classic 'headlight in the fog' appearance. This presentation is most characteristic of an infection with which of the following organisms?",
-    "choices": [
-      "Toxoplasma gondii",
-      "Bartonella henselae",
-      "Cytomegalovirus (CMV)",
-      "Mycobacterium tuberculosis",
-      "Candida albicans"
+      "More horizontally oriented eustachian tubes in children; injury to CN V3 can impair active opening of the tube via tensor veli palatini",
+      "Shorter, S-shaped external acoustic meatus in children; injury to CN X can impair stapedius reflex",
+      "Thinner tympanic membrane in children; injury to CN IX can impair levator veli palatini",
+      "Smaller mastoid antrum in children; injury to CN VII can impair tensor tympani",
+      "Less cerumen production in children; injury to CN III can impair levator veli palatini"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is Toxoplasma gondii. The patient's presentation of painless vision loss and floaters is consistent with posterior uveitis. The fundoscopic finding of a 'headlight in the fog,' which describes a white, fluffy retinochoroidal lesion with an overlying vitreous inflammatory reaction, is the pathognomonic sign for ocular toxoplasmosis, caused by the parasite Toxoplasma gondii. B) Bartonella henselae, the agent of cat-scratch disease, typically causes neuroretinitis with a macular star pattern of exudates, not a 'headlight in the fog' appearance. C) Cytomegalovirus (CMV) generally presents as retinitis in severely immunocompromised patients, often with multifocal, yellow-white, deep retinal lesions and minimal inflammation, sometimes described as progressive outer retinal necrosis (PORN). D) Ocular tuberculosis can present with focal yellow lesions called tubercles or a diffuse retinitis, but not the classic finding described. E) Candida endophthalmitis can present with creamy-white retinal lesions, but these are often multiple and can form a 'string of pearls' pattern, which is distinct from the 'headlight in the fog' appearance."
+    "explanation": "The correct answer is: More horizontally oriented eustachian tubes in children; injury to CN V3 can impair active opening of the tube via tensor veli palatini. Pediatric eustachian tubes are shorter and more horizontal, which hinders drainage and pressure equalization, predisposing to acute otitis media. Tensor veli palatini (V3) actively helps open the pharyngotympanic tube; a V3 lesion can worsen dysfunction. The external acoustic meatus shape is not the key risk, and stapedius is CN VII, not X. Levator veli palatini is innervated by CN X, not IX. Tensor tympani is innervated by V3, not VII. CN III does not innervate palatal or eustachian tube muscles."
   },
   {
-    "question": "A 12-year-old girl is brought to the optometrist because she has been complaining of difficulty seeing the whiteboard in her classroom, though she has no trouble reading books up close. Her vision is measured at 20/80 in both eyes and corrects to 20/20 with glasses. Her condition is caused by light rays focusing in front of the retina rather than directly on it. Which of the following best describes the underlying anatomic or refractive cause of her condition?",
+    "question": "A 34-year-old develops right facial weakness after an acute facial nerve palsy. Sounds on the right now seem painfully loud. Which structure’s dysfunction best explains this new auditory symptom?",
     "choices": [
-      "The axial length of the eye is too short for the refractive power of the eye",
-      "The cornea has an irregular, non-spherical shape causing multiple focal points",
-      "The lens has hardened with age and is unable to change shape for near focus",
-      "The refractive power of the eye is too strong for the corresponding axial length",
-      "The drainage of aqueous humor through the trabecular meshwork is obstructed"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is The refractive power of the eye is too strong for the corresponding axial length. The patient's symptoms of clear near vision but blurry distance vision are characteristic of myopia, or nearsightedness. In myopia, the image is focused in front of the retina. This occurs for one of two reasons: either the refractive power of the eye is too strong for its axial length, or the axial length of the eye is too long for its refractive power. Both result in the same optical problem. A) An axial length that is too short or a refractive power that is too weak for the axial length is the definition of hyperopia (farsightedness), where the image is focused behind the retina. B) An irregular corneal shape describes astigmatism, which causes distorted or blurred vision at all distances. C) A lens that has hardened with age and lost its ability to accommodate describes presbyopia, which typically affects individuals over 40 and causes difficulty focusing on close objects. E) Obstruction of aqueous humor drainage is the pathophysiology of glaucoma, which affects intraocular pressure and causes peripheral vision loss, not a primary refractive error."
-  },
-  {
-    "question": "A 40-year-old man who works as an auto mechanic presents to the emergency department after an incident where he was striking a metal part with a hammer and felt something hit his right eye. He was not wearing safety glasses. He complains of pain and a foreign body sensation. The initial exam is highly suspicious for a penetrating globe injury. Which imaging modality must be avoided in the workup of this patient due to the risk of causing further catastrophic intraocular damage?",
-    "choices": [
-      "Thin-slice computed tomography (CT)",
-      "B-scan ultrasonography",
-      "Magnetic resonance imaging (MRI)",
-      "Plain film X-ray of the orbits",
-      "Slit-lamp examination with fluorescein"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is Magnetic resonance imaging (MRI). In cases of trauma involving metal-striking-metal, there is a very high suspicion for a penetrating injury with a retained intraocular metallic foreign body. The powerful magnetic field of an MRI is strictly contraindicated because it can cause the metallic fragment to move or torque within the eye, leading to severe damage to the retina, lens, and other delicate structures. Metal is also noted to be very toxic to the retina. A) A thin-slice CT is the imaging modality of choice for ruling out a penetrating injury and localizing a potential foreign body. B, D, and E are all parts of the diagnostic workup that can be performed safely; a B-scan ultrasound can visualize intraocular structures, a plain film can identify larger metallic objects, and a slit-lamp exam is crucial for assessing the anterior segment, though care must be taken to avoid applying pressure to a potentially ruptured globe."
-  },
-  {
-    "question": "A 72-year-old man with a long-standing history of smoking and diabetes presents with a several-year history of gradual, painless decline in vision that can no longer be corrected with glasses. He notes particular difficulty with glare while driving at night and poor vision in low-light conditions. On examination, a slit-lamp evaluation reveals significant clouding of the natural crystalline lens in both eyes. What is the most likely diagnosis?",
-    "choices": [
-      "Age-related macular degeneration",
-      "Glaucoma",
-      "Retinitis pigmentosa",
-      "Cataract",
-      "Presbyopia"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is Cataract. This patient's presentation is classic for the development of cataracts, which is the leading cause of preventable blindness worldwide. The key features are a gradual, painless decline in vision, issues with glare or halos, and poor vision in low light. The pathophysiology is a clouding of the natural intraocular crystalline lens. The patient also has several significant risk factors mentioned in the presentation, including diabetes, smoking, and older age. A) Age-related macular degeneration causes loss of central vision, not the generalized blurriness and glare described. B) Glaucoma is typically asymptomatic until late stages and causes progressive loss of peripheral vision. C) Retinitis pigmentosa is a genetic disease that initially causes loss of peripheral and night vision, but it is a disease of the photoreceptors, not the lens. E) Presbyopia is the age-related loss of the ability to focus on near objects due to hardening of the lens, but it does not cause the lens to become cloudy or produce glare."
-  },
-  {
-    "question": "A 72-year-old woman with a history of poorly controlled hypertension presents to the emergency department with a sudden onset of vertigo, nausea, vomiting, and difficulty swallowing. On examination, she is found to have hoarseness and a diminished gag reflex on the right side. Sensation testing reveals a loss of pain and temperature sensation on the right side of her face and the left side of her body. She also demonstrates ataxia of her right-sided limbs and a right-sided Horner's syndrome, characterized by ptosis and miosis. Which of the following vascular territories is most likely affected?",
-    "choices": [
-      "Paramedian branches of the basilar artery",
-      "Anterior spinal artery",
-      "Posterior inferior cerebellar artery (PICA)",
-      "Anterior inferior cerebellar artery (AICA)",
-      "Paramedian branches of the posterior cerebral artery"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is Posterior inferior cerebellar artery (PICA). This patient presents with a classic constellation of symptoms known as Lateral Medullary Syndrome, or Wallenberg Syndrome. This syndrome results from an occlusion of the posterior inferior cerebellar artery (PICA), or less commonly, the vertebral artery. The crossed sensory findings are key: ipsilateral loss of pain and temperature on the face is due to involvement of the spinal trigeminal nucleus and tract, while contralateral loss of pain and temperature on the body is due to involvement of the spinothalamic tract. The other signs are also explained by a lesion in the lateral medulla: vertigo, nausea, and nystagmus from vestibular nuclei involvement; dysphagia and hoarseness from nucleus ambiguus (CN IX, X) involvement; ipsilateral ataxia from inferior cerebellar peduncle involvement; and ipsilateral Horner's syndrome from descending sympathetic tract involvement. A) Occlusion of the paramedian branches of the basilar artery causes Medial Pontine Syndrome. B) Occlusion of the anterior spinal artery causes Medial Medullary Syndrome. D) Occlusion of the AICA causes Lateral Pontine Syndrome, which is similar but typically includes ipsilateral facial paralysis (CN VII) and hearing loss (CN VIII). E) Occlusion of the paramedian branches of the PCA causes Medial Midbrain (Weber) Syndrome."
-  },
-  {
-    "question": "A 63-year-old male with a history of hyperlipidemia presents with the sudden onset of weakness on the left side of his body. The neurological examination confirms a left-sided hemiparesis with upper motor neuron signs. There is also a corresponding loss of discriminative touch, vibration, and conscious proprioception on the left side. Pain and temperature sensation are intact. During the cranial nerve exam, the patient is asked to stick out his tongue, and it deviates markedly to the right. Atrophy and fasciculations are noted on the right side of the tongue. This specific combination of findings is best explained by a lesion in which of the following locations?",
-    "choices": [
-      "Right medial medulla",
-      "Left lateral pons",
-      "Right medial midbrain",
-      "Left medial pons",
-      "Right lateral medulla"
+      "Stapedius muscle innervated by CN VII, which normally dampens stapes movement at the oval window",
+      "Tensor tympani muscle innervated by CN VII, which normally tenses the tympanic membrane",
+      "Chorda tympani branch of CN VII, which normally carries taste fibers from the posterior third of the tongue",
+      "Manubrium of the malleus, which when injured typically causes hyperacusis",
+      "Auriculotemporal nerve (V3), which provides most tactile sensation to the external acoustic meatus"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is Right medial medulla. This is a classic presentation of Medial Medullary Syndrome. The hallmark of brainstem lesions is crossed deficits, which this patient displays. The contralateral left hemiparesis is due to damage to the corticospinal tract in the right pyramid before its decussation. The contralateral left-sided loss of discriminative touch and proprioception is due to damage to the right medial lemniscus, which has already crossed. The ipsilateral right-sided tongue deviation is due to a lower motor neuron lesion of the hypoglossal nerve (CN XII), which exits medially in the medulla; the tongue deviates toward the side of the lesion due to the unopposed action of the contralateral genioglossus muscle. This localizes the lesion to the right medial medulla, which is typically supplied by the anterior spinal artery. B) A left lateral pons lesion would involve CN VII and VIII and would not affect the tongue. C) A right medial midbrain lesion would involve CN III. D) A left medial pons lesion would involve CN VI and would cause deficits on the right side of the body. E) A right lateral medulla lesion would present as Wallenberg syndrome, with crossed pain and temperature deficits, not the deficits seen here."
+    "explanation": "The correct answer is: Stapedius muscle innervated by CN VII, which normally dampens stapes movement at the oval window. Paralysis of stapedius prevents sound attenuation and produces hyperacusis. Tensor tympani is innervated by V3, not VII. Chorda tympani carries taste from the anterior two-thirds of the tongue and parasympathetic fibers to salivary glands; it does not attenuate sound. Injury to the malleus typically causes conductive hearing loss, not hyperacusis. The auriculotemporal nerve provides cutaneous sensation to parts of the external ear but does not control ossicular sound attenuation."
   },
   {
-    "question": "A 67-year-old male with a history of diabetes presents with the sudden onset of left-sided weakness and double vision. On examination, you confirm a left hemiparesis of the upper and lower extremities with upper motor neuron signs. There is also weakness of the lower facial muscles on the left. Examination of the eyes reveals a significant ptosis of the right eyelid. The right eye is deviated inferiorly and laterally ('down and out'). The right pupil is dilated and does not react to light. These findings are most consistent with an ischemic lesion affecting which of the following structures?",
+    "question": "A 58-year-old comatose patient with bilateral frontal lobe hemorrhages undergoes bedside brainstem testing. Ice-cold water is irrigated into the right ear. Which eye finding and interpretation are most accurate?",
     "choices": [
-      "Right medial lemniscus and right abducens nucleus",
-      "Left corticospinal tract and right facial nucleus",
-      "Right corticospinal tract and right oculomotor nerve fascicles",
-      "Right spinothalamic tract and right trochlear nucleus",
-      "Left cerebral peduncle and left oculomotor nerve fascicles"
+      "Slow deviation of both eyes to the right with no fast phase, indicating intact brainstem vestibulo-ocular reflex pathways",
+      "Fast nystagmus to the right with slow drift to the left, indicating intact frontal eye fields only",
+      "No slow deviation or fast phase, indicating intact cortex but a brainstem lesion only",
+      "Slow deviation to the left followed by fast beats to the right, indicating a normal awake response",
+      "Sustained conjugate gaze deviation to the left from an isolated medial longitudinal fasciculus lesion"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is: Slow deviation of both eyes to the right with no fast phase, indicating intact brainstem vestibulo-ocular reflex pathways. Cold caloric testing drives the slow phase toward the irrigated ear; in coma, the cortical fast corrective phase is absent, so only the slow deviation is seen if the brainstem is intact. Fast nystagmus to the side opposite the cold ear occurs in an awake person (COWS), not in coma. Absence of both slow and fast phases suggests brainstem vestibulo-ocular reflex failure or heavy sedation rather than intact cortex. Slow right then fast left (COWS) is the normal awake response. An isolated MLF lesion impairs conjugate gaze coordination but does not by itself explain the coma-specific caloric pattern described."
+  },
+  {
+    "question": "A 32-year-old office worker reports that since a recent viral illness he feels unsteady specifically when riding an elevator or standing up quickly, but he has little trouble when turning his head left or right. Which structure and orientation most directly detect the missing stimulus in a healthy person?",
+    "choices": [
+      "Utricular macula oriented horizontally to detect lateral translation and side-to-side head tilt",
+      "Saccular macula oriented vertically on the anteromedial wall to detect vertical translation and forward/backward tilt",
+      "Crista ampullaris of the semicircular ducts that detect angular acceleration",
+      "Organ of Corti inner hair cells that detect airborne sound",
+      "Endolymphatic sac that serves primarily as an endolymph reservoir and site of resorption"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is Saccular macula oriented vertically on the anteromedial wall to detect vertical translation and forward/backward tilt. The saccule’s macula lies in the vertical plane and senses vertical motion (e.g., elevator changes) and fore–aft tilt, whereas the utricle’s macula is horizontal and senses side-to-side translation and tilt. Semicircular duct cristae detect angular (rotational) acceleration, not linear translation. The Organ of Corti mediates hearing. The endolymphatic sac functions as a reservoir and for resorption, not primary linear-motion sensing."
+  },
+  {
+    "question": "A term newborn has microtia and an absent external ear canal on otoscopy. CT confirms atresia of the external auditory canal. Which additional congenital abnormality is most likely present based on shared embryologic origins?",
+    "choices": [
+      "Malformation of the malleus and incus derived from first pharyngeal arch (Meckel’s) cartilage",
+      "Isolated overgrowth of the stapes footplate derived from second arch cartilage causing otosclerosis",
+      "Defective endolymphatic sac development with impaired endolymph resorption",
+      "Agenesis of the tympanic cavity due to failure of the second pharyngeal pouch",
+      "Tympanic membrane composed solely of ectoderm without mesodermal or endodermal layers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is Malformation of the malleus and incus derived from first pharyngeal arch (Meckel’s) cartilage. Atresia of the external auditory canal results from failure of the meatal plug to degenerate and is commonly associated with microtia and variable middle-ear defects; the malleus and incus are first-arch derivatives and are frequently involved. Otosclerosis is a later-onset abnormal bony overgrowth near the stapes and is not a typical neonatal congenital association. The endolymphatic sac’s role is endolymph storage/resorption, not canal formation. The tympanic cavity derives from the first (not second) pharyngeal pouch, and the tympanic membrane normally has ectodermal, mesodermal, and endodermal layers. "
+  },
+  {
+    "question": "A 41-year-old woman has episodic vertigo lasting minutes to hours accompanied by tinnitus, fluctuating hearing loss, and a sensation of fullness in the affected ear. These symptoms are attributed to endolymphatic hydrops. Dysfunction of which structure most directly explains the underlying pathophysiology?",
+    "choices": [
+      "Utricular macula",
+      "Saccular macula",
+      "Endolymphatic sac (via the endolymphatic duct)",
+      "Perilymph in the scala tympani",
+      "Round window membrane"
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is Right corticospinal tract and right oculomotor nerve fascicles. This patient's presentation is characteristic of Medial Midbrain Syndrome, also known as Weber Syndrome. The lesion is in the right ventral midbrain. The contralateral (left) hemiparesis and lower facial weakness are caused by damage to the descending corticospinal and corticobulbar tracts located in the right cerebral peduncle. The ipsilateral (right) oculomotor nerve (CN III) palsy is caused by damage to the exiting fascicles of CN III. The CN III palsy accounts for the significant ptosis (paralysis of levator palpebrae superioris), the 'down and out' position of the eye (due to the unopposed action of the lateral rectus and superior oblique muscles), and the fixed, dilated pupil (due to loss of parasympathetic fibers that travel with CN III). A) This describes a lesion in the medial pons, which would cause a CN VI palsy, not a CN III palsy. B) This combination does not fit a single brainstem lesion, as the corticospinal tract damage would be on the right to cause left-sided weakness. D) This would cause sensory deficits, not the motor deficits described, and a trochlear (CN IV) palsy causes vertical diplopia, not a complete 'down and out' deviation. E) A lesion in the left cerebral peduncle would cause right-sided body weakness."
+    "explanation": "The correct answer is Endolymphatic sac (via the endolymphatic duct). The endolymphatic duct and sac act as a reservoir and site of endolymph resorption; impaired resorption causes endolymphatic hydrops, producing pressure/fullness, hearing loss, tinnitus, and balance symptoms. Utricular and saccular maculae are the linear-acceleration sensors, not the resorptive pathway. Perilymph spaces and the round window are not responsible for endolymph homeostasis."
   },
   {
-    "question": "A 28-year-old woman presents with a 5-year history of migraine headaches, which she experiences 3-4 times per month. The headaches are characterized by unilateral, throbbing pain, photophobia, and nausea, often lasting up to 12 hours. She reports that her current medications provide inadequate relief and have notable side effects. She tells you she and her partner are planning to conceive a child within the next year. She is interested in non-medication options for managing her headaches. According to the American Academy of Neurology guidelines mentioned, which of the following is the most appropriate recommendation for this patient?",
+    "question": "A 29-year-old woman has slowly progressive unilateral hearing loss and tinnitus. Weber lateralizes to the affected ear and Rinne shows bone > air on that side. CT suggests abnormal bone near the oval window. She elects to undergo stapedectomy. Which postoperative complaint would most specifically indicate iatrogenic injury to a structure at risk during this middle-ear surgery?",
     "choices": [
-      "Increase the dose of her current acute medication",
-      "Initiate a trial of prophylactic pharmacotherapy",
-      "Refer for a behavioral therapy such as biofeedback or relaxation training",
-      "Advise avoidance of all potential dietary triggers",
-      "Suggest a trial of over-the-counter herbal supplements"
+      "Loss of taste from the anterior two-thirds of the tongue with reduced salivation",
+      "Hyperacusis due to loss of stapedius reflex",
+      "Hoarseness from recurrent laryngeal nerve paresis",
+      "Ageusia of the posterior one-third of the tongue",
+      "Dry eye from decreased lacrimation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is Loss of taste from the anterior two-thirds of the tongue with reduced salivation. Otosclerosis is an abnormal bony overgrowth near the stapes that produces conductive hearing loss; when severe, it is treated with a stapedectomy. During this middle-ear surgery, the chorda tympani (a branch of CN VII that traverses the tympanic cavity) is at risk; injury causes loss of anterior two-thirds taste and reduced submandibular/sublingual salivation. Explanations for other choices: Hyperacusis due to loss of stapedius reflex is incorrect here because stapedius (CN VII) dysfunction produces sound intolerance but does not explain the taste and salivary deficits most specific to chorda tympani injury; moreover, the stem points to stapedectomy where chorda tympani injury is the classic complication to suspect. Hoarseness from recurrent laryngeal nerve paresis is unrelated to middle-ear surgery. Ageusia of the posterior one-third of the tongue would reflect glossopharyngeal nerve injury, which supplies the internal surface of the tympanic membrane and middle-ear mucosa but is not the structure classically endangered by stapedectomy instrumentation around the stapes and oval window. Dry eye from decreased lacrimation involves greater petrosal nerve pathways and is not the typical risk from surgical manipulation within the tympanic cavity. Together, the scenario’s conductive pattern and treatment link to otosclerosis and stapedectomy; the most specific postoperative deficit to watch for is chorda tympani injury."
+  },
+  {
+    "question": "During an otoscopic exam, a medical student contacts the medial surface of the patient’s tympanic membrane, eliciting sharp pain. Which cranial nerve carries the predominant sensory fibers from that internal surface?",
+    "choices": [
+      "Auriculotemporal nerve (V3)",
+      "Glossopharyngeal nerve (CN IX)",
+      "Auricular branch of the vagus nerve (CN X)",
+      "Facial nerve (CN VII), posterior auricular branch",
+      "Lesser occipital nerve (C2–C3)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is Glossopharyngeal nerve (CN IX). The tympanic membrane has three embryologic layers; its internal surface is continuous with the mucosa of the middle ear and is primarily innervated by CN IX, whereas the external surface is skin continuous with the external acoustic meatus and is supplied mainly by V3 with a contribution from the auricular branch of the vagus. Contacting the medial (internal) surface stimulates CN IX afferents. Explanations for other choices: Auriculotemporal nerve (V3) is the dominant cutaneous innervation of the external surface of the membrane and the lateral canal, not the internal surface. The auricular branch of the vagus nerve contributes to external surface sensation and canal skin but is not the primary innervation of the medial surface. The facial nerve posterior auricular branch and the lesser occipital nerve supply parts of the external ear, not the medial tympanic surface. "
+  },
+  {
+    "question": "A 63-year-old man reports brief episodes of spinning vertigo triggered by rolling over in bed. The Dix–Hallpike maneuver reproduces his vertigo and nystagmus. Abnormal stimulation of which specific sensory structure best explains his symptoms?",
+    "choices": [
+      "Macula of the utricle",
+      "Macula of the saccule",
+      "Crista ampullaris of the posterior semicircular duct",
+      "Crista ampullaris of the lateral semicircular duct",
+      "Organ of Corti within the cochlear duct"
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is Refer for a behavioral therapy such as biofeedback or relaxation training. The presentation highlights consensus guidelines from the American Academy of Neurology that state behavioral and other non-pharmacological treatments are preferred over pharmacological treatment for migraine headaches in the presence of specific factors. This patient meets several of these criteria: she has a poor tolerance or response to pharmaceuticals, is experiencing negative side effects, has a preference for non-pharmacological treatments, and is planning a pregnancy. Therefore, referring her for an evidence-based behavioral therapy is the most appropriate next step. (A) Increasing the dose of her current medication is not ideal given her report of poor tolerance and negative side effects. (B) Initiating prophylactic pharmacotherapy is less preferred in a patient who wishes to avoid medication side effects and is planning a pregnancy. (D) While trigger management is a component of behavioral therapy, advising strict avoidance of all potential triggers can lead to lifestyle restrictions and is not a comprehensive, evidence-based standalone therapy. (E) This is not an evidence-based recommendation supported by the lecture."
+    "explanation": "The correct answer is Crista ampullaris of the posterior semicircular duct. In benign paroxysmal positional vertigo, the Dix–Hallpike maneuver positions otoconia within the posterior semicircular canal to maximally stimulate the canal, producing vertigo and nystagmus. The sensory end organ of each semicircular duct is the crista ampullaris; endolymph movement deflects the cupula and hair bundles on these mechanosensory cells, signaling angular acceleration to the vestibular nuclei. Explanations for other choices: The maculae of the utricle and saccule detect gravity and linear acceleration, not angular acceleration during head rotations; they are not the structures maximally stimulated in Dix–Hallpike testing. The crista ampullaris of the lateral canal mediates angular acceleration in its plane, but the classic Dix–Hallpike maneuver targets the posterior canal rather than the lateral canal. The Organ of Corti is the auditory receptor within the cochlear duct and is unrelated to vestibular positional vertigo.}"
   },
-  {
-    "question": "A 45-year-old man with chronic tension headaches is enrolled in a headache management program. During his sessions, a therapist places sensors on his frontalis and trapezius muscles. These sensors are connected to a device that provides him with real-time auditory and visual information about the level of contraction in these muscles. He is then coached on techniques to consciously lower the muscle tension, using the device's output to gauge his success. This therapeutic technique is best described as which of the following?",
-    "choices": [
-      "Progressive Muscle Relaxation (PMR)",
-      "Autogenic Training",
-      "Mindfulness-Based Stress Reduction (MBSR)",
-      "Electromyogram (EMG) Biofeedback",
-      "Acceptance and Commitment Therapy (ACT)"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is Electromyogram (EMG) Biofeedback. The presentation defines biofeedback as the use of an instrument to monitor a bodily response, such as muscle tension, as the person tries to modify that response. It specifically states that Electromyogram (EMG) biofeedback is used as a prevention approach for tension-type headaches and involves monitoring skeletal muscle tension in areas like the frontalis and trapezius muscles. The scenario described is a direct application of this technique. (A) Progressive Muscle Relaxation (PMR) involves systematically tensing and then relaxing various muscle groups but does not use electronic instruments for monitoring. (B) Autogenic Training is a form of self-hypnosis that involves repeating specific phrases to create calming sensations. (C) Mindfulness-Based Stress Reduction (MBSR) is a meditation therapy focused on non-judgmental awareness. (E) Acceptance and Commitment Therapy (ACT) emphasizes acceptance of pain and valued living as alternatives to avoidance."
-  }
+{
+  "question": "A 54-year-old man is comatose after ventricular fibrillation arrest. As part of a brainstem exam, ice-cold water is irrigated into the right external acoustic meatus: both eyes slowly deviate to the right without a corrective fast phase. When warm water is irrigated into the left ear, there is no eye movement. Which lesion most directly explains these caloric test findings?",
+  "choices": [
+    "Bilateral frontal eye field damage with intact pontine vestibular pathways",
+    "Left vestibular apparatus or vestibular nerve lesion (peripheral afferent loss)",
+    "Right abducens nucleus lesion in the dorsal pons",
+    "Bilateral medial longitudinal fasciculus (MLF) lesions",
+    "Left oculomotor nucleus lesion"
+  ],
+  "correctAnswer": 1,
+  "explanation": "The correct answer is Left vestibular apparatus or vestibular nerve lesion (peripheral afferent loss). Caloric testing drives the horizontal vestibulo-ocular reflex (VOR) by changing endolymph flow in the lateral semicircular canal, altering firing in the ipsilateral vestibular nerve and nucleus. In an awake patient, the fast phase defines nystagmus and follows the COWS rule (Cold Opposite, Warm Same for the fast phase). The slow phase is the brainstem VOR output and is opposite the fast phase. In a comatose patient with intact brainstem but impaired cortex, the slow phase persists while the fast phase is absent. Right ear cold in this patient produces an appropriate slow deviation toward the irrigated ear (to the right) with no fast phase, indicating an intact right-sided afferent limb (right labyrinth/vestibular nerve) and intact central VOR pathways. However, left ear warm fails to produce any slow deviation (which should be away from the irrigated ear in coma), localizing the problem to the left afferent limb (left labyrinth or vestibular nerve). Thus, the pattern of an intact response on one side and absent response on the other points to a unilateral peripheral vestibular lesion on the nonresponding (left) side. Explanations for other choices: Bilateral frontal eye field damage abolishes the fast (cortical) phase but preserves the slow brainstem VOR on both sides; it cannot explain a unilateral absence of the slow phase. A right abducens nucleus lesion would impair rightward conjugate movements (via right LR and left MR through the MLF), which contradicts the observed normal rightward slow deviation during right cold irrigation. Bilateral MLF lesions (internuclear ophthalmoplegia) disrupt adduction in conjugate gaze and also degrade VOR-mediated adduction, typically producing disconjugate—not absent—eye movements during caloric testing; they do not selectively abolish responses to stimulation from one ear only. A left oculomotor nucleus lesion would primarily impair movements of the left eye (adduction, elevation, depression) and might yield asymmetric or disconjugate responses, but it would not eliminate all eye movement to left-ear warm irrigation; the right eye would still show abduction if the afferent limb were intact. The unilateral absence of any movement specifically implicates failure of the left vestibular afferent input rather than a central gaze or oculomotor nucleus problem."
+},
+{
+"question": "A 45-year-old woman presents with acute, continuous vertigo, nausea, and imbalance that began this morning after a recent upper respiratory infection. Bedside head-impulse testing is abnormal when the head is rapidly rotated to the right. She has spontaneous horizontal–torsional nystagmus that is unidirectional and decreases with visual fixation; there is no vertical skew on alternate cover testing. She can stand and walk with assistance. Which overall pattern best supports a peripheral acute vestibular neuritis rather than a posterior circulation stroke?",
+"choices": [
+"Abnormal head-impulse test; unidirectional horizontal–torsional nystagmus that suppresses with fixation; no skew deviation; able to ambulate",
+"Normal head-impulse test; bidirectional gaze-evoked nystagmus not suppressed by fixation; skew deviation present; unable to stand",
+"Normal head-impulse test; unidirectional nystagmus that suppresses with fixation; no skew deviation; falls in any direction",
+"Abnormal head-impulse test; pure vertical nystagmus; skew deviation present; unable to ambulate",
+"Abnormal head-impulse test; acute vertigo with ipsilateral hearing loss; unable to stand even with support"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct because the HINTS-plus bedside pattern for a peripheral vestibulopathy includes an abnormal head-impulse test indicating impaired vestibulo-ocular reflex on the affected side, unidirectional horizontal–torsional nystagmus that lessens with fixation, no vertical skew deviation, and relative preservation of the ability to ambulate with support. Choice 1 is incorrect because a normal head-impulse test with bidirectional gaze-evoked nystagmus, skew deviation, and inability to stand is concerning for a central lesion such as posterior circulation stroke. Choice 2 is incorrect because a normal head-impulse test shifts suspicion away from peripheral neuritis toward central causes despite other peripheral-appearing features. Choice 3 is incorrect because pure vertical nystagmus and skew deviation strongly suggest central pathology. Choice 4 is incorrect because the combination of acute vertigo with hearing loss and profound imbalance points to an AICA territory stroke or labyrinthine ischemia rather than isolated vestibular neuritis."
+},
+{
+"question": "A 70-year-old man reports brief episodes of room-spinning dizziness when rolling over in bed or looking up. Neurologic examination is normal. Dix–Hallpike testing with the head turned to the left reproduces symptoms and elicits torsional–upbeating nystagmus that begins after a short latency, lasts about 15 seconds, and fatigues with repetition. Which mechanism best explains his disorder?",
+"choices": [
+"Canalithiasis of the posterior semicircular canal from free-floating otoconia that abnormally deflect the cupula with position changes",
+"Orthostatic hypotension causing transient global cerebral hypoperfusion without canal-specific nystagmus",
+"Central positional vertigo due to cerebellar lesion producing sustained nystagmus without latency or fatigability",
+"Vestibular neuritis causing continuous spontaneous vertigo unrelated to specific head positions",
+"Ménière disease causing endolymphatic hydrops with episodic vertigo and fluctuating hearing loss"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct because benign paroxysmal positional vertigo most commonly involves posterior canal canalithiasis, in which mobile otoconia enter the canal and, with positional changes, cause transient endolymph flow that deflects the cupula and produces brief, delayed-onset, fatigable torsional–vertical nystagmus on Dix–Hallpike. Choice 1 is incorrect because orthostatic hypotension causes presyncope rather than canal-specific nystagmus and is not reliably triggered by the Dix–Hallpike maneuver. Choice 2 is incorrect because central positional nystagmus is typically immediate, persistent, and often purely vertical or purely horizontal without fatigability, unlike the classic posterior canal pattern here. Choice 3 is incorrect because vestibular neuritis produces continuous vertigo over hours to days, not brief, position-triggered spells. Choice 4 is incorrect because Ménière disease features vertigo with auditory symptoms such as fluctuating hearing loss, tinnitus, and aural fullness, which are absent in this presentation."
+},
+{
+"question": "A 63-year-old woman presents with sudden, continuous vertigo, nausea, ipsilateral hearing loss, and severe imbalance; she cannot stand or walk even with assistance. Which diagnosis is most likely?",
+"choices": [
+"Anterior inferior cerebellar artery infarction with labyrinthine involvement",
+"Isolated vestibular neuritis",
+"Thiamine deficiency causing central vestibulopathy",
+"Multiple sclerosis plaque affecting the brainstem",
+"Bacterial labyrinthitis without central involvement"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct because a combined acute audio-vestibular presentation (vertigo plus ipsilateral hearing loss) with profound postural instability strongly suggests an AICA territory infarct that can compromise the labyrinthine artery and adjacent cerebellar or brainstem structures. Choice 1 is incorrect because vestibular neuritis is an isolated vestibular nerve disorder without hearing loss, and patients can usually ambulate with support. Choice 2 is incorrect because thiamine deficiency can cause central vestibular signs but does not typically present as a sudden combined audio-vestibular syndrome with inability to stand. Choice 3 is incorrect because multiple sclerosis can affect central vestibular pathways but is less likely to cause abrupt audio-vestibular loss with such severe imbalance in this pattern. Choice 4 is incorrect because bacterial labyrinthitis often follows otitis media or meningitis and, while it can cause hearing loss and vertigo, the profound gait inability in this hyperacute vascular pattern is more characteristic of AICA stroke."
+},
+{
+"question": "A 38-year-old woman reports that when asked to show her teeth, she produces a full symmetric smile. However, when told a funny joke, the right lower half of her face fails to elevate. Corneal reflexes and facial sensation are intact. Which lesion best explains this dissociation?",
+"choices": [
+"Right corticobulbar fibers projecting to the facial motor nucleus",
+"Left limbic cortex affecting descending emotional facial pathways",
+"Left facial nerve lesion at the stylomastoid foramen",
+"Bilateral degeneration of the substantia nigra pars compacta",
+"Right facial motor nucleus in the pons"
+],
+"correctAnswer": 1,
+"explanation": "The correct answer is Left limbic cortex affecting descending emotional facial pathways. This is emotional facial paresis: voluntary (pyramidal) smile is intact but spontaneous Duchenne smile is lost on the contralateral lower face, implicating a lesion in limbic circuitry of the opposite hemisphere that normally drives emotional facial expression through basal ganglia and brainstem facial motor nuclei. Right corticobulbar fibers are incorrect because damage there produces voluntary facial hemiparesis of the contralateral lower face with preserved spontaneous emotional smiling, the opposite pattern. Left facial nerve lesion at the stylomastoid foramen is incorrect because it would cause ipsilateral flaccid weakness of both voluntary and emotional movements, not selective loss of spontaneous emotion with preserved voluntary control. Bilateral degeneration of the substantia nigra pars compacta is incorrect because Parkinson disease causes hypomimia or masked facies with reduced spontaneous expressivity globally, but it would not produce a strictly unilateral dissociation with normal on-command symmetry. Right facial motor nucleus lesion is incorrect because it would produce ipsilateral lower motor neuron facial weakness affecting both voluntary and emotional movements, typically with additional brainstem signs rather than an isolated dissociation."
+},
+{
+"question": "A 24-year-old hiker jumps back in fear upon glimpsing a coiled shape in dim light and experiences a pounding heartbeat and sweaty palms. A second later, she recognizes it is just a rope and calms down. Which pathway sequence best accounts for the initial rapid fear response followed by the slower, accurate appraisal?",
+"choices": [
+"Thalamus relays crude visual input directly to the amygdala for a rapid response, then detailed cortical processing (visual cortex and associative areas) converges on the amygdala to refine the response; hypothalamus is engaged via ventral amygdalofugal projections",
+"Hippocampus projects to mammillary bodies, anterior thalamus, and cingulate cortex to generate fast autonomic responses without the amygdala",
+"Basal ganglia motor loop (putamen to globus pallidus internus to ventrolateral thalamus) initiates sympathetic arousal before cortical analysis",
+"Primary visual cortex projects to the striatum and then directly to the hypothalamus to trigger fight-or-flight responses without amygdala involvement",
+"Superior colliculus projects to the facial motor nucleus to mediate the entire fear reaction independent of limbic circuits"
+],
+"correctAnswer": 0,
+"explanation": "The correct answer is Thalamus relays crude visual input directly to the amygdala for a rapid response, then detailed cortical processing (visual cortex and associative areas) converges on the amygdala to refine the response; hypothalamus is engaged via ventral amygdalofugal projections. The fast low-road provides a quick, coarse signal to the amygdala that prioritizes survival by rapidly engaging autonomic output through hypothalamus, while the slow high-road integrates precise cortical analysis to modulate or abort the response when the stimulus is identified as safe. Hippocampus to mammillary body to anterior thalamus to cingulate circuit is incorrect because this is the classic Papez circuit related to memory and affect but does not account for the amygdala-driven rapid autonomic surge that precedes conscious appraisal. Basal ganglia motor loop is incorrect because it primarily modulates voluntary motor programs and habit learning rather than initiating the immediate autonomic fear response; limbic basal ganglia loops shape motivated actions but the initial autonomic surge is amygdala to hypothalamus. Primary visual cortex to striatum to hypothalamus is incorrect because there is no direct canonical pathway that bypasses the amygdala to trigger sympathetic output in this context; hypothalamic activation from emotional salience is classically driven by amygdala efferents. Superior colliculus to facial motor nucleus is incorrect because while collicular circuits can mediate orienting and startle-like movements, the hallmark autonomic features and the rapid fear experience require amygdala and hypothalamic engagement."
+},
+{
+"question": "Researchers test whether blocking a specific neuromodulatory system alters consolidation of emotionally arousing material. Healthy volunteers hear a three-part story with an emotional middle segment; half receive an antagonist of the relevant neurotransmitter during the consolidation window. One week later, treated participants lack the usual memory advantage for the emotional segment, whereas neutral segments are recalled similarly in both groups. Which nucleus was most likely targeted by the antagonist to abolish emotion-enhanced memory?",
+"choices": [
+"Locus coeruleus",
+"Nucleus basalis of Meynert",
+"Dorsal raphe nuclei",
+"Ventral tegmental area",
+"Tuberomammillary nucleus"
+],
+"correctAnswer": 0,
+"explanation": "The correct answer is Locus coeruleus. Norepinephrine from the locus coeruleus enhances arousal and facilitates consolidation of emotionally salient memories by modulating amygdala and hippocampal processing, with an inverted U-shaped dose–effect relationship; antagonism during consolidation blunts the usual emotional memory advantage while leaving neutral memory relatively spared. Nucleus basalis of Meynert is incorrect because cholinergic projections promote cortical arousal and attention broadly, and blockade may impair alertness but is less specifically tied to the selective enhancement of emotional memory consolidation mediated by amygdala–hippocampal interactions. Dorsal raphe nuclei are incorrect because serotonin is central to mood and sleep regulation; acutely altering serotonin could affect affective state, but the canonical neuromodulator for emotion-linked memory consolidation in this setting is norepinephrine. Ventral tegmental area is incorrect because dopamine from the VTA signals reward and salience for reinforcement learning and motivation; while dopamine can influence memory, the classic effect on emotional episodic consolidation following arousing stimuli is attributed primarily to noradrenergic signaling. Tuberomammillary nucleus is incorrect because histamine contributes to general arousal and wakefulness but is not the key neuromodulator mediating the amygdala-dependent boost in consolidation for emotional events."
+},
+{
+"question": "A 67-year-old man presents after a small pontine stroke. Pure-tone audiometry shows normal thresholds bilaterally; Weber test is midline and Rinne is air > bone bilaterally. He reports that sounds are equally loud in both ears but he now struggles to tell where sounds originate, especially in noisy environments. Which unilateral lesion best explains his deficit?",
+"choices": [
+"Right superior olivary complex",
+"Right cochlear nerve proximal to the cochlea",
+"Right cochlear nucleus at the pontomedullary junction",
+"Right lateral lemniscus in the pons",
+"Right medial geniculate nucleus of the thalamus"
+],
+"correctAnswer": 0,
+"explanation": "The correct answer is Right superior olivary complex. The superior olivary nuclei are the first site of binaural integration and are critical for sound localization by comparing interaural time and intensity differences. Because each cochlear nucleus projects bilaterally into the ascending auditory pathways, unilateral lesions above the cochlear nuclei typically do not cause unilateral hearing loss but do impair localization and complex processing. Choice 1 is incorrect because a lesion of the cochlear nerve is a peripheral lesion that produces ipsilateral sensorineural hearing loss, abnormal tuning-fork tests, and reduced thresholds on audiometry. Choice 2 is incorrect because a unilateral cochlear nucleus lesion is still peripheral in this schema and causes ipsilateral hearing loss, not isolated localization difficulty. Choice 3 is incorrect because although the lateral lemniscus is a central pathway and unilateral lesions there usually spare gross hearing thresholds, its hallmark is not as specifically tied to localization as the superior olivary complex; deficits are more general to temporal processing of sound. Choice 4 is incorrect because the medial geniculate nucleus is a thalamic relay for auditory information to cortex; unilateral MGN lesions usually spare basic hearing and may cause cortical-level processing problems (e.g., filtering), but the primary brainstem computation of localization arises in the superior olive, making that the best answer for this classic presentation."
+},
+{
+"question": "A 58-year-old man receiving gentamicin for a resistant infection develops tinnitus and difficulty understanding conversation, particularly high-pitched consonants. Audiometry shows a high-frequency notch. Which structure–location combination is the primary target that best explains these findings?",
+"choices": [
+"Outer hair cells at the basal turn of the Organ of Corti",
+"Inner hair cells at the apical turn of the Organ of Corti",
+"Stria vascularis of the scala media uniformly along the cochlea",
+"Stapedius muscle at the stapes–oval window interface",
+"Round window membrane of the scala tympani"
+],
+"correctAnswer": 0,
+"explanation": "The correct answer is Outer hair cells at the basal turn of the Organ of Corti. Ototoxic agents such as aminoglycosides characteristically produce high-frequency sensorineural hearing loss first, reflecting vulnerability of the basal cochlea where high frequencies are encoded. Outer hair cells act as the cochlear amplifier via prestin-mediated electromotility; damage to these cells elevates thresholds and disproportionately impairs speech clarity for high-frequency consonants. Choice 1 is incorrect because inner hair cells are the primary afferent transducers but are not the earliest and most prominent target in classic aminoglycoside ototoxicity; the basal outer hair cells fail first. Choice 2 is incorrect because although the stria vascularis maintains endolymph composition and the endocochlear potential, the presentation of an early high-frequency notch is most classically linked to basal outer hair cell injury rather than a uniform strial dysfunction. Choice 3 is incorrect because stapedius dysfunction yields hyperacusis (sound intolerance) rather than a selective high-frequency sensorineural pattern on audiometry. Choice 4 is incorrect because the round window is a pressure-release interface; pathology here would more likely contribute to conductive or mixed patterns, not the characteristic high-frequency sensorineural notch seen with hair cell toxicity."
+},
+{
+"question": "A full-term newborn fails the bilateral newborn hearing screen. Physical exam is otherwise normal with no pigmentary or craniofacial anomalies. The parents have normal hearing but report that a prior child and two first cousins were also born with isolated nonprogressive hearing loss. Which genetic etiology is most likely?",
+"choices": [
+"Biallelic loss-of-function variants in GJB2 encoding connexin 26 (autosomal recessive non-syndromic hearing loss)",
+"Heterozygous PAX3 mutation causing Waardenburg syndrome type I (autosomal dominant syndromic hearing loss)",
+"Heterozygous MITF mutation causing Waardenburg syndrome type II (autosomal dominant syndromic hearing loss)",
+"Heterozygous KCNQ4 mutation causing autosomal dominant non-syndromic hearing loss",
+"Mitochondrial mutation producing aminoglycoside sensitivity with matrilineal inheritance"
+],
+"correctAnswer": 0,
+"explanation": "The correct answer is Biallelic loss-of-function variants in GJB2 encoding connexin 26 (autosomal recessive non-syndromic hearing loss). More than half of prelingual deafness is genetic, and the most common cause of non-syndromic, prelingual sensorineural hearing loss is autosomal recessive DFNB1 due to GJB2; connexin 26 gap junction defects disrupt K+ recycling in the cochlea. The pedigree here shows unaffected parents with multiple affected relatives and no syndromic features, consistent with a recessive, non-syndromic etiology. Choice 1 is incorrect because PAX3 mutations produce Waardenburg type I with characteristic pigmentary and craniofacial findings; the absence of syndromic features and the apparent recessive inheritance pattern argue against this. Choice 2 is incorrect because MITF-related Waardenburg type II is also autosomal dominant and typically shows pigmentary abnormalities; again, the family pattern and exam do not fit. Choice 3 is incorrect because KCNQ4 mutations cause autosomal dominant non-syndromic hearing loss that tends to be progressive across generations; a dominant pattern would show vertical transmission to affected parents. Choice 4 is incorrect because mitochondrial mutations show maternal inheritance affecting all children of an affected mother; the stem does not indicate matrilineal transmission or aminoglycoside exposure and instead suggests a classic autosomal recessive cluster."
+},
+{
+"question": "A 28-year-old woman presents with painful monocular vision loss and color desaturation in the right eye; a relative afferent pupillary defect is present. MRI of the brain shows three ovoid T2/FLAIR hyperintense lesions: two periventricular and one juxtacortical. MRI of the orbits shows T2 hyperintensity and gadolinium enhancement of the right optic nerve. CSF demonstrates oligoclonal bands restricted to the CSF. Aquaporin-4 and MOG antibodies are negative, and alternative diagnoses have been reasonably excluded. According to the 2017 McDonald criteria, which statement is most accurate?",
+"choices": [
+"She does not meet dissemination in space because optic nerve lesions cannot be counted, so no diagnosis can be made until a follow-up MRI shows new lesions for dissemination in time",
+"She meets dissemination in space with periventricular and juxtacortical lesions and meets dissemination in time because CSF-restricted oligoclonal bands now fulfill DIT, so a diagnosis of multiple sclerosis can be made at this visit",
+"She meets dissemination in time due to an enhancing optic nerve lesion and nonenhancing brain lesions on the same scan, but dissemination in space is not met because infratentorial or spinal cord involvement is required",
+"A diagnosis of multiple sclerosis requires at least two clinical attacks regardless of MRI and CSF, so she cannot be diagnosed yet",
+"CSF-restricted oligoclonal bands are nonspecific and cannot be used to establish dissemination in time in the current criteria"
+],
+"correctAnswer": 1,
+"explanation": "Choice 1 is correct. Dissemination in space is satisfied by at least one characteristic T2 lesion in two or more typical locations; periventricular and juxtacortical lesions meet this requirement, and optic nerve lesions do not need to be counted. Dissemination in time can be established either by new T2 or enhancing lesions relative to a baseline scan or by the presence of CSF-restricted oligoclonal bands, which the 2017 McDonald criteria accept as fulfilling DIT. Therefore, with DIS and DIT both met and other causes reasonably excluded, multiple sclerosis can be diagnosed now. Choice 0 is incorrect because DIS is already met by periventricular and juxtacortical lesions; the rule that optic nerve lesions do not count applies only to not using them to meet DIS, not to negating brain lesions that already meet DIS. Choice 2 is incorrect because DIS does not require infratentorial or spinal cord lesions if other characteristic locations are involved; additionally, DIT can be fulfilled by CSF oligoclonal bands even without simultaneous enhancing and nonenhancing lesions. Choice 3 is incorrect because modern criteria allow diagnosis after a single clinical attack when DIS and DIT are demonstrated by MRI and/or CSF. Choice 4 is incorrect because CSF-restricted oligoclonal bands are explicitly allowed to fulfill DIT under the 2017 criteria."
+},
+{
+"question": "A 42-year-old woman has recurrent episodes of severe optic neuritis with poor visual recovery and a new longitudinally extensive transverse myelitis spanning four vertebral segments. She also had intractable hiccups and vomiting two months earlier; MRI showed a dorsal medullary lesion at the area postrema. Serum testing is positive for aquaporin-4 antibodies. Which combination of pathologic mechanism and imaging pattern best accounts for her disease and distinguishes it from multiple sclerosis?",
+"choices": [
+"Complement-mediated astrocytopathy targeting aquaporin-4 with longitudinally extensive central cord lesions and area postrema involvement",
+"Primary oligodendrocyte loss with periventricular and juxtacortical lesions typical of Dawson-finger morphology",
+"T-cell–predominant demyelination targeting myelin oligodendrocyte glycoprotein with conus involvement and monophasic course in children only",
+"Microvascular small-vessel ischemic changes causing scattered subcortical punctate lesions without opticospinal predilection",
+"Perivenous demyelination with frequent persistent T1 black holes and progressive disability between attacks"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct. Aquaporin-4–IgG–positive NMOSD is an astrocytopathy characterized by complement-mediated injury to AQP4-rich astrocytic endfeet, producing clinical syndromes such as severe optic neuritis, longitudinally extensive transverse myelitis, and area postrema syndrome; demyelination is secondary. Imaging often shows cord lesions extending three or more vertebral segments and periependymal brainstem lesions at the area postrema, features not typical of multiple sclerosis. Choice 1 describes classic multiple sclerosis, which is primarily an inflammatory demyelinating disease with periventricular and juxtacortical plaques and does not characteristically produce LETM or area postrema attacks. Choice 2 describes MOG antibody disease, which may involve conus and can be monophasic or relapsing; it lacks the astrocytopathy and complement deposition that define aquaporin-4–mediated disease and is not confined to children. Choice 3 describes nonspecific microvascular disease that would not explain severe opticospinal attacks or area postrema syndrome. Choice 4 describes ADEM features such as perivenous demyelination and is incorrect because persistent black holes and progressive disability between attacks better fit chronic MS and not NMOSD."
+},
+{
+"question": "A 7-year-old boy develops fever and headache after an upper respiratory infection and then presents with confusion, irritability, ataxia, and weakness in all extremities. MRI reveals large, bilateral, poorly demarcated deep and subcortical white matter lesions with additional involvement of the thalami; periventricular white matter appears relatively spared. CSF shows mild pleocytosis and elevated protein without restricted oligoclonal bands. Which follow-up finding would most strongly support the suspected diagnosis over multiple sclerosis?",
+"choices": [
+"Resolution of most lesions on repeat MRI with no new clinical events or new MRI lesions at or beyond three months",
+"Appearance of a new enhancing periventricular lesion within two months",
+"Development of multiple persistent T1 black holes on six-month imaging",
+"Emergence of a longitudinally extensive transverse myelitis within one month",
+"Seroconversion to aquaporin-4–IgG positivity"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct. The presentation is classic for acute disseminated encephalomyelitis, which requires a first multifocal CNS event with encephalopathy, typically postinfectious, with large bilateral poorly demarcated lesions that often involve deep gray matter; CSF oligoclonal bands are uncommon. Supportive evolution includes radiographic resolution of most lesions and absence of new clinical or MRI events after the acute phase, helping distinguish ADEM from multiple sclerosis. Choice 1 would argue for dissemination in time consistent with evolving MS rather than monophasic ADEM. Choice 2 suggests chronic destructive MS pathology; black holes are unusual in ADEM and their presence is predictive of MS. Choice 3 could occur in NMOSD or occasionally MOGAD and does not support ADEM. Choice 4 would indicate aquaporin-4–mediated NMOSD rather than ADEM."
+},
+{
+"question": "After a 6-minute cardiac arrest, a 56-year-old man is resuscitated and stabilized. Two weeks later he is alert and conversational. Neurologic exam is normal except for a striking inability to remember events and conversations from earlier in the day; he repeatedly asks the same questions. He can repeat 7 digits forward, perform complex visuospatial copy tasks, and improves with practice on mirror-tracing across sessions. MRI shows bilateral hippocampal CA1 signal abnormality. Which testing outcome is most consistent with his lesion profile?",
+"choices": [
+"Severely impaired delayed recall of a word list after 30 minutes despite intact immediate span and intact mirror-tracing skill learning",
+"Markedly impaired digit span with relatively preserved delayed recall and intact mirror-tracing skill learning",
+"Severely impaired mirror-tracing acquisition with normal delayed recall and digit span",
+"Normal delayed recall of a complex story but impaired improvement on repeated mirror-tracing attempts",
+"Global loss of remote autobiographical memories from childhood with normal new learning"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct because bilateral hippocampal CA1 injury selectively disrupts encoding and consolidation of new declarative episodic memories, producing anterograde amnesia with poor delayed recall, while working memory (digit span, prefrontal circuits) and procedural learning (mirror tracing, cerebellum and basal ganglia) are spared. Choice 1 is incorrect because digit span reflects working memory rather than hippocampal function and is typically preserved in pure hippocampal amnesia. Choice 2 is incorrect because mirror-tracing relies on procedural memory networks, not hippocampus, and should be intact. Choice 3 is incorrect because hippocampal damage impairs delayed recall of narratives even when attention is adequate; procedural improvement should remain. Choice 4 is incorrect because remote autobiographical memory is often relatively spared early due to cortical consolidation and Ribot’s law, whereas new learning is impaired."
+},
+{
+"question": "A 52-year-old man with long-standing alcohol use disorder presents with confusion, ataxia, and ophthalmoplegia that improves with IV thiamine. Months later he has persistent anterograde amnesia and confabulation. MRI shows signal abnormality in the mammillary bodies. Disruption of which limbic pathway best explains the enduring memory deficit?",
+"choices": [
+"Mammillothalamic tract from mammillary bodies to anterior thalamic nucleus",
+"Uncinate fasciculus connecting orbitofrontal cortex to anterior temporal lobe",
+"Stria terminalis from amygdala to hypothalamus and septal nuclei",
+"Anterior commissure interconnecting temporal lobes",
+"Periaqueductal gray projections to medullary autonomic centers"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct because Korsakoff syndrome targets mammillary bodies and related diencephalic structures, interrupting the mammillothalamic tract within the Papez circuit (hippocampus to mammillary bodies to anterior thalamus to cingulate), leading to severe anterograde amnesia and confabulation. Choice 1 is incorrect because the uncinate fasciculus mediates orbitofrontal–temporal association functions such as social and semantic processing, not the core declarative memory circuit. Choice 2 is incorrect because the stria terminalis carries amygdala outputs to hypothalamus and septal areas for autonomic and motivational responses, not declarative memory consolidation. Choice 3 is incorrect because the anterior commissure primarily interconnects temporal neocortex and olfactory regions but is not the critical bottleneck for episodic memory consolidation. Choice 4 is incorrect because periaqueductal gray projections modulate pain and autonomic reactions and are not central to the Papez memory pathway."
+},
+{
+"question": "A 29-year-old woman has recurrent focal impaired-awareness seizures preceded by a rising epigastric sensation and a sudden perception of a strong burning-rubber odor. Video-EEG monitoring localizes seizure onset to the medial temporal lobe. Which anatomic target receives direct projections from the olfactory bulb that most plausibly links her aura to the limbic seizure focus while bypassing a thalamic relay?",
+"choices": [
+"Piriform cortex in the anterior medial temporal lobe",
+"Mediodorsal nucleus of the thalamus",
+"Primary somatosensory cortex via the ventral posteromedial nucleus",
+"Nucleus accumbens in the ventral striatum",
+"Anterior thalamic nucleus"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct because the lateral olfactory tract projects directly from the olfactory bulb to primary olfactory (piriform) cortex as well as adjacent limbic structures including amygdala and entorhinal cortex, bypassing a thalamic relay and providing a substrate for olfactory auras in medial temporal lobe epilepsy. Choice 1 is incorrect because while olfactory information can reach orbitofrontal cortex via the mediodorsal thalamus for higher-order processing, the primary limbic olfactory input does not require thalamic relay. Choice 2 is incorrect because the ventral posteromedial nucleus relays somatosensory, not olfactory, input. Choice 3 is incorrect because the nucleus accumbens participates in reward and motivation circuits and does not receive direct bulb projections. Choice 4 is incorrect because the anterior thalamic nucleus is part of the Papez memory circuit, not the primary olfactory pathway."
+},
+{
+"question": "A 36-year-old woman with relapsing-remitting multiple sclerosis misses several infusion appointments and reports low mood, anhedonia, poor sleep, and passive thoughts of death. She denies a plan or intent. The clinic wants to reduce safety risk and improve treatment adherence. Which single next step best aligns with best practices emphasized for MS care?",
+"choices": [
+"Initiate routine depression screening at every neurology visit with a validated tool and provide rapid referral for combined psychotherapy and antidepressant treatment with safety planning",
+"Increase her disease-modifying therapy dose first to regain inflammatory control; address mood after 3 months if adherence improves",
+"Reassure her that mood symptoms are common in MS and provide an educational pamphlet about coping strategies",
+"Advise passive acceptance of her diagnosis and to avoid discussing distressing thoughts to prevent rumination",
+"Schedule less frequent neurology follow-ups to decrease medical burden and thereby reduce distress"
+],
+"correctAnswer": 0,
+"explanation": "The correct answer is choice 0. Depression and other neuropsychiatric symptoms are highly prevalent in MS and are associated with worse adherence and higher suicide risk; clinics should perform routine depression screening and offer timely treatment, with combination therapy (psychotherapy plus antidepressants) often most effective, alongside a safety plan when passive suicidal ideation is disclosed. Choice 1 is incorrect because escalating immunotherapy without addressing active depression and adherence barriers fails to treat the driver of nonadherence and safety risk. Choice 2 is insufficient; education alone does not address high-risk symptoms or improve adherence as effectively as structured screening and treatment. Choice 3 mischaracterizes acceptance; the lecture frames acceptance as active, not passive, and discourages avoidance. Choice 4 reduces clinical contact when closer monitoring and integrated behavioral health support are indicated."
+},
+{
+"question": "A 42-year-old man with MS reports missing oral doses several times per week. He endorses daytime fatigue, trouble concentrating, slowed information processing, and worry about injections should his regimen change. He recently withdrew from his cycling group and spends weekends in bed. Which targeted plan best addresses the combined emotional, cognitive, and behavioral barriers to adherence outlined in the lecture?",
+"choices": [
+"Cognitive-behavioral therapy for anxiety and needle-related fear plus behavioral activation using a structured plan (ABC PLEASE), energy-conservation strategies for fatigue, and cognitive supports such as pill organizers and phone reminders",
+"Switch to a less frequent injectable disease-modifying therapy and reassess adherence in 6 months without additional interventions",
+"Recommend he read online patient forums and return if his mood worsens",
+"Prescribe a sedating hypnotic nightly to improve sleep without other changes",
+"Ask a family member to assume full control of his medications to eliminate missed doses"
+],
+"correctAnswer": 0,
+"explanation": "The correct answer is choice 0. The lecture emphasizes that adherence problems in MS are multifactorial: emotional (depression, anxiety), cognitive (memory, attention, processing speed), and behavioral (fatigue, avoidance, social withdrawal). A multicomponent plan pairing CBT for anxiety, behavioral activation and resilience practices (ABC PLEASE: accumulate positives, build mastery, cope ahead; plus treating physical illness, balanced eating, avoiding mood-altering drugs, balancing sleep, and exercise), energy-conservation/pacing for fatigue, and cognitive supports (reminders, organizers, simplification) directly targets each barrier. Choice 1 may reduce dosing burden but ignores the active emotional and cognitive contributors to nonadherence. Choice 2 lacks structured skill-building and may perpetuate isolation. Choice 3 treats a symptom (sleep) without addressing mood, cognition, or daytime activation and risks next-day sedation. Choice 4 risks learned helplessness and does not build the patient’s skills; supportive involvement is helpful, but wholesale transfer of control is not the recommended first-line strategy."
+},
+{
+"question": "A 33-year-old teacher with MS describes loss of identity since diagnosis, stopped attending social activities, and believes no one understands her challenges. She is open to nonpharmacologic options. Which intervention most directly leverages benefits highlighted in the lecture to reduce isolation, challenge unhelpful beliefs, and improve coping?",
+"choices": [
+"Enroll in a structured MS support group or group therapy to meet peers, obtain multiple perspectives, challenge inaccurate beliefs, learn effective strategies, and decrease isolation",
+"Practice total self-reliance by avoiding discussion of MS to prevent burdening others",
+"Adopt perfectionistic standards to regain control and push through fatigue",
+"Wait for symptoms to visibly worsen before seeking psychosocial support to validate her experience",
+"Avoid exercise and sleep structure to conserve energy for workdays"
+],
+"correctAnswer": 0,
+"explanation": "The correct answer is choice 0. The lecture highlights structured support (MS support groups and group therapy) as a way to reduce isolation, gain multiple perspectives, challenge inaccurate or unhelpful beliefs, learn what works from others, and practice skills, thereby improving coping and identity recovery. Choice 1 promotes isolation and deprives her of social support, which is linked to poorer outcomes. Choice 2 reflects a maladaptive coping pattern (perfectionism, overcontrol) associated with higher distress. Choice 3 delays care and reinforces invalidation; early engagement improves adjustment. Choice 4 contradicts behavioral activation principles; balanced sleep and regular activity, including adapted exercise, are part of resilience-building and mood stabilization."
+},
+{
+"question": "A 27-year-old woman with focal epilepsy is well controlled on lamotrigine. She stops her combined estrogen-containing oral contraceptive to try to conceive and, two weeks later, her psychiatrist adds valproate for bipolar symptoms. Within a month she develops dizziness, diplopia, and a diffuse morbilliform rash. Which pharmacokinetic explanation best accounts for her new toxicity risk?",
+"choices": [
+"Estrogen removal and valproate coadministration both increase lamotrigine exposure by reducing its metabolism",
+"Stopping estrogen increases lamotrigine clearance, while valproate decreases it, resulting in no net change",
+"Valproate displaces lamotrigine from plasma proteins, lowering free drug concentrations",
+"Estrogen withdrawal directly increases GABAergic tone, which mimics lamotrigine toxicity",
+"Valproate induces hepatic enzymes that accelerate lamotrigine clearance"
+],
+"correctAnswer": 0,
+"explanation": "Correct: Estrogen removal and valproate coadministration both increase lamotrigine exposure by reducing its metabolism. Estrogens lower lamotrigine levels; stopping estrogen removes this effect, raising lamotrigine concentrations. Valproate further increases lamotrigine by inhibiting its metabolism. Together, these changes heighten lamotrigine toxicity risk including rash. Incorrect choices: Stopping estrogen increases, not decreases, lamotrigine levels, so it does not offset valproate’s metabolic inhibition. Valproate’s interaction is metabolic, not protein displacement. Estrogen withdrawal does not cause lamotrigine-like toxicity via GABAergic mechanisms; lamotrigine acts primarily via Na+ channel inactivation. Valproate is not an inducer; it inhibits and also has multiple mechanisms including Na+ and T-type Ca2+ effects. "
+},
+{
+"question": "A 24-year-old woman of Han Chinese ancestry needs an antiseizure drug for new-onset focal epilepsy. She takes a combined estrogen–progestin oral contraceptive and warfarin after a recent venous thrombosis. Genetic testing is positive for HLA-B1502. Which agent best minimizes the risks highlighted by her comorbidities and pharmacogenetics?",
+"choices": [
+"Carbamazepine",
+"Oxcarbazepine",
+"Levetiracetam",
+"Topiramate",
+"Valproate"
+],
+"correctAnswer": 2,
+"explanation": "Correct: Levetiracetam. It does not carry the HLA-B1502–associated SJS risk, is not a strong hepatic enzyme inducer that would reduce warfarin or oral contraceptive effectiveness, and requires renal dosing rather than complex hepatic adjustments. Carbamazepine is incorrect because it is associated with a markedly increased risk of SJS/TEN in HLA-B1502 carriers and is a potent enzyme inducer that lowers warfarin and oral contraceptive levels. Oxcarbazepine is incorrect because although it induces enzymes less than carbamazepine, it still carries increased SJS risk in HLA-B1502 carriers and can cause significant hyponatremia. Topiramate is incorrect because it can cause cognitive side effects, renal stones, and metabolic acidosis and is not the cleanest choice for a patient dependent on oral contraceptives and warfarin management. Valproate is incorrect due to teratogenicity concerns in a woman planning pregnancy and endocrine effects, and it is not needed here given safer alternatives. "
+},
+{
+"question": "A 63-year-old man with focal-to-bilateral tonic-clonic seizures on chronic phenytoin has a total phenytoin level of 18 mcg/mL and continues to have breakthrough seizures. His clinician increases the daily dose by 50 mg. One week later he returns with nystagmus, gait ataxia, and lethargy. Albumin is 2.4 g/dL. Which mechanism best explains his abrupt toxicity after a seemingly small dose increase?",
+"choices": [
+"Saturable hepatic metabolism leading to disproportionate increases in phenytoin levels plus low albumin increasing free drug",
+"Induction of CYP2C9 and CYP2C19 leading to accumulation of active metabolites",
+"Antacid coadministration increased phenytoin bioavailability by 20 percent",
+"Enhanced renal reabsorption of phenytoin due to metabolic acidosis",
+"Displacement of phenytoin from albumin by valproate, which always lowers total levels while reducing free concentrations"
+],
+"correctAnswer": 0,
+"explanation": "Correct: Saturable hepatic metabolism leading to disproportionate increases in phenytoin levels plus low albumin increasing free drug. Phenytoin exhibits nonlinear Michaelis–Menten kinetics; small dose increases can cause large rises in serum concentration. Toxicity signs appear around and above 20–40 mcg/mL. Its high albumin binding means hypoalbuminemia increases the free fraction, amplifying toxicity at a given total level. Incorrect choices: Phenytoin is a broad CYP inducer; it is not metabolized to active metabolites that accumulate via induction. Antacids are noted to reduce, not increase, bioavailability of gabapentin, not phenytoin; this does not explain phenytoin toxicity. Renal handling is not the primary driver of phenytoin kinetics. Valproate can displace protein-bound drugs and inhibit metabolism, but the stem gives no valproate use; moreover, displacement increases free levels (worsening toxicity), not lowers them. "
+},
+{
+"question": "A 20-year-old man has a witnessed convulsive event after staying up all night. A roommate reports the patient first turned his head and eyes to the left, his left arm stiffened and shook, and 30 seconds later the whole body stiffened and jerked. Afterward, the patient was confused and had transient weakness of the left arm for 10 minutes. He recalls an intense rising sensation in his stomach right before the event. Which seizure type best explains this presentation?",
+"choices": [
+"Focal to bilateral tonic-clonic seizure",
+"Generalized tonic-clonic seizure",
+"Typical absence seizure",
+"Focal preserved-consciousness seizure",
+"Myoclonic seizure"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct. Focal to bilateral tonic-clonic seizures often begin with focal signs (e.g., versive head/eye deviation), may have an aura (a focal seizure), and commonly produce postictal confusion or Todd’s paresis once bilateral convulsions occur. These features are prototypical of FBTC. Choice 1 is incorrect because generalized tonic-clonic seizures start bilaterally at onset and characteristically lack an aura, lack early forced head/eye turning to one side, and do not produce Todd’s paresis; postictal confusion is common but not diagnostic without the focal features seen here. Choice 2 is incorrect because typical absence occurs mainly in children/teens, is brief (<30 s), often triggered by hyperventilation, and shows no aura, no postictal confusion, and no Todd’s paresis; the EEG hallmark is generalized 3-Hz spike-and-wave. Choice 3 is incorrect because a focal preserved-consciousness seizure (formerly simple partial) would not evolve to bilateral tonic-clonic activity and usually lacks postictal confusion; Todd’s paresis can follow focal motor seizures, but the bilateral convulsion indicates spread beyond an isolated FPC. Choice 4 is incorrect because myoclonic seizures are brief, shock-like jerks, often symmetric and generalized, frequently associated with generalized epilepsies; they do not typically present with a focal aura, versive head/eye deviation, or postictal unilateral weakness. "
+},
+{
+"question": "A 10-year-old child has dozens of daily brief staring spells with abrupt onset and offset. Teachers note brief pauses in activity; there is no warning and no confusion afterward. In clinic, hyperventilation for 3 minutes reproduces an event. Which additional finding would argue against typical absence and instead suggest a focal impaired-consciousness seizure?",
+"choices": [
+"A preceding metallic taste or déjà vu sensation",
+"Event duration less than 30 seconds",
+"Generalized 3-Hz spike-and-wave activity during the event",
+"No postictal confusion after the spell",
+"Frequent daily occurrence of spells"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct. Auras such as metallic taste, déjà vu, olfactory/gustatory hallucinations, or a rising epigastric sensation are focal seizures that commonly localize to the mesial temporal lobe; their presence argues against typical absence, which by definition lacks focal auras. Choices 1–4 are typical of absence and therefore incorrect: typical absence lasts under 30 seconds, is often provoked by hyperventilation, shows generalized 3-Hz spike-and-wave on EEG, has no postictal confusion or Todd’s paresis, and may occur many times per day. "
+},
+{
+"question": "A 32-year-old man presents after a likely first unprovoked seizure. Neurologic exam and basic labs are normal. A 30-minute routine EEG performed the next day is read as normal. Which approach best increases the diagnostic yield for detecting interictal epileptiform activity in this patient?",
+"choices": [
+"Repeat EEG or obtain a longer-duration EEG recording to improve sensitivity",
+"Rely on the single normal routine EEG to exclude epilepsy",
+"Order brain MRI only, because EEG will not change management",
+"Diagnose psychogenic nonepileptic events and stop further testing",
+"Perform only hyperventilation testing in clinic without EEG"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct. Routine ~30-minute EEGs have limited sensitivity (about 29–55%) for interictal epileptiform discharges; repeating EEG or extending the recording markedly increases yield (approx. 82–92%). Longer recording duration improves sensitivity. Choice 1 is incorrect because a single normal routine EEG does not exclude epilepsy given its modest sensitivity. Choice 2 is incomplete; MRI evaluates structural etiologies but does not replace EEG for detecting epileptiform activity or classifying seizure onset. Choice 3 is premature; PNES is a diagnosis requiring appropriate evaluation and is not supported by a single normal EEG after a suspected unprovoked seizure. Choice 4 is incorrect because hyperventilation can provoke generalized absence seizures but, without EEG recording, it does not assess for interictal epileptiform discharges in this adult with a first unprovoked event. "
+},
+{
+"question": "A 45-year-old woman undergoes brain biopsy for a periventricular mass concerning for a tumor on MRI. Luxol fast blue staining shows patchy pallor. On H&E there are numerous foamy macrophages within the lesion and perivascular lymphocytic cuffs; silver staining demonstrates largely preserved axons. Which combination best classifies the lesion and the expected stain findings?",
+"choices": [
+"Active demyelinating plaque; Luxol fast blue shows myelin loss and silver stain shows relative axonal preservation, with foamy macrophages and perivascular lymphocytes present",
+"Inactive plaque; prominent inflammation with abundant perivascular lymphocytes and foamy macrophages but intact myelin on Luxol fast blue",
+"Remyelinating (shadow) plaque; heavy inflammatory infiltrate with thick myelin sheaths around axons on Luxol fast blue",
+"Active demyelinating plaque; gliosis without inflammation and normal myelin staining on Luxol fast blue",
+"Inactive plaque; Luxol fast blue demonstrates myelin loss and silver stain shows axonal transection with numerous macrophages"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct. An active multiple sclerosis plaque shows demyelination with relative axon sparing, foamy macrophages within the lesion, and perivascular lymphocytes; Luxol fast blue highlights myelin loss and a silver stain highlights relatively preserved axons. Choice 1 is incorrect because an inactive plaque lacks prominent ongoing inflammation; by definition, inactive plaques show demyelination with gliosis and no inflammation. Choice 2 is incorrect because shadow (remyelinating) plaques show thin myelin around preserved axons with less active inflammation, not heavy infiltrates with thick sheaths. Choice 3 is incorrect because active plaques do not have normal myelin staining and typically do show inflammatory cells. Choice 4 is incorrect because inactive plaques are characterized by demyelination plus gliosis and absence of inflammation; axons are relatively preserved rather than transected on silver stain. "
+},
+{
+"question": "A 37-year-old woman presents with severe bilateral optic neuritis with poor recovery and later develops a longitudinally extensive transverse myelitis spanning four vertebral segments. Months earlier she had persistent hiccups and nausea attributed to a dorsal medullary lesion. Serum testing is positive for aquaporin-4 antibodies. Which pathologic or immunohistochemical finding is most characteristic of her disease and helps distinguish it from multiple sclerosis?",
+"choices": [
+"Loss of aquaporin-4 immunostaining with astrocyte loss in lesions; demyelination is secondary",
+"Prominent oligoclonal bands in CSF are required and define dissemination in time",
+"Perivenous demyelination with all lesions of the same age on imaging",
+"Scattered periventricular plaques with astro-gliosis and preserved aquaporin-4 immunostaining",
+"Central pontine ‘bat-wing’ T2 lesion due to rapid correction of hyponatremia"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct. In aquaporin-4–IgG–positive neuromyelitis optica spectrum disorder, astrocytes are selectively targeted with loss of AQP4 staining and demyelination is secondary; clinically, longitudinally extensive myelitis and area postrema involvement are typical. Choice 1 is incorrect because oligoclonal bands typify MS; NMOSD is characterized instead by serum AQP4-IgG and astrocytopathy, and OCBs are not required for diagnosis. Choice 2 is incorrect because perivenous demyelination with lesions of the same age is a hallmark of ADEM, not NMOSD. Choice 3 is incorrect because scattered periventricular plaques with astro-gliosis and preserved AQP4 staining are characteristic of MS rather than NMOSD. Choice 4 is incorrect because the ‘bat-wing’ pontine lesion reflects osmotic demyelination syndrome (central pontine myelinolysis) after rapid correction of hyponatremia, unrelated to NMOSD. "
+},
+{
+"question": "A 56-year-old man with Crohn disease on natalizumab develops weeks of progressive hemiparesis and aphasia. MRI shows multifocal, asymmetric T2 hyperintense white matter lesions without mass effect. CSF PCR is positive for JC virus. Which histopathologic finding best matches the expected brain biopsy in this disorder?",
+"choices": [
+"Demyelination with areas of necrosis and oligodendrocyte nuclei containing viral inclusions",
+"Central pontine demyelination restricted to corticospinal tracts after rapid sodium correction",
+"Perivascular lymphocytes with foamy macrophages but intact Luxol fast blue myelin staining",
+"Thin myelin sheaths around preserved axons without inflammation (shadow plaque)",
+"Diffuse bilateral white matter demyelination with sparing of U-fibers in an infant with enzyme deficiency"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct. Progressive multifocal leukoencephalopathy occurs in immunosuppressed states and with natalizumab exposure; it shows multifocal demyelination with necrosis and characteristic viral inclusions in oligodendrocytes, and JC virus PCR is positive in CSF. Choice 1 is incorrect because central pontine myelinolysis presents after rapid correction of hyponatremia with a ‘bat-wing’ pontine lesion and is not linked to JC virus. Choice 2 is incorrect because active MS plaques show demyelination on Luxol fast blue, not intact myelin; they also feature foamy macrophages and perivascular lymphocytes but lack viral inclusions. Choice 3 is incorrect because remyelinating (shadow) plaques show thin myelin, not the destructive viral cytopathic changes of PML. Choice 4 is incorrect because leukodystrophies are dysmyelinating pediatric disorders with diffuse bilateral white matter involvement and sparing of subcortical U-fibers, often due to enzyme or peroxisomal defects, not an acquired opportunistic viral infection. "
+}
 ]
-
 
