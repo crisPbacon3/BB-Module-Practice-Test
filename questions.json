@@ -466,6 +466,42 @@
 ],
 "correctAnswer": 0,
 "explanation": "Levetiracetam is correct because it is effective for focal seizures, is generally well tolerated in older adults, has minimal drug–drug interactions, and is renally cleared, avoiding the patient’s hepatic impairment. Phenytoin is incorrect because it is a hepatic enzyme inducer, has complex nonlinear kinetics, and can worsen glycemic control by decreasing insulin secretion. Carbamazepine is incorrect due to strong CYP3A4 induction with many interactions in a polypharmacy patient and risks such as hyponatremia. Valproic acid is incorrect because preexisting liver disease increases the risk of hepatotoxicity. Topiramate is incorrect given this patient’s history of glaucoma and nephrolithiasis; its carbonic anhydrase–inhibiting effect increases risks of acute angle issues and kidney stones. "
+},
+{
+"question": "A 58-year-old comatose man after an out-of-hospital cardiac arrest undergoes bedside brainstem testing. With ice-cold water in the right ear, both eyes slowly deviate to the right without a fast corrective phase. With warm water in the left ear several minutes later, there is no eye movement. Corneal and pupillary light reflexes are present. Which lesion best explains this caloric test pattern?",
+"choices": [
+"Left vestibular apparatus or vestibular nerve lesion impairing the afferent limb",
+"Bilateral frontal eye field lesions abolishing the fast phase only",
+"Right abducens nucleus lesion in the dorsal pons",
+"Bilateral medial longitudinal fasciculus lesions producing internuclear ophthalmoplegia",
+"Cerebellar flocculus lesion impairing gaze-holding"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct. In coma with an intact brainstem, caloric irrigation produces the slow tonic eye deviation (brainstem vestibulo-ocular reflex) but the cortical fast corrective phase (nystagmus) is absent. Right cold causing slow deviation toward the irrigated ear proves intact right-sided afferent input and central VOR circuitry. The absence of any slow deviation with left warm localizes to failure of the left afferent limb (labyrinth or vestibular nerve). Choice 1 is incorrect because frontal eye fields generate the fast phase; bilateral cortical damage would abolish fast beats but preserve the slow deviation from intact brainstem pathways in both ears, not selectively one ear. Choice 2 is incorrect because a right abducens nuclear lesion would impair rightward conjugate movements, contradicting the preserved rightward slow deviation with right-ear cold. Choice 3 is incorrect because bilateral MLF lesions cause disconjugate responses (impaired adduction) rather than complete absence of slow deviation to one ear only. Choice 4 is incorrect because cerebellar flocculus dysfunction yields gaze-holding deficits and gaze-evoked nystagmus but does not abolish the brainstem-driven slow phase from one ear’s caloric stimulation. "
+},
+{
+"question": "A 32-year-old man with an acute right temporal epidural hematoma develops coma with a fixed, dilated right pupil and extensor posturing. He subsequently shows weakness of the right side rather than the left. Which mechanism most directly explains the ipsilateral hemiplegia in this setting?",
+"choices": [
+"Compression of the contralateral cerebral peduncle against the tentorial edge (Kernohan notch)",
+"Infarction of the right occipital lobe from posterior cerebral artery compression",
+"Primary destruction of the right corticospinal tract within the internal capsule",
+"Ischemia of bilateral thalami from top-of-the-basilar occlusion",
+"Dorsal midbrain lesion causing Parinaud syndrome"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct. Uncal herniation can compress the ipsilateral oculomotor nerve (blown pupil) and midbrain reticular activating system (coma). As the medial temporal lobe displaces across the tentorial incisura, the opposite cerebral peduncle can be compressed against the tentorial edge (Kernohan notch), producing a false-localizing ipsilateral hemiplegia. Choice 1 is incorrect because posterior cerebral artery compression explains contralateral homonymous hemianopia, not ipsilateral hemiplegia. Choice 2 is incorrect because a primary internal capsule lesion would cause contralateral weakness; the vignette emphasizes a herniation mechanism with paradoxical ipsilateral findings. Choice 3 is incorrect because top-of-the-basilar events involve rostral brainstem and bilateral thalami causing coma, vertical gaze palsy, and visual syndromes, not the classic uncal herniation triad with a blown pupil and ipsilateral hemiplegia. Choice 4 is incorrect because a dorsal midbrain (Parinaud) lesion yields vertical gaze palsy and light-near dissociation, not the herniation constellation or Kernohan notch phenomenon. "
+},
+{
+"question": "A 66-year-old man is found mute and quadriplegic after a basilar artery thrombosis but follows commands by vertical eye movements and blinking. Pupils are reactive; corneal reflexes are intact. Which additional finding best distinguishes locked-in syndrome from top-of-the-basilar syndrome in this clinical context?",
+"choices": [
+"Preserved consciousness with vertical eye movements indicating ventral pontine damage sparing the midbrain tegmentum in locked-in syndrome",
+"Profound coma due to bilateral thalamic and rostral brainstem infarction in locked-in syndrome",
+"Complete loss of vertical gaze and ptosis with preserved motor strength in locked-in syndrome",
+"Absent corneal and oculocephalic reflexes defining locked-in syndrome as brain death",
+"Fixed, dilated pupils due to oculomotor nerve compression as the hallmark of locked-in syndrome"
+],
+"correctAnswer": 0,
+"explanation": "Choice 0 is correct. Locked-in syndrome results from ventral pontine injury (often basilar occlusion) causing quadriplegia and anarthria with preserved consciousness, vertical eye movements, and blinking (dorsal midbrain and tegmental structures spared). In contrast, top-of-the-basilar syndrome produces coma, vertical gaze palsy, ptosis, amnesia, and cortical visual syndromes due to infarction of rostral brainstem and bilateral thalami, often with preserved limb motor strength. Choice 1 is incorrect because coma with bilateral thalamic involvement characterizes top-of-the-basilar syndrome, not locked-in syndrome. Choice 2 is incorrect because vertical gaze palsy and ptosis are features of top-of-the-basilar lesions; locked-in patients preserve vertical gaze. Choice 3 is incorrect because brainstem reflexes (corneal, oculocephalic) are preserved in locked-in syndrome; their absence suggests brain death or extensive brainstem failure, not LIS. Choice 4 is incorrect because fixed, dilated pupils reflect uncal herniation with oculomotor compression, not the defining feature of locked-in syndrome. "
 }
 ]
 
