@@ -1,507 +1,601 @@
 [
-  {
-    "question": "A 2-year-old boy has 2 days of fever and ear-tugging. Otoscopy shows a bulging, erythematous tympanic membrane with decreased mobility. This is his third episode this year. His parent asks why children get middle-ear infections more often and which nerve injury could make pressure equalization worse. Which combination is most accurate?",
-    "choices": [
-      "More horizontally oriented eustachian tubes in children; injury to CN V3 can impair active opening of the tube via tensor veli palatini",
-      "Shorter, S-shaped external acoustic meatus in children; injury to CN X can impair stapedius reflex",
-      "Thinner tympanic membrane in children; injury to CN IX can impair levator veli palatini",
-      "Smaller mastoid antrum in children; injury to CN VII can impair tensor tympani",
-      "Less cerumen production in children; injury to CN III can impair levator veli palatini"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is: More horizontally oriented eustachian tubes in children; injury to CN V3 can impair active opening of the tube via tensor veli palatini. Pediatric eustachian tubes are shorter and more horizontal, which hinders drainage and pressure equalization, predisposing to acute otitis media. Tensor veli palatini (V3) actively helps open the pharyngotympanic tube; a V3 lesion can worsen dysfunction. The external acoustic meatus shape is not the key risk, and stapedius is CN VII, not X. Levator veli palatini is innervated by CN X, not IX. Tensor tympani is innervated by V3, not VII. CN III does not innervate palatal or eustachian tube muscles."
-  },
-  {
-    "question": "A 34-year-old develops right facial weakness after an acute facial nerve palsy. Sounds on the right now seem painfully loud. Which structure’s dysfunction best explains this new auditory symptom?",
-    "choices": [
-      "Stapedius muscle innervated by CN VII, which normally dampens stapes movement at the oval window",
-      "Tensor tympani muscle innervated by CN VII, which normally tenses the tympanic membrane",
-      "Chorda tympani branch of CN VII, which normally carries taste fibers from the posterior third of the tongue",
-      "Manubrium of the malleus, which when injured typically causes hyperacusis",
-      "Auriculotemporal nerve (V3), which provides most tactile sensation to the external acoustic meatus"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is: Stapedius muscle innervated by CN VII, which normally dampens stapes movement at the oval window. Paralysis of stapedius prevents sound attenuation and produces hyperacusis. Tensor tympani is innervated by V3, not VII. Chorda tympani carries taste from the anterior two-thirds of the tongue and parasympathetic fibers to salivary glands; it does not attenuate sound. Injury to the malleus typically causes conductive hearing loss, not hyperacusis. The auriculotemporal nerve provides cutaneous sensation to parts of the external ear but does not control ossicular sound attenuation."
-  },
-  {
-    "question": "A 58-year-old comatose patient with bilateral frontal lobe hemorrhages undergoes bedside brainstem testing. Ice-cold water is irrigated into the right ear. Which eye finding and interpretation are most accurate?",
-    "choices": [
-      "Slow deviation of both eyes to the right with no fast phase, indicating intact brainstem vestibulo-ocular reflex pathways",
-      "Fast nystagmus to the right with slow drift to the left, indicating intact frontal eye fields only",
-      "No slow deviation or fast phase, indicating intact cortex but a brainstem lesion only",
-      "Slow deviation to the left followed by fast beats to the right, indicating a normal awake response",
-      "Sustained conjugate gaze deviation to the left from an isolated medial longitudinal fasciculus lesion"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is: Slow deviation of both eyes to the right with no fast phase, indicating intact brainstem vestibulo-ocular reflex pathways. Cold caloric testing drives the slow phase toward the irrigated ear; in coma, the cortical fast corrective phase is absent, so only the slow deviation is seen if the brainstem is intact. Fast nystagmus to the side opposite the cold ear occurs in an awake person (COWS), not in coma. Absence of both slow and fast phases suggests brainstem vestibulo-ocular reflex failure or heavy sedation rather than intact cortex. Slow right then fast left (COWS) is the normal awake response. An isolated MLF lesion impairs conjugate gaze coordination but does not by itself explain the coma-specific caloric pattern described."
-  },
-  {
-    "question": "A 32-year-old office worker reports that since a recent viral illness he feels unsteady specifically when riding an elevator or standing up quickly, but he has little trouble when turning his head left or right. Which structure and orientation most directly detect the missing stimulus in a healthy person?",
-    "choices": [
-      "Utricular macula oriented horizontally to detect lateral translation and side-to-side head tilt",
-      "Saccular macula oriented vertically on the anteromedial wall to detect vertical translation and forward/backward tilt",
-      "Crista ampullaris of the semicircular ducts that detect angular acceleration",
-      "Organ of Corti inner hair cells that detect airborne sound",
-      "Endolymphatic sac that serves primarily as an endolymph reservoir and site of resorption"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is Saccular macula oriented vertically on the anteromedial wall to detect vertical translation and forward/backward tilt. The saccule’s macula lies in the vertical plane and senses vertical motion (e.g., elevator changes) and fore–aft tilt, whereas the utricle’s macula is horizontal and senses side-to-side translation and tilt. Semicircular duct cristae detect angular (rotational) acceleration, not linear translation. The Organ of Corti mediates hearing. The endolymphatic sac functions as a reservoir and for resorption, not primary linear-motion sensing."
-  },
-  {
-    "question": "A term newborn has microtia and an absent external ear canal on otoscopy. CT confirms atresia of the external auditory canal. Which additional congenital abnormality is most likely present based on shared embryologic origins?",
-    "choices": [
-      "Malformation of the malleus and incus derived from first pharyngeal arch (Meckel’s) cartilage",
-      "Isolated overgrowth of the stapes footplate derived from second arch cartilage causing otosclerosis",
-      "Defective endolymphatic sac development with impaired endolymph resorption",
-      "Agenesis of the tympanic cavity due to failure of the second pharyngeal pouch",
-      "Tympanic membrane composed solely of ectoderm without mesodermal or endodermal layers"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is Malformation of the malleus and incus derived from first pharyngeal arch (Meckel’s) cartilage. Atresia of the external auditory canal results from failure of the meatal plug to degenerate and is commonly associated with microtia and variable middle-ear defects; the malleus and incus are first-arch derivatives and are frequently involved. Otosclerosis is a later-onset abnormal bony overgrowth near the stapes and is not a typical neonatal congenital association. The endolymphatic sac’s role is endolymph storage/resorption, not canal formation. The tympanic cavity derives from the first (not second) pharyngeal pouch, and the tympanic membrane normally has ectodermal, mesodermal, and endodermal layers. "
-  },
-  {
-    "question": "A 41-year-old woman has episodic vertigo lasting minutes to hours accompanied by tinnitus, fluctuating hearing loss, and a sensation of fullness in the affected ear. These symptoms are attributed to endolymphatic hydrops. Dysfunction of which structure most directly explains the underlying pathophysiology?",
-    "choices": [
-      "Utricular macula",
-      "Saccular macula",
-      "Endolymphatic sac (via the endolymphatic duct)",
-      "Perilymph in the scala tympani",
-      "Round window membrane"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is Endolymphatic sac (via the endolymphatic duct). The endolymphatic duct and sac act as a reservoir and site of endolymph resorption; impaired resorption causes endolymphatic hydrops, producing pressure/fullness, hearing loss, tinnitus, and balance symptoms. Utricular and saccular maculae are the linear-acceleration sensors, not the resorptive pathway. Perilymph spaces and the round window are not responsible for endolymph homeostasis."
-  },
-  {
-    "question": "A 29-year-old woman has slowly progressive unilateral hearing loss and tinnitus. Weber lateralizes to the affected ear and Rinne shows bone > air on that side. CT suggests abnormal bone near the oval window. She elects to undergo stapedectomy. Which postoperative complaint would most specifically indicate iatrogenic injury to a structure at risk during this middle-ear surgery?",
-    "choices": [
-      "Loss of taste from the anterior two-thirds of the tongue with reduced salivation",
-      "Hyperacusis due to loss of stapedius reflex",
-      "Hoarseness from recurrent laryngeal nerve paresis",
-      "Ageusia of the posterior one-third of the tongue",
-      "Dry eye from decreased lacrimation"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is Loss of taste from the anterior two-thirds of the tongue with reduced salivation. Otosclerosis is an abnormal bony overgrowth near the stapes that produces conductive hearing loss; when severe, it is treated with a stapedectomy. During this middle-ear surgery, the chorda tympani (a branch of CN VII that traverses the tympanic cavity) is at risk; injury causes loss of anterior two-thirds taste and reduced submandibular/sublingual salivation. Explanations for other choices: Hyperacusis due to loss of stapedius reflex is incorrect here because stapedius (CN VII) dysfunction produces sound intolerance but does not explain the taste and salivary deficits most specific to chorda tympani injury; moreover, the stem points to stapedectomy where chorda tympani injury is the classic complication to suspect. Hoarseness from recurrent laryngeal nerve paresis is unrelated to middle-ear surgery. Ageusia of the posterior one-third of the tongue would reflect glossopharyngeal nerve injury, which supplies the internal surface of the tympanic membrane and middle-ear mucosa but is not the structure classically endangered by stapedectomy instrumentation around the stapes and oval window. Dry eye from decreased lacrimation involves greater petrosal nerve pathways and is not the typical risk from surgical manipulation within the tympanic cavity. Together, the scenario’s conductive pattern and treatment link to otosclerosis and stapedectomy; the most specific postoperative deficit to watch for is chorda tympani injury."
-  },
-  {
-    "question": "During an otoscopic exam, a medical student contacts the medial surface of the patient’s tympanic membrane, eliciting sharp pain. Which cranial nerve carries the predominant sensory fibers from that internal surface?",
-    "choices": [
-      "Auriculotemporal nerve (V3)",
-      "Glossopharyngeal nerve (CN IX)",
-      "Auricular branch of the vagus nerve (CN X)",
-      "Facial nerve (CN VII), posterior auricular branch",
-      "Lesser occipital nerve (C2–C3)"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is Glossopharyngeal nerve (CN IX). The tympanic membrane has three embryologic layers; its internal surface is continuous with the mucosa of the middle ear and is primarily innervated by CN IX, whereas the external surface is skin continuous with the external acoustic meatus and is supplied mainly by V3 with a contribution from the auricular branch of the vagus. Contacting the medial (internal) surface stimulates CN IX afferents. Explanations for other choices: Auriculotemporal nerve (V3) is the dominant cutaneous innervation of the external surface of the membrane and the lateral canal, not the internal surface. The auricular branch of the vagus nerve contributes to external surface sensation and canal skin but is not the primary innervation of the medial surface. The facial nerve posterior auricular branch and the lesser occipital nerve supply parts of the external ear, not the medial tympanic surface. "
-  },
-  {
-    "question": "A 63-year-old man reports brief episodes of spinning vertigo triggered by rolling over in bed. The Dix–Hallpike maneuver reproduces his vertigo and nystagmus. Abnormal stimulation of which specific sensory structure best explains his symptoms?",
-    "choices": [
-      "Macula of the utricle",
-      "Macula of the saccule",
-      "Crista ampullaris of the posterior semicircular duct",
-      "Crista ampullaris of the lateral semicircular duct",
-      "Organ of Corti within the cochlear duct"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is Crista ampullaris of the posterior semicircular duct. In benign paroxysmal positional vertigo, the Dix–Hallpike maneuver positions otoconia within the posterior semicircular canal to maximally stimulate the canal, producing vertigo and nystagmus. The sensory end organ of each semicircular duct is the crista ampullaris; endolymph movement deflects the cupula and hair bundles on these mechanosensory cells, signaling angular acceleration to the vestibular nuclei. Explanations for other choices: The maculae of the utricle and saccule detect gravity and linear acceleration, not angular acceleration during head rotations; they are not the structures maximally stimulated in Dix–Hallpike testing. The crista ampullaris of the lateral canal mediates angular acceleration in its plane, but the classic Dix–Hallpike maneuver targets the posterior canal rather than the lateral canal. The Organ of Corti is the auditory receptor within the cochlear duct and is unrelated to vestibular positional vertigo.}"
-  },
 {
-  "question": "A 54-year-old man is comatose after ventricular fibrillation arrest. As part of a brainstem exam, ice-cold water is irrigated into the right external acoustic meatus: both eyes slowly deviate to the right without a corrective fast phase. When warm water is irrigated into the left ear, there is no eye movement. Which lesion most directly explains these caloric test findings?",
+  "question": "A 19-year-old college student is brought to the emergency department with progressive confusion, bizarre behavior, fever, and headache. MRI shows bilateral temporal lobe hyperintensity on FLAIR imaging. CSF shows lymphocytic pleocytosis, increased protein, and normal glucose. PCR confirms HSV-1. If she survives, what long-term complication is most likely?",
   "choices": [
-    "Bilateral frontal eye field damage with intact pontine vestibular pathways",
-    "Left vestibular apparatus or vestibular nerve lesion (peripheral afferent loss)",
-    "Right abducens nucleus lesion in the dorsal pons",
-    "Bilateral medial longitudinal fasciculus (MLF) lesions",
-    "Left oculomotor nucleus lesion"
+    "Flaccid paralysis from anterior horn cell damage",
+    "Cerebellar ataxia from cerebellar inflammation",
+    "Wernicke's aphasia from superior temporal gyrus injury",
+    "Anterograde amnesia from medial temporal lobe injury",
+    "Parkinsonian tremor from basal ganglia damage"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The correct answer is: Anterograde amnesia from medial temporal lobe injury. HSV-1 encephalitis preferentially affects the temporal lobes, including the hippocampus, which is critical for memory formation. This can lead to profound anterograde amnesia in survivors. Flaccid paralysis is more typical of poliovirus or West Nile virus affecting the anterior horn. Cerebellar ataxia is associated with VZV, especially in children. Wernicke's aphasia arises from damage to the posterior superior temporal gyrus, not the medial temporal lobe. Parkinsonian features are more typical in West Nile virus encephalitis."
+},
+{
+  "question": "A 70-year-old man with a recent shingles outbreak now presents with confusion, right facial droop, and a seizure. CSF shows lymphocytic pleocytosis and elevated protein. MRI shows left cerebellar hyperintensity. PCR for HSV is negative. What is the most appropriate management?",
+  "choices": [
+    "Initiate ceftriaxone and vancomycin for empiric bacterial meningitis",
+    "Administer high-dose corticosteroids only",
+    "Begin intravenous acyclovir and prednisone",
+    "Repeat lumbar puncture and delay treatment until confirmatory testing",
+    "Withhold antivirals due to negative HSV PCR"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Begin intravenous acyclovir and prednisone. This presentation is consistent with varicella zoster virus (VZV) encephalitis. Even if PCR is negative (only ~30% sensitive), treatment should not be delayed. The correct approach includes IV acyclovir and short-course corticosteroids. Bacterial meningitis should be ruled out, but the focal neurologic signs, prior shingles, and MRI findings point to VZV. High-dose corticosteroids alone are not adequate, and waiting for confirmatory tests would delay essential treatment."
+},
+{
+  "question": "A 55-year-old man presents in late summer with fever, headache, tremor, and difficulty walking. Neurologic exam shows hyperreflexia and spasticity. MRI reveals hyperintensity in the thalamus and external capsule. CSF shows lymphocytic pleocytosis, elevated protein, and positive IgM for a flavivirus. What is the most likely causative agent?",
+  "choices": [
+    "HSV-1",
+    "Eastern Equine Encephalitis virus",
+    "West Nile virus",
+    "La Crosse virus",
+    "Rabies virus"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: West Nile virus. It is the most common arboviral encephalitis in the U.S. Clinical signs such as tremor, cerebellar signs, parkinsonism, and spastic paralysis with corresponding thalamic and basal ganglia MRI findings are characteristic. HSV-1 typically affects the temporal lobes. EEE is more often severe in children. La Crosse virus affects children more and does not typically produce these parkinsonian signs. Rabies usually presents with hydrophobia, laryngeal spasm, and rapid deterioration."
+},
+{
+  "question": "A 58-year-old man with poorly controlled diabetes presents with worsening headache, blurry vision, and confusion for 3 weeks. On exam, he is febrile and has cranial nerve VI palsy. Lumbar puncture shows elevated opening pressure, low glucose, high protein, and 220 WBCs (80% lymphocytes). India ink stain is negative. CSF culture is pending. What is the most sensitive next step in diagnosis?",
+  "choices": [
+    "Cryptococcal antigen test",
+    "Bacterial culture",
+    "Fungal culture",
+    "Acid-fast bacilli smear",
+    "Repeat India ink stain"
+  ],
+  "correctAnswer": 0,
+  "explanation": "The correct answer is: Cryptococcal antigen test. Cryptococcal meningitis is common in immunocompromised hosts including diabetics. While India ink has ~50% sensitivity, and culture is ~90%, the cryptococcal antigen test has >90% sensitivity and specificity, making it the most reliable and rapid diagnostic tool. Bacterial culture is inappropriate in suspected fungal meningitis. Acid-fast smear is for tuberculosis. Fungal culture is slower and less sensitive than antigen testing."
+},
+{
+  "question": "A 72-year-old woman presents with progressive headache, fever, confusion, and seizure. She has a history of chronic sinusitis. MRI shows a ring-enhancing lesion in the right frontal lobe. CT with DWI confirms restricted diffusion. Stereotactic aspiration reveals purulent fluid. What is the most likely Gram stain finding from this specimen?",
+  "choices": [
+    "Septate hyphae",
+    "Mixed aerobic and anaerobic flora",
+    "Acid-fast bacilli",
+    "Gram-negative diplococci",
+    "Gram-positive bacilli"
   ],
   "correctAnswer": 1,
-  "explanation": "The correct answer is Left vestibular apparatus or vestibular nerve lesion (peripheral afferent loss). Caloric testing drives the horizontal vestibulo-ocular reflex (VOR) by changing endolymph flow in the lateral semicircular canal, altering firing in the ipsilateral vestibular nerve and nucleus. In an awake patient, the fast phase defines nystagmus and follows the COWS rule (Cold Opposite, Warm Same for the fast phase). The slow phase is the brainstem VOR output and is opposite the fast phase. In a comatose patient with intact brainstem but impaired cortex, the slow phase persists while the fast phase is absent. Right ear cold in this patient produces an appropriate slow deviation toward the irrigated ear (to the right) with no fast phase, indicating an intact right-sided afferent limb (right labyrinth/vestibular nerve) and intact central VOR pathways. However, left ear warm fails to produce any slow deviation (which should be away from the irrigated ear in coma), localizing the problem to the left afferent limb (left labyrinth or vestibular nerve). Thus, the pattern of an intact response on one side and absent response on the other points to a unilateral peripheral vestibular lesion on the nonresponding (left) side. Explanations for other choices: Bilateral frontal eye field damage abolishes the fast (cortical) phase but preserves the slow brainstem VOR on both sides; it cannot explain a unilateral absence of the slow phase. A right abducens nucleus lesion would impair rightward conjugate movements (via right LR and left MR through the MLF), which contradicts the observed normal rightward slow deviation during right cold irrigation. Bilateral MLF lesions (internuclear ophthalmoplegia) disrupt adduction in conjugate gaze and also degrade VOR-mediated adduction, typically producing disconjugate—not absent—eye movements during caloric testing; they do not selectively abolish responses to stimulation from one ear only. A left oculomotor nucleus lesion would primarily impair movements of the left eye (adduction, elevation, depression) and might yield asymmetric or disconjugate responses, but it would not eliminate all eye movement to left-ear warm irrigation; the right eye would still show abduction if the afferent limb were intact. The unilateral absence of any movement specifically implicates failure of the left vestibular afferent input rather than a central gaze or oculomotor nucleus problem."
+  "explanation": "The correct answer is: Mixed aerobic and anaerobic flora. Brain abscesses caused by contiguous spread from sinus infections are typically polymicrobial, involving streptococci and anaerobes. Septate hyphae would suggest invasive fungal infections, more common in severely immunocompromised patients. Acid-fast bacilli indicate TB, which more commonly causes meningitis. Gram-negative diplococci and Gram-positive bacilli suggest meningococcal or Listeria meningitis, respectively."
 },
 {
-"question": "A 45-year-old woman presents with acute, continuous vertigo, nausea, and imbalance that began this morning after a recent upper respiratory infection. Bedside head-impulse testing is abnormal when the head is rapidly rotated to the right. She has spontaneous horizontal–torsional nystagmus that is unidirectional and decreases with visual fixation; there is no vertical skew on alternate cover testing. She can stand and walk with assistance. Which overall pattern best supports a peripheral acute vestibular neuritis rather than a posterior circulation stroke?",
-"choices": [
-"Abnormal head-impulse test; unidirectional horizontal–torsional nystagmus that suppresses with fixation; no skew deviation; able to ambulate",
-"Normal head-impulse test; bidirectional gaze-evoked nystagmus not suppressed by fixation; skew deviation present; unable to stand",
-"Normal head-impulse test; unidirectional nystagmus that suppresses with fixation; no skew deviation; falls in any direction",
-"Abnormal head-impulse test; pure vertical nystagmus; skew deviation present; unable to ambulate",
-"Abnormal head-impulse test; acute vertigo with ipsilateral hearing loss; unable to stand even with support"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct because the HINTS-plus bedside pattern for a peripheral vestibulopathy includes an abnormal head-impulse test indicating impaired vestibulo-ocular reflex on the affected side, unidirectional horizontal–torsional nystagmus that lessens with fixation, no vertical skew deviation, and relative preservation of the ability to ambulate with support. Choice 1 is incorrect because a normal head-impulse test with bidirectional gaze-evoked nystagmus, skew deviation, and inability to stand is concerning for a central lesion such as posterior circulation stroke. Choice 2 is incorrect because a normal head-impulse test shifts suspicion away from peripheral neuritis toward central causes despite other peripheral-appearing features. Choice 3 is incorrect because pure vertical nystagmus and skew deviation strongly suggest central pathology. Choice 4 is incorrect because the combination of acute vertigo with hearing loss and profound imbalance points to an AICA territory stroke or labyrinthine ischemia rather than isolated vestibular neuritis."
+  "question": "A 63-year-old man presents with severe back pain and lower extremity weakness. He has a fever and difficulty urinating. ESR and CRP are elevated. MRI shows an epidural fluid collection compressing the spinal cord at T10. What is the most likely causative organism, and what is the best next step in management?",
+  "choices": [
+    "Candida albicans; begin fluconazole",
+    "Streptococcus pneumoniae; administer IV penicillin",
+    "Pseudomonas aeruginosa; obtain serial blood cultures and wait",
+    "Staphylococcus aureus; urgent surgical drainage and empiric antibiotics",
+    "Escherichia coli; initiate ceftriaxone"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The correct answer is: Staphylococcus aureus; urgent surgical drainage and empiric antibiotics. S. aureus is the most common cause of spinal epidural abscess and can lead to rapid neurologic deterioration. Immediate surgical decompression and empiric antibiotics (e.g., vancomycin and piperacillin/tazobactam) are necessary. Other options like E. coli or Pseudomonas are less common unless there’s a urinary or hospital source. Candida is rare and associated with profound immunosuppression."
 },
 {
-"question": "A 70-year-old man reports brief episodes of room-spinning dizziness when rolling over in bed or looking up. Neurologic examination is normal. Dix–Hallpike testing with the head turned to the left reproduces symptoms and elicits torsional–upbeating nystagmus that begins after a short latency, lasts about 15 seconds, and fatigues with repetition. Which mechanism best explains his disorder?",
-"choices": [
-"Canalithiasis of the posterior semicircular canal from free-floating otoconia that abnormally deflect the cupula with position changes",
-"Orthostatic hypotension causing transient global cerebral hypoperfusion without canal-specific nystagmus",
-"Central positional vertigo due to cerebellar lesion producing sustained nystagmus without latency or fatigability",
-"Vestibular neuritis causing continuous spontaneous vertigo unrelated to specific head positions",
-"Ménière disease causing endolymphatic hydrops with episodic vertigo and fluctuating hearing loss"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct because benign paroxysmal positional vertigo most commonly involves posterior canal canalithiasis, in which mobile otoconia enter the canal and, with positional changes, cause transient endolymph flow that deflects the cupula and produces brief, delayed-onset, fatigable torsional–vertical nystagmus on Dix–Hallpike. Choice 1 is incorrect because orthostatic hypotension causes presyncope rather than canal-specific nystagmus and is not reliably triggered by the Dix–Hallpike maneuver. Choice 2 is incorrect because central positional nystagmus is typically immediate, persistent, and often purely vertical or purely horizontal without fatigability, unlike the classic posterior canal pattern here. Choice 3 is incorrect because vestibular neuritis produces continuous vertigo over hours to days, not brief, position-triggered spells. Choice 4 is incorrect because Ménière disease features vertigo with auditory symptoms such as fluctuating hearing loss, tinnitus, and aural fullness, which are absent in this presentation."
+  "question": "A 6-year-old boy presents with progressive nausea, vomiting, and gait instability. MRI reveals a midline cerebellar mass compressing the fourth ventricle and causing hydrocephalus. Pathology shows a hypercellular tumor composed of small round blue cells with frequent mitoses and Homer Wright rosettes. Which of the following molecular features is most likely associated with a poor prognosis in this tumor?",
+  "choices": [
+    "BRAF-KIAA fusion on chromosome 7q34",
+    "Histone H3 K27M mutation",
+    "MYC amplification",
+    "NF2 gene mutation on chromosome 22q",
+    "IDH1 mutation"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: MYC amplification. This is associated with Group 3 medulloblastomas, which carry a poor prognosis. Medulloblastoma typically arises in the midline cerebellum and shows small round blue cells with Homer Wright rosettes. BRAF-KIAA fusion is seen in pilocytic astrocytoma. H3 K27M mutation is a marker for diffuse midline glioma. NF2 mutations are seen in ependymoma and schwannoma. IDH1 mutations are typical of adult gliomas, not pediatric tumors."
 },
 {
-"question": "A 63-year-old woman presents with sudden, continuous vertigo, nausea, ipsilateral hearing loss, and severe imbalance; she cannot stand or walk even with assistance. Which diagnosis is most likely?",
-"choices": [
-"Anterior inferior cerebellar artery infarction with labyrinthine involvement",
-"Isolated vestibular neuritis",
-"Thiamine deficiency causing central vestibulopathy",
-"Multiple sclerosis plaque affecting the brainstem",
-"Bacterial labyrinthitis without central involvement"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct because a combined acute audio-vestibular presentation (vertigo plus ipsilateral hearing loss) with profound postural instability strongly suggests an AICA territory infarct that can compromise the labyrinthine artery and adjacent cerebellar or brainstem structures. Choice 1 is incorrect because vestibular neuritis is an isolated vestibular nerve disorder without hearing loss, and patients can usually ambulate with support. Choice 2 is incorrect because thiamine deficiency can cause central vestibular signs but does not typically present as a sudden combined audio-vestibular syndrome with inability to stand. Choice 3 is incorrect because multiple sclerosis can affect central vestibular pathways but is less likely to cause abrupt audio-vestibular loss with such severe imbalance in this pattern. Choice 4 is incorrect because bacterial labyrinthitis often follows otitis media or meningitis and, while it can cause hearing loss and vertigo, the profound gait inability in this hyperacute vascular pattern is more characteristic of AICA stroke."
+  "question": "A 9-year-old girl with Neurofibromatosis type 1 presents with seizures. MRI reveals a cortical mass in the temporal lobe. Biopsy shows a circumscribed tumor with large binucleate ganglion cells and scattered astrocytes. What molecular alteration most likely explains the pathogenesis of this tumor?",
+  "choices": [
+    "Activation of mTOR via TSC1 mutation",
+    "BRAF fusion leading to MAPK activation",
+    "p53 loss via germline mutation",
+    "IDH1 R132H mutation",
+    "Deletion of 1p/19q chromosomal arms"
+  ],
+  "correctAnswer": 1,
+  "explanation": "The correct answer is: BRAF fusion leading to MAPK activation. Gangliogliomas are grade 1 neuronal tumors that often occur in the temporal lobe and present with seizures. They are frequently associated with BRAF mutations/fusions activating the MAPK pathway. TSC1 mutations are linked to tuberous sclerosis, not NF1. p53 loss is associated with high-grade tumors like medulloblastoma or glioblastoma. IDH1 mutations are typical in adult gliomas. 1p/19q co-deletion defines oligodendrogliomas, not gangliogliomas."
 },
 {
-"question": "A 38-year-old woman reports that when asked to show her teeth, she produces a full symmetric smile. However, when told a funny joke, the right lower half of her face fails to elevate. Corneal reflexes and facial sensation are intact. Which lesion best explains this dissociation?",
-"choices": [
-"Right corticobulbar fibers projecting to the facial motor nucleus",
-"Left limbic cortex affecting descending emotional facial pathways",
-"Left facial nerve lesion at the stylomastoid foramen",
-"Bilateral degeneration of the substantia nigra pars compacta",
-"Right facial motor nucleus in the pons"
-],
-"correctAnswer": 1,
-"explanation": "The correct answer is Left limbic cortex affecting descending emotional facial pathways. This is emotional facial paresis: voluntary (pyramidal) smile is intact but spontaneous Duchenne smile is lost on the contralateral lower face, implicating a lesion in limbic circuitry of the opposite hemisphere that normally drives emotional facial expression through basal ganglia and brainstem facial motor nuclei. Right corticobulbar fibers are incorrect because damage there produces voluntary facial hemiparesis of the contralateral lower face with preserved spontaneous emotional smiling, the opposite pattern. Left facial nerve lesion at the stylomastoid foramen is incorrect because it would cause ipsilateral flaccid weakness of both voluntary and emotional movements, not selective loss of spontaneous emotion with preserved voluntary control. Bilateral degeneration of the substantia nigra pars compacta is incorrect because Parkinson disease causes hypomimia or masked facies with reduced spontaneous expressivity globally, but it would not produce a strictly unilateral dissociation with normal on-command symmetry. Right facial motor nucleus lesion is incorrect because it would produce ipsilateral lower motor neuron facial weakness affecting both voluntary and emotional movements, typically with additional brainstem signs rather than an isolated dissociation."
+  "question": "A 4-year-old boy presents with headache, vomiting, and ataxia. MRI shows a posterior fossa mass extending into the fourth ventricle. Surgical pathology demonstrates a tumor with perivascular pseudorosettes and GFAP positivity. Which of the following factors would be most predictive of poor outcome in this patient?",
+  "choices": [
+    "Presence of eosinophilic granular bodies",
+    "Biphasic histologic pattern",
+    "Age less than 6 years",
+    "Homer Wright rosettes on histology",
+    "Loss of 1p/19q chromosomal regions"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Age less than 6 years. This presentation is classic for ependymoma, which commonly arises in the posterior fossa in children. Poor prognostic indicators include younger age, posterior fossa location, incomplete resection, and certain molecular subtypes like type A or ZFTA-fusion. Eosinophilic granular bodies and biphasic pattern are seen in pilocytic astrocytoma. Homer Wright rosettes are associated with medulloblastoma. 1p/19q co-deletion is a favorable marker for oligodendrogliomas."
 },
 {
-"question": "A 24-year-old hiker jumps back in fear upon glimpsing a coiled shape in dim light and experiences a pounding heartbeat and sweaty palms. A second later, she recognizes it is just a rope and calms down. Which pathway sequence best accounts for the initial rapid fear response followed by the slower, accurate appraisal?",
-"choices": [
-"Thalamus relays crude visual input directly to the amygdala for a rapid response, then detailed cortical processing (visual cortex and associative areas) converges on the amygdala to refine the response; hypothalamus is engaged via ventral amygdalofugal projections",
-"Hippocampus projects to mammillary bodies, anterior thalamus, and cingulate cortex to generate fast autonomic responses without the amygdala",
-"Basal ganglia motor loop (putamen to globus pallidus internus to ventrolateral thalamus) initiates sympathetic arousal before cortical analysis",
-"Primary visual cortex projects to the striatum and then directly to the hypothalamus to trigger fight-or-flight responses without amygdala involvement",
-"Superior colliculus projects to the facial motor nucleus to mediate the entire fear reaction independent of limbic circuits"
-],
-"correctAnswer": 0,
-"explanation": "The correct answer is Thalamus relays crude visual input directly to the amygdala for a rapid response, then detailed cortical processing (visual cortex and associative areas) converges on the amygdala to refine the response; hypothalamus is engaged via ventral amygdalofugal projections. The fast low-road provides a quick, coarse signal to the amygdala that prioritizes survival by rapidly engaging autonomic output through hypothalamus, while the slow high-road integrates precise cortical analysis to modulate or abort the response when the stimulus is identified as safe. Hippocampus to mammillary body to anterior thalamus to cingulate circuit is incorrect because this is the classic Papez circuit related to memory and affect but does not account for the amygdala-driven rapid autonomic surge that precedes conscious appraisal. Basal ganglia motor loop is incorrect because it primarily modulates voluntary motor programs and habit learning rather than initiating the immediate autonomic fear response; limbic basal ganglia loops shape motivated actions but the initial autonomic surge is amygdala to hypothalamus. Primary visual cortex to striatum to hypothalamus is incorrect because there is no direct canonical pathway that bypasses the amygdala to trigger sympathetic output in this context; hypothalamic activation from emotional salience is classically driven by amygdala efferents. Superior colliculus to facial motor nucleus is incorrect because while collicular circuits can mediate orienting and startle-like movements, the hallmark autonomic features and the rapid fear experience require amygdala and hypothalamic engagement."
+  "question": "A 68-year-old man presents with new-onset seizures and right-sided weakness. MRI shows a ring-enhancing lesion crossing the corpus callosum. Surgical resection reveals pseudopalisading necrosis and microvascular proliferation. Molecular studies are negative for IDH mutation and H3 K27M. Which additional finding best supports the diagnosis and has therapeutic implications?",
+  "choices": [
+    "ATRX gene loss on immunohistochemistry",
+    "1p/19q codeletion",
+    "MGMT promoter methylation",
+    "BRAF V600E mutation",
+    "Histone H3 K27M mutation"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: MGMT promoter methylation. This patient has a glioblastoma, IDH-wildtype, which presents as a ring-enhancing, infiltrative lesion with histologic features like pseudopalisading necrosis and microvascular proliferation. MGMT (O6-methylguanine-DNA methyltransferase) promoter methylation is a favorable prognostic biomarker that predicts better response to alkylating agents like temozolomide. ATRX loss and 1p/19q codeletion are features of lower-grade IDH-mutant gliomas. BRAF mutation is more typical in pediatric or low-grade gliomas. H3 K27M mutation is associated with diffuse midline glioma, primarily in children."
 },
 {
-"question": "Researchers test whether blocking a specific neuromodulatory system alters consolidation of emotionally arousing material. Healthy volunteers hear a three-part story with an emotional middle segment; half receive an antagonist of the relevant neurotransmitter during the consolidation window. One week later, treated participants lack the usual memory advantage for the emotional segment, whereas neutral segments are recalled similarly in both groups. Which nucleus was most likely targeted by the antagonist to abolish emotion-enhanced memory?",
-"choices": [
-"Locus coeruleus",
-"Nucleus basalis of Meynert",
-"Dorsal raphe nuclei",
-"Ventral tegmental area",
-"Tuberomammillary nucleus"
-],
-"correctAnswer": 0,
-"explanation": "The correct answer is Locus coeruleus. Norepinephrine from the locus coeruleus enhances arousal and facilitates consolidation of emotionally salient memories by modulating amygdala and hippocampal processing, with an inverted U-shaped dose–effect relationship; antagonism during consolidation blunts the usual emotional memory advantage while leaving neutral memory relatively spared. Nucleus basalis of Meynert is incorrect because cholinergic projections promote cortical arousal and attention broadly, and blockade may impair alertness but is less specifically tied to the selective enhancement of emotional memory consolidation mediated by amygdala–hippocampal interactions. Dorsal raphe nuclei are incorrect because serotonin is central to mood and sleep regulation; acutely altering serotonin could affect affective state, but the canonical neuromodulator for emotion-linked memory consolidation in this setting is norepinephrine. Ventral tegmental area is incorrect because dopamine from the VTA signals reward and salience for reinforcement learning and motivation; while dopamine can influence memory, the classic effect on emotional episodic consolidation following arousing stimuli is attributed primarily to noradrenergic signaling. Tuberomammillary nucleus is incorrect because histamine contributes to general arousal and wakefulness but is not the key neuromodulator mediating the amygdala-dependent boost in consolidation for emotional events."
+  "question": "A 42-year-old woman with a history of low-grade oligodendroglioma presents with worsening headaches and visual changes. MRI shows an enlarging mass in the left frontal lobe. Biopsy shows mitotic figures and microvascular proliferation. What additional molecular finding confirms the diagnosis and guides therapy?",
+  "choices": [
+    "H3 K27M mutation",
+    "BRAF-KIAA fusion",
+    "IDH1 mutation with 1p/19q codeletion",
+    "Loss of CDKN2A/B",
+    "TERT promoter mutation"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: IDH1 mutation with 1p/19q codeletion. These are defining molecular features of oligodendroglioma, required for diagnosis per WHO 2021 criteria. The presence of mitoses and microvascular proliferation indicates progression to a higher grade (grade 3). This tumor responds best to combined therapy (PCV + radiation). H3 K27M is linked to midline gliomas. BRAF-KIAA fusion is seen in pilocytic astrocytomas. CDKN2A/B loss is a poor prognostic feature in high-grade astrocytomas. TERT promoter mutations can be seen in glioblastoma but are not defining for oligodendroglioma."
 },
 {
-"question": "A 67-year-old man presents after a small pontine stroke. Pure-tone audiometry shows normal thresholds bilaterally; Weber test is midline and Rinne is air > bone bilaterally. He reports that sounds are equally loud in both ears but he now struggles to tell where sounds originate, especially in noisy environments. Which unilateral lesion best explains his deficit?",
-"choices": [
-"Right superior olivary complex",
-"Right cochlear nerve proximal to the cochlea",
-"Right cochlear nucleus at the pontomedullary junction",
-"Right lateral lemniscus in the pons",
-"Right medial geniculate nucleus of the thalamus"
-],
-"correctAnswer": 0,
-"explanation": "The correct answer is Right superior olivary complex. The superior olivary nuclei are the first site of binaural integration and are critical for sound localization by comparing interaural time and intensity differences. Because each cochlear nucleus projects bilaterally into the ascending auditory pathways, unilateral lesions above the cochlear nuclei typically do not cause unilateral hearing loss but do impair localization and complex processing. Choice 1 is incorrect because a lesion of the cochlear nerve is a peripheral lesion that produces ipsilateral sensorineural hearing loss, abnormal tuning-fork tests, and reduced thresholds on audiometry. Choice 2 is incorrect because a unilateral cochlear nucleus lesion is still peripheral in this schema and causes ipsilateral hearing loss, not isolated localization difficulty. Choice 3 is incorrect because although the lateral lemniscus is a central pathway and unilateral lesions there usually spare gross hearing thresholds, its hallmark is not as specifically tied to localization as the superior olivary complex; deficits are more general to temporal processing of sound. Choice 4 is incorrect because the medial geniculate nucleus is a thalamic relay for auditory information to cortex; unilateral MGN lesions usually spare basic hearing and may cause cortical-level processing problems (e.g., filtering), but the primary brainstem computation of localization arises in the superior olive, making that the best answer for this classic presentation."
+  "question": "A 35-year-old woman presents with a headache and a seizure. MRI reveals a well-circumscribed, dural-based mass with a dural tail sign. Histology shows meningothelial whorls and psammoma bodies. Which of the following findings, if present, would most strongly predict an aggressive clinical course and high recurrence risk?",
+  "choices": [
+    "Brain invasion on histology",
+    "NF2 gene deletion",
+    "Presence of psammoma bodies",
+    "CD20 positivity on immunostaining",
+    "Female sex"
+  ],
+  "correctAnswer": 0,
+  "explanation": "The correct answer is: Brain invasion on histology. Meningiomas are usually benign (grade I), but histologic evidence of brain invasion upgrades the tumor and is associated with increased recurrence risk and worse prognosis. NF2 deletion (22q) is common but not prognostic by itself. Psammoma bodies are common in grade I meningiomas and not indicative of aggressive behavior. CD20 positivity suggests lymphoma, not meningioma. Female sex is associated with increased incidence but not worse prognosis."
 },
 {
-"question": "A 58-year-old man receiving gentamicin for a resistant infection develops tinnitus and difficulty understanding conversation, particularly high-pitched consonants. Audiometry shows a high-frequency notch. Which structure–location combination is the primary target that best explains these findings?",
-"choices": [
-"Outer hair cells at the basal turn of the Organ of Corti",
-"Inner hair cells at the apical turn of the Organ of Corti",
-"Stria vascularis of the scala media uniformly along the cochlea",
-"Stapedius muscle at the stapes–oval window interface",
-"Round window membrane of the scala tympani"
-],
-"correctAnswer": 0,
-"explanation": "The correct answer is Outer hair cells at the basal turn of the Organ of Corti. Ototoxic agents such as aminoglycosides characteristically produce high-frequency sensorineural hearing loss first, reflecting vulnerability of the basal cochlea where high frequencies are encoded. Outer hair cells act as the cochlear amplifier via prestin-mediated electromotility; damage to these cells elevates thresholds and disproportionately impairs speech clarity for high-frequency consonants. Choice 1 is incorrect because inner hair cells are the primary afferent transducers but are not the earliest and most prominent target in classic aminoglycoside ototoxicity; the basal outer hair cells fail first. Choice 2 is incorrect because although the stria vascularis maintains endolymph composition and the endocochlear potential, the presentation of an early high-frequency notch is most classically linked to basal outer hair cell injury rather than a uniform strial dysfunction. Choice 3 is incorrect because stapedius dysfunction yields hyperacusis (sound intolerance) rather than a selective high-frequency sensorineural pattern on audiometry. Choice 4 is incorrect because the round window is a pressure-release interface; pathology here would more likely contribute to conductive or mixed patterns, not the characteristic high-frequency sensorineural notch seen with hair cell toxicity."
+  "question": "A 58-year-old man presents with headaches and altered mental status. MRI shows a large, heterogeneously enhancing mass in the right cerebral hemisphere with central necrosis and surrounding vasogenic edema. The lesion crosses the corpus callosum. Which histopathologic and molecular finding would most strongly correlate with this tumor’s aggressive behavior and poor prognosis?",
+  "choices": [
+    "Presence of Rosenthal fibers and eosinophilic granular bodies",
+    "Perivascular pseudorosettes and 1p/19q codeletion",
+    "Pseudopalisading necrosis and IDH-wild type status",
+    "Small round blue cells with Homer Wright rosettes and BRAF mutation",
+    "Calcification and slow-growing cortical mass with CD34 positivity"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Pseudopalisading necrosis and IDH-wild type status. The imaging and clinical presentation are consistent with glioblastoma multiforme (GBM), particularly given the butterfly pattern crossing the corpus callosum, central necrosis, and heterogeneous contrast enhancement. GBM is the most aggressive primary brain tumor in adults and typically features pseudopalisading necrosis and microvascular proliferation. IDH-wild type status is associated with primary (de novo) GBM and portends a poorer prognosis. Rosenthal fibers and eosinophilic granular bodies are found in pilocytic astrocytomas. Perivascular pseudorosettes are characteristic of ependymomas. Small round blue cells with Homer Wright rosettes are seen in medulloblastoma. CD34 positivity with cortical calcifications suggests a slow-growing tumor like a ganglioglioma or DNET."
 },
 {
-"question": "A full-term newborn fails the bilateral newborn hearing screen. Physical exam is otherwise normal with no pigmentary or craniofacial anomalies. The parents have normal hearing but report that a prior child and two first cousins were also born with isolated nonprogressive hearing loss. Which genetic etiology is most likely?",
-"choices": [
-"Biallelic loss-of-function variants in GJB2 encoding connexin 26 (autosomal recessive non-syndromic hearing loss)",
-"Heterozygous PAX3 mutation causing Waardenburg syndrome type I (autosomal dominant syndromic hearing loss)",
-"Heterozygous MITF mutation causing Waardenburg syndrome type II (autosomal dominant syndromic hearing loss)",
-"Heterozygous KCNQ4 mutation causing autosomal dominant non-syndromic hearing loss",
-"Mitochondrial mutation producing aminoglycoside sensitivity with matrilineal inheritance"
-],
-"correctAnswer": 0,
-"explanation": "The correct answer is Biallelic loss-of-function variants in GJB2 encoding connexin 26 (autosomal recessive non-syndromic hearing loss). More than half of prelingual deafness is genetic, and the most common cause of non-syndromic, prelingual sensorineural hearing loss is autosomal recessive DFNB1 due to GJB2; connexin 26 gap junction defects disrupt K+ recycling in the cochlea. The pedigree here shows unaffected parents with multiple affected relatives and no syndromic features, consistent with a recessive, non-syndromic etiology. Choice 1 is incorrect because PAX3 mutations produce Waardenburg type I with characteristic pigmentary and craniofacial findings; the absence of syndromic features and the apparent recessive inheritance pattern argue against this. Choice 2 is incorrect because MITF-related Waardenburg type II is also autosomal dominant and typically shows pigmentary abnormalities; again, the family pattern and exam do not fit. Choice 3 is incorrect because KCNQ4 mutations cause autosomal dominant non-syndromic hearing loss that tends to be progressive across generations; a dominant pattern would show vertical transmission to affected parents. Choice 4 is incorrect because mitochondrial mutations show maternal inheritance affecting all children of an affected mother; the stem does not indicate matrilineal transmission or aminoglycoside exposure and instead suggests a classic autosomal recessive cluster."
+  "question": "A 35-year-old woman presents with chronic seizures. MRI reveals a well-circumscribed, partially calcified lesion in the right temporal lobe. It is isointense on T1 and hyperintense on T2, with variable enhancement and cortical remodeling. Histology reveals mature neurons in a mixed glioneuronal stroma. Which genetic syndrome is most commonly associated with this tumor, and what other CNS lesion is characteristic of this syndrome?",
+  "choices": [
+    "Tuberous sclerosis; subependymal giant cell astrocytoma",
+    "Neurofibromatosis type 2; bilateral vestibular schwannomas",
+    "Neurofibromatosis type 1; optic pathway glioma",
+    "Von Hippel-Lindau disease; cerebellar hemangioblastoma",
+    "Li-Fraumeni syndrome; multifocal glioblastomas"
+  ],
+  "correctAnswer": 0,
+  "explanation": "The correct answer is: Tuberous sclerosis; subependymal giant cell astrocytoma. The described lesion is consistent with a ganglioglioma, a benign mixed glioneuronal tumor often seen in the temporal lobe in young patients with epilepsy. Tuberous sclerosis complex (TSC) is commonly associated with cortical tubers, subependymal nodules, and subependymal giant cell astrocytomas (SEGA), typically arising near the foramen of Monro. NF2 is associated with bilateral vestibular schwannomas and other intracranial tumors, while NF1 features optic pathway gliomas. VHL includes hemangioblastomas of the cerebellum and retina. Li-Fraumeni involves a variety of malignancies, including gliomas, but is not classically associated with ganglioglioma."
 },
 {
-"question": "A 28-year-old woman presents with painful monocular vision loss and color desaturation in the right eye; a relative afferent pupillary defect is present. MRI of the brain shows three ovoid T2/FLAIR hyperintense lesions: two periventricular and one juxtacortical. MRI of the orbits shows T2 hyperintensity and gadolinium enhancement of the right optic nerve. CSF demonstrates oligoclonal bands restricted to the CSF. Aquaporin-4 and MOG antibodies are negative, and alternative diagnoses have been reasonably excluded. According to the 2017 McDonald criteria, which statement is most accurate?",
-"choices": [
-"She does not meet dissemination in space because optic nerve lesions cannot be counted, so no diagnosis can be made until a follow-up MRI shows new lesions for dissemination in time",
-"She meets dissemination in space with periventricular and juxtacortical lesions and meets dissemination in time because CSF-restricted oligoclonal bands now fulfill DIT, so a diagnosis of multiple sclerosis can be made at this visit",
-"She meets dissemination in time due to an enhancing optic nerve lesion and nonenhancing brain lesions on the same scan, but dissemination in space is not met because infratentorial or spinal cord involvement is required",
-"A diagnosis of multiple sclerosis requires at least two clinical attacks regardless of MRI and CSF, so she cannot be diagnosed yet",
-"CSF-restricted oligoclonal bands are nonspecific and cannot be used to establish dissemination in time in the current criteria"
-],
-"correctAnswer": 1,
-"explanation": "Choice 1 is correct. Dissemination in space is satisfied by at least one characteristic T2 lesion in two or more typical locations; periventricular and juxtacortical lesions meet this requirement, and optic nerve lesions do not need to be counted. Dissemination in time can be established either by new T2 or enhancing lesions relative to a baseline scan or by the presence of CSF-restricted oligoclonal bands, which the 2017 McDonald criteria accept as fulfilling DIT. Therefore, with DIS and DIT both met and other causes reasonably excluded, multiple sclerosis can be diagnosed now. Choice 0 is incorrect because DIS is already met by periventricular and juxtacortical lesions; the rule that optic nerve lesions do not count applies only to not using them to meet DIS, not to negating brain lesions that already meet DIS. Choice 2 is incorrect because DIS does not require infratentorial or spinal cord lesions if other characteristic locations are involved; additionally, DIT can be fulfilled by CSF oligoclonal bands even without simultaneous enhancing and nonenhancing lesions. Choice 3 is incorrect because modern criteria allow diagnosis after a single clinical attack when DIS and DIT are demonstrated by MRI and/or CSF. Choice 4 is incorrect because CSF-restricted oligoclonal bands are explicitly allowed to fulfill DIT under the 2017 criteria."
+  "question": "A 47-year-old woman with headaches undergoes MRI which reveals a dural-based, homogeneously enhancing extra-axial mass with a dural tail. The lesion is isointense to cortex on T1 and T2, and causes buckling of adjacent gray matter. Which of the following findings would most strongly support this diagnosis and has prognostic relevance?",
+  "choices": [
+    "S-100 protein positivity",
+    "CD20 surface marker expression",
+    "Loss of INI1 nuclear staining",
+    "Progesterone receptor positivity",
+    "EGFR amplification"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The correct answer is: Progesterone receptor positivity. The imaging findings are characteristic of meningioma, an extra-axial tumor arising from arachnoid cap cells. These tumors are typically isointense to cortex on both T1 and T2, enhance vividly with gadolinium, and often display a 'dural tail' sign. Progesterone receptor positivity is common in meningiomas (seen in ~70%) and is associated with better prognosis and slower growth, especially in women. S-100 is seen in schwannomas, not meningiomas. CD20 is a B-cell marker relevant in CNS lymphomas. INI1 loss is associated with atypical teratoid/rhabdoid tumors. EGFR amplification is common in glioblastomas and implies a more aggressive behavior."
 },
 {
-"question": "A 42-year-old woman has recurrent episodes of severe optic neuritis with poor visual recovery and a new longitudinally extensive transverse myelitis spanning four vertebral segments. She also had intractable hiccups and vomiting two months earlier; MRI showed a dorsal medullary lesion at the area postrema. Serum testing is positive for aquaporin-4 antibodies. Which combination of pathologic mechanism and imaging pattern best accounts for her disease and distinguishes it from multiple sclerosis?",
-"choices": [
-"Complement-mediated astrocytopathy targeting aquaporin-4 with longitudinally extensive central cord lesions and area postrema involvement",
-"Primary oligodendrocyte loss with periventricular and juxtacortical lesions typical of Dawson-finger morphology",
-"T-cell–predominant demyelination targeting myelin oligodendrocyte glycoprotein with conus involvement and monophasic course in children only",
-"Microvascular small-vessel ischemic changes causing scattered subcortical punctate lesions without opticospinal predilection",
-"Perivenous demyelination with frequent persistent T1 black holes and progressive disability between attacks"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct. Aquaporin-4–IgG–positive NMOSD is an astrocytopathy characterized by complement-mediated injury to AQP4-rich astrocytic endfeet, producing clinical syndromes such as severe optic neuritis, longitudinally extensive transverse myelitis, and area postrema syndrome; demyelination is secondary. Imaging often shows cord lesions extending three or more vertebral segments and periependymal brainstem lesions at the area postrema, features not typical of multiple sclerosis. Choice 1 describes classic multiple sclerosis, which is primarily an inflammatory demyelinating disease with periventricular and juxtacortical plaques and does not characteristically produce LETM or area postrema attacks. Choice 2 describes MOG antibody disease, which may involve conus and can be monophasic or relapsing; it lacks the astrocytopathy and complement deposition that define aquaporin-4–mediated disease and is not confined to children. Choice 3 describes nonspecific microvascular disease that would not explain severe opticospinal attacks or area postrema syndrome. Choice 4 describes ADEM features such as perivenous demyelination and is incorrect because persistent black holes and progressive disability between attacks better fit chronic MS and not NMOSD."
+  "question": "A three-year-old boy is brought to the Emergency Department because of fever, headache, and a stiff neck for 24 hours. On exam, he is alert and oriented. He has a macular rash on his torso. His Kernig and Brudzinski signs are positive. His CSF shows a lymphocytic pleocytosis, elevated protein, normal glucose, and negative bacterial cultures. The most likely cause of this syndrome is which of the following?",
+  "choices": [
+    "Enterovirus",
+    "HSV-1",
+    "LCM virus",
+    "VZV",
+    "West Nile virus"
+  ],
+  "correctAnswer": 0,
+  "explanation": "The correct answer is: Enterovirus. Enteroviruses, especially echovirus and coxsackievirus, are the most common cause of viral (aseptic) meningitis in children. The classic CSF profile includes lymphocytic predominance, elevated protein, and normal glucose. A maculopapular rash and preserved mental status also favor a viral etiology. HSV-1 typically causes encephalitis with altered mental status and focal neurologic findings. HSV-2 is more associated with recurrent meningitis in adults. LCM virus is rare and often associated with rodent exposure. West Nile virus more commonly affects older adults and causes encephalitis."
 },
 {
-"question": "A 7-year-old boy develops fever and headache after an upper respiratory infection and then presents with confusion, irritability, ataxia, and weakness in all extremities. MRI reveals large, bilateral, poorly demarcated deep and subcortical white matter lesions with additional involvement of the thalami; periventricular white matter appears relatively spared. CSF shows mild pleocytosis and elevated protein without restricted oligoclonal bands. Which follow-up finding would most strongly support the suspected diagnosis over multiple sclerosis?",
-"choices": [
-"Resolution of most lesions on repeat MRI with no new clinical events or new MRI lesions at or beyond three months",
-"Appearance of a new enhancing periventricular lesion within two months",
-"Development of multiple persistent T1 black holes on six-month imaging",
-"Emergence of a longitudinally extensive transverse myelitis within one month",
-"Seroconversion to aquaporin-4–IgG positivity"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct. The presentation is classic for acute disseminated encephalomyelitis, which requires a first multifocal CNS event with encephalopathy, typically postinfectious, with large bilateral poorly demarcated lesions that often involve deep gray matter; CSF oligoclonal bands are uncommon. Supportive evolution includes radiographic resolution of most lesions and absence of new clinical or MRI events after the acute phase, helping distinguish ADEM from multiple sclerosis. Choice 1 would argue for dissemination in time consistent with evolving MS rather than monophasic ADEM. Choice 2 suggests chronic destructive MS pathology; black holes are unusual in ADEM and their presence is predictive of MS. Choice 3 could occur in NMOSD or occasionally MOGAD and does not support ADEM. Choice 4 would indicate aquaporin-4–mediated NMOSD rather than ADEM."
+  "question": "The most common arboviral encephalitis in the U.S. is which of the following?",
+  "choices": [
+    "Jamestown Canyon virus",
+    "Powassan virus",
+    "St. Louis Encephalitis virus",
+    "Western Equine Encephalitis virus",
+    "West Nile virus"
+  ],
+  "correctAnswer": 4,
+  "explanation": "The correct answer is: West Nile virus. West Nile virus is the most common cause of arboviral encephalitis in the U.S. It is transmitted by Culex mosquitoes, often presents with fever and altered mental status, and can lead to flaccid paralysis or meningoencephalitis, particularly in the elderly. Other arboviruses listed here are much less common, although they may cause similar syndromes regionally."
 },
 {
-"question": "After a 6-minute cardiac arrest, a 56-year-old man is resuscitated and stabilized. Two weeks later he is alert and conversational. Neurologic exam is normal except for a striking inability to remember events and conversations from earlier in the day; he repeatedly asks the same questions. He can repeat 7 digits forward, perform complex visuospatial copy tasks, and improves with practice on mirror-tracing across sessions. MRI shows bilateral hippocampal CA1 signal abnormality. Which testing outcome is most consistent with his lesion profile?",
-"choices": [
-"Severely impaired delayed recall of a word list after 30 minutes despite intact immediate span and intact mirror-tracing skill learning",
-"Markedly impaired digit span with relatively preserved delayed recall and intact mirror-tracing skill learning",
-"Severely impaired mirror-tracing acquisition with normal delayed recall and digit span",
-"Normal delayed recall of a complex story but impaired improvement on repeated mirror-tracing attempts",
-"Global loss of remote autobiographical memories from childhood with normal new learning"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct because bilateral hippocampal CA1 injury selectively disrupts encoding and consolidation of new declarative episodic memories, producing anterograde amnesia with poor delayed recall, while working memory (digit span, prefrontal circuits) and procedural learning (mirror tracing, cerebellum and basal ganglia) are spared. Choice 1 is incorrect because digit span reflects working memory rather than hippocampal function and is typically preserved in pure hippocampal amnesia. Choice 2 is incorrect because mirror-tracing relies on procedural memory networks, not hippocampus, and should be intact. Choice 3 is incorrect because hippocampal damage impairs delayed recall of narratives even when attention is adequate; procedural improvement should remain. Choice 4 is incorrect because remote autobiographical memory is often relatively spared early due to cortical consolidation and Ribot’s law, whereas new learning is impaired."
+  "question": "A 65-year-old man comes to a physician with low-grade fever, headache, and a stiff neck for three days. On physical exam, he is alert and oriented with nuchal rigidity and a positive Kernig and Brudzinski sign. CSF shows a lymphocytic pleocytosis, a mildly elevated protein, normal glucose, and negative bacterial cultures. He has had an identical clinical syndrome on two previous occasions in the past four years. The most likely cause of his symptoms is which of the following?",
+  "choices": [
+    "Coxsackie A virus",
+    "Echo virus",
+    "HSV-1",
+    "HSV-2",
+    "VZV"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The correct answer is: HSV-2. HSV-2 is the most common cause of recurrent (benign) lymphocytic meningitis, also known as Mollaret meningitis. It typically presents with recurrent episodes of self-limited aseptic meningitis without long-term sequelae. CSF usually shows lymphocytic pleocytosis, normal glucose, and mildly elevated protein. HSV-1 is more commonly associated with encephalitis. Enteroviruses cause meningitis but are typically not recurrent in this age group."
 },
 {
-"question": "A 52-year-old man with long-standing alcohol use disorder presents with confusion, ataxia, and ophthalmoplegia that improves with IV thiamine. Months later he has persistent anterograde amnesia and confabulation. MRI shows signal abnormality in the mammillary bodies. Disruption of which limbic pathway best explains the enduring memory deficit?",
-"choices": [
-"Mammillothalamic tract from mammillary bodies to anterior thalamic nucleus",
-"Uncinate fasciculus connecting orbitofrontal cortex to anterior temporal lobe",
-"Stria terminalis from amygdala to hypothalamus and septal nuclei",
-"Anterior commissure interconnecting temporal lobes",
-"Periaqueductal gray projections to medullary autonomic centers"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct because Korsakoff syndrome targets mammillary bodies and related diencephalic structures, interrupting the mammillothalamic tract within the Papez circuit (hippocampus to mammillary bodies to anterior thalamus to cingulate), leading to severe anterograde amnesia and confabulation. Choice 1 is incorrect because the uncinate fasciculus mediates orbitofrontal–temporal association functions such as social and semantic processing, not the core declarative memory circuit. Choice 2 is incorrect because the stria terminalis carries amygdala outputs to hypothalamus and septal areas for autonomic and motivational responses, not declarative memory consolidation. Choice 3 is incorrect because the anterior commissure primarily interconnects temporal neocortex and olfactory regions but is not the critical bottleneck for episodic memory consolidation. Choice 4 is incorrect because periaqueductal gray projections modulate pain and autonomic reactions and are not central to the Papez memory pathway."
+  "question": "An 18-year-old college freshman is brought to the hospital because of fever, severe headache, and mental confusion. On exam, she is delirious and has a stiff neck. Her cerebrospinal fluid (CSF) shows 500 cells, 90% of which are neutrophils. CSF glucose is 10 mg/dL. The Gram stain is unhelpful. Which of the following organisms is most likely in her age group?",
+  "choices": [
+    "Haemophilus influenzae",
+    "Listeria monocytogenes",
+    "Neisseria meningitidis",
+    "Streptococcus agalactiae",
+    "Streptococcus pneumoniae"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Neisseria meningitidis. This is a classic case of acute bacterial meningitis in a young adult with neutrophilic CSF pleocytosis, low glucose, and elevated protein. Neisseria meningitidis is the most common cause of bacterial meningitis in adolescents and young adults, especially in group living environments such as college dormitories. The organism may not be seen on Gram stain due to prior antibiotics or technical limitations. It is a Gram-negative diplococcus, though other organisms can also present similarly depending on age and risk factors."
 },
 {
-"question": "A 29-year-old woman has recurrent focal impaired-awareness seizures preceded by a rising epigastric sensation and a sudden perception of a strong burning-rubber odor. Video-EEG monitoring localizes seizure onset to the medial temporal lobe. Which anatomic target receives direct projections from the olfactory bulb that most plausibly links her aura to the limbic seizure focus while bypassing a thalamic relay?",
-"choices": [
-"Piriform cortex in the anterior medial temporal lobe",
-"Mediodorsal nucleus of the thalamus",
-"Primary somatosensory cortex via the ventral posteromedial nucleus",
-"Nucleus accumbens in the ventral striatum",
-"Anterior thalamic nucleus"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct because the lateral olfactory tract projects directly from the olfactory bulb to primary olfactory (piriform) cortex as well as adjacent limbic structures including amygdala and entorhinal cortex, bypassing a thalamic relay and providing a substrate for olfactory auras in medial temporal lobe epilepsy. Choice 1 is incorrect because while olfactory information can reach orbitofrontal cortex via the mediodorsal thalamus for higher-order processing, the primary limbic olfactory input does not require thalamic relay. Choice 2 is incorrect because the ventral posteromedial nucleus relays somatosensory, not olfactory, input. Choice 3 is incorrect because the nucleus accumbens participates in reward and motivation circuits and does not receive direct bulb projections. Choice 4 is incorrect because the anterior thalamic nucleus is part of the Papez memory circuit, not the primary olfactory pathway."
+  "question": "A 60-year-old man is brought to the hospital with fever and altered mental status for 24 hours. He had received azithromycin earlier in the week for fever and myalgia. On exam he is febrile (103°F) and confused and has a stiff neck. Kernig’s sign is present. A tentative diagnosis of bacterial meningitis is made. If this diagnosis is correct, which of the following CSF tests will be most affected by previous antibiotic therapy?",
+  "choices": [
+    "CSF bacterial antigen tests",
+    "Culture",
+    "Glucose",
+    "Protein",
+    "WBC count"
+  ],
+  "correctAnswer": 1,
+  "explanation": "The correct answer is: Culture. Antibiotic administration prior to lumbar puncture can rapidly sterilize the cerebrospinal fluid, leading to false-negative culture results. While protein and glucose levels, as well as white blood cell counts, may change more slowly and are less sensitive to early antibiotic therapy, bacterial cultures are significantly impacted. Antigen testing may still detect bacterial components even if the bacteria are dead, but culture requires live organisms."
 },
 {
-"question": "A 36-year-old woman with relapsing-remitting multiple sclerosis misses several infusion appointments and reports low mood, anhedonia, poor sleep, and passive thoughts of death. She denies a plan or intent. The clinic wants to reduce safety risk and improve treatment adherence. Which single next step best aligns with best practices emphasized for MS care?",
-"choices": [
-"Initiate routine depression screening at every neurology visit with a validated tool and provide rapid referral for combined psychotherapy and antidepressant treatment with safety planning",
-"Increase her disease-modifying therapy dose first to regain inflammatory control; address mood after 3 months if adherence improves",
-"Reassure her that mood symptoms are common in MS and provide an educational pamphlet about coping strategies",
-"Advise passive acceptance of her diagnosis and to avoid discussing distressing thoughts to prevent rumination",
-"Schedule less frequent neurology follow-ups to decrease medical burden and thereby reduce distress"
-],
-"correctAnswer": 0,
-"explanation": "The correct answer is choice 0. Depression and other neuropsychiatric symptoms are highly prevalent in MS and are associated with worse adherence and higher suicide risk; clinics should perform routine depression screening and offer timely treatment, with combination therapy (psychotherapy plus antidepressants) often most effective, alongside a safety plan when passive suicidal ideation is disclosed. Choice 1 is incorrect because escalating immunotherapy without addressing active depression and adherence barriers fails to treat the driver of nonadherence and safety risk. Choice 2 is insufficient; education alone does not address high-risk symptoms or improve adherence as effectively as structured screening and treatment. Choice 3 mischaracterizes acceptance; the lecture frames acceptance as active, not passive, and discourages avoidance. Choice 4 reduces clinical contact when closer monitoring and integrated behavioral health support are indicated."
+  "question": "An 80-year-old woman is brought to the emergency room because of fever and altered mental status. Physical exam shows a temperature of 39°C, confusion, and Brudzinski’s sign. CSF shows 850 WBCs, 90% of which are neutrophils. CSF protein is markedly elevated and glucose is low. On a probability basis, the Gram stain of the CSF will most likely show which of the following?",
+  "choices": [
+    "Gram-negative coccobacilli",
+    "Gram-negative diplococci",
+    "Gram-positive bacilli",
+    "Gram-positive cocci in clusters",
+    "Gram-positive diplococci"
+  ],
+  "correctAnswer": 4,
+  "explanation": "The correct answer is: Gram-positive diplococci. The most common cause of bacterial meningitis in elderly patients is Streptococcus pneumoniae, which appears as Gram-positive lancet-shaped diplococci on Gram stain. Neutrophilic CSF pleocytosis, elevated protein, and decreased glucose are classic findings in bacterial meningitis. While other pathogens such as Listeria (Gram-positive rods) are also possible in this age group, the most likely organism by probability and presentation is S. pneumoniae."
 },
 {
-"question": "A 42-year-old man with MS reports missing oral doses several times per week. He endorses daytime fatigue, trouble concentrating, slowed information processing, and worry about injections should his regimen change. He recently withdrew from his cycling group and spends weekends in bed. Which targeted plan best addresses the combined emotional, cognitive, and behavioral barriers to adherence outlined in the lecture?",
-"choices": [
-"Cognitive-behavioral therapy for anxiety and needle-related fear plus behavioral activation using a structured plan (ABC PLEASE), energy-conservation strategies for fatigue, and cognitive supports such as pill organizers and phone reminders",
-"Switch to a less frequent injectable disease-modifying therapy and reassess adherence in 6 months without additional interventions",
-"Recommend he read online patient forums and return if his mood worsens",
-"Prescribe a sedating hypnotic nightly to improve sleep without other changes",
-"Ask a family member to assume full control of his medications to eliminate missed doses"
-],
-"correctAnswer": 0,
-"explanation": "The correct answer is choice 0. The lecture emphasizes that adherence problems in MS are multifactorial: emotional (depression, anxiety), cognitive (memory, attention, processing speed), and behavioral (fatigue, avoidance, social withdrawal). A multicomponent plan pairing CBT for anxiety, behavioral activation and resilience practices (ABC PLEASE: accumulate positives, build mastery, cope ahead; plus treating physical illness, balanced eating, avoiding mood-altering drugs, balancing sleep, and exercise), energy-conservation/pacing for fatigue, and cognitive supports (reminders, organizers, simplification) directly targets each barrier. Choice 1 may reduce dosing burden but ignores the active emotional and cognitive contributors to nonadherence. Choice 2 lacks structured skill-building and may perpetuate isolation. Choice 3 treats a symptom (sleep) without addressing mood, cognition, or daytime activation and risks next-day sedation. Choice 4 risks learned helplessness and does not build the patient’s skills; supportive involvement is helpful, but wholesale transfer of control is not the recommended first-line strategy."
+  "question": "An 11-year-old boy developed acute meningitis 24 hours after scuba diving in a lake. A bacterial cause was excluded. Physicians caring for the boy should perform a wet mount of CSF looking for which of the following?",
+  "choices": [
+    "Acanthamoeba polyphaga",
+    "Angiostrongylus cantonensis",
+    "Ascaris lumbricoides",
+    "Strongyloides stercoralis",
+    "Trichinella spiralis"
+  ],
+  "correctAnswer": 0,
+  "explanation": "The correct answer is: Acanthamoeba polyphaga. This organism is a free-living amoeba found in warm freshwater environments and is associated with granulomatous amoebic encephalitis. However, for acute meningoencephalitis following exposure to freshwater, especially with rapid onset after water activities like scuba diving, the most likely culprit is a free-living amoeba such as Acanthamoeba or Naegleria fowleri. These organisms invade the CNS through the cribriform plate. The other parasites listed typically cause subacute or chronic meningoencephalitis, eosinophilic meningitis, or systemic parasitic syndromes, not rapid-onset primary amoebic meningoencephalitis."
 },
 {
-"question": "A 33-year-old teacher with MS describes loss of identity since diagnosis, stopped attending social activities, and believes no one understands her challenges. She is open to nonpharmacologic options. Which intervention most directly leverages benefits highlighted in the lecture to reduce isolation, challenge unhelpful beliefs, and improve coping?",
-"choices": [
-"Enroll in a structured MS support group or group therapy to meet peers, obtain multiple perspectives, challenge inaccurate beliefs, learn effective strategies, and decrease isolation",
-"Practice total self-reliance by avoiding discussion of MS to prevent burdening others",
-"Adopt perfectionistic standards to regain control and push through fatigue",
-"Wait for symptoms to visibly worsen before seeking psychosocial support to validate her experience",
-"Avoid exercise and sleep structure to conserve energy for workdays"
-],
-"correctAnswer": 0,
-"explanation": "The correct answer is choice 0. The lecture highlights structured support (MS support groups and group therapy) as a way to reduce isolation, gain multiple perspectives, challenge inaccurate or unhelpful beliefs, learn what works from others, and practice skills, thereby improving coping and identity recovery. Choice 1 promotes isolation and deprives her of social support, which is linked to poorer outcomes. Choice 2 reflects a maladaptive coping pattern (perfectionism, overcontrol) associated with higher distress. Choice 3 delays care and reinforces invalidation; early engagement improves adjustment. Choice 4 contradicts behavioral activation principles; balanced sleep and regular activity, including adapted exercise, are part of resilience-building and mood stabilization."
+  "question": "A 3-week-old boy is brought to the pediatrician because of fever and poor feeding. On exam, the child is lethargic with a temperature of 101.8°F. The sclerae are slightly icteric. Kernig’s and Brudzinski’s signs are absent. Which of the following tests should be done next?",
+  "choices": [
+    "Abdominal ultrasound",
+    "Head CT scan",
+    "Liver enzymes",
+    "Lumbar puncture",
+    "Urinalysis and urine culture"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The correct answer is: Lumbar puncture. Neonates with fever and nonspecific signs such as poor feeding and lethargy require immediate evaluation for serious bacterial infections, including meningitis. Physical exam signs like Kernig's and Brudzinski's are often absent or unreliable in this age group. A lumbar puncture is essential to evaluate for central nervous system infection, as neonatal meningitis can progress rapidly. Abdominal ultrasound and liver enzymes might be considered in other contexts (e.g., if biliary atresia or hepatic dysfunction is suspected), but the priority here is ruling out meningitis."
 },
 {
-"question": "A 27-year-old woman with focal epilepsy is well controlled on lamotrigine. She stops her combined estrogen-containing oral contraceptive to try to conceive and, two weeks later, her psychiatrist adds valproate for bipolar symptoms. Within a month she develops dizziness, diplopia, and a diffuse morbilliform rash. Which pharmacokinetic explanation best accounts for her new toxicity risk?",
-"choices": [
-"Estrogen removal and valproate coadministration both increase lamotrigine exposure by reducing its metabolism",
-"Stopping estrogen increases lamotrigine clearance, while valproate decreases it, resulting in no net change",
-"Valproate displaces lamotrigine from plasma proteins, lowering free drug concentrations",
-"Estrogen withdrawal directly increases GABAergic tone, which mimics lamotrigine toxicity",
-"Valproate induces hepatic enzymes that accelerate lamotrigine clearance"
-],
-"correctAnswer": 0,
-"explanation": "Correct: Estrogen removal and valproate coadministration both increase lamotrigine exposure by reducing its metabolism. Estrogens lower lamotrigine levels; stopping estrogen removes this effect, raising lamotrigine concentrations. Valproate further increases lamotrigine by inhibiting its metabolism. Together, these changes heighten lamotrigine toxicity risk including rash. Incorrect choices: Stopping estrogen increases, not decreases, lamotrigine levels, so it does not offset valproate’s metabolic inhibition. Valproate’s interaction is metabolic, not protein displacement. Estrogen withdrawal does not cause lamotrigine-like toxicity via GABAergic mechanisms; lamotrigine acts primarily via Na+ channel inactivation. Valproate is not an inducer; it inhibits and also has multiple mechanisms including Na+ and T-type Ca2+ effects. "
+  "question": "A 76-year-old woman is brought to the emergency room because of fever and confusion. Physical exam shows a temperature of 40ºC, disorientation, and positive Kernig’s sign. CSF shows 550 WBCs, 90% of which are neutrophils. CSF protein is 200 mg/dL and glucose is 20 mg/dL. On a probability basis, the CSF will most likely grow which of the following?",
+  "choices": [
+    "Escherichia coli",
+    "Haemophilus influenzae",
+    "Listeria monocytogenes",
+    "Streptococcus agalactiae",
+    "Streptococcus pneumoniae"
+  ],
+  "correctAnswer": 4,
+  "explanation": "The correct answer is: Streptococcus pneumoniae. Elderly patients are at high risk for pneumococcal meningitis, which presents with neutrophilic pleocytosis, very high protein, and low glucose in CSF. S. pneumoniae is a Gram-positive lancet-shaped diplococcus and is the most common cause of bacterial meningitis in older adults. E. coli and GBS are common in neonates, H. influenzae is more common in unvaccinated children, and Listeria is also seen in the elderly but less common than pneumococcus."
 },
 {
-"question": "A 24-year-old woman of Han Chinese ancestry needs an antiseizure drug for new-onset focal epilepsy. She takes a combined estrogen–progestin oral contraceptive and warfarin after a recent venous thrombosis. Genetic testing is positive for HLA-B1502. Which agent best minimizes the risks highlighted by her comorbidities and pharmacogenetics?",
-"choices": [
-"Carbamazepine",
-"Oxcarbazepine",
-"Levetiracetam",
-"Topiramate",
-"Valproate"
-],
-"correctAnswer": 2,
-"explanation": "Correct: Levetiracetam. It does not carry the HLA-B1502–associated SJS risk, is not a strong hepatic enzyme inducer that would reduce warfarin or oral contraceptive effectiveness, and requires renal dosing rather than complex hepatic adjustments. Carbamazepine is incorrect because it is associated with a markedly increased risk of SJS/TEN in HLA-B1502 carriers and is a potent enzyme inducer that lowers warfarin and oral contraceptive levels. Oxcarbazepine is incorrect because although it induces enzymes less than carbamazepine, it still carries increased SJS risk in HLA-B1502 carriers and can cause significant hyponatremia. Topiramate is incorrect because it can cause cognitive side effects, renal stones, and metabolic acidosis and is not the cleanest choice for a patient dependent on oral contraceptives and warfarin management. Valproate is incorrect due to teratogenicity concerns in a woman planning pregnancy and endocrine effects, and it is not needed here given safer alternatives. "
+  "question": "A 25-year-old Hispanic pregnant woman is brought to a physician because of fever, headache, mild confusion, and vertigo for 24 hours. On exam her temperature is 39°C and her neck is stiff. Nystagmus is present on extraocular muscle testing. Cerebrospinal fluid (CSF) is slightly cloudy with a WBC count of 380/mm³ (70% neutrophils and 30% mononuclear cells). Gram’s stain of CSF shows rare, slender, Gram-positive bacilli. Which of the following is the likely source of this infection?",
+  "choices": [
+    "Contaminated food",
+    "Contaminated water",
+    "Pet cat",
+    "Sick co-worker",
+    "Sexual intercourse with her husband"
+  ],
+  "correctAnswer": 0,
+  "explanation": "The correct answer is: Contaminated food. The description is classic for Listeria monocytogenes, a facultative intracellular Gram-positive rod that causes meningitis, particularly in neonates, elderly, and immunocompromised individuals—including pregnant women. It is transmitted through ingestion of contaminated food such as soft cheeses, deli meats, and unpasteurized milk. It can cross the placental barrier and lead to fetal complications. Cats are associated with Toxoplasma, and the other options are not relevant for Listeria."
 },
 {
-"question": "A 63-year-old man with focal-to-bilateral tonic-clonic seizures on chronic phenytoin has a total phenytoin level of 18 mcg/mL and continues to have breakthrough seizures. His clinician increases the daily dose by 50 mg. One week later he returns with nystagmus, gait ataxia, and lethargy. Albumin is 2.4 g/dL. Which mechanism best explains his abrupt toxicity after a seemingly small dose increase?",
-"choices": [
-"Saturable hepatic metabolism leading to disproportionate increases in phenytoin levels plus low albumin increasing free drug",
-"Induction of CYP2C9 and CYP2C19 leading to accumulation of active metabolites",
-"Antacid coadministration increased phenytoin bioavailability by 20 percent",
-"Enhanced renal reabsorption of phenytoin due to metabolic acidosis",
-"Displacement of phenytoin from albumin by valproate, which always lowers total levels while reducing free concentrations"
-],
-"correctAnswer": 0,
-"explanation": "Correct: Saturable hepatic metabolism leading to disproportionate increases in phenytoin levels plus low albumin increasing free drug. Phenytoin exhibits nonlinear Michaelis–Menten kinetics; small dose increases can cause large rises in serum concentration. Toxicity signs appear around and above 20–40 mcg/mL. Its high albumin binding means hypoalbuminemia increases the free fraction, amplifying toxicity at a given total level. Incorrect choices: Phenytoin is a broad CYP inducer; it is not metabolized to active metabolites that accumulate via induction. Antacids are noted to reduce, not increase, bioavailability of gabapentin, not phenytoin; this does not explain phenytoin toxicity. Renal handling is not the primary driver of phenytoin kinetics. Valproate can displace protein-bound drugs and inhibit metabolism, but the stem gives no valproate use; moreover, displacement increases free levels (worsening toxicity), not lowers them. "
+  "question": "A 22-year-old man who underwent a craniotomy as part of his treatment for a skull fracture complicated by an epidural hematoma developed meningitis post-operatively. Assuming the Gram’s stain of CSF is unhelpful, empiric treatment for which of the following organisms is appropriate?",
+  "choices": [
+    "Anaerobes",
+    "Candida albicans",
+    "Neisseria meningitidis",
+    "Staphylococcus aureus",
+    "Streptococcus pneumoniae"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The correct answer is: Staphylococcus aureus. Post-neurosurgical meningitis or meningitis after head trauma is commonly caused by skin flora introduced during surgery or injury. S. aureus, including MRSA strains, is a common cause in these settings. Anaerobes are rare in CSF infections, Candida is unlikely without immunosuppression or long hospitalization, N. meningitidis is more typical in young healthy populations, and pneumococcus is common but not the most likely post-op."
+},
+ {
+    "question": "A 55-year-old renal transplant recipient comes to a physician because of fever and headache for two weeks. On exam he is mildly lethargic and febrile (100.8°F) with a slightly stiff neck and a cranial nerve VI palsy. Mycobacterium tuberculosis is suspected to be causative of the patient’s meningitis. This diagnosis would be a reasonable possibility if his CSF examination showed increased opening pressure, low glucose, elevated protein, and a differential WBC count of which of the following?",
+    "choices": [
+      "95% neutrophils",
+      "85% mononuclear cells",
+      "5% eosinophils",
+      "5% mononuclear cells"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is: 85% mononuclear cells. Tuberculous meningitis typically presents with subacute or chronic symptoms, including headache, fever, and cranial neuropathies. The hallmark CSF findings include lymphocytic (mononuclear) pleocytosis, elevated protein, decreased glucose, and increased opening pressure. Neutrophilic predominance (choice A) is more characteristic of acute bacterial meningitis. Eosinophils (choice C) are not typically associated with TB meningitis, and a WBC differential showing only 5% mononuclear cells (choice D) would be too low to be consistent with TB."
+  },
+  {
+    "question": "A 47-year-old man with chronic frontal sinusitis develops a brain abscess in the right frontal lobe. A Gram stain of drainage from the abscess would most likely show which of the following?",
+    "choices": [
+      "Gram-negative coccobacilli",
+      "Gram-negative rods",
+      "Gram-positive diplococci",
+      "Mixed microbial flora",
+      "Septate hyphae"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is: Mixed microbial flora. Brain abscesses resulting from contiguous spread, such as from sinusitis or otitis media, are often polymicrobial. These infections typically involve a mixture of anaerobic and aerobic organisms, including streptococci and anaerobes like Bacteroides. Gram-negative coccobacilli (A) or rods (B) might be seen in hematogenous spread from infections such as endocarditis or lung abscesses, not commonly sinusitis. Gram-positive diplococci (C) are associated with Streptococcus pneumoniae, more commonly linked to meningitis or pneumonia. Septate hyphae (E) would suggest fungal etiology like Aspergillus, typically seen in immunocompromised hosts."
+  },
+{
+  "question": "A 22-year-old prize fighter with multiple nasal fractures notes drainage of some clear, watery fluid from his nose when he bends down. The fluid tests positive for glucose. If he develops meningitis it will most likely be caused by which of the following organisms?",
+  "choices": [
+    "Haemophilus influenzae",
+    "Neisseria meningitidis",
+    "Staphylococcus aureus",
+    "Streptococcus pneumoniae",
+    "Streptococcus pyogenes"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The correct answer is: Streptococcus pneumoniae. The presence of glucose-positive clear nasal discharge after head trauma suggests a CSF leak, which predisposes to meningitis. Streptococcus pneumoniae is the most common organism associated with meningitis following CSF leakage, especially due to skull fractures. Other options like H. influenzae and N. meningitidis can cause meningitis but are less commonly linked to trauma-induced CSF leaks."
 },
 {
-"question": "A 20-year-old man has a witnessed convulsive event after staying up all night. A roommate reports the patient first turned his head and eyes to the left, his left arm stiffened and shook, and 30 seconds later the whole body stiffened and jerked. Afterward, the patient was confused and had transient weakness of the left arm for 10 minutes. He recalls an intense rising sensation in his stomach right before the event. Which seizure type best explains this presentation?",
-"choices": [
-"Focal to bilateral tonic-clonic seizure",
-"Generalized tonic-clonic seizure",
-"Typical absence seizure",
-"Focal preserved-consciousness seizure",
-"Myoclonic seizure"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct. Focal to bilateral tonic-clonic seizures often begin with focal signs (e.g., versive head/eye deviation), may have an aura (a focal seizure), and commonly produce postictal confusion or Todd’s paresis once bilateral convulsions occur. These features are prototypical of FBTC. Choice 1 is incorrect because generalized tonic-clonic seizures start bilaterally at onset and characteristically lack an aura, lack early forced head/eye turning to one side, and do not produce Todd’s paresis; postictal confusion is common but not diagnostic without the focal features seen here. Choice 2 is incorrect because typical absence occurs mainly in children/teens, is brief (<30 s), often triggered by hyperventilation, and shows no aura, no postictal confusion, and no Todd’s paresis; the EEG hallmark is generalized 3-Hz spike-and-wave. Choice 3 is incorrect because a focal preserved-consciousness seizure (formerly simple partial) would not evolve to bilateral tonic-clonic activity and usually lacks postictal confusion; Todd’s paresis can follow focal motor seizures, but the bilateral convulsion indicates spread beyond an isolated FPC. Choice 4 is incorrect because myoclonic seizures are brief, shock-like jerks, often symmetric and generalized, frequently associated with generalized epilepsies; they do not typically present with a focal aura, versive head/eye deviation, or postictal unilateral weakness. "
+  "question": "A 64-year-old man with a history of poorly controlled hypertension presents with sudden-onset right-sided weakness and difficulty speaking. Non-contrast CT head reveals a hyperdense lesion in the region of the left putamen. What is the most likely underlying pathological mechanism responsible for this patient’s presentation?",
+  "choices": [
+    "Charcot-Bouchard microaneurysm rupture",
+    "Arterial lipohyalinosis of lenticulostriate vessels",
+    "Amyloid deposition in cortical vessels",
+    "Embolic occlusion of the middle cerebral artery",
+    "Rupture of an arteriovenous malformation"
+  ],
+  "correctAnswer": 1,
+  "explanation": "The correct answer is: Arterial lipohyalinosis of lenticulostriate vessels. This patient has a hypertensive intracerebral hemorrhage, most commonly involving deep structures such as the putamen. Chronic hypertension causes lipohyalinosis, leading to vessel wall weakening and rupture. Charcot-Bouchard aneurysms can also cause hemorrhage but are more associated with microaneurysms and are less commonly implicated directly in pathology. Amyloid angiopathy affects cortical vessels and is linked to Alzheimer’s. Embolic strokes cause ischemia rather than hemorrhage, and AVMs are rare in this age group without prior symptoms."
 },
 {
-"question": "A 10-year-old child has dozens of daily brief staring spells with abrupt onset and offset. Teachers note brief pauses in activity; there is no warning and no confusion afterward. In clinic, hyperventilation for 3 minutes reproduces an event. Which additional finding would argue against typical absence and instead suggest a focal impaired-consciousness seizure?",
-"choices": [
-"A preceding metallic taste or déjà vu sensation",
-"Event duration less than 30 seconds",
-"Generalized 3-Hz spike-and-wave activity during the event",
-"No postictal confusion after the spell",
-"Frequent daily occurrence of spells"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct. Auras such as metallic taste, déjà vu, olfactory/gustatory hallucinations, or a rising epigastric sensation are focal seizures that commonly localize to the mesial temporal lobe; their presence argues against typical absence, which by definition lacks focal auras. Choices 1–4 are typical of absence and therefore incorrect: typical absence lasts under 30 seconds, is often provoked by hyperventilation, shows generalized 3-Hz spike-and-wave on EEG, has no postictal confusion or Todd’s paresis, and may occur many times per day. "
+  "question": "A 58-year-old man with type 2 diabetes mellitus presents with subacute onset of severe left thigh pain followed by weakness and atrophy in the proximal left lower extremity. On exam, he has decreased patellar reflexes on the left. There is no sensory loss in a dermatomal pattern. What is the most likely diagnosis?",
+  "choices": [
+    "Diabetic peripheral polyneuropathy",
+    "Diabetic mononeuritis multiplex",
+    "Diabetic amyotrophy",
+    "Femoral nerve compression",
+    "Cauda equina syndrome"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Diabetic amyotrophy. Also known as lumbosacral radiculoplexus neuropathy, this condition presents in older patients with type 2 diabetes and features asymmetric, proximal pain and weakness, often preceded by severe pain. It is typically monophasic and partially self-limiting. Polyneuropathy is symmetric and distal, while mononeuritis multiplex involves multiple isolated nerves. Femoral nerve compression does not cause the same progressive pattern or intense initial pain. Cauda equina syndrome presents with bowel/bladder involvement and saddle anesthesia, which are absent here."
 },
 {
-"question": "A 32-year-old man presents after a likely first unprovoked seizure. Neurologic exam and basic labs are normal. A 30-minute routine EEG performed the next day is read as normal. Which approach best increases the diagnostic yield for detecting interictal epileptiform activity in this patient?",
-"choices": [
-"Repeat EEG or obtain a longer-duration EEG recording to improve sensitivity",
-"Rely on the single normal routine EEG to exclude epilepsy",
-"Order brain MRI only, because EEG will not change management",
-"Diagnose psychogenic nonepileptic events and stop further testing",
-"Perform only hyperventilation testing in clinic without EEG"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct. Routine ~30-minute EEGs have limited sensitivity (about 29–55%) for interictal epileptiform discharges; repeating EEG or extending the recording markedly increases yield (approx. 82–92%). Longer recording duration improves sensitivity. Choice 1 is incorrect because a single normal routine EEG does not exclude epilepsy given its modest sensitivity. Choice 2 is incomplete; MRI evaluates structural etiologies but does not replace EEG for detecting epileptiform activity or classifying seizure onset. Choice 3 is premature; PNES is a diagnosis requiring appropriate evaluation and is not supported by a single normal EEG after a suspected unprovoked seizure. Choice 4 is incorrect because hyperventilation can provoke generalized absence seizures but, without EEG recording, it does not assess for interictal epileptiform discharges in this adult with a first unprovoked event. "
+  "question": "A 27-year-old obese woman presents with daily headaches, pulsatile tinnitus, and transient visual obscurations. Ophthalmoscopic exam reveals bilateral papilledema. MRI of the brain is unremarkable. Lumbar puncture shows opening pressure of 32 cm H₂O with normal composition. What is the most appropriate first-line pharmacologic treatment?",
+  "choices": [
+    "Topiramate",
+    "Mannitol",
+    "Acetazolamide",
+    "Dexamethasone",
+    "Furosemide"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Acetazolamide. This patient meets criteria for idiopathic intracranial hypertension (IIH), a condition most common in obese women of childbearing age. The first-line pharmacologic treatment is acetazolamide, a carbonic anhydrase inhibitor that reduces CSF production. Topiramate may be added as adjunct but is not the initial treatment. Mannitol is reserved for acute ICP crises, dexamethasone is used for edema in brain tumors, and furosemide is not a standard first-line agent in IIH."
 },
 {
-"question": "A 45-year-old woman undergoes brain biopsy for a periventricular mass concerning for a tumor on MRI. Luxol fast blue staining shows patchy pallor. On H&E there are numerous foamy macrophages within the lesion and perivascular lymphocytic cuffs; silver staining demonstrates largely preserved axons. Which combination best classifies the lesion and the expected stain findings?",
-"choices": [
-"Active demyelinating plaque; Luxol fast blue shows myelin loss and silver stain shows relative axonal preservation, with foamy macrophages and perivascular lymphocytes present",
-"Inactive plaque; prominent inflammation with abundant perivascular lymphocytes and foamy macrophages but intact myelin on Luxol fast blue",
-"Remyelinating (shadow) plaque; heavy inflammatory infiltrate with thick myelin sheaths around axons on Luxol fast blue",
-"Active demyelinating plaque; gliosis without inflammation and normal myelin staining on Luxol fast blue",
-"Inactive plaque; Luxol fast blue demonstrates myelin loss and silver stain shows axonal transection with numerous macrophages"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct. An active multiple sclerosis plaque shows demyelination with relative axon sparing, foamy macrophages within the lesion, and perivascular lymphocytes; Luxol fast blue highlights myelin loss and a silver stain highlights relatively preserved axons. Choice 1 is incorrect because an inactive plaque lacks prominent ongoing inflammation; by definition, inactive plaques show demyelination with gliosis and no inflammation. Choice 2 is incorrect because shadow (remyelinating) plaques show thin myelin around preserved axons with less active inflammation, not heavy infiltrates with thick sheaths. Choice 3 is incorrect because active plaques do not have normal myelin staining and typically do show inflammatory cells. Choice 4 is incorrect because inactive plaques are characterized by demyelination plus gliosis and absence of inflammation; axons are relatively preserved rather than transected on silver stain. "
+  "question": "A 67-year-old woman presents with a two-month history of low mood, insomnia, decreased appetite, and low energy. She recently retired after a 42-year teaching career and lives alone. She reports drinking two shots of vodka nightly to fall asleep. Her past medical history includes well-controlled type 2 diabetes. Mental status exam shows impaired concentration but normal thought process. What feature of her presentation most strongly represents a perpetuating factor according to the biopsychosocial model?",
+  "choices": [
+    "Her alcohol use to aid sleep",
+    "Recent retirement from long-term employment",
+    "Family history of depression",
+    "Feelings of loss of identity",
+    "Inconsistent sleep patterns"
+  ],
+  "correctAnswer": 4,
+  "explanation": "The correct answer is: Inconsistent sleep patterns. In the biopsychosocial formulation, perpetuating factors are those that maintain the disorder once it has started. Inconsistent sleep patterns can prolong symptoms of depression and interfere with recovery. Alcohol use and retirement are precipitating factors that triggered the episode. Family history is a predisposing factor that increases susceptibility. Feelings of identity loss are psychological aspects, but more appropriately framed as precipitating or possibly predisposing depending on context."
 },
 {
-"question": "A 37-year-old woman presents with severe bilateral optic neuritis with poor recovery and later develops a longitudinally extensive transverse myelitis spanning four vertebral segments. Months earlier she had persistent hiccups and nausea attributed to a dorsal medullary lesion. Serum testing is positive for aquaporin-4 antibodies. Which pathologic or immunohistochemical finding is most characteristic of her disease and helps distinguish it from multiple sclerosis?",
-"choices": [
-"Loss of aquaporin-4 immunostaining with astrocyte loss in lesions; demyelination is secondary",
-"Prominent oligoclonal bands in CSF are required and define dissemination in time",
-"Perivenous demyelination with all lesions of the same age on imaging",
-"Scattered periventricular plaques with astro-gliosis and preserved aquaporin-4 immunostaining",
-"Central pontine ‘bat-wing’ T2 lesion due to rapid correction of hyponatremia"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct. In aquaporin-4–IgG–positive neuromyelitis optica spectrum disorder, astrocytes are selectively targeted with loss of AQP4 staining and demyelination is secondary; clinically, longitudinally extensive myelitis and area postrema involvement are typical. Choice 1 is incorrect because oligoclonal bands typify MS; NMOSD is characterized instead by serum AQP4-IgG and astrocytopathy, and OCBs are not required for diagnosis. Choice 2 is incorrect because perivenous demyelination with lesions of the same age is a hallmark of ADEM, not NMOSD. Choice 3 is incorrect because scattered periventricular plaques with astro-gliosis and preserved AQP4 staining are characteristic of MS rather than NMOSD. Choice 4 is incorrect because the ‘bat-wing’ pontine lesion reflects osmotic demyelination syndrome (central pontine myelinolysis) after rapid correction of hyponatremia, unrelated to NMOSD. "
+  "question": "A 35-year-old man visits his PCP for an annual exam. He denies any symptoms but is found to have mild anhedonia and poor sleep during screening. The physician considers initiating treatment for depression. According to USPSTF recommendations and current practice patterns, what is the most accurate statement about depression management in this scenario?",
+  "choices": [
+    "Depression screening should only be done in patients with known psychiatric history",
+    "A psychiatrist must initiate all antidepressant therapy",
+    "Primary care physicians manage the majority of depression cases in the US",
+    "Neuroimaging is required prior to diagnosing depression",
+    "DSM-5 criteria must be confirmed via structured diagnostic interview"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Primary care physicians manage the majority of depression cases in the US. Over 60% of mental health care delivery, including 79% of antidepressant prescriptions, occurs in primary care settings. Depression screening is universally recommended for adults by the USPSTF. While psychiatrists play a critical role, the shortage of specialists and collaborative care models mean that primary care often initiates and manages treatment. DSM-5 is used for diagnosis, but structured interviews are not required, and imaging is not standard for diagnosing depression."
 },
 {
-"question": "A 56-year-old man with Crohn disease on natalizumab develops weeks of progressive hemiparesis and aphasia. MRI shows multifocal, asymmetric T2 hyperintense white matter lesions without mass effect. CSF PCR is positive for JC virus. Which histopathologic finding best matches the expected brain biopsy in this disorder?",
-"choices": [
-"Demyelination with areas of necrosis and oligodendrocyte nuclei containing viral inclusions",
-"Central pontine demyelination restricted to corticospinal tracts after rapid sodium correction",
-"Perivascular lymphocytes with foamy macrophages but intact Luxol fast blue myelin staining",
-"Thin myelin sheaths around preserved axons without inflammation (shadow plaque)",
-"Diffuse bilateral white matter demyelination with sparing of U-fibers in an infant with enzyme deficiency"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct. Progressive multifocal leukoencephalopathy occurs in immunosuppressed states and with natalizumab exposure; it shows multifocal demyelination with necrosis and characteristic viral inclusions in oligodendrocytes, and JC virus PCR is positive in CSF. Choice 1 is incorrect because central pontine myelinolysis presents after rapid correction of hyponatremia with a ‘bat-wing’ pontine lesion and is not linked to JC virus. Choice 2 is incorrect because active MS plaques show demyelination on Luxol fast blue, not intact myelin; they also feature foamy macrophages and perivascular lymphocytes but lack viral inclusions. Choice 3 is incorrect because remyelinating (shadow) plaques show thin myelin, not the destructive viral cytopathic changes of PML. Choice 4 is incorrect because leukodystrophies are dysmyelinating pediatric disorders with diffuse bilateral white matter involvement and sparing of subcortical U-fibers, often due to enzyme or peroxisomal defects, not an acquired opportunistic viral infection. "
+  "question": "A 29-year-old woman presents with confusion, myoclonus, and hyperreflexia. Her temperature is 39.2°C and blood pressure is 160/100 mmHg. She recently started a new antidepressant and is also taking sumatriptan for migraines. On exam, inducible clonus is noted. Which finding would most reliably support a diagnosis of serotonin syndrome over neuroleptic malignant syndrome?",
+  "choices": [
+    "Elevated temperature and hypertension",
+    "Recent medication change",
+    "Rigidity on physical exam",
+    "Hyperreflexia and clonus",
+    "Confusion and altered mental status"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The correct answer is: Hyperreflexia and clonus. Serotonin syndrome is characterized by neuromuscular hyperactivity including hyperreflexia and clonus, which help distinguish it from neuroleptic malignant syndrome (NMS), where rigidity and bradyreflexia are more common. Both conditions share signs like fever and altered mental status. Medication changes may be involved in both, but serotonergic toxicity uniquely causes these specific neuromuscular findings."
 },
 {
-"question": "A 26-year-old woman with focal epilepsy controlled on lamotrigine develops breakthrough seizures two months after starting a combined estrogen–progestin oral contraceptive. She is otherwise healthy and not planning pregnancy for several years. Which is the most appropriate management to address the cause of her loss of seizure control?",
-"choices": [
-"Increase the lamotrigine maintenance dose and monitor levels and clinical response",
-"Switch lamotrigine to carbamazepine to avoid contraceptive interactions",
-"Add valproate to boost lamotrigine exposure without changing the dose",
-"Stop the oral contraceptive and rely on barrier contraception only",
-"Lower the lamotrigine dose to reduce adverse effects unmasked by estrogen"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct because estrogen-containing oral contraceptives increase lamotrigine clearance, often necessitating a higher lamotrigine dose to restore seizure control; dose adjustments should be guided by clinical response and, when available, serum levels. Choice 1 is incorrect because carbamazepine is a strong hepatic enzyme inducer that can reduce oral contraceptive effectiveness and adds interaction burden. Choice 2 is incorrect because valproate inhibits lamotrigine metabolism, increasing risk of serious rash and other toxicity; using it solely to raise lamotrigine levels is unsafe. Choice 3 is premature; contraception can be continued with appropriate lamotrigine dose titration rather than stopping an effective family-planning method. Choice 4 is the opposite of what is needed; estrogen lowers lamotrigine exposure, so decreasing the dose would worsen control. "
+  "question": "A 76-year-old woman is admitted to the hospital following a hip fracture. On day three of her admission, she becomes disoriented, inattentive, and intermittently agitated. Vital signs are normal. Review of medications shows that she is taking oxybutynin, ranitidine, and diphenhydramine for sleep. Neurological exam reveals no focal deficits. What is the most likely explanation for her altered mental status?",
+  "choices": [
+    "Progression of undiagnosed dementia",
+    "Postoperative stroke",
+    "Adverse effects of anticholinergic medications",
+    "Hospital-acquired infection",
+    "Undiagnosed seizure disorder"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Adverse effects of anticholinergic medications. This patient’s acute onset of fluctuating attention, disorientation, and agitation in a hospitalized setting is consistent with delirium. Oxybutynin, diphenhydramine, and ranitidine are all anticholinergic agents known to precipitate delirium, particularly in elderly patients. Dementia progresses slowly and does not cause fluctuating attention. Stroke would typically present with focal deficits. Infection should be considered but is less likely without vital sign changes. Seizures can cause altered mental status but would usually involve postictal features or abnormal movements."
 },
 {
-"question": "An 81-year-old man in a nursing facility develops a new focal-onset seizure disorder after a lacunar stroke. History is significant for liver cirrhosis, type 2 diabetes mellitus, open-angle glaucoma, a prior calcium oxalate kidney stone, and polypharmacy. Which antiseizure medication is the best initial choice?",
-"choices": [
-"Levetiracetam",
-"Phenytoin",
-"Carbamazepine",
-"Valproic acid",
-"Topiramate"
-],
-"correctAnswer": 0,
-"explanation": "Levetiracetam is correct because it is effective for focal seizures, is generally well tolerated in older adults, has minimal drug–drug interactions, and is renally cleared, avoiding the patient’s hepatic impairment. Phenytoin is incorrect because it is a hepatic enzyme inducer, has complex nonlinear kinetics, and can worsen glycemic control by decreasing insulin secretion. Carbamazepine is incorrect due to strong CYP3A4 induction with many interactions in a polypharmacy patient and risks such as hyponatremia. Valproic acid is incorrect because preexisting liver disease increases the risk of hepatotoxicity. Topiramate is incorrect given this patient’s history of glaucoma and nephrolithiasis; its carbonic anhydrase–inhibiting effect increases risks of acute angle issues and kidney stones. "
+  "question": "A 29-year-old man with no psychiatric history is hospitalized for a severe case of pneumonia. Over the course of several days, he becomes withdrawn, minimally responsive, and begins posturing in bed. On exam, he demonstrates waxy flexibility and mutism. Vitals are normal. Which of the following is the most appropriate next diagnostic step?",
+  "choices": [
+    "Begin empiric broad-spectrum antibiotics",
+    "Initiate high-dose antipsychotics",
+    "Perform a lumbar puncture",
+    "Administer a lorazepam challenge",
+    "Order an urgent MRI of the brain"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The correct answer is: Administer a lorazepam challenge. The patient demonstrates signs of catatonia (waxy flexibility, mutism, posturing), likely in the context of a medical illness. A lorazepam challenge test (1–2 mg IV or IM) is both diagnostic and therapeutic in catatonia. A positive response supports the diagnosis. Antibiotics are unnecessary unless there's clear evidence of infection. High-dose antipsychotics can worsen catatonia. A lumbar puncture or MRI may be considered later to rule out other causes but are not the immediate next best step."
 },
 {
-"question": "A 58-year-old comatose man after an out-of-hospital cardiac arrest undergoes bedside brainstem testing. With ice-cold water in the right ear, both eyes slowly deviate to the right without a fast corrective phase. With warm water in the left ear several minutes later, there is no eye movement. Corneal and pupillary light reflexes are present. Which lesion best explains this caloric test pattern?",
-"choices": [
-"Left vestibular apparatus or vestibular nerve lesion impairing the afferent limb",
-"Bilateral frontal eye field lesions abolishing the fast phase only",
-"Right abducens nucleus lesion in the dorsal pons",
-"Bilateral medial longitudinal fasciculus lesions producing internuclear ophthalmoplegia",
-"Cerebellar flocculus lesion impairing gaze-holding"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct. In coma with an intact brainstem, caloric irrigation produces the slow tonic eye deviation (brainstem vestibulo-ocular reflex) but the cortical fast corrective phase (nystagmus) is absent. Right cold causing slow deviation toward the irrigated ear proves intact right-sided afferent input and central VOR circuitry. The absence of any slow deviation with left warm localizes to failure of the left afferent limb (labyrinth or vestibular nerve). Choice 1 is incorrect because frontal eye fields generate the fast phase; bilateral cortical damage would abolish fast beats but preserve the slow deviation from intact brainstem pathways in both ears, not selectively one ear. Choice 2 is incorrect because a right abducens nuclear lesion would impair rightward conjugate movements, contradicting the preserved rightward slow deviation with right-ear cold. Choice 3 is incorrect because bilateral MLF lesions cause disconjugate responses (impaired adduction) rather than complete absence of slow deviation to one ear only. Choice 4 is incorrect because cerebellar flocculus dysfunction yields gaze-holding deficits and gaze-evoked nystagmus but does not abolish the brainstem-driven slow phase from one ear’s caloric stimulation. "
+  "question": "A 71-year-old male in the ICU becomes acutely confused, with fluctuating levels of consciousness and visual hallucinations. Neurological exam is non-focal. Labs reveal mild hyponatremia and elevated BUN. MOCA score has declined significantly compared to admission. Which of the following most accurately distinguishes his current condition from a major neurocognitive disorder?",
+  "choices": [
+    "Gradual onset of symptoms",
+    "Memory loss as primary symptom",
+    "Irreversibility of cognitive decline",
+    "Presence of visual hallucinations",
+    "Impaired attention with fluctuating course"
+  ],
+  "correctAnswer": 4,
+  "explanation": "The correct answer is: Impaired attention with fluctuating course. Delirium is characterized by an acute onset, fluctuating level of consciousness, and inattention, often with hallucinations. In contrast, major neurocognitive disorders like Alzheimer's have a gradual onset and steady progression without fluctuations. Visual hallucinations may be seen in both but do not differentiate the two. Delirium is often reversible with correction of underlying causes, whereas major neurocognitive disorders are typically chronic and irreversible."
 },
 {
-"question": "A 32-year-old man with an acute right temporal epidural hematoma develops coma with a fixed, dilated right pupil and extensor posturing. He subsequently shows weakness of the right side rather than the left. Which mechanism most directly explains the ipsilateral hemiplegia in this setting?",
-"choices": [
-"Compression of the contralateral cerebral peduncle against the tentorial edge (Kernohan notch)",
-"Infarction of the right occipital lobe from posterior cerebral artery compression",
-"Primary destruction of the right corticospinal tract within the internal capsule",
-"Ischemia of bilateral thalami from top-of-the-basilar occlusion",
-"Dorsal midbrain lesion causing Parinaud syndrome"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct. Uncal herniation can compress the ipsilateral oculomotor nerve (blown pupil) and midbrain reticular activating system (coma). As the medial temporal lobe displaces across the tentorial incisura, the opposite cerebral peduncle can be compressed against the tentorial edge (Kernohan notch), producing a false-localizing ipsilateral hemiplegia. Choice 1 is incorrect because posterior cerebral artery compression explains contralateral homonymous hemianopia, not ipsilateral hemiplegia. Choice 2 is incorrect because a primary internal capsule lesion would cause contralateral weakness; the vignette emphasizes a herniation mechanism with paradoxical ipsilateral findings. Choice 3 is incorrect because top-of-the-basilar events involve rostral brainstem and bilateral thalami causing coma, vertical gaze palsy, and visual syndromes, not the classic uncal herniation triad with a blown pupil and ipsilateral hemiplegia. Choice 4 is incorrect because a dorsal midbrain (Parinaud) lesion yields vertical gaze palsy and light-near dissociation, not the herniation constellation or Kernohan notch phenomenon. "
+  "question": "A 3-year-old boy is brought to his pediatrician for concerns regarding his speech. He says fewer than 20 words and does not use any two-word phrases. His parents report that he understands simple commands and points to objects when named. He frequently uses gestures and maintains eye contact. What is the most likely diagnosis?",
+  "choices": [
+    "Autism Spectrum Disorder",
+    "Expressive language disorder",
+    "Mixed receptive-expressive language disorder",
+    "Receptive language disorder",
+    "Late language emergence"
+  ],
+  "correctAnswer": 4,
+  "explanation": "The correct answer is: Late language emergence. The child meets criteria for late language emergence (less than 50 words and no two-word combinations between 24–34 months). His intact receptive language, appropriate use of gestures, and social engagement (e.g., eye contact, pointing) are reassuring and suggest a good prognosis. Autism would present with broader social communication deficits. Expressive language disorder implies more persistent dysfunction. Mixed disorders would include receptive issues, which are not present. Receptive language disorder typically results in significant comprehension deficits, not seen here."
 },
 {
-"question": "A 66-year-old man is found mute and quadriplegic after a basilar artery thrombosis but follows commands by vertical eye movements and blinking. Pupils are reactive; corneal reflexes are intact. Which additional finding best distinguishes locked-in syndrome from top-of-the-basilar syndrome in this clinical context?",
-"choices": [
-"Preserved consciousness with vertical eye movements indicating ventral pontine damage sparing the midbrain tegmentum in locked-in syndrome",
-"Profound coma due to bilateral thalamic and rostral brainstem infarction in locked-in syndrome",
-"Complete loss of vertical gaze and ptosis with preserved motor strength in locked-in syndrome",
-"Absent corneal and oculocephalic reflexes defining locked-in syndrome as brain death",
-"Fixed, dilated pupils due to oculomotor nerve compression as the hallmark of locked-in syndrome"
-],
-"correctAnswer": 0,
-"explanation": "Choice 0 is correct. Locked-in syndrome results from ventral pontine injury (often basilar occlusion) causing quadriplegia and anarthria with preserved consciousness, vertical eye movements, and blinking (dorsal midbrain and tegmental structures spared). In contrast, top-of-the-basilar syndrome produces coma, vertical gaze palsy, ptosis, amnesia, and cortical visual syndromes due to infarction of rostral brainstem and bilateral thalami, often with preserved limb motor strength. Choice 1 is incorrect because coma with bilateral thalamic involvement characterizes top-of-the-basilar syndrome, not locked-in syndrome. Choice 2 is incorrect because vertical gaze palsy and ptosis are features of top-of-the-basilar lesions; locked-in patients preserve vertical gaze. Choice 3 is incorrect because brainstem reflexes (corneal, oculocephalic) are preserved in locked-in syndrome; their absence suggests brain death or extensive brainstem failure, not LIS. Choice 4 is incorrect because fixed, dilated pupils reflect uncal herniation with oculomotor compression, not the defining feature of locked-in syndrome. "
+  "question": "A 7-year-old boy with normal intelligence presents with difficulty in spelling and writing sentences, although he excels in math and science. He avoids writing assignments and becomes frustrated during homework. Teachers note poor handwriting, difficulty spacing letters, and grammatical errors. What is the most likely diagnosis?",
+  "choices": [
+    "Dyslexia",
+    "Dysgraphia",
+    "Dyscalculia",
+    "Expressive language disorder",
+    "Specific learning disorder in reading"
+  ],
+  "correctAnswer": 1,
+  "explanation": "The correct answer is: Dysgraphia. This child shows hallmark features of dysgraphia—trouble with handwriting, grammar, and spelling despite normal intelligence and good performance in other academic domains. Dyslexia primarily affects phonological processing and reading. Dyscalculia affects numerical concepts. Expressive language disorder would affect verbal output. Specific learning disorder in reading would not explain writing-based frustrations and fine motor difficulties."
+},
+{
+  "question": "A 6-year-old girl is referred for an evaluation due to difficulties in reading. She struggles with decoding new words, often mispronounces them, and avoids reading aloud. Her oral language development and comprehension are appropriate for her age. What neuroanatomical region is most likely underactive in this child?",
+  "choices": [
+    "Left occipitotemporal region",
+    "Right frontal lobe",
+    "Cerebellar vermis",
+    "Bilateral temporal poles",
+    "Medial prefrontal cortex"
+  ],
+  "correctAnswer": 0,
+  "explanation": "The correct answer is: Left occipitotemporal region. Dyslexia is associated with underactivation in the left hemisphere's occipitotemporal region, which is critical for automatic, rapid word recognition. The right frontal lobe and medial prefrontal cortex are involved in executive functions. The cerebellar vermis is implicated in coordination. The bilateral temporal poles are more involved in semantic memory and social processing, not phonological decoding."
+},
+{
+  "question": "A 5-year-old boy is brought in due to concerns about social difficulties. He does not engage in pretend play, avoids eye contact, and has intense interest in ceiling fans. He is sensitive to loud sounds and insists on taking the same route home every day. Language development is appropriate. What combination of DSM-5-TR criteria is required to confirm the diagnosis?",
+  "choices": [
+    "Deficits in social communication alone",
+    "Restricted, repetitive behaviors alone",
+    "Both social communication deficits and restricted behaviors, present only after age 5",
+    "Deficits in social communication and at least two restricted, repetitive behaviors, present early in development",
+    "Either social or behavioral symptoms, but not both"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The correct answer is: Deficits in social communication and at least two restricted, repetitive behaviors, present early in development. Autism Spectrum Disorder (ASD) requires all three deficits in social communication (criteria A) and at least two of four restricted behaviors (criteria B), with onset in early development. The boy meets these with social avoidance and inflexible routines. Language may be intact. Criteria must be met across domains; one alone is insufficient."
+},
+{
+  "question": "A 6-year-old girl is undergoing evaluation for poor academic performance. Her IQ is within the normal range, but standardized assessments reveal significantly low performance in reading, writing, and math. Vision and hearing are normal. Which of the following most accurately reflects the current DSM-5 diagnostic approach to specific learning disorder (SLD)?",
+  "choices": [
+    "Presence of low IQ is necessary for diagnosis",
+    "Requires a significant IQ-achievement discrepancy",
+    "Diagnosis is based solely on clinical judgment",
+    "Standardized testing must confirm impairments relative to age expectations",
+    "Requires poor school performance in all subjects"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The correct answer is: Standardized testing must confirm impairments relative to age expectations. DSM-5 criteria for SLD require underachievement in specific academic domains despite adequate educational opportunities, confirmed by standardized testing. It no longer relies on a strict IQ-achievement discrepancy. Poor performance in one domain (e.g., reading, math) is sufficient. Clinical judgment complements, but does not replace, formal assessment."
+},
+{
+  "question": "A 4-year-old boy with delayed milestones and below-average performance in daily self-care and social tasks is being evaluated. Cognitive testing reveals an IQ of 65, and adaptive behavior assessments show significant limitations in conceptual and social domains. Which of the following is the most accurate diagnosis?",
+  "choices": [
+    "Autism Spectrum Disorder",
+    "Specific Learning Disorder",
+    "Receptive language disorder",
+    "Intellectual Developmental Disorder",
+    "Expressive language disorder"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The correct answer is: Intellectual Developmental Disorder. IDD requires deficits in both intellectual functioning (IQ < 70) and adaptive functioning across conceptual, social, or practical domains. This child has global impairment in daily life and subaverage intellectual performance. ASD focuses on social communication and behaviors. Learning disorders are academic-specific. Language disorders do not fully account for adaptive deficits."
+},
+{
+  "question": "A 23-year-old woman with panic disorder is undergoing cognitive behavioral therapy (CBT). She is encouraged to visit the grocery store, where she previously experienced panic attacks. Initially, she reports anxiety, but over several sessions, the anxiety diminishes. Which psychological mechanism best explains this improvement?",
+  "choices": [
+    "Operant extinction",
+    "Habituation",
+    "Stimulus generalization",
+    "Classical extinction",
+    "Negative reinforcement"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The correct answer is: Classical extinction. The patient is exposed to a conditioned stimulus (e.g., grocery store) previously associated with an unconditioned response (panic attacks) without the panic-inducing event occurring. Over time, the conditioned response (anxiety) diminishes. This is the essence of classical extinction. Operant extinction involves cessation of reinforcement. Habituation is a decrease in response to repeated neutral stimuli, not conditioned ones. Stimulus generalization refers to transfer of a response to similar stimuli. Negative reinforcement involves removing an aversive stimulus to increase behavior, which is not applicable here."
+},
+{
+  "question": "A 52-year-old man with opioid use disorder participates in a contingency management program. He receives a movie ticket for each negative drug test. Over time, he consistently remains abstinent. Which principle of behaviorism is most directly being applied to promote abstinence in this scenario?",
+  "choices": [
+    "Positive reinforcement via variable interval schedule",
+    "Negative reinforcement via fixed ratio schedule",
+    "Positive reinforcement via fixed ratio schedule",
+    "Negative punishment via variable ratio schedule",
+    "Classical conditioning of abstinence behavior"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Positive reinforcement via fixed ratio schedule. Contingency management provides tangible rewards (e.g., movie tickets) contingent on a target behavior (drug abstinence), which is a classic example of positive reinforcement. Since the reward is delivered after every drug-free urine sample, it is a fixed ratio schedule. Variable interval or ratio schedules involve unpredictability. Negative reinforcement involves removal of aversive stimuli, not reward delivery. Classical conditioning does not directly explain operant contingencies in this setting."
+},
+{
+  "question": "A medical student observes a respected physician spend extra time with a patient and receive appreciation. The student later mimics this behavior during rounds. According to Bandura’s social learning theory, which factor most directly facilitated this change in behavior?",
+  "choices": [
+    "Operant reinforcement of the student",
+    "Classical conditioning of the student",
+    "Stimulus generalization",
+    "Observational learning and increased self-efficacy",
+    "Shaping through successive approximations"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The correct answer is: Observational learning and increased self-efficacy. Bandura's social learning theory emphasizes that people learn behaviors through observing others, especially role models. The physician’s behavior modeled a valued trait, and the student adopted it. Furthermore, the observation likely enhanced the student’s belief in their own ability to perform similar actions (self-efficacy). Operant reinforcement requires direct reward to the student, not just observation. Classical conditioning involves stimulus-response pairings. Stimulus generalization and shaping are more applicable in different contexts."
+},
+{
+  "question": "A 26-year-old woman presents with episodes of unresponsiveness and convulsions. A recent inpatient video EEG monitoring revealed no epileptiform activity during these events. Neurological examination is normal. She has a history of fibromyalgia, past trauma, and depression. Which of the following factors most likely serves as a perpetuating factor for her condition, according to the Fear-Avoidance Learning Model?",
+  "choices": [
+    "History of childhood neglect",
+    "Traumatic brain injury at age 17",
+    "Current use of sedatives and repeated medical testing",
+    "Recent panic attack preceding seizure onset",
+    "Family history of epilepsy"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Current use of sedatives and repeated medical testing. According to the Fear-Avoidance Learning Model, perpetuating factors are those that maintain symptoms over time, such as overmedicalization, lack of appropriate diagnosis, avoidance behaviors, and use of medications like sedatives. Childhood neglect and brain injury are predisposing factors; panic attack is a precipitating factor; and family history contributes to overall risk but does not perpetuate symptoms directly."
+},
+{
+  "question": "A 33-year-old man is diagnosed with functional neurological disorder (FND) after video EEG confirms psychogenic non-epileptic seizures. His neurologist explains the diagnosis, demonstrates positive signs, and offers a CBT-based treatment plan. This form of clinical engagement serves which therapeutic purpose in the management of FND?",
+  "choices": [
+    "Avoidance of psychiatric labeling to prevent non-compliance",
+    "Initiation of neurostimulation as primary treatment",
+    "Application of diagnosis as a therapeutic intervention",
+    "Replacement of psychiatric referral with pharmacotherapy",
+    "Reduction of symptoms by minimizing patient-provider interaction"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Application of diagnosis as a therapeutic intervention. Delivering the diagnosis of FND in a clear, empathetic manner, explaining the pathophysiology and demonstrating positive clinical signs, is itself a key intervention. It helps validate the patient's experience, build therapeutic alliance, and initiate recovery. Avoiding diagnosis or referrals undermines effective management. Pharmacotherapy targets comorbidities but is not a substitute for informed diagnosis and interdisciplinary care."
+},
+{
+  "question": "A 29-year-old woman with PNES is referred for interdisciplinary treatment including CBT, physical therapy, and mindfulness training. She struggles with believing the diagnosis and shows low engagement. Which factor, if addressed during assessment, would most directly enhance her prognosis?",
+  "choices": [
+    "Severity of prior epileptic seizures",
+    "Presence of comorbid sensory symptoms",
+    "Motivation for recovery and treatment engagement",
+    "Exact nature of the dissociative episodes",
+    "Type of psychotherapy previously attempted"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Motivation for recovery and treatment engagement. Prognosis in FND significantly improves when patients are motivated and engaged in treatment. A strong alliance with providers, belief in the diagnosis, and willingness to participate in therapy (especially CBT) are linked to better outcomes. The type of prior therapy and episode features are informative but less predictive than motivational factors. Comorbid sensory symptoms may contribute to burden but do not directly determine prognosis."
 }
 ]
-
