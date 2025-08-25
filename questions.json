@@ -1,601 +1,395 @@
 [
 {
-  "question": "A 19-year-old college student is brought to the emergency department with progressive confusion, bizarre behavior, fever, and headache. MRI shows bilateral temporal lobe hyperintensity on FLAIR imaging. CSF shows lymphocytic pleocytosis, increased protein, and normal glucose. PCR confirms HSV-1. If she survives, what long-term complication is most likely?",
+  "question": "A 32-year-old woman is brought to the emergency department by her husband due to abrupt changes in behavior. He reports that she sometimes speaks with a different accent and does not recognize her children. These episodes last for hours and then she returns to her baseline without memory of the events. She has a history of childhood abuse and multiple psychiatric hospitalizations. Which of the following is the most likely diagnosis?",
   "choices": [
-    "Flaccid paralysis from anterior horn cell damage",
-    "Cerebellar ataxia from cerebellar inflammation",
-    "Wernicke's aphasia from superior temporal gyrus injury",
-    "Anterograde amnesia from medial temporal lobe injury",
-    "Parkinsonian tremor from basal ganglia damage"
+    "Schizophrenia",
+    "Bipolar I disorder with psychotic features",
+    "Dissociative identity disorder",
+    "Depersonalization/derealization disorder",
+    "Frontal lobe epilepsy"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Dissociative identity disorder (DID). DID is characterized by the presence of two or more distinct personality states or identities that may control the individual's behavior at different times, often accompanied by memory gaps for everyday events, personal information, or traumatic events. The patient's identity switching and amnesia, especially in the context of severe trauma history, are hallmark features. Schizophrenia involves persistent delusions or hallucinations, not identity alteration. Bipolar I may involve mood changes but not identity fragmentation. Depersonalization/derealization involves detachment without identity loss. Frontal lobe epilepsy could cause transient behavioral changes but not multiple identity phenomena."
+},
+{
+  "question": "A 28-year-old man is evaluated after a traumatic motor vehicle accident in which his best friend died. He reports persistent nightmares, avoids driving, and has begun drinking heavily. One month after the incident, he has difficulty sleeping, feels numb, and is hypervigilant. Which of the following features most clearly distinguishes post-traumatic stress disorder (PTSD) from acute stress disorder (ASD)?",
+  "choices": [
+    "Presence of dissociative amnesia",
+    "Re-experiencing symptoms",
+    "Symptoms lasting more than one month",
+    "Avoidance behaviors",
+    "Exposure to a traumatic stressor"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Symptoms lasting more than one month. Both PTSD and ASD require exposure to trauma and can include similar symptoms such as re-experiencing, avoidance, and dissociation. The key diagnostic difference is duration: ASD is diagnosed when symptoms last between 3 days and 1 month post-trauma; PTSD requires symptoms persisting for at least one month. Dissociative amnesia and re-experiencing can occur in both disorders. Avoidance is a criterion for both, and trauma exposure is required for either diagnosis."
+},
+{
+  "question": "A 45-year-old woman presents with persistent feelings that her surroundings feel dreamlike and that she is watching herself from outside her body. These episodes began shortly after surviving a domestic violence incident. She describes her body as 'numb' and her memories as 'hollow,' lacking emotional content. Which of the following best explains the neuropsychological mechanism underlying her symptoms?",
+  "choices": [
+    "Hyperactivation of the hypothalamic-pituitary-adrenal axis",
+    "Increased amygdala activity during threat perception",
+    "Maladaptive encoding of traumatic memory by the hippocampus",
+    "Disruption of integration between perceptual processing and self-awareness",
+    "Volitional detachment from emotionally charged memories"
   ],
   "correctAnswer": 3,
-  "explanation": "The correct answer is: Anterograde amnesia from medial temporal lobe injury. HSV-1 encephalitis preferentially affects the temporal lobes, including the hippocampus, which is critical for memory formation. This can lead to profound anterograde amnesia in survivors. Flaccid paralysis is more typical of poliovirus or West Nile virus affecting the anterior horn. Cerebellar ataxia is associated with VZV, especially in children. Wernicke's aphasia arises from damage to the posterior superior temporal gyrus, not the medial temporal lobe. Parkinsonian features are more typical in West Nile virus encephalitis."
+  "explanation": "The correct answer is: Disruption of integration between perceptual processing and self-awareness. Depersonalization and derealization symptoms reflect a disruption in the brain’s ability to integrate multisensory input and internal self-monitoring, leading to detachment from the body or environment. This often follows trauma as a coping mechanism. HPA axis and amygdala activity play roles in stress and fear responses but do not fully explain dissociative perceptual detachment. Hippocampal dysfunction contributes to memory fragmentation but not directly to perceptual distortions. Volitional detachment implies conscious effort, which is not the case in these dissociative symptoms."
 },
 {
-  "question": "A 70-year-old man with a recent shingles outbreak now presents with confusion, right facial droop, and a seizure. CSF shows lymphocytic pleocytosis and elevated protein. MRI shows left cerebellar hyperintensity. PCR for HSV is negative. What is the most appropriate management?",
+  "question": "A 35-year-old man with schizophrenia has persistent positive symptoms despite treatment with risperidone. A recent neuroimaging study shows decreased activity in the prefrontal cortex and increased dopaminergic signaling in the mesolimbic pathway. Based on current neurochemical hypotheses, which of the following best explains the persistence of his symptoms?",
   "choices": [
-    "Initiate ceftriaxone and vancomycin for empiric bacterial meningitis",
-    "Administer high-dose corticosteroids only",
-    "Begin intravenous acyclovir and prednisone",
-    "Repeat lumbar puncture and delay treatment until confirmatory testing",
-    "Withhold antivirals due to negative HSV PCR"
+    "Hyperdopaminergic activity in the mesocortical pathway",
+    "Hypodopaminergic activity in the nigrostriatal pathway",
+    "Hyperdopaminergic activity in the mesolimbic pathway",
+    "Hypoglutamatergic activity in the tuberoinfundibular pathway",
+    "Excessive serotonin activity in the dorsal raphe nuclei"
   ],
   "correctAnswer": 2,
-  "explanation": "The correct answer is: Begin intravenous acyclovir and prednisone. This presentation is consistent with varicella zoster virus (VZV) encephalitis. Even if PCR is negative (only ~30% sensitive), treatment should not be delayed. The correct approach includes IV acyclovir and short-course corticosteroids. Bacterial meningitis should be ruled out, but the focal neurologic signs, prior shingles, and MRI findings point to VZV. High-dose corticosteroids alone are not adequate, and waiting for confirmatory tests would delay essential treatment."
+  "explanation": "The correct answer is: Hyperdopaminergic activity in the mesolimbic pathway. Positive symptoms of schizophrenia (e.g., hallucinations, delusions) are linked to increased dopamine activity in the mesolimbic pathway. In contrast, negative and cognitive symptoms correlate with reduced dopamine activity in the mesocortical pathway. The nigrostriatal pathway is associated with motor control, and tuberoinfundibular dopamine inhibits prolactin. Serotonin from the dorsal raphe modulates mood, not psychosis directly."
 },
 {
-  "question": "A 55-year-old man presents in late summer with fever, headache, tremor, and difficulty walking. Neurologic exam shows hyperreflexia and spasticity. MRI reveals hyperintensity in the thalamus and external capsule. CSF shows lymphocytic pleocytosis, elevated protein, and positive IgM for a flavivirus. What is the most likely causative agent?",
+  "question": "A 28-year-old woman presents with fatigue, hypersomnia, weight gain, and persistent feelings of worthlessness for the past month. She is diagnosed with major depressive disorder. Which of the following mechanisms best explains how mirtazapine alleviates her symptoms?",
   "choices": [
-    "HSV-1",
-    "Eastern Equine Encephalitis virus",
-    "West Nile virus",
-    "La Crosse virus",
-    "Rabies virus"
+    "Inhibition of monoamine oxidase leading to increased serotonin levels",
+    "Blockade of serotonin reuptake transporters on presynaptic neurons",
+    "Direct agonism of dopamine D2 receptors in the prefrontal cortex",
+    "Blockade of alpha-2 adrenergic autoreceptors increasing monoamine release",
+    "Antagonism of GABA-A receptors leading to enhanced arousal"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The correct answer is: Blockade of alpha-2 adrenergic autoreceptors increasing monoamine release. Mirtazapine is an atypical antidepressant that increases the release of serotonin and norepinephrine by blocking inhibitory alpha-2 autoreceptors. This differs from SSRIs, which inhibit serotonin reuptake, and MAOIs, which prevent neurotransmitter breakdown. D2 receptor agonism is associated with antipsychotics and not used in depression. GABA-A antagonism would promote excitability and is not a mechanism of mirtazapine."
+},
+{
+  "question": "A 65-year-old man with HIV presents with memory loss, apathy, and motor slowing. His physician suspects a neurodegenerative process involving the kynurenine pathway. Excess quinolinic acid is believed to be contributing to NMDA receptor overactivation. Which neurotransmitter system is most likely implicated in the pathogenesis of his symptoms?",
+  "choices": [
+    "Dopamine hypofunction in the mesolimbic pathway",
+    "GABA deficiency in the basal ganglia",
+    "Glutamate excitotoxicity in the prefrontal cortex",
+    "Serotonin excess in the dorsal raphe nucleus",
+    "Acetylcholine depletion in the septal nuclei"
   ],
   "correctAnswer": 2,
-  "explanation": "The correct answer is: West Nile virus. It is the most common arboviral encephalitis in the U.S. Clinical signs such as tremor, cerebellar signs, parkinsonism, and spastic paralysis with corresponding thalamic and basal ganglia MRI findings are characteristic. HSV-1 typically affects the temporal lobes. EEE is more often severe in children. La Crosse virus affects children more and does not typically produce these parkinsonian signs. Rabies usually presents with hydrophobia, laryngeal spasm, and rapid deterioration."
+  "explanation": "The correct answer is: Glutamate excitotoxicity in the prefrontal cortex. The kynurenine pathway, particularly through the production of quinolinic acid, leads to overstimulation of NMDA receptors, a subtype of glutamate receptor. This process contributes to neuronal damage and is implicated in HIV-associated neurocognitive disorder (HAND) and depression. Dopamine hypofunction and GABA deficiency are associated with different symptoms. Serotonin and acetylcholine dysregulation have roles in mood and memory but do not explain the excitotoxic mechanism described here."
 },
 {
-  "question": "A 58-year-old man with poorly controlled diabetes presents with worsening headache, blurry vision, and confusion for 3 weeks. On exam, he is febrile and has cranial nerve VI palsy. Lumbar puncture shows elevated opening pressure, low glucose, high protein, and 220 WBCs (80% lymphocytes). India ink stain is negative. CSF culture is pending. What is the most sensitive next step in diagnosis?",
+  "question": "A 10-year-old boy is referred for persistent defiant behavior. He argues with teachers, deliberately annoys classmates, and blames others for his own mistakes. Despite having no history of aggression, property destruction, or serious rule violations, his behavior has caused significant disruptions at home and school for over 8 months. He has a past diagnosis of ADHD, which improved with methylphenidate. What is the most appropriate next step in management?",
   "choices": [
-    "Cryptococcal antigen test",
-    "Bacterial culture",
-    "Fungal culture",
-    "Acid-fast bacilli smear",
-    "Repeat India ink stain"
-  ],
-  "correctAnswer": 0,
-  "explanation": "The correct answer is: Cryptococcal antigen test. Cryptococcal meningitis is common in immunocompromised hosts including diabetics. While India ink has ~50% sensitivity, and culture is ~90%, the cryptococcal antigen test has >90% sensitivity and specificity, making it the most reliable and rapid diagnostic tool. Bacterial culture is inappropriate in suspected fungal meningitis. Acid-fast smear is for tuberculosis. Fungal culture is slower and less sensitive than antigen testing."
-},
-{
-  "question": "A 72-year-old woman presents with progressive headache, fever, confusion, and seizure. She has a history of chronic sinusitis. MRI shows a ring-enhancing lesion in the right frontal lobe. CT with DWI confirms restricted diffusion. Stereotactic aspiration reveals purulent fluid. What is the most likely Gram stain finding from this specimen?",
-  "choices": [
-    "Septate hyphae",
-    "Mixed aerobic and anaerobic flora",
-    "Acid-fast bacilli",
-    "Gram-negative diplococci",
-    "Gram-positive bacilli"
+    "Initiate risperidone for behavioral control",
+    "Refer for parent management training and behavioral therapy",
+    "Add a mood stabilizer to address defiance",
+    "Discontinue ADHD medication to rule out side effects",
+    "Diagnose conduct disorder and initiate legal involvement"
   ],
   "correctAnswer": 1,
-  "explanation": "The correct answer is: Mixed aerobic and anaerobic flora. Brain abscesses caused by contiguous spread from sinus infections are typically polymicrobial, involving streptococci and anaerobes. Septate hyphae would suggest invasive fungal infections, more common in severely immunocompromised patients. Acid-fast bacilli indicate TB, which more commonly causes meningitis. Gram-negative diplococci and Gram-positive bacilli suggest meningococcal or Listeria meningitis, respectively."
+  "explanation": "The correct answer is: Refer for parent management training and behavioral therapy. The patient meets diagnostic criteria for oppositional defiant disorder (ODD), which is characterized by angry/irritable mood, argumentative/defiant behavior, and vindictiveness without the more severe features of conduct disorder (e.g., aggression, property destruction). Parent management training is first-line treatment and has strong evidence for improving behavioral outcomes. Risperidone and mood stabilizers may be used if aggression persists or comorbidities warrant, but behavioral interventions are preferred initially. ADHD medication is not contraindicated and has already shown benefit. Legal action is inappropriate for ODD."
 },
 {
-  "question": "A 63-year-old man presents with severe back pain and lower extremity weakness. He has a fever and difficulty urinating. ESR and CRP are elevated. MRI shows an epidural fluid collection compressing the spinal cord at T10. What is the most likely causative organism, and what is the best next step in management?",
+  "question": "A 15-year-old boy is referred to a juvenile court clinic after multiple arrests, including burglary, assault, and school truancy. He started skipping school before age 13 and once ran away overnight. His parents report a history of cruelty to animals and lying for personal gain. He does not show remorse. Which of the following factors most strongly predicts a poor long-term prognosis?",
   "choices": [
-    "Candida albicans; begin fluconazole",
-    "Streptococcus pneumoniae; administer IV penicillin",
-    "Pseudomonas aeruginosa; obtain serial blood cultures and wait",
-    "Staphylococcus aureus; urgent surgical drainage and empiric antibiotics",
-    "Escherichia coli; initiate ceftriaxone"
-  ],
-  "correctAnswer": 3,
-  "explanation": "The correct answer is: Staphylococcus aureus; urgent surgical drainage and empiric antibiotics. S. aureus is the most common cause of spinal epidural abscess and can lead to rapid neurologic deterioration. Immediate surgical decompression and empiric antibiotics (e.g., vancomycin and piperacillin/tazobactam) are necessary. Other options like E. coli or Pseudomonas are less common unless there’s a urinary or hospital source. Candida is rare and associated with profound immunosuppression."
-},
-{
-  "question": "A 6-year-old boy presents with progressive nausea, vomiting, and gait instability. MRI reveals a midline cerebellar mass compressing the fourth ventricle and causing hydrocephalus. Pathology shows a hypercellular tumor composed of small round blue cells with frequent mitoses and Homer Wright rosettes. Which of the following molecular features is most likely associated with a poor prognosis in this tumor?",
-  "choices": [
-    "BRAF-KIAA fusion on chromosome 7q34",
-    "Histone H3 K27M mutation",
-    "MYC amplification",
-    "NF2 gene mutation on chromosome 22q",
-    "IDH1 mutation"
+    "Lack of remorse",
+    "Exposure to community violence",
+    "Early onset of symptoms before age 10",
+    "Male gender",
+    "Low socioeconomic status"
   ],
   "correctAnswer": 2,
-  "explanation": "The correct answer is: MYC amplification. This is associated with Group 3 medulloblastomas, which carry a poor prognosis. Medulloblastoma typically arises in the midline cerebellum and shows small round blue cells with Homer Wright rosettes. BRAF-KIAA fusion is seen in pilocytic astrocytoma. H3 K27M mutation is a marker for diffuse midline glioma. NF2 mutations are seen in ependymoma and schwannoma. IDH1 mutations are typical of adult gliomas, not pediatric tumors."
+  "explanation": "The correct answer is: Early onset of symptoms before age 10. Conduct disorder with childhood-onset type is associated with a worse prognosis, including a higher risk for persistent antisocial behavior, adult criminality, and development of antisocial personality disorder. Although all the other listed factors contribute to risk, the age of onset is the strongest single predictor of long-term outcome. Lack of remorse is a specifier for 'limited prosocial emotions' but does not independently predict prognosis as robustly as early onset."
 },
 {
-  "question": "A 9-year-old girl with Neurofibromatosis type 1 presents with seizures. MRI reveals a cortical mass in the temporal lobe. Biopsy shows a circumscribed tumor with large binucleate ganglion cells and scattered astrocytes. What molecular alteration most likely explains the pathogenesis of this tumor?",
+  "question": "A 13-year-old girl is brought in for uncontrollable episodes of shoplifting. She reports feeling intense tension before the act and a sense of relief afterward. The stolen items are not needed or used. She expresses shame and confusion, stating she cannot resist the urge. She has a history of bulimia nervosa and depression. What is the most likely neurobiological mechanism underlying her condition?",
   "choices": [
-    "Activation of mTOR via TSC1 mutation",
-    "BRAF fusion leading to MAPK activation",
-    "p53 loss via germline mutation",
-    "IDH1 R132H mutation",
-    "Deletion of 1p/19q chromosomal arms"
+    "Reduced dopaminergic tone in the nucleus accumbens",
+    "Hyperactivity of the prefrontal cortex leading to compulsivity",
+    "Frontal lobe disinhibition and impaired impulse regulation",
+    "Hypoactivation of the amygdala during risk-taking behavior",
+    "Serotonergic excess in the orbitofrontal cortex"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Frontal lobe disinhibition and impaired impulse regulation. Kleptomania is associated with impaired executive functioning and frontal lobe dysregulation, particularly in circuits that govern inhibition and impulse control. Neuroimaging studies suggest abnormalities in white matter tracts and impaired frontostriatal connectivity. Dopaminergic or serotonergic theories apply more to addiction and mood disorders. Amygdala hypoactivation is linked to risk-blindness, but not specific to impulse-control disorders like kleptomania."
+},
+{
+  "question": "A 9-year-old boy is brought in by his parents due to concerns about his school performance. His teacher reports he frequently forgets to turn in homework, loses his supplies, and often appears distracted in class. Despite having average intelligence, he struggles to follow multi-step instructions. He becomes easily frustrated when working on tasks that require sustained mental effort. His developmental milestones were normal. Which neurotransmitter system dysfunction most likely contributes to his core symptoms?",
+  "choices": [
+    "GABAergic hypoactivity in the amygdala",
+    "Dopamine and norepinephrine hypoactivity in the fronto-striatal circuits",
+    "Increased serotonin turnover in the hippocampus",
+    "Acetylcholine hyperactivity in the reticular activating system",
+    "Elevated glutamate transmission in the cerebellum"
   ],
   "correctAnswer": 1,
-  "explanation": "The correct answer is: BRAF fusion leading to MAPK activation. Gangliogliomas are grade 1 neuronal tumors that often occur in the temporal lobe and present with seizures. They are frequently associated with BRAF mutations/fusions activating the MAPK pathway. TSC1 mutations are linked to tuberous sclerosis, not NF1. p53 loss is associated with high-grade tumors like medulloblastoma or glioblastoma. IDH1 mutations are typical in adult gliomas. 1p/19q co-deletion defines oligodendrogliomas, not gangliogliomas."
+  "explanation": "The correct answer is: Dopamine and norepinephrine hypoactivity in the fronto-striatal circuits. ADHD is associated with reduced dopaminergic and noradrenergic tone in circuits connecting the frontal cortex and subcortical areas such as the striatum and limbic system. This contributes to deficits in attention regulation, working memory, and executive function. GABAergic dysfunction is more related to anxiety. Serotonin and glutamate dysregulation are implicated in mood and neurodegenerative disorders, respectively. Acetylcholine has a role in arousal but is not a central mechanism in ADHD pathogenesis."
 },
 {
-  "question": "A 4-year-old boy presents with headache, vomiting, and ataxia. MRI shows a posterior fossa mass extending into the fourth ventricle. Surgical pathology demonstrates a tumor with perivascular pseudorosettes and GFAP positivity. Which of the following factors would be most predictive of poor outcome in this patient?",
+  "question": "A 25-year-old man with a childhood diagnosis of ADHD presents for follow-up. He reports persistent distractibility, difficulty completing work tasks, and frequent speeding tickets. He denies hallucinations or mood swings. Physical exam and labs are unremarkable. He is currently on methylphenidate. Which of the following side effects is most important to monitor during continued treatment?",
   "choices": [
-    "Presence of eosinophilic granular bodies",
-    "Biphasic histologic pattern",
-    "Age less than 6 years",
-    "Homer Wright rosettes on histology",
-    "Loss of 1p/19q chromosomal regions"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Age less than 6 years. This presentation is classic for ependymoma, which commonly arises in the posterior fossa in children. Poor prognostic indicators include younger age, posterior fossa location, incomplete resection, and certain molecular subtypes like type A or ZFTA-fusion. Eosinophilic granular bodies and biphasic pattern are seen in pilocytic astrocytoma. Homer Wright rosettes are associated with medulloblastoma. 1p/19q co-deletion is a favorable marker for oligodendrogliomas."
-},
-{
-  "question": "A 68-year-old man presents with new-onset seizures and right-sided weakness. MRI shows a ring-enhancing lesion crossing the corpus callosum. Surgical resection reveals pseudopalisading necrosis and microvascular proliferation. Molecular studies are negative for IDH mutation and H3 K27M. Which additional finding best supports the diagnosis and has therapeutic implications?",
-  "choices": [
-    "ATRX gene loss on immunohistochemistry",
-    "1p/19q codeletion",
-    "MGMT promoter methylation",
-    "BRAF V600E mutation",
-    "Histone H3 K27M mutation"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: MGMT promoter methylation. This patient has a glioblastoma, IDH-wildtype, which presents as a ring-enhancing, infiltrative lesion with histologic features like pseudopalisading necrosis and microvascular proliferation. MGMT (O6-methylguanine-DNA methyltransferase) promoter methylation is a favorable prognostic biomarker that predicts better response to alkylating agents like temozolomide. ATRX loss and 1p/19q codeletion are features of lower-grade IDH-mutant gliomas. BRAF mutation is more typical in pediatric or low-grade gliomas. H3 K27M mutation is associated with diffuse midline glioma, primarily in children."
-},
-{
-  "question": "A 42-year-old woman with a history of low-grade oligodendroglioma presents with worsening headaches and visual changes. MRI shows an enlarging mass in the left frontal lobe. Biopsy shows mitotic figures and microvascular proliferation. What additional molecular finding confirms the diagnosis and guides therapy?",
-  "choices": [
-    "H3 K27M mutation",
-    "BRAF-KIAA fusion",
-    "IDH1 mutation with 1p/19q codeletion",
-    "Loss of CDKN2A/B",
-    "TERT promoter mutation"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: IDH1 mutation with 1p/19q codeletion. These are defining molecular features of oligodendroglioma, required for diagnosis per WHO 2021 criteria. The presence of mitoses and microvascular proliferation indicates progression to a higher grade (grade 3). This tumor responds best to combined therapy (PCV + radiation). H3 K27M is linked to midline gliomas. BRAF-KIAA fusion is seen in pilocytic astrocytomas. CDKN2A/B loss is a poor prognostic feature in high-grade astrocytomas. TERT promoter mutations can be seen in glioblastoma but are not defining for oligodendroglioma."
-},
-{
-  "question": "A 35-year-old woman presents with a headache and a seizure. MRI reveals a well-circumscribed, dural-based mass with a dural tail sign. Histology shows meningothelial whorls and psammoma bodies. Which of the following findings, if present, would most strongly predict an aggressive clinical course and high recurrence risk?",
-  "choices": [
-    "Brain invasion on histology",
-    "NF2 gene deletion",
-    "Presence of psammoma bodies",
-    "CD20 positivity on immunostaining",
-    "Female sex"
-  ],
-  "correctAnswer": 0,
-  "explanation": "The correct answer is: Brain invasion on histology. Meningiomas are usually benign (grade I), but histologic evidence of brain invasion upgrades the tumor and is associated with increased recurrence risk and worse prognosis. NF2 deletion (22q) is common but not prognostic by itself. Psammoma bodies are common in grade I meningiomas and not indicative of aggressive behavior. CD20 positivity suggests lymphoma, not meningioma. Female sex is associated with increased incidence but not worse prognosis."
-},
-{
-  "question": "A 58-year-old man presents with headaches and altered mental status. MRI shows a large, heterogeneously enhancing mass in the right cerebral hemisphere with central necrosis and surrounding vasogenic edema. The lesion crosses the corpus callosum. Which histopathologic and molecular finding would most strongly correlate with this tumor’s aggressive behavior and poor prognosis?",
-  "choices": [
-    "Presence of Rosenthal fibers and eosinophilic granular bodies",
-    "Perivascular pseudorosettes and 1p/19q codeletion",
-    "Pseudopalisading necrosis and IDH-wild type status",
-    "Small round blue cells with Homer Wright rosettes and BRAF mutation",
-    "Calcification and slow-growing cortical mass with CD34 positivity"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Pseudopalisading necrosis and IDH-wild type status. The imaging and clinical presentation are consistent with glioblastoma multiforme (GBM), particularly given the butterfly pattern crossing the corpus callosum, central necrosis, and heterogeneous contrast enhancement. GBM is the most aggressive primary brain tumor in adults and typically features pseudopalisading necrosis and microvascular proliferation. IDH-wild type status is associated with primary (de novo) GBM and portends a poorer prognosis. Rosenthal fibers and eosinophilic granular bodies are found in pilocytic astrocytomas. Perivascular pseudorosettes are characteristic of ependymomas. Small round blue cells with Homer Wright rosettes are seen in medulloblastoma. CD34 positivity with cortical calcifications suggests a slow-growing tumor like a ganglioglioma or DNET."
-},
-{
-  "question": "A 35-year-old woman presents with chronic seizures. MRI reveals a well-circumscribed, partially calcified lesion in the right temporal lobe. It is isointense on T1 and hyperintense on T2, with variable enhancement and cortical remodeling. Histology reveals mature neurons in a mixed glioneuronal stroma. Which genetic syndrome is most commonly associated with this tumor, and what other CNS lesion is characteristic of this syndrome?",
-  "choices": [
-    "Tuberous sclerosis; subependymal giant cell astrocytoma",
-    "Neurofibromatosis type 2; bilateral vestibular schwannomas",
-    "Neurofibromatosis type 1; optic pathway glioma",
-    "Von Hippel-Lindau disease; cerebellar hemangioblastoma",
-    "Li-Fraumeni syndrome; multifocal glioblastomas"
-  ],
-  "correctAnswer": 0,
-  "explanation": "The correct answer is: Tuberous sclerosis; subependymal giant cell astrocytoma. The described lesion is consistent with a ganglioglioma, a benign mixed glioneuronal tumor often seen in the temporal lobe in young patients with epilepsy. Tuberous sclerosis complex (TSC) is commonly associated with cortical tubers, subependymal nodules, and subependymal giant cell astrocytomas (SEGA), typically arising near the foramen of Monro. NF2 is associated with bilateral vestibular schwannomas and other intracranial tumors, while NF1 features optic pathway gliomas. VHL includes hemangioblastomas of the cerebellum and retina. Li-Fraumeni involves a variety of malignancies, including gliomas, but is not classically associated with ganglioglioma."
-},
-{
-  "question": "A 47-year-old woman with headaches undergoes MRI which reveals a dural-based, homogeneously enhancing extra-axial mass with a dural tail. The lesion is isointense to cortex on T1 and T2, and causes buckling of adjacent gray matter. Which of the following findings would most strongly support this diagnosis and has prognostic relevance?",
-  "choices": [
-    "S-100 protein positivity",
-    "CD20 surface marker expression",
-    "Loss of INI1 nuclear staining",
-    "Progesterone receptor positivity",
-    "EGFR amplification"
-  ],
-  "correctAnswer": 3,
-  "explanation": "The correct answer is: Progesterone receptor positivity. The imaging findings are characteristic of meningioma, an extra-axial tumor arising from arachnoid cap cells. These tumors are typically isointense to cortex on both T1 and T2, enhance vividly with gadolinium, and often display a 'dural tail' sign. Progesterone receptor positivity is common in meningiomas (seen in ~70%) and is associated with better prognosis and slower growth, especially in women. S-100 is seen in schwannomas, not meningiomas. CD20 is a B-cell marker relevant in CNS lymphomas. INI1 loss is associated with atypical teratoid/rhabdoid tumors. EGFR amplification is common in glioblastomas and implies a more aggressive behavior."
-},
-{
-  "question": "A three-year-old boy is brought to the Emergency Department because of fever, headache, and a stiff neck for 24 hours. On exam, he is alert and oriented. He has a macular rash on his torso. His Kernig and Brudzinski signs are positive. His CSF shows a lymphocytic pleocytosis, elevated protein, normal glucose, and negative bacterial cultures. The most likely cause of this syndrome is which of the following?",
-  "choices": [
-    "Enterovirus",
-    "HSV-1",
-    "LCM virus",
-    "VZV",
-    "West Nile virus"
-  ],
-  "correctAnswer": 0,
-  "explanation": "The correct answer is: Enterovirus. Enteroviruses, especially echovirus and coxsackievirus, are the most common cause of viral (aseptic) meningitis in children. The classic CSF profile includes lymphocytic predominance, elevated protein, and normal glucose. A maculopapular rash and preserved mental status also favor a viral etiology. HSV-1 typically causes encephalitis with altered mental status and focal neurologic findings. HSV-2 is more associated with recurrent meningitis in adults. LCM virus is rare and often associated with rodent exposure. West Nile virus more commonly affects older adults and causes encephalitis."
-},
-{
-  "question": "The most common arboviral encephalitis in the U.S. is which of the following?",
-  "choices": [
-    "Jamestown Canyon virus",
-    "Powassan virus",
-    "St. Louis Encephalitis virus",
-    "Western Equine Encephalitis virus",
-    "West Nile virus"
-  ],
-  "correctAnswer": 4,
-  "explanation": "The correct answer is: West Nile virus. West Nile virus is the most common cause of arboviral encephalitis in the U.S. It is transmitted by Culex mosquitoes, often presents with fever and altered mental status, and can lead to flaccid paralysis or meningoencephalitis, particularly in the elderly. Other arboviruses listed here are much less common, although they may cause similar syndromes regionally."
-},
-{
-  "question": "A 65-year-old man comes to a physician with low-grade fever, headache, and a stiff neck for three days. On physical exam, he is alert and oriented with nuchal rigidity and a positive Kernig and Brudzinski sign. CSF shows a lymphocytic pleocytosis, a mildly elevated protein, normal glucose, and negative bacterial cultures. He has had an identical clinical syndrome on two previous occasions in the past four years. The most likely cause of his symptoms is which of the following?",
-  "choices": [
-    "Coxsackie A virus",
-    "Echo virus",
-    "HSV-1",
-    "HSV-2",
-    "VZV"
-  ],
-  "correctAnswer": 3,
-  "explanation": "The correct answer is: HSV-2. HSV-2 is the most common cause of recurrent (benign) lymphocytic meningitis, also known as Mollaret meningitis. It typically presents with recurrent episodes of self-limited aseptic meningitis without long-term sequelae. CSF usually shows lymphocytic pleocytosis, normal glucose, and mildly elevated protein. HSV-1 is more commonly associated with encephalitis. Enteroviruses cause meningitis but are typically not recurrent in this age group."
-},
-{
-  "question": "An 18-year-old college freshman is brought to the hospital because of fever, severe headache, and mental confusion. On exam, she is delirious and has a stiff neck. Her cerebrospinal fluid (CSF) shows 500 cells, 90% of which are neutrophils. CSF glucose is 10 mg/dL. The Gram stain is unhelpful. Which of the following organisms is most likely in her age group?",
-  "choices": [
-    "Haemophilus influenzae",
-    "Listeria monocytogenes",
-    "Neisseria meningitidis",
-    "Streptococcus agalactiae",
-    "Streptococcus pneumoniae"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Neisseria meningitidis. This is a classic case of acute bacterial meningitis in a young adult with neutrophilic CSF pleocytosis, low glucose, and elevated protein. Neisseria meningitidis is the most common cause of bacterial meningitis in adolescents and young adults, especially in group living environments such as college dormitories. The organism may not be seen on Gram stain due to prior antibiotics or technical limitations. It is a Gram-negative diplococcus, though other organisms can also present similarly depending on age and risk factors."
-},
-{
-  "question": "A 60-year-old man is brought to the hospital with fever and altered mental status for 24 hours. He had received azithromycin earlier in the week for fever and myalgia. On exam he is febrile (103°F) and confused and has a stiff neck. Kernig’s sign is present. A tentative diagnosis of bacterial meningitis is made. If this diagnosis is correct, which of the following CSF tests will be most affected by previous antibiotic therapy?",
-  "choices": [
-    "CSF bacterial antigen tests",
-    "Culture",
-    "Glucose",
-    "Protein",
-    "WBC count"
+    "Increased risk of hypertensive crisis",
+    "Onset of manic symptoms in bipolar disorder",
+    "Sedation and weight gain",
+    "Urinary retention and dry mouth",
+    "Hyperprolactinemia and galactorrhea"
   ],
   "correctAnswer": 1,
-  "explanation": "The correct answer is: Culture. Antibiotic administration prior to lumbar puncture can rapidly sterilize the cerebrospinal fluid, leading to false-negative culture results. While protein and glucose levels, as well as white blood cell counts, may change more slowly and are less sensitive to early antibiotic therapy, bacterial cultures are significantly impacted. Antigen testing may still detect bacterial components even if the bacteria are dead, but culture requires live organisms."
+  "explanation": "The correct answer is: Onset of manic symptoms in bipolar disorder. Stimulants such as methylphenidate can precipitate manic episodes in individuals with undiagnosed or poorly managed bipolar disorder. This makes it essential to screen for mood instability prior to initiating or continuing stimulant therapy. Hypertensive crisis is a concern with MAOIs, not methylphenidate. Sedation is more typical of non-stimulant agents like clonidine. Anticholinergic effects such as dry mouth are not prominent with stimulants. Hyperprolactinemia is associated with antipsychotics, not ADHD medications."
 },
 {
-  "question": "An 80-year-old woman is brought to the emergency room because of fever and altered mental status. Physical exam shows a temperature of 39°C, confusion, and Brudzinski’s sign. CSF shows 850 WBCs, 90% of which are neutrophils. CSF protein is markedly elevated and glucose is low. On a probability basis, the Gram stain of the CSF will most likely show which of the following?",
+  "question": "A 12-year-old girl is diagnosed with combined-type ADHD. Her parents prefer a non-stimulant medication due to a family history of substance use disorder. She is started on atomoxetine. Which of the following is the primary mechanism of action of this medication?",
   "choices": [
-    "Gram-negative coccobacilli",
-    "Gram-negative diplococci",
-    "Gram-positive bacilli",
-    "Gram-positive cocci in clusters",
-    "Gram-positive diplococci"
+    "Dopamine D2 receptor partial agonist",
+    "Selective norepinephrine reuptake inhibition",
+    "GABA-A receptor agonism",
+    "NMDA receptor antagonism",
+    "Alpha-1 adrenergic receptor blockade"
   ],
-  "correctAnswer": 4,
-  "explanation": "The correct answer is: Gram-positive diplococci. The most common cause of bacterial meningitis in elderly patients is Streptococcus pneumoniae, which appears as Gram-positive lancet-shaped diplococci on Gram stain. Neutrophilic CSF pleocytosis, elevated protein, and decreased glucose are classic findings in bacterial meningitis. While other pathogens such as Listeria (Gram-positive rods) are also possible in this age group, the most likely organism by probability and presentation is S. pneumoniae."
+  "correctAnswer": 1,
+  "explanation": "The correct answer is: Selective norepinephrine reuptake inhibition. Atomoxetine is a non-stimulant approved for ADHD that works by selectively inhibiting the reuptake of norepinephrine, thereby increasing its availability in the prefrontal cortex. This enhances attention and reduces impulsivity. D2 receptor modulation is the mechanism of antipsychotics. GABA-A receptor agonism is typical of benzodiazepines. NMDA antagonism is a mechanism for certain anesthetics and agents like memantine. Alpha-1 blockade is associated with hypotension and is not central to atomoxetine’s effect."
 },
 {
-  "question": "An 11-year-old boy developed acute meningitis 24 hours after scuba diving in a lake. A bacterial cause was excluded. Physicians caring for the boy should perform a wet mount of CSF looking for which of the following?",
+  "question": "A 10-year-old boy is diagnosed with ADHD and started on methylphenidate. After several weeks, he develops insomnia and reduced appetite. His physician considers switching to a different stimulant. Compared to methylphenidate, which of the following best describes a mechanistic distinction of amphetamine that may underlie both therapeutic effects and side effects?",
   "choices": [
-    "Acanthamoeba polyphaga",
-    "Angiostrongylus cantonensis",
-    "Ascaris lumbricoides",
-    "Strongyloides stercoralis",
-    "Trichinella spiralis"
+    "Selective inhibition of serotonin transporter",
+    "Direct agonism at dopamine D2 receptors",
+    "Increased dopamine vesicular release via VMAT inhibition",
+    "Selective inhibition of alpha-2 adrenergic receptors",
+    "Enhanced dopamine metabolism by monoamine oxidase"
   ],
-  "correctAnswer": 0,
-  "explanation": "The correct answer is: Acanthamoeba polyphaga. This organism is a free-living amoeba found in warm freshwater environments and is associated with granulomatous amoebic encephalitis. However, for acute meningoencephalitis following exposure to freshwater, especially with rapid onset after water activities like scuba diving, the most likely culprit is a free-living amoeba such as Acanthamoeba or Naegleria fowleri. These organisms invade the CNS through the cribriform plate. The other parasites listed typically cause subacute or chronic meningoencephalitis, eosinophilic meningitis, or systemic parasitic syndromes, not rapid-onset primary amoebic meningoencephalitis."
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Increased dopamine vesicular release via VMAT inhibition. Amphetamines not only block the dopamine transporter (DAT), but also impair vesicular monoamine transporter (VMAT) function, leading to increased cytoplasmic dopamine and reverse transport of dopamine into the synaptic cleft. This results in higher synaptic dopamine levels than with methylphenidate, which primarily inhibits DAT. Serotonin transporter inhibition is characteristic of SSRIs and MDMA. D2 receptor agonism is unrelated to stimulant action. Alpha-2 receptor blockade would increase sympathetic tone, but amphetamines do not act via this mechanism. Enhancing dopamine metabolism would reduce dopaminergic activity, opposite to the effect of amphetamines."
 },
 {
-  "question": "A 3-week-old boy is brought to the pediatrician because of fever and poor feeding. On exam, the child is lethargic with a temperature of 101.8°F. The sclerae are slightly icteric. Kernig’s and Brudzinski’s signs are absent. Which of the following tests should be done next?",
+  "question": "A 27-year-old woman with a history of ADHD reports using intranasal cocaine recreationally. She describes intense euphoria, elevated confidence, and increased motor activity. Which of the following best explains the heightened addictive potential of intranasal versus oral administration of stimulants?",
   "choices": [
-    "Abdominal ultrasound",
-    "Head CT scan",
-    "Liver enzymes",
-    "Lumbar puncture",
-    "Urinalysis and urine culture"
-  ],
-  "correctAnswer": 3,
-  "explanation": "The correct answer is: Lumbar puncture. Neonates with fever and nonspecific signs such as poor feeding and lethargy require immediate evaluation for serious bacterial infections, including meningitis. Physical exam signs like Kernig's and Brudzinski's are often absent or unreliable in this age group. A lumbar puncture is essential to evaluate for central nervous system infection, as neonatal meningitis can progress rapidly. Abdominal ultrasound and liver enzymes might be considered in other contexts (e.g., if biliary atresia or hepatic dysfunction is suspected), but the priority here is ruling out meningitis."
-},
-{
-  "question": "A 76-year-old woman is brought to the emergency room because of fever and confusion. Physical exam shows a temperature of 40ºC, disorientation, and positive Kernig’s sign. CSF shows 550 WBCs, 90% of which are neutrophils. CSF protein is 200 mg/dL and glucose is 20 mg/dL. On a probability basis, the CSF will most likely grow which of the following?",
-  "choices": [
-    "Escherichia coli",
-    "Haemophilus influenzae",
-    "Listeria monocytogenes",
-    "Streptococcus agalactiae",
-    "Streptococcus pneumoniae"
-  ],
-  "correctAnswer": 4,
-  "explanation": "The correct answer is: Streptococcus pneumoniae. Elderly patients are at high risk for pneumococcal meningitis, which presents with neutrophilic pleocytosis, very high protein, and low glucose in CSF. S. pneumoniae is a Gram-positive lancet-shaped diplococcus and is the most common cause of bacterial meningitis in older adults. E. coli and GBS are common in neonates, H. influenzae is more common in unvaccinated children, and Listeria is also seen in the elderly but less common than pneumococcus."
-},
-{
-  "question": "A 25-year-old Hispanic pregnant woman is brought to a physician because of fever, headache, mild confusion, and vertigo for 24 hours. On exam her temperature is 39°C and her neck is stiff. Nystagmus is present on extraocular muscle testing. Cerebrospinal fluid (CSF) is slightly cloudy with a WBC count of 380/mm³ (70% neutrophils and 30% mononuclear cells). Gram’s stain of CSF shows rare, slender, Gram-positive bacilli. Which of the following is the likely source of this infection?",
-  "choices": [
-    "Contaminated food",
-    "Contaminated water",
-    "Pet cat",
-    "Sick co-worker",
-    "Sexual intercourse with her husband"
-  ],
-  "correctAnswer": 0,
-  "explanation": "The correct answer is: Contaminated food. The description is classic for Listeria monocytogenes, a facultative intracellular Gram-positive rod that causes meningitis, particularly in neonates, elderly, and immunocompromised individuals—including pregnant women. It is transmitted through ingestion of contaminated food such as soft cheeses, deli meats, and unpasteurized milk. It can cross the placental barrier and lead to fetal complications. Cats are associated with Toxoplasma, and the other options are not relevant for Listeria."
-},
-{
-  "question": "A 22-year-old man who underwent a craniotomy as part of his treatment for a skull fracture complicated by an epidural hematoma developed meningitis post-operatively. Assuming the Gram’s stain of CSF is unhelpful, empiric treatment for which of the following organisms is appropriate?",
-  "choices": [
-    "Anaerobes",
-    "Candida albicans",
-    "Neisseria meningitidis",
-    "Staphylococcus aureus",
-    "Streptococcus pneumoniae"
+    "Lower plasma protein binding increases drug availability",
+    "Slower first-pass metabolism allows for prolonged duration",
+    "Higher bioavailability due to absence of hepatic degradation",
+    "More rapid delivery to the brain enhances dopaminergic surge",
+    "Increased interaction with alpha-1 adrenergic receptors in the brain"
   ],
   "correctAnswer": 3,
-  "explanation": "The correct answer is: Staphylococcus aureus. Post-neurosurgical meningitis or meningitis after head trauma is commonly caused by skin flora introduced during surgery or injury. S. aureus, including MRSA strains, is a common cause in these settings. Anaerobes are rare in CSF infections, Candida is unlikely without immunosuppression or long hospitalization, N. meningitidis is more typical in young healthy populations, and pneumococcus is common but not the most likely post-op."
+  "explanation": "The correct answer is: More rapid delivery to the brain enhances dopaminergic surge. The route of administration strongly influences the addictive potential of stimulants. Intranasal or intravenous administration allows for rapid crossing of the blood-brain barrier, resulting in a sharp increase in synaptic dopamine within the nucleus accumbens—key to reinforcing drug-seeking behavior. Oral administration leads to slower CNS penetration, reducing euphoric effects. While hepatic metabolism and receptor binding affect drug duration and potency, the speed of dopamine elevation in mesolimbic structures is the primary factor behind addictive potential."
 },
- {
-    "question": "A 55-year-old renal transplant recipient comes to a physician because of fever and headache for two weeks. On exam he is mildly lethargic and febrile (100.8°F) with a slightly stiff neck and a cranial nerve VI palsy. Mycobacterium tuberculosis is suspected to be causative of the patient’s meningitis. This diagnosis would be a reasonable possibility if his CSF examination showed increased opening pressure, low glucose, elevated protein, and a differential WBC count of which of the following?",
+{
+  "question": "A 7-year-old boy with ADHD is being treated with guanfacine. His parents are concerned about drowsiness and reduced alertness during school. Which of the following mechanisms best explains the therapeutic benefit of guanfacine in ADHD despite its sedative profile?",
+  "choices": [
+    "Activation of alpha-2A receptors in the prefrontal cortex enhances executive function",
+    "Inhibition of norepinephrine reuptake leads to increased arousal",
+    "Blocking of alpha-1 receptors improves blood flow to the cortex",
+    "Stimulation of dopaminergic neurons in the ventral tegmental area increases reward sensitivity",
+    "Blockade of serotonin receptors reduces impulsivity"
+  ],
+  "correctAnswer": 0,
+  "explanation": "The correct answer is: Activation of alpha-2A receptors in the prefrontal cortex enhances executive function. Guanfacine is a selective alpha-2A adrenergic receptor agonist. It enhances signal transmission in the prefrontal cortex by reducing tonic noradrenergic noise, which improves attention and working memory in patients with ADHD. Despite its sedative properties, this targeted action supports cognitive control. Norepinephrine reuptake inhibition describes atomoxetine. Alpha-1 blockade does not enhance prefrontal function. Dopamine activation is more associated with stimulants. Serotonin receptor blockade is not the mechanism for guanfacine’s effect."
+},
+{
+  "question": "A 16-year-old girl presents with obsessive thoughts about being contaminated and performs hand-washing rituals for several hours each day. She is aware these thoughts are irrational but cannot suppress the urge. She is started on high-dose fluoxetine. After 12 weeks, she shows partial improvement. The psychiatrist decides to augment pharmacotherapy. Which of the following is the most appropriate agent to add in this case?",
+  "choices": [
+    "Clonazepam",
+    "Quetiapine",
+    "Risperidone",
+    "Haloperidol",
+    "Lithium"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Risperidone. In patients with OCD who do not fully respond to SSRIs, augmentation with low-dose atypical antipsychotics like risperidone has shown benefit, especially when there are comorbid tics or treatment-resistant symptoms. Clonazepam is not a first-line augmentation strategy due to tolerance and dependency risks. Quetiapine is sometimes used off-label but with less evidence than risperidone. Haloperidol is less preferred due to extrapyramidal side effects. Lithium is used for mood stabilization but not for OCD augmentation."
+},
+{
+  "question": "A 21-year-old woman presents with a long-standing pattern of perfectionism and rigidity. She insists on organizing every aspect of her environment and often redoes her roommate’s chores to meet her standards. She denies distress and believes her behaviors are beneficial. She has no intrusive thoughts or rituals. Which feature best distinguishes her condition from obsessive-compulsive disorder (OCD)?",
+  "choices": [
+    "Presence of comorbid anxiety",
+    "Repetitive behaviors such as counting or checking",
+    "Ego-dystonic nature of intrusive thoughts",
+    "History of childhood tics",
+    "Female predominance"
+  ],
+  "correctAnswer": 2,
+  "explanation": "The correct answer is: Ego-dystonic nature of intrusive thoughts. OCD is characterized by ego-dystonic thoughts—intrusive and distressing ideas that are inconsistent with the patient's self-image. In contrast, obsessive-compulsive personality disorder (OCPD) involves ego-syntonic traits, meaning the behaviors align with the individual's values and self-perception. This woman’s behaviors reflect personality structure rather than distress-driven compulsions. Comorbid anxiety and gender are nonspecific. Childhood tics are more associated with OCD."
+},
+{
+  "question": "A 14-year-old boy presents with repeated hair-pulling resulting in noticeable bald patches. He reports that pulling relieves internal tension. His physical exam is otherwise unremarkable. Which of the following diagnostic assessments is most important to consider in this patient?",
+  "choices": [
+    "Serum ferritin and iron panel",
+    "EEG to rule out focal seizures",
+    "Yale-Brown Obsessive Compulsive Scale (Y-BOCS)",
+    "Abdominal imaging for trichobezoar",
+    "Genetic testing for Prader-Willi syndrome"
+  ],
+  "correctAnswer": 3,
+  "explanation": "The correct answer is: Abdominal imaging for trichobezoar. Trichotillomania can lead to trichophagia (swallowing hair), which may result in the formation of a trichobezoar—a mass of hair in the gastrointestinal tract that can cause obstruction and require surgical intervention. Although iron deficiency may co-exist, it’s not diagnostic. EEG and genetic testing are unnecessary unless other features are present. Y-BOCS is used in OCD but not specifically for trichotillomania."
+},
+  {
+    "question": "A 29-year-old woman presents with symptoms of low mood, hypersomnia, hyperphagia, and feelings of heaviness in her limbs for the past 3 weeks. She also reports temporary mood improvement when her friends visit or when she watches her favorite shows. She has a history of poor response to SSRIs in the past and is currently not on any medication. Which of the following treatment options would be most appropriate to consider next?",
     "choices": [
-      "95% neutrophils",
-      "85% mononuclear cells",
-      "5% eosinophils",
-      "5% mononuclear cells"
+      "Start bupropion",
+      "Add lithium",
+      "Begin monoamine oxidase inhibitor therapy",
+      "Start SNRI like venlafaxine",
+      "Refer for electroconvulsive therapy"
     ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is: 85% mononuclear cells. Tuberculous meningitis typically presents with subacute or chronic symptoms, including headache, fever, and cranial neuropathies. The hallmark CSF findings include lymphocytic (mononuclear) pleocytosis, elevated protein, decreased glucose, and increased opening pressure. Neutrophilic predominance (choice A) is more characteristic of acute bacterial meningitis. Eosinophils (choice C) are not typically associated with TB meningitis, and a WBC differential showing only 5% mononuclear cells (choice D) would be too low to be consistent with TB."
+    "correctAnswer": 2,
+    "explanation": "This patient presents with major depressive disorder with atypical features, characterized by mood reactivity, hypersomnia, hyperphagia, leaden paralysis, and sensitivity to interpersonal rejection. While SSRIs are typically first-line, MAOIs have been shown to be especially efficacious for atypical depression and are often considered after SSRIs fail. Bupropion is not ideal here due to its activating profile (opposite of what’s needed for hypersomnia), and lithium is more for augmentation or mood stabilization in bipolar disorder. SNRIs are not specifically more effective than SSRIs for atypical features, and ECT is generally reserved for severe or treatment-resistant cases, often with psychotic features or suicidality."
   },
   {
-    "question": "A 47-year-old man with chronic frontal sinusitis develops a brain abscess in the right frontal lobe. A Gram stain of drainage from the abscess would most likely show which of the following?",
+    "question": "A 33-year-old woman is 3 weeks postpartum and presents with depressed mood, difficulty bonding with her newborn, hypersomnia, and feelings of worthlessness. She denies hallucinations or delusions. She reports that a similar episode occurred after the birth of her first child. What is the most likely neurobiological factor contributing to her condition?",
     "choices": [
-      "Gram-negative coccobacilli",
-      "Gram-negative rods",
-      "Gram-positive diplococci",
-      "Mixed microbial flora",
-      "Septate hyphae"
+      "Elevated dopamine synthesis in the prefrontal cortex",
+      "Increased cortisol from HPA axis overactivation",
+      "Acute withdrawal of allopregnanolone post-delivery",
+      "Serotonin receptor downregulation due to prior SSRI use",
+      "Low norepinephrine turnover in the locus coeruleus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The most likely explanation is an acute withdrawal of allopregnanolone, a neuroactive steroid and metabolite of progesterone that modulates GABA-A receptors. Levels of allopregnanolone are high during pregnancy and drop rapidly postpartum, which is thought to contribute to peripartum depression. This distinguishes peripartum MDD from other types, especially given her prior history of similar symptoms. HPA axis dysfunction and low monoamines are general MDD pathophysiology, but not specific to peripartum onset."
+  },
+  {
+    "question": "A 62-year-old man with a history of treatment-resistant major depressive disorder presents to clinic with worsening symptoms despite trials of multiple SSRIs, SNRIs, and bupropion. He denies suicidal ideation but expresses profound anhedonia and impaired functioning. His current medication regimen includes sertraline 200 mg daily. What is the next best step in management?",
+    "choices": [
+      "Discontinue sertraline and initiate tricyclic antidepressant therapy",
+      "Add a second-generation antipsychotic for augmentation",
+      "Refer for psychotherapy and discontinue pharmacologic therapy",
+      "Begin a 14-day washout and start a monoamine oxidase inhibitor",
+      "Add lithium and discontinue current antidepressant"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This patient meets the criteria for treatment-resistant depression (TRD), defined as failure of at least 2 adequate antidepressant trials. Augmentation with a second-generation antipsychotic (e.g., aripiprazole or quetiapine) is a common and evidence-supported next step in managing TRD. TCAs and MAOIs can be considered later, but they come with higher side effect burdens and safety concerns, particularly in older adults. Lithium can be effective as an augmenting agent but typically is not first-line unless there is evidence of suicidality or bipolar spectrum."
+  },
+  {
+    "question": "A 45-year-old woman with major depressive disorder is started on an antidepressant. Two weeks later, she presents to the emergency department with agitation, tremor, hyperreflexia, and clonus. She has been taking sertraline and recently began using over-the-counter dextromethorphan for a cough. Which of the following mechanisms is most likely responsible for her current condition?",
+    "choices": [
+      "Inhibition of norepinephrine reuptake leading to hypertensive crisis",
+      "Dopamine receptor blockade causing extrapyramidal symptoms",
+      "Serotonin excess due to additive serotonergic activity",
+      "Muscarinic antagonism leading to anticholinergic delirium",
+      "Histamine receptor antagonism leading to sedation and confusion"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is: Serotonin excess due to additive serotonergic activity. This patient is experiencing serotonin syndrome, a potentially life-threatening condition caused by excess serotonergic activity in the CNS. The combination of an SSRI (sertraline) and dextromethorphan (which has serotonergic properties) can precipitate this. Symptoms include hyperthermia, clonus, hyperreflexia, agitation, and autonomic instability. Norepinephrine reuptake inhibition may lead to hypertensive symptoms, but not clonus and hyperreflexia. Dopamine blockade causes EPS, while muscarinic and histaminergic effects explain other side effects but not the syndrome seen here."
+  },
+  {
+    "question": "A 62-year-old man with treatment-resistant depression is switched from sertraline to phenelzine. He is advised to avoid certain foods and medications. One week later, he develops severe headache, nausea, and markedly elevated blood pressure after eating aged cheese at a party. Which of the following best explains the pathophysiology of his condition?",
+    "choices": [
+      "Reduced serotonin synthesis in the raphe nuclei",
+      "Tyramine-induced catecholamine release with inhibited breakdown",
+      "Enhanced glutamate transmission in limbic circuits",
+      "Autoimmune adrenal hyperfunction leading to cortisol excess",
+      "Acute dopamine depletion in the mesolimbic system"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is: Tyramine-induced catecholamine release with inhibited breakdown. MAOIs like phenelzine inhibit the breakdown of monoamines, including dietary tyramine. Tyramine normally is metabolized by MAO-A in the gut; when it accumulates, it displaces norepinephrine from vesicles, causing a hypertensive crisis. This is why patients are advised to avoid aged cheeses, wines, and certain meats. The syndrome is unrelated to serotonin synthesis, glutamate transmission, or autoimmune adrenal dysfunction. Dopamine depletion can cause parkinsonism but is not relevant here."
+  },
+  {
+    "question": "A 35-year-old man with depression is started on an antidepressant that inhibits the reuptake of both norepinephrine and dopamine. He reports increased energy and focus within a few days but returns later with insomnia and anxiety. He has a history of alcohol use disorder but has been sober for 6 months. Which of the following is the most likely adverse effect associated with this medication in the context of his history?",
+    "choices": [
+      "Seizure exacerbation due to dopaminergic stimulation",
+      "Hypertensive crisis due to increased norepinephrine",
+      "Anhedonia from serotonin receptor downregulation",
+      "Hyperglycemia via HPA axis activation",
+      "Bradycardia from muscarinic receptor blockade"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is: Seizure exacerbation due to dopaminergic stimulation. This patient is most likely taking bupropion, a norepinephrine-dopamine reuptake inhibitor (NDRI). While bupropion is activating and can be helpful for low-energy depression, it lowers the seizure threshold, especially in individuals with a history of eating disorders, alcohol use disorder, or brain injury. The risk is not primarily due to norepinephrine. Hypertensive crisis is not common with bupropion. Serotonin modulation is minimal with this drug. It does not significantly affect glucose or muscarinic tone."
+  },
+  {
+    "question": "A 28-year-old woman presents with a 9-month history of multiple physical complaints, including abdominal pain, headaches, and fatigue. She has undergone extensive medical evaluations including CT scans, endoscopy, and blood work, all of which were normal. She frequently visits multiple physicians and is convinced she has a serious undiagnosed illness. She becomes anxious if tests are not ordered. Which of the following diagnostic criteria must be present to confirm a diagnosis of somatic symptom disorder?",
+    "choices": [
+      "Symptoms must be unexplained by medical conditions",
+      "Evidence of intentional symptom production must be present",
+      "Symptoms must persist for more than 12 months",
+      "Excessive thoughts, feelings, or behaviors related to the symptoms",
+      "Symptoms must result in a formal diagnosis by a specialist"
     ],
     "correctAnswer": 3,
-    "explanation": "The correct answer is: Mixed microbial flora. Brain abscesses resulting from contiguous spread, such as from sinusitis or otitis media, are often polymicrobial. These infections typically involve a mixture of anaerobic and aerobic organisms, including streptococci and anaerobes like Bacteroides. Gram-negative coccobacilli (A) or rods (B) might be seen in hematogenous spread from infections such as endocarditis or lung abscesses, not commonly sinusitis. Gram-positive diplococci (C) are associated with Streptococcus pneumoniae, more commonly linked to meningitis or pneumonia. Septate hyphae (E) would suggest fungal etiology like Aspergillus, typically seen in immunocompromised hosts."
+    "explanation": "The correct answer is: Excessive thoughts, feelings, or behaviors related to the symptoms. According to DSM-5 criteria for somatic symptom disorder, the patient must have distressing somatic symptoms plus excessive thoughts, feelings, or behaviors related to those symptoms. Importantly, DSM-5 no longer requires symptoms to be medically unexplained. There is no requirement for 12-month duration (6 months suffices), nor must a specialist confirm diagnosis. Intentional production of symptoms would indicate factitious disorder or malingering, not somatic symptom disorder."
   },
-{
-  "question": "A 22-year-old prize fighter with multiple nasal fractures notes drainage of some clear, watery fluid from his nose when he bends down. The fluid tests positive for glucose. If he develops meningitis it will most likely be caused by which of the following organisms?",
-  "choices": [
-    "Haemophilus influenzae",
-    "Neisseria meningitidis",
-    "Staphylococcus aureus",
-    "Streptococcus pneumoniae",
-    "Streptococcus pyogenes"
-  ],
-  "correctAnswer": 3,
-  "explanation": "The correct answer is: Streptococcus pneumoniae. The presence of glucose-positive clear nasal discharge after head trauma suggests a CSF leak, which predisposes to meningitis. Streptococcus pneumoniae is the most common organism associated with meningitis following CSF leakage, especially due to skull fractures. Other options like H. influenzae and N. meningitidis can cause meningitis but are less commonly linked to trauma-induced CSF leaks."
-},
-{
-  "question": "A 64-year-old man with a history of poorly controlled hypertension presents with sudden-onset right-sided weakness and difficulty speaking. Non-contrast CT head reveals a hyperdense lesion in the region of the left putamen. What is the most likely underlying pathological mechanism responsible for this patient’s presentation?",
-  "choices": [
-    "Charcot-Bouchard microaneurysm rupture",
-    "Arterial lipohyalinosis of lenticulostriate vessels",
-    "Amyloid deposition in cortical vessels",
-    "Embolic occlusion of the middle cerebral artery",
-    "Rupture of an arteriovenous malformation"
-  ],
-  "correctAnswer": 1,
-  "explanation": "The correct answer is: Arterial lipohyalinosis of lenticulostriate vessels. This patient has a hypertensive intracerebral hemorrhage, most commonly involving deep structures such as the putamen. Chronic hypertension causes lipohyalinosis, leading to vessel wall weakening and rupture. Charcot-Bouchard aneurysms can also cause hemorrhage but are more associated with microaneurysms and are less commonly implicated directly in pathology. Amyloid angiopathy affects cortical vessels and is linked to Alzheimer’s. Embolic strokes cause ischemia rather than hemorrhage, and AVMs are rare in this age group without prior symptoms."
-},
-{
-  "question": "A 58-year-old man with type 2 diabetes mellitus presents with subacute onset of severe left thigh pain followed by weakness and atrophy in the proximal left lower extremity. On exam, he has decreased patellar reflexes on the left. There is no sensory loss in a dermatomal pattern. What is the most likely diagnosis?",
-  "choices": [
-    "Diabetic peripheral polyneuropathy",
-    "Diabetic mononeuritis multiplex",
-    "Diabetic amyotrophy",
-    "Femoral nerve compression",
-    "Cauda equina syndrome"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Diabetic amyotrophy. Also known as lumbosacral radiculoplexus neuropathy, this condition presents in older patients with type 2 diabetes and features asymmetric, proximal pain and weakness, often preceded by severe pain. It is typically monophasic and partially self-limiting. Polyneuropathy is symmetric and distal, while mononeuritis multiplex involves multiple isolated nerves. Femoral nerve compression does not cause the same progressive pattern or intense initial pain. Cauda equina syndrome presents with bowel/bladder involvement and saddle anesthesia, which are absent here."
-},
-{
-  "question": "A 27-year-old obese woman presents with daily headaches, pulsatile tinnitus, and transient visual obscurations. Ophthalmoscopic exam reveals bilateral papilledema. MRI of the brain is unremarkable. Lumbar puncture shows opening pressure of 32 cm H₂O with normal composition. What is the most appropriate first-line pharmacologic treatment?",
-  "choices": [
-    "Topiramate",
-    "Mannitol",
-    "Acetazolamide",
-    "Dexamethasone",
-    "Furosemide"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Acetazolamide. This patient meets criteria for idiopathic intracranial hypertension (IIH), a condition most common in obese women of childbearing age. The first-line pharmacologic treatment is acetazolamide, a carbonic anhydrase inhibitor that reduces CSF production. Topiramate may be added as adjunct but is not the initial treatment. Mannitol is reserved for acute ICP crises, dexamethasone is used for edema in brain tumors, and furosemide is not a standard first-line agent in IIH."
-},
-{
-  "question": "A 67-year-old woman presents with a two-month history of low mood, insomnia, decreased appetite, and low energy. She recently retired after a 42-year teaching career and lives alone. She reports drinking two shots of vodka nightly to fall asleep. Her past medical history includes well-controlled type 2 diabetes. Mental status exam shows impaired concentration but normal thought process. What feature of her presentation most strongly represents a perpetuating factor according to the biopsychosocial model?",
-  "choices": [
-    "Her alcohol use to aid sleep",
-    "Recent retirement from long-term employment",
-    "Family history of depression",
-    "Feelings of loss of identity",
-    "Inconsistent sleep patterns"
-  ],
-  "correctAnswer": 4,
-  "explanation": "The correct answer is: Inconsistent sleep patterns. In the biopsychosocial formulation, perpetuating factors are those that maintain the disorder once it has started. Inconsistent sleep patterns can prolong symptoms of depression and interfere with recovery. Alcohol use and retirement are precipitating factors that triggered the episode. Family history is a predisposing factor that increases susceptibility. Feelings of identity loss are psychological aspects, but more appropriately framed as precipitating or possibly predisposing depending on context."
-},
-{
-  "question": "A 35-year-old man visits his PCP for an annual exam. He denies any symptoms but is found to have mild anhedonia and poor sleep during screening. The physician considers initiating treatment for depression. According to USPSTF recommendations and current practice patterns, what is the most accurate statement about depression management in this scenario?",
-  "choices": [
-    "Depression screening should only be done in patients with known psychiatric history",
-    "A psychiatrist must initiate all antidepressant therapy",
-    "Primary care physicians manage the majority of depression cases in the US",
-    "Neuroimaging is required prior to diagnosing depression",
-    "DSM-5 criteria must be confirmed via structured diagnostic interview"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Primary care physicians manage the majority of depression cases in the US. Over 60% of mental health care delivery, including 79% of antidepressant prescriptions, occurs in primary care settings. Depression screening is universally recommended for adults by the USPSTF. While psychiatrists play a critical role, the shortage of specialists and collaborative care models mean that primary care often initiates and manages treatment. DSM-5 is used for diagnosis, but structured interviews are not required, and imaging is not standard for diagnosing depression."
-},
-{
-  "question": "A 29-year-old woman presents with confusion, myoclonus, and hyperreflexia. Her temperature is 39.2°C and blood pressure is 160/100 mmHg. She recently started a new antidepressant and is also taking sumatriptan for migraines. On exam, inducible clonus is noted. Which finding would most reliably support a diagnosis of serotonin syndrome over neuroleptic malignant syndrome?",
-  "choices": [
-    "Elevated temperature and hypertension",
-    "Recent medication change",
-    "Rigidity on physical exam",
-    "Hyperreflexia and clonus",
-    "Confusion and altered mental status"
-  ],
-  "correctAnswer": 3,
-  "explanation": "The correct answer is: Hyperreflexia and clonus. Serotonin syndrome is characterized by neuromuscular hyperactivity including hyperreflexia and clonus, which help distinguish it from neuroleptic malignant syndrome (NMS), where rigidity and bradyreflexia are more common. Both conditions share signs like fever and altered mental status. Medication changes may be involved in both, but serotonergic toxicity uniquely causes these specific neuromuscular findings."
-},
-{
-  "question": "A 76-year-old woman is admitted to the hospital following a hip fracture. On day three of her admission, she becomes disoriented, inattentive, and intermittently agitated. Vital signs are normal. Review of medications shows that she is taking oxybutynin, ranitidine, and diphenhydramine for sleep. Neurological exam reveals no focal deficits. What is the most likely explanation for her altered mental status?",
-  "choices": [
-    "Progression of undiagnosed dementia",
-    "Postoperative stroke",
-    "Adverse effects of anticholinergic medications",
-    "Hospital-acquired infection",
-    "Undiagnosed seizure disorder"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Adverse effects of anticholinergic medications. This patient’s acute onset of fluctuating attention, disorientation, and agitation in a hospitalized setting is consistent with delirium. Oxybutynin, diphenhydramine, and ranitidine are all anticholinergic agents known to precipitate delirium, particularly in elderly patients. Dementia progresses slowly and does not cause fluctuating attention. Stroke would typically present with focal deficits. Infection should be considered but is less likely without vital sign changes. Seizures can cause altered mental status but would usually involve postictal features or abnormal movements."
-},
-{
-  "question": "A 29-year-old man with no psychiatric history is hospitalized for a severe case of pneumonia. Over the course of several days, he becomes withdrawn, minimally responsive, and begins posturing in bed. On exam, he demonstrates waxy flexibility and mutism. Vitals are normal. Which of the following is the most appropriate next diagnostic step?",
-  "choices": [
-    "Begin empiric broad-spectrum antibiotics",
-    "Initiate high-dose antipsychotics",
-    "Perform a lumbar puncture",
-    "Administer a lorazepam challenge",
-    "Order an urgent MRI of the brain"
-  ],
-  "correctAnswer": 3,
-  "explanation": "The correct answer is: Administer a lorazepam challenge. The patient demonstrates signs of catatonia (waxy flexibility, mutism, posturing), likely in the context of a medical illness. A lorazepam challenge test (1–2 mg IV or IM) is both diagnostic and therapeutic in catatonia. A positive response supports the diagnosis. Antibiotics are unnecessary unless there's clear evidence of infection. High-dose antipsychotics can worsen catatonia. A lumbar puncture or MRI may be considered later to rule out other causes but are not the immediate next best step."
-},
-{
-  "question": "A 71-year-old male in the ICU becomes acutely confused, with fluctuating levels of consciousness and visual hallucinations. Neurological exam is non-focal. Labs reveal mild hyponatremia and elevated BUN. MOCA score has declined significantly compared to admission. Which of the following most accurately distinguishes his current condition from a major neurocognitive disorder?",
-  "choices": [
-    "Gradual onset of symptoms",
-    "Memory loss as primary symptom",
-    "Irreversibility of cognitive decline",
-    "Presence of visual hallucinations",
-    "Impaired attention with fluctuating course"
-  ],
-  "correctAnswer": 4,
-  "explanation": "The correct answer is: Impaired attention with fluctuating course. Delirium is characterized by an acute onset, fluctuating level of consciousness, and inattention, often with hallucinations. In contrast, major neurocognitive disorders like Alzheimer's have a gradual onset and steady progression without fluctuations. Visual hallucinations may be seen in both but do not differentiate the two. Delirium is often reversible with correction of underlying causes, whereas major neurocognitive disorders are typically chronic and irreversible."
-},
-{
-  "question": "A 3-year-old boy is brought to his pediatrician for concerns regarding his speech. He says fewer than 20 words and does not use any two-word phrases. His parents report that he understands simple commands and points to objects when named. He frequently uses gestures and maintains eye contact. What is the most likely diagnosis?",
-  "choices": [
-    "Autism Spectrum Disorder",
-    "Expressive language disorder",
-    "Mixed receptive-expressive language disorder",
-    "Receptive language disorder",
-    "Late language emergence"
-  ],
-  "correctAnswer": 4,
-  "explanation": "The correct answer is: Late language emergence. The child meets criteria for late language emergence (less than 50 words and no two-word combinations between 24–34 months). His intact receptive language, appropriate use of gestures, and social engagement (e.g., eye contact, pointing) are reassuring and suggest a good prognosis. Autism would present with broader social communication deficits. Expressive language disorder implies more persistent dysfunction. Mixed disorders would include receptive issues, which are not present. Receptive language disorder typically results in significant comprehension deficits, not seen here."
-},
-{
-  "question": "A 7-year-old boy with normal intelligence presents with difficulty in spelling and writing sentences, although he excels in math and science. He avoids writing assignments and becomes frustrated during homework. Teachers note poor handwriting, difficulty spacing letters, and grammatical errors. What is the most likely diagnosis?",
-  "choices": [
-    "Dyslexia",
-    "Dysgraphia",
-    "Dyscalculia",
-    "Expressive language disorder",
-    "Specific learning disorder in reading"
-  ],
-  "correctAnswer": 1,
-  "explanation": "The correct answer is: Dysgraphia. This child shows hallmark features of dysgraphia—trouble with handwriting, grammar, and spelling despite normal intelligence and good performance in other academic domains. Dyslexia primarily affects phonological processing and reading. Dyscalculia affects numerical concepts. Expressive language disorder would affect verbal output. Specific learning disorder in reading would not explain writing-based frustrations and fine motor difficulties."
-},
-{
-  "question": "A 6-year-old girl is referred for an evaluation due to difficulties in reading. She struggles with decoding new words, often mispronounces them, and avoids reading aloud. Her oral language development and comprehension are appropriate for her age. What neuroanatomical region is most likely underactive in this child?",
-  "choices": [
-    "Left occipitotemporal region",
-    "Right frontal lobe",
-    "Cerebellar vermis",
-    "Bilateral temporal poles",
-    "Medial prefrontal cortex"
-  ],
-  "correctAnswer": 0,
-  "explanation": "The correct answer is: Left occipitotemporal region. Dyslexia is associated with underactivation in the left hemisphere's occipitotemporal region, which is critical for automatic, rapid word recognition. The right frontal lobe and medial prefrontal cortex are involved in executive functions. The cerebellar vermis is implicated in coordination. The bilateral temporal poles are more involved in semantic memory and social processing, not phonological decoding."
-},
-{
-  "question": "A 5-year-old boy is brought in due to concerns about social difficulties. He does not engage in pretend play, avoids eye contact, and has intense interest in ceiling fans. He is sensitive to loud sounds and insists on taking the same route home every day. Language development is appropriate. What combination of DSM-5-TR criteria is required to confirm the diagnosis?",
-  "choices": [
-    "Deficits in social communication alone",
-    "Restricted, repetitive behaviors alone",
-    "Both social communication deficits and restricted behaviors, present only after age 5",
-    "Deficits in social communication and at least two restricted, repetitive behaviors, present early in development",
-    "Either social or behavioral symptoms, but not both"
-  ],
-  "correctAnswer": 3,
-  "explanation": "The correct answer is: Deficits in social communication and at least two restricted, repetitive behaviors, present early in development. Autism Spectrum Disorder (ASD) requires all three deficits in social communication (criteria A) and at least two of four restricted behaviors (criteria B), with onset in early development. The boy meets these with social avoidance and inflexible routines. Language may be intact. Criteria must be met across domains; one alone is insufficient."
-},
-{
-  "question": "A 6-year-old girl is undergoing evaluation for poor academic performance. Her IQ is within the normal range, but standardized assessments reveal significantly low performance in reading, writing, and math. Vision and hearing are normal. Which of the following most accurately reflects the current DSM-5 diagnostic approach to specific learning disorder (SLD)?",
-  "choices": [
-    "Presence of low IQ is necessary for diagnosis",
-    "Requires a significant IQ-achievement discrepancy",
-    "Diagnosis is based solely on clinical judgment",
-    "Standardized testing must confirm impairments relative to age expectations",
-    "Requires poor school performance in all subjects"
-  ],
-  "correctAnswer": 3,
-  "explanation": "The correct answer is: Standardized testing must confirm impairments relative to age expectations. DSM-5 criteria for SLD require underachievement in specific academic domains despite adequate educational opportunities, confirmed by standardized testing. It no longer relies on a strict IQ-achievement discrepancy. Poor performance in one domain (e.g., reading, math) is sufficient. Clinical judgment complements, but does not replace, formal assessment."
-},
-{
-  "question": "A 4-year-old boy with delayed milestones and below-average performance in daily self-care and social tasks is being evaluated. Cognitive testing reveals an IQ of 65, and adaptive behavior assessments show significant limitations in conceptual and social domains. Which of the following is the most accurate diagnosis?",
-  "choices": [
-    "Autism Spectrum Disorder",
-    "Specific Learning Disorder",
-    "Receptive language disorder",
-    "Intellectual Developmental Disorder",
-    "Expressive language disorder"
-  ],
-  "correctAnswer": 3,
-  "explanation": "The correct answer is: Intellectual Developmental Disorder. IDD requires deficits in both intellectual functioning (IQ < 70) and adaptive functioning across conceptual, social, or practical domains. This child has global impairment in daily life and subaverage intellectual performance. ASD focuses on social communication and behaviors. Learning disorders are academic-specific. Language disorders do not fully account for adaptive deficits."
-},
-{
-  "question": "A 23-year-old woman with panic disorder is undergoing cognitive behavioral therapy (CBT). She is encouraged to visit the grocery store, where she previously experienced panic attacks. Initially, she reports anxiety, but over several sessions, the anxiety diminishes. Which psychological mechanism best explains this improvement?",
-  "choices": [
-    "Operant extinction",
-    "Habituation",
-    "Stimulus generalization",
-    "Classical extinction",
-    "Negative reinforcement"
-  ],
-  "correctAnswer": 3,
-  "explanation": "The correct answer is: Classical extinction. The patient is exposed to a conditioned stimulus (e.g., grocery store) previously associated with an unconditioned response (panic attacks) without the panic-inducing event occurring. Over time, the conditioned response (anxiety) diminishes. This is the essence of classical extinction. Operant extinction involves cessation of reinforcement. Habituation is a decrease in response to repeated neutral stimuli, not conditioned ones. Stimulus generalization refers to transfer of a response to similar stimuli. Negative reinforcement involves removing an aversive stimulus to increase behavior, which is not applicable here."
-},
-{
-  "question": "A 52-year-old man with opioid use disorder participates in a contingency management program. He receives a movie ticket for each negative drug test. Over time, he consistently remains abstinent. Which principle of behaviorism is most directly being applied to promote abstinence in this scenario?",
-  "choices": [
-    "Positive reinforcement via variable interval schedule",
-    "Negative reinforcement via fixed ratio schedule",
-    "Positive reinforcement via fixed ratio schedule",
-    "Negative punishment via variable ratio schedule",
-    "Classical conditioning of abstinence behavior"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Positive reinforcement via fixed ratio schedule. Contingency management provides tangible rewards (e.g., movie tickets) contingent on a target behavior (drug abstinence), which is a classic example of positive reinforcement. Since the reward is delivered after every drug-free urine sample, it is a fixed ratio schedule. Variable interval or ratio schedules involve unpredictability. Negative reinforcement involves removal of aversive stimuli, not reward delivery. Classical conditioning does not directly explain operant contingencies in this setting."
-},
-{
-  "question": "A medical student observes a respected physician spend extra time with a patient and receive appreciation. The student later mimics this behavior during rounds. According to Bandura’s social learning theory, which factor most directly facilitated this change in behavior?",
-  "choices": [
-    "Operant reinforcement of the student",
-    "Classical conditioning of the student",
-    "Stimulus generalization",
-    "Observational learning and increased self-efficacy",
-    "Shaping through successive approximations"
-  ],
-  "correctAnswer": 3,
-  "explanation": "The correct answer is: Observational learning and increased self-efficacy. Bandura's social learning theory emphasizes that people learn behaviors through observing others, especially role models. The physician’s behavior modeled a valued trait, and the student adopted it. Furthermore, the observation likely enhanced the student’s belief in their own ability to perform similar actions (self-efficacy). Operant reinforcement requires direct reward to the student, not just observation. Classical conditioning involves stimulus-response pairings. Stimulus generalization and shaping are more applicable in different contexts."
-},
-{
-  "question": "A 26-year-old woman presents with episodes of unresponsiveness and convulsions. A recent inpatient video EEG monitoring revealed no epileptiform activity during these events. Neurological examination is normal. She has a history of fibromyalgia, past trauma, and depression. Which of the following factors most likely serves as a perpetuating factor for her condition, according to the Fear-Avoidance Learning Model?",
-  "choices": [
-    "History of childhood neglect",
-    "Traumatic brain injury at age 17",
-    "Current use of sedatives and repeated medical testing",
-    "Recent panic attack preceding seizure onset",
-    "Family history of epilepsy"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Current use of sedatives and repeated medical testing. According to the Fear-Avoidance Learning Model, perpetuating factors are those that maintain symptoms over time, such as overmedicalization, lack of appropriate diagnosis, avoidance behaviors, and use of medications like sedatives. Childhood neglect and brain injury are predisposing factors; panic attack is a precipitating factor; and family history contributes to overall risk but does not perpetuate symptoms directly."
-},
-{
-  "question": "A 33-year-old man is diagnosed with functional neurological disorder (FND) after video EEG confirms psychogenic non-epileptic seizures. His neurologist explains the diagnosis, demonstrates positive signs, and offers a CBT-based treatment plan. This form of clinical engagement serves which therapeutic purpose in the management of FND?",
-  "choices": [
-    "Avoidance of psychiatric labeling to prevent non-compliance",
-    "Initiation of neurostimulation as primary treatment",
-    "Application of diagnosis as a therapeutic intervention",
-    "Replacement of psychiatric referral with pharmacotherapy",
-    "Reduction of symptoms by minimizing patient-provider interaction"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Application of diagnosis as a therapeutic intervention. Delivering the diagnosis of FND in a clear, empathetic manner, explaining the pathophysiology and demonstrating positive clinical signs, is itself a key intervention. It helps validate the patient's experience, build therapeutic alliance, and initiate recovery. Avoiding diagnosis or referrals undermines effective management. Pharmacotherapy targets comorbidities but is not a substitute for informed diagnosis and interdisciplinary care."
-},
-{
-  "question": "A 29-year-old woman with PNES is referred for interdisciplinary treatment including CBT, physical therapy, and mindfulness training. She struggles with believing the diagnosis and shows low engagement. Which factor, if addressed during assessment, would most directly enhance her prognosis?",
-  "choices": [
-    "Severity of prior epileptic seizures",
-    "Presence of comorbid sensory symptoms",
-    "Motivation for recovery and treatment engagement",
-    "Exact nature of the dissociative episodes",
-    "Type of psychotherapy previously attempted"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Motivation for recovery and treatment engagement. Prognosis in FND significantly improves when patients are motivated and engaged in treatment. A strong alliance with providers, belief in the diagnosis, and willingness to participate in therapy (especially CBT) are linked to better outcomes. The type of prior therapy and episode features are informative but less predictive than motivational factors. Comorbid sensory symptoms may contribute to burden but do not directly determine prognosis."
-}
+  {
+    "question": "A 24-year-old woman presents to the neurology clinic with episodes of whole-body shaking lasting up to 5 minutes. Her eyes are tightly closed during the episodes, and she displays asynchronous limb movements with no postictal confusion. EEG monitoring during the episodes shows no epileptiform activity. Which of the following factors is most strongly associated with this presentation?",
+    "choices": [
+      "Excess dopamine synthesis in the nigrostriatal pathway",
+      "Deficiency of orexin in the hypothalamus",
+      "History of childhood trauma and psychiatric comorbidity",
+      "Structural abnormalities of the hippocampus",
+      "Underlying viral encephalitis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is: History of childhood trauma and psychiatric comorbidity. This presentation is consistent with functional neurologic symptom disorder (conversion disorder), particularly psychogenic non-epileptic seizures (PNES). A strong association exists between PNES and childhood trauma, along with high rates of psychiatric comorbidity such as depression, anxiety, or personality disorders. There is no evidence supporting orexin, dopamine, or hippocampal pathology in PNES. Viral encephalitis would more likely present with altered mental status, fever, or focal neurological findings."
+  },
+  {
+    "question": "A 36-year-old female nurse is admitted for the fourth time in 12 months for hypernatremia and dehydration. Extensive testing reveals no organic cause. During her hospitalizations, she is overly familiar with staff and frequently requests invasive testing. She has no external incentives for illness behavior. Which of the following features most clearly differentiates her condition from malingering?",
+    "choices": [
+      "History of healthcare employment",
+      "Deliberate symptom falsification",
+      "Desire for medical attention in the absence of external gain",
+      "Inconsistent clinical findings",
+      "Multiple prior hospitalizations"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is: Desire for medical attention in the absence of external gain. Factitious disorder is characterized by intentional production of symptoms for internal psychological reasons, such as the need to assume a sick role. This contrasts with malingering, where the motive is external (e.g., financial gain, avoiding work). While features like healthcare employment, multiple hospitalizations, and inconsistent findings may be seen in both, the absence of external incentives is what definitively distinguishes factitious disorder from malingering."
+  },
+  {
+    "question": "A 40-year-old man recently diagnosed with HIV presents with depressed mood, poor sleep, and suicidal ideation. He expresses intense guilt and social isolation since learning of his diagnosis. He started antiretroviral therapy (ART) but inconsistently adheres to it. Which of the following best explains the bidirectional relationship between HIV and depression in this patient?",
+    "choices": [
+      "HIV increases dopamine levels in the nucleus accumbens leading to emotional instability",
+      "Depression increases CD8+ T cell activity which lowers viral load but increases symptoms",
+      "HIV-related immune activation and CNS inflammation increase risk of depression, which then worsens ART adherence and health outcomes",
+      "Psychological stress from HIV diagnosis lowers CD4 count through direct T cell depletion",
+      "Depression reduces viral replication due to HPA axis suppression"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is: HIV-related immune activation and CNS inflammation increase risk of depression, which then worsens ART adherence and health outcomes. Depression is highly prevalent in people living with HIV (PLWH), and its pathogenesis involves both psychological and biological mechanisms. HIV directly affects the CNS, contributing to inflammation and neurotransmitter dysregulation, which can trigger or worsen depressive symptoms. Depression, in turn, negatively impacts ART adherence, retention in care, and viral suppression. There is no evidence that depression improves HIV outcomes or alters T cell responses beneficially."
+  },
+  {
+    "question": "A 32-year-old transgender woman with a history of HIV, PTSD, and opioid use disorder is brought in for care after missing multiple appointments. She reports being harassed at her housing shelter and fears discrimination from healthcare providers. Her viral load is detectable despite being prescribed ART. Which of the following best explains the layered impact on her HIV care engagement?",
+    "choices": [
+      "PTSD is the strongest predictor of treatment nonadherence in all populations",
+      "Stigma is solely driven by individual beliefs and not systemic factors",
+      "Minority stress from overlapping identities and structural barriers contributes to poor health outcomes",
+      "ART nonadherence is primarily related to opioid-induced cognitive deficits",
+      "Access to ART is unaffected by housing status in developed countries"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is: Minority stress from overlapping identities and structural barriers contributes to poor health outcomes. Layered or intersectional minority stress recognizes how overlapping marginalized identities (e.g., transgender, HIV+, substance use history) amplify discrimination and vulnerability. These compounded barriers lead to poorer mental health, reduced access to care, and decreased ART adherence. Structural determinants such as unstable housing and stigma within healthcare systems significantly impact outcomes. PTSD, while relevant, is not the sole factor. Statements denying systemic factors or housing barriers are incorrect."
+  },
+  {
+    "question": "A 50-year-old man with well-controlled HIV presents with fatigue, insomnia, and low mood. He reports difficulty maintaining medication adherence due to lack of motivation and poor concentration. He is worried about being judged if he tells others about his diagnosis. Which of the following interventions is most likely to improve both his depressive symptoms and ART adherence?",
+    "choices": [
+      "Switching to a protease inhibitor-based regimen",
+      "Increasing ART pill burden to reinforce accountability",
+      "Referral for cognitive behavioral therapy and mental health screening",
+      "Immediate hospitalization to monitor ART administration",
+      "Replacing ART with intermittent prophylactic antibiotics"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is: Referral for cognitive behavioral therapy and mental health screening. Integrated mental health services are essential for managing depression in PLWH, especially given its strong association with poor ART adherence. Psychotherapeutic interventions like CBT, in combination with antidepressants when needed, can address cognitive distortions, internalized stigma, and behavior patterns affecting adherence. Hospitalization is not indicated in the absence of acute suicidality or medical instability. Switching ART regimens or increasing pill burden without addressing underlying psychological issues will not improve outcomes."
+  }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
