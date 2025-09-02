@@ -1,395 +1,328 @@
 [
-{
-  "question": "A 32-year-old woman is brought to the emergency department by her husband due to abrupt changes in behavior. He reports that she sometimes speaks with a different accent and does not recognize her children. These episodes last for hours and then she returns to her baseline without memory of the events. She has a history of childhood abuse and multiple psychiatric hospitalizations. Which of the following is the most likely diagnosis?",
-  "choices": [
-    "Schizophrenia",
-    "Bipolar I disorder with psychotic features",
-    "Dissociative identity disorder",
-    "Depersonalization/derealization disorder",
-    "Frontal lobe epilepsy"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Dissociative identity disorder (DID). DID is characterized by the presence of two or more distinct personality states or identities that may control the individual's behavior at different times, often accompanied by memory gaps for everyday events, personal information, or traumatic events. The patient's identity switching and amnesia, especially in the context of severe trauma history, are hallmark features. Schizophrenia involves persistent delusions or hallucinations, not identity alteration. Bipolar I may involve mood changes but not identity fragmentation. Depersonalization/derealization involves detachment without identity loss. Frontal lobe epilepsy could cause transient behavioral changes but not multiple identity phenomena."
-},
-{
-  "question": "A 28-year-old man is evaluated after a traumatic motor vehicle accident in which his best friend died. He reports persistent nightmares, avoids driving, and has begun drinking heavily. One month after the incident, he has difficulty sleeping, feels numb, and is hypervigilant. Which of the following features most clearly distinguishes post-traumatic stress disorder (PTSD) from acute stress disorder (ASD)?",
-  "choices": [
-    "Presence of dissociative amnesia",
-    "Re-experiencing symptoms",
-    "Symptoms lasting more than one month",
-    "Avoidance behaviors",
-    "Exposure to a traumatic stressor"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Symptoms lasting more than one month. Both PTSD and ASD require exposure to trauma and can include similar symptoms such as re-experiencing, avoidance, and dissociation. The key diagnostic difference is duration: ASD is diagnosed when symptoms last between 3 days and 1 month post-trauma; PTSD requires symptoms persisting for at least one month. Dissociative amnesia and re-experiencing can occur in both disorders. Avoidance is a criterion for both, and trauma exposure is required for either diagnosis."
-},
-{
-  "question": "A 45-year-old woman presents with persistent feelings that her surroundings feel dreamlike and that she is watching herself from outside her body. These episodes began shortly after surviving a domestic violence incident. She describes her body as 'numb' and her memories as 'hollow,' lacking emotional content. Which of the following best explains the neuropsychological mechanism underlying her symptoms?",
-  "choices": [
-    "Hyperactivation of the hypothalamic-pituitary-adrenal axis",
-    "Increased amygdala activity during threat perception",
-    "Maladaptive encoding of traumatic memory by the hippocampus",
-    "Disruption of integration between perceptual processing and self-awareness",
-    "Volitional detachment from emotionally charged memories"
-  ],
-  "correctAnswer": 3,
-  "explanation": "The correct answer is: Disruption of integration between perceptual processing and self-awareness. Depersonalization and derealization symptoms reflect a disruption in the brain’s ability to integrate multisensory input and internal self-monitoring, leading to detachment from the body or environment. This often follows trauma as a coping mechanism. HPA axis and amygdala activity play roles in stress and fear responses but do not fully explain dissociative perceptual detachment. Hippocampal dysfunction contributes to memory fragmentation but not directly to perceptual distortions. Volitional detachment implies conscious effort, which is not the case in these dissociative symptoms."
-},
-{
-  "question": "A 35-year-old man with schizophrenia has persistent positive symptoms despite treatment with risperidone. A recent neuroimaging study shows decreased activity in the prefrontal cortex and increased dopaminergic signaling in the mesolimbic pathway. Based on current neurochemical hypotheses, which of the following best explains the persistence of his symptoms?",
-  "choices": [
-    "Hyperdopaminergic activity in the mesocortical pathway",
-    "Hypodopaminergic activity in the nigrostriatal pathway",
-    "Hyperdopaminergic activity in the mesolimbic pathway",
-    "Hypoglutamatergic activity in the tuberoinfundibular pathway",
-    "Excessive serotonin activity in the dorsal raphe nuclei"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Hyperdopaminergic activity in the mesolimbic pathway. Positive symptoms of schizophrenia (e.g., hallucinations, delusions) are linked to increased dopamine activity in the mesolimbic pathway. In contrast, negative and cognitive symptoms correlate with reduced dopamine activity in the mesocortical pathway. The nigrostriatal pathway is associated with motor control, and tuberoinfundibular dopamine inhibits prolactin. Serotonin from the dorsal raphe modulates mood, not psychosis directly."
-},
-{
-  "question": "A 28-year-old woman presents with fatigue, hypersomnia, weight gain, and persistent feelings of worthlessness for the past month. She is diagnosed with major depressive disorder. Which of the following mechanisms best explains how mirtazapine alleviates her symptoms?",
-  "choices": [
-    "Inhibition of monoamine oxidase leading to increased serotonin levels",
-    "Blockade of serotonin reuptake transporters on presynaptic neurons",
-    "Direct agonism of dopamine D2 receptors in the prefrontal cortex",
-    "Blockade of alpha-2 adrenergic autoreceptors increasing monoamine release",
-    "Antagonism of GABA-A receptors leading to enhanced arousal"
-  ],
-  "correctAnswer": 3,
-  "explanation": "The correct answer is: Blockade of alpha-2 adrenergic autoreceptors increasing monoamine release. Mirtazapine is an atypical antidepressant that increases the release of serotonin and norepinephrine by blocking inhibitory alpha-2 autoreceptors. This differs from SSRIs, which inhibit serotonin reuptake, and MAOIs, which prevent neurotransmitter breakdown. D2 receptor agonism is associated with antipsychotics and not used in depression. GABA-A antagonism would promote excitability and is not a mechanism of mirtazapine."
-},
-{
-  "question": "A 65-year-old man with HIV presents with memory loss, apathy, and motor slowing. His physician suspects a neurodegenerative process involving the kynurenine pathway. Excess quinolinic acid is believed to be contributing to NMDA receptor overactivation. Which neurotransmitter system is most likely implicated in the pathogenesis of his symptoms?",
-  "choices": [
-    "Dopamine hypofunction in the mesolimbic pathway",
-    "GABA deficiency in the basal ganglia",
-    "Glutamate excitotoxicity in the prefrontal cortex",
-    "Serotonin excess in the dorsal raphe nucleus",
-    "Acetylcholine depletion in the septal nuclei"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Glutamate excitotoxicity in the prefrontal cortex. The kynurenine pathway, particularly through the production of quinolinic acid, leads to overstimulation of NMDA receptors, a subtype of glutamate receptor. This process contributes to neuronal damage and is implicated in HIV-associated neurocognitive disorder (HAND) and depression. Dopamine hypofunction and GABA deficiency are associated with different symptoms. Serotonin and acetylcholine dysregulation have roles in mood and memory but do not explain the excitotoxic mechanism described here."
-},
-{
-  "question": "A 10-year-old boy is referred for persistent defiant behavior. He argues with teachers, deliberately annoys classmates, and blames others for his own mistakes. Despite having no history of aggression, property destruction, or serious rule violations, his behavior has caused significant disruptions at home and school for over 8 months. He has a past diagnosis of ADHD, which improved with methylphenidate. What is the most appropriate next step in management?",
-  "choices": [
-    "Initiate risperidone for behavioral control",
-    "Refer for parent management training and behavioral therapy",
-    "Add a mood stabilizer to address defiance",
-    "Discontinue ADHD medication to rule out side effects",
-    "Diagnose conduct disorder and initiate legal involvement"
-  ],
-  "correctAnswer": 1,
-  "explanation": "The correct answer is: Refer for parent management training and behavioral therapy. The patient meets diagnostic criteria for oppositional defiant disorder (ODD), which is characterized by angry/irritable mood, argumentative/defiant behavior, and vindictiveness without the more severe features of conduct disorder (e.g., aggression, property destruction). Parent management training is first-line treatment and has strong evidence for improving behavioral outcomes. Risperidone and mood stabilizers may be used if aggression persists or comorbidities warrant, but behavioral interventions are preferred initially. ADHD medication is not contraindicated and has already shown benefit. Legal action is inappropriate for ODD."
-},
-{
-  "question": "A 15-year-old boy is referred to a juvenile court clinic after multiple arrests, including burglary, assault, and school truancy. He started skipping school before age 13 and once ran away overnight. His parents report a history of cruelty to animals and lying for personal gain. He does not show remorse. Which of the following factors most strongly predicts a poor long-term prognosis?",
-  "choices": [
-    "Lack of remorse",
-    "Exposure to community violence",
-    "Early onset of symptoms before age 10",
-    "Male gender",
-    "Low socioeconomic status"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Early onset of symptoms before age 10. Conduct disorder with childhood-onset type is associated with a worse prognosis, including a higher risk for persistent antisocial behavior, adult criminality, and development of antisocial personality disorder. Although all the other listed factors contribute to risk, the age of onset is the strongest single predictor of long-term outcome. Lack of remorse is a specifier for 'limited prosocial emotions' but does not independently predict prognosis as robustly as early onset."
-},
-{
-  "question": "A 13-year-old girl is brought in for uncontrollable episodes of shoplifting. She reports feeling intense tension before the act and a sense of relief afterward. The stolen items are not needed or used. She expresses shame and confusion, stating she cannot resist the urge. She has a history of bulimia nervosa and depression. What is the most likely neurobiological mechanism underlying her condition?",
-  "choices": [
-    "Reduced dopaminergic tone in the nucleus accumbens",
-    "Hyperactivity of the prefrontal cortex leading to compulsivity",
-    "Frontal lobe disinhibition and impaired impulse regulation",
-    "Hypoactivation of the amygdala during risk-taking behavior",
-    "Serotonergic excess in the orbitofrontal cortex"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Frontal lobe disinhibition and impaired impulse regulation. Kleptomania is associated with impaired executive functioning and frontal lobe dysregulation, particularly in circuits that govern inhibition and impulse control. Neuroimaging studies suggest abnormalities in white matter tracts and impaired frontostriatal connectivity. Dopaminergic or serotonergic theories apply more to addiction and mood disorders. Amygdala hypoactivation is linked to risk-blindness, but not specific to impulse-control disorders like kleptomania."
-},
-{
-  "question": "A 9-year-old boy is brought in by his parents due to concerns about his school performance. His teacher reports he frequently forgets to turn in homework, loses his supplies, and often appears distracted in class. Despite having average intelligence, he struggles to follow multi-step instructions. He becomes easily frustrated when working on tasks that require sustained mental effort. His developmental milestones were normal. Which neurotransmitter system dysfunction most likely contributes to his core symptoms?",
-  "choices": [
-    "GABAergic hypoactivity in the amygdala",
-    "Dopamine and norepinephrine hypoactivity in the fronto-striatal circuits",
-    "Increased serotonin turnover in the hippocampus",
-    "Acetylcholine hyperactivity in the reticular activating system",
-    "Elevated glutamate transmission in the cerebellum"
-  ],
-  "correctAnswer": 1,
-  "explanation": "The correct answer is: Dopamine and norepinephrine hypoactivity in the fronto-striatal circuits. ADHD is associated with reduced dopaminergic and noradrenergic tone in circuits connecting the frontal cortex and subcortical areas such as the striatum and limbic system. This contributes to deficits in attention regulation, working memory, and executive function. GABAergic dysfunction is more related to anxiety. Serotonin and glutamate dysregulation are implicated in mood and neurodegenerative disorders, respectively. Acetylcholine has a role in arousal but is not a central mechanism in ADHD pathogenesis."
-},
-{
-  "question": "A 25-year-old man with a childhood diagnosis of ADHD presents for follow-up. He reports persistent distractibility, difficulty completing work tasks, and frequent speeding tickets. He denies hallucinations or mood swings. Physical exam and labs are unremarkable. He is currently on methylphenidate. Which of the following side effects is most important to monitor during continued treatment?",
-  "choices": [
-    "Increased risk of hypertensive crisis",
-    "Onset of manic symptoms in bipolar disorder",
-    "Sedation and weight gain",
-    "Urinary retention and dry mouth",
-    "Hyperprolactinemia and galactorrhea"
-  ],
-  "correctAnswer": 1,
-  "explanation": "The correct answer is: Onset of manic symptoms in bipolar disorder. Stimulants such as methylphenidate can precipitate manic episodes in individuals with undiagnosed or poorly managed bipolar disorder. This makes it essential to screen for mood instability prior to initiating or continuing stimulant therapy. Hypertensive crisis is a concern with MAOIs, not methylphenidate. Sedation is more typical of non-stimulant agents like clonidine. Anticholinergic effects such as dry mouth are not prominent with stimulants. Hyperprolactinemia is associated with antipsychotics, not ADHD medications."
-},
-{
-  "question": "A 12-year-old girl is diagnosed with combined-type ADHD. Her parents prefer a non-stimulant medication due to a family history of substance use disorder. She is started on atomoxetine. Which of the following is the primary mechanism of action of this medication?",
-  "choices": [
-    "Dopamine D2 receptor partial agonist",
-    "Selective norepinephrine reuptake inhibition",
-    "GABA-A receptor agonism",
-    "NMDA receptor antagonism",
-    "Alpha-1 adrenergic receptor blockade"
-  ],
-  "correctAnswer": 1,
-  "explanation": "The correct answer is: Selective norepinephrine reuptake inhibition. Atomoxetine is a non-stimulant approved for ADHD that works by selectively inhibiting the reuptake of norepinephrine, thereby increasing its availability in the prefrontal cortex. This enhances attention and reduces impulsivity. D2 receptor modulation is the mechanism of antipsychotics. GABA-A receptor agonism is typical of benzodiazepines. NMDA antagonism is a mechanism for certain anesthetics and agents like memantine. Alpha-1 blockade is associated with hypotension and is not central to atomoxetine’s effect."
-},
-{
-  "question": "A 10-year-old boy is diagnosed with ADHD and started on methylphenidate. After several weeks, he develops insomnia and reduced appetite. His physician considers switching to a different stimulant. Compared to methylphenidate, which of the following best describes a mechanistic distinction of amphetamine that may underlie both therapeutic effects and side effects?",
-  "choices": [
-    "Selective inhibition of serotonin transporter",
-    "Direct agonism at dopamine D2 receptors",
-    "Increased dopamine vesicular release via VMAT inhibition",
-    "Selective inhibition of alpha-2 adrenergic receptors",
-    "Enhanced dopamine metabolism by monoamine oxidase"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Increased dopamine vesicular release via VMAT inhibition. Amphetamines not only block the dopamine transporter (DAT), but also impair vesicular monoamine transporter (VMAT) function, leading to increased cytoplasmic dopamine and reverse transport of dopamine into the synaptic cleft. This results in higher synaptic dopamine levels than with methylphenidate, which primarily inhibits DAT. Serotonin transporter inhibition is characteristic of SSRIs and MDMA. D2 receptor agonism is unrelated to stimulant action. Alpha-2 receptor blockade would increase sympathetic tone, but amphetamines do not act via this mechanism. Enhancing dopamine metabolism would reduce dopaminergic activity, opposite to the effect of amphetamines."
-},
-{
-  "question": "A 27-year-old woman with a history of ADHD reports using intranasal cocaine recreationally. She describes intense euphoria, elevated confidence, and increased motor activity. Which of the following best explains the heightened addictive potential of intranasal versus oral administration of stimulants?",
-  "choices": [
-    "Lower plasma protein binding increases drug availability",
-    "Slower first-pass metabolism allows for prolonged duration",
-    "Higher bioavailability due to absence of hepatic degradation",
-    "More rapid delivery to the brain enhances dopaminergic surge",
-    "Increased interaction with alpha-1 adrenergic receptors in the brain"
-  ],
-  "correctAnswer": 3,
-  "explanation": "The correct answer is: More rapid delivery to the brain enhances dopaminergic surge. The route of administration strongly influences the addictive potential of stimulants. Intranasal or intravenous administration allows for rapid crossing of the blood-brain barrier, resulting in a sharp increase in synaptic dopamine within the nucleus accumbens—key to reinforcing drug-seeking behavior. Oral administration leads to slower CNS penetration, reducing euphoric effects. While hepatic metabolism and receptor binding affect drug duration and potency, the speed of dopamine elevation in mesolimbic structures is the primary factor behind addictive potential."
-},
-{
-  "question": "A 7-year-old boy with ADHD is being treated with guanfacine. His parents are concerned about drowsiness and reduced alertness during school. Which of the following mechanisms best explains the therapeutic benefit of guanfacine in ADHD despite its sedative profile?",
-  "choices": [
-    "Activation of alpha-2A receptors in the prefrontal cortex enhances executive function",
-    "Inhibition of norepinephrine reuptake leads to increased arousal",
-    "Blocking of alpha-1 receptors improves blood flow to the cortex",
-    "Stimulation of dopaminergic neurons in the ventral tegmental area increases reward sensitivity",
-    "Blockade of serotonin receptors reduces impulsivity"
-  ],
-  "correctAnswer": 0,
-  "explanation": "The correct answer is: Activation of alpha-2A receptors in the prefrontal cortex enhances executive function. Guanfacine is a selective alpha-2A adrenergic receptor agonist. It enhances signal transmission in the prefrontal cortex by reducing tonic noradrenergic noise, which improves attention and working memory in patients with ADHD. Despite its sedative properties, this targeted action supports cognitive control. Norepinephrine reuptake inhibition describes atomoxetine. Alpha-1 blockade does not enhance prefrontal function. Dopamine activation is more associated with stimulants. Serotonin receptor blockade is not the mechanism for guanfacine’s effect."
-},
-{
-  "question": "A 16-year-old girl presents with obsessive thoughts about being contaminated and performs hand-washing rituals for several hours each day. She is aware these thoughts are irrational but cannot suppress the urge. She is started on high-dose fluoxetine. After 12 weeks, she shows partial improvement. The psychiatrist decides to augment pharmacotherapy. Which of the following is the most appropriate agent to add in this case?",
-  "choices": [
-    "Clonazepam",
-    "Quetiapine",
-    "Risperidone",
-    "Haloperidol",
-    "Lithium"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Risperidone. In patients with OCD who do not fully respond to SSRIs, augmentation with low-dose atypical antipsychotics like risperidone has shown benefit, especially when there are comorbid tics or treatment-resistant symptoms. Clonazepam is not a first-line augmentation strategy due to tolerance and dependency risks. Quetiapine is sometimes used off-label but with less evidence than risperidone. Haloperidol is less preferred due to extrapyramidal side effects. Lithium is used for mood stabilization but not for OCD augmentation."
-},
-{
-  "question": "A 21-year-old woman presents with a long-standing pattern of perfectionism and rigidity. She insists on organizing every aspect of her environment and often redoes her roommate’s chores to meet her standards. She denies distress and believes her behaviors are beneficial. She has no intrusive thoughts or rituals. Which feature best distinguishes her condition from obsessive-compulsive disorder (OCD)?",
-  "choices": [
-    "Presence of comorbid anxiety",
-    "Repetitive behaviors such as counting or checking",
-    "Ego-dystonic nature of intrusive thoughts",
-    "History of childhood tics",
-    "Female predominance"
-  ],
-  "correctAnswer": 2,
-  "explanation": "The correct answer is: Ego-dystonic nature of intrusive thoughts. OCD is characterized by ego-dystonic thoughts—intrusive and distressing ideas that are inconsistent with the patient's self-image. In contrast, obsessive-compulsive personality disorder (OCPD) involves ego-syntonic traits, meaning the behaviors align with the individual's values and self-perception. This woman’s behaviors reflect personality structure rather than distress-driven compulsions. Comorbid anxiety and gender are nonspecific. Childhood tics are more associated with OCD."
-},
-{
-  "question": "A 14-year-old boy presents with repeated hair-pulling resulting in noticeable bald patches. He reports that pulling relieves internal tension. His physical exam is otherwise unremarkable. Which of the following diagnostic assessments is most important to consider in this patient?",
-  "choices": [
-    "Serum ferritin and iron panel",
-    "EEG to rule out focal seizures",
-    "Yale-Brown Obsessive Compulsive Scale (Y-BOCS)",
-    "Abdominal imaging for trichobezoar",
-    "Genetic testing for Prader-Willi syndrome"
-  ],
-  "correctAnswer": 3,
-  "explanation": "The correct answer is: Abdominal imaging for trichobezoar. Trichotillomania can lead to trichophagia (swallowing hair), which may result in the formation of a trichobezoar—a mass of hair in the gastrointestinal tract that can cause obstruction and require surgical intervention. Although iron deficiency may co-exist, it’s not diagnostic. EEG and genetic testing are unnecessary unless other features are present. Y-BOCS is used in OCD but not specifically for trichotillomania."
-},
   {
-    "question": "A 29-year-old woman presents with symptoms of low mood, hypersomnia, hyperphagia, and feelings of heaviness in her limbs for the past 3 weeks. She also reports temporary mood improvement when her friends visit or when she watches her favorite shows. She has a history of poor response to SSRIs in the past and is currently not on any medication. Which of the following treatment options would be most appropriate to consider next?",
+    "question": "A 16-year-old girl is brought to the emergency department after cutting her forearm with a razor. She denies any intent to die and reports that she did it to 'feel something' and relieve her emotional distress. She has a history of depression and anxiety. What is the most appropriate classification of this behavior?",
     "choices": [
-      "Start bupropion",
-      "Add lithium",
-      "Begin monoamine oxidase inhibitor therapy",
-      "Start SNRI like venlafaxine",
-      "Refer for electroconvulsive therapy"
-    ],
-    "correctAnswer": 2,
-    "explanation": "This patient presents with major depressive disorder with atypical features, characterized by mood reactivity, hypersomnia, hyperphagia, leaden paralysis, and sensitivity to interpersonal rejection. While SSRIs are typically first-line, MAOIs have been shown to be especially efficacious for atypical depression and are often considered after SSRIs fail. Bupropion is not ideal here due to its activating profile (opposite of what’s needed for hypersomnia), and lithium is more for augmentation or mood stabilization in bipolar disorder. SNRIs are not specifically more effective than SSRIs for atypical features, and ECT is generally reserved for severe or treatment-resistant cases, often with psychotic features or suicidality."
-  },
-  {
-    "question": "A 33-year-old woman is 3 weeks postpartum and presents with depressed mood, difficulty bonding with her newborn, hypersomnia, and feelings of worthlessness. She denies hallucinations or delusions. She reports that a similar episode occurred after the birth of her first child. What is the most likely neurobiological factor contributing to her condition?",
-    "choices": [
-      "Elevated dopamine synthesis in the prefrontal cortex",
-      "Increased cortisol from HPA axis overactivation",
-      "Acute withdrawal of allopregnanolone post-delivery",
-      "Serotonin receptor downregulation due to prior SSRI use",
-      "Low norepinephrine turnover in the locus coeruleus"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The most likely explanation is an acute withdrawal of allopregnanolone, a neuroactive steroid and metabolite of progesterone that modulates GABA-A receptors. Levels of allopregnanolone are high during pregnancy and drop rapidly postpartum, which is thought to contribute to peripartum depression. This distinguishes peripartum MDD from other types, especially given her prior history of similar symptoms. HPA axis dysfunction and low monoamines are general MDD pathophysiology, but not specific to peripartum onset."
-  },
-  {
-    "question": "A 62-year-old man with a history of treatment-resistant major depressive disorder presents to clinic with worsening symptoms despite trials of multiple SSRIs, SNRIs, and bupropion. He denies suicidal ideation but expresses profound anhedonia and impaired functioning. His current medication regimen includes sertraline 200 mg daily. What is the next best step in management?",
-    "choices": [
-      "Discontinue sertraline and initiate tricyclic antidepressant therapy",
-      "Add a second-generation antipsychotic for augmentation",
-      "Refer for psychotherapy and discontinue pharmacologic therapy",
-      "Begin a 14-day washout and start a monoamine oxidase inhibitor",
-      "Add lithium and discontinue current antidepressant"
+      "Suicide attempt with low lethality",
+      "Nonsuicidal self-injury",
+      "Manipulative gesture",
+      "Parasuicidal behavior",
+      "Suicidal ideation with plan"
     ],
     "correctAnswer": 1,
-    "explanation": "This patient meets the criteria for treatment-resistant depression (TRD), defined as failure of at least 2 adequate antidepressant trials. Augmentation with a second-generation antipsychotic (e.g., aripiprazole or quetiapine) is a common and evidence-supported next step in managing TRD. TCAs and MAOIs can be considered later, but they come with higher side effect burdens and safety concerns, particularly in older adults. Lithium can be effective as an augmenting agent but typically is not first-line unless there is evidence of suicidality or bipolar spectrum."
+    "explanation": "The correct answer is: Nonsuicidal self-injury. NSSI refers to the deliberate, self-inflicted destruction of body tissue without suicidal intent, most commonly for emotion regulation or self-punishment. It is distinct from suicidal behaviors in that there is no intent to die. Labeling the behavior as a 'manipulative gesture' is stigmatizing and clinically inaccurate. While the behavior is a risk factor for future suicide attempts, it does not represent a suicide attempt itself unless accompanied by intent to die."
   },
   {
-    "question": "A 45-year-old woman with major depressive disorder is started on an antidepressant. Two weeks later, she presents to the emergency department with agitation, tremor, hyperreflexia, and clonus. She has been taking sertraline and recently began using over-the-counter dextromethorphan for a cough. Which of the following mechanisms is most likely responsible for her current condition?",
+    "question": "A 35-year-old man presents with intense agitation, insomnia, and ruminative thoughts of being trapped in a hopeless life situation. He describes emotional pain and has recently withdrawn from all social contact. His clinical picture is consistent with Suicide Crisis Syndrome. Which of the following components best characterizes this syndrome?",
     "choices": [
-      "Inhibition of norepinephrine reuptake leading to hypertensive crisis",
-      "Dopamine receptor blockade causing extrapyramidal symptoms",
-      "Serotonin excess due to additive serotonergic activity",
-      "Muscarinic antagonism leading to anticholinergic delirium",
-      "Histamine receptor antagonism leading to sedation and confusion"
+      "Euphoria followed by impulsive behavior and flight of ideas",
+      "Persistent grandiosity and hallucinations",
+      "Emotional pain, affective disturbance, loss of cognitive control, hyperarousal, and acute social withdrawal",
+      "Somatic delusions and passive death wishes",
+      "Apathy and flat affect with poor insight"
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is: Serotonin excess due to additive serotonergic activity. This patient is experiencing serotonin syndrome, a potentially life-threatening condition caused by excess serotonergic activity in the CNS. The combination of an SSRI (sertraline) and dextromethorphan (which has serotonergic properties) can precipitate this. Symptoms include hyperthermia, clonus, hyperreflexia, agitation, and autonomic instability. Norepinephrine reuptake inhibition may lead to hypertensive symptoms, but not clonus and hyperreflexia. Dopamine blockade causes EPS, while muscarinic and histaminergic effects explain other side effects but not the syndrome seen here."
+    "explanation": "The correct answer is: Emotional pain, affective disturbance, loss of cognitive control, hyperarousal, and acute social withdrawal. Suicide Crisis Syndrome is characterized by a cluster of symptoms that precede acute suicide risk, including a frantic sense of entrapment, extreme emotional pain, mood lability, cognitive rigidity, and social withdrawal. It helps clinicians recognize high-risk individuals even in the absence of an explicit suicide plan. It is distinct from manic episodes or psychotic disorders."
   },
   {
-    "question": "A 62-year-old man with treatment-resistant depression is switched from sertraline to phenelzine. He is advised to avoid certain foods and medications. One week later, he develops severe headache, nausea, and markedly elevated blood pressure after eating aged cheese at a party. Which of the following best explains the pathophysiology of his condition?",
+    "question": "A 26-year-old woman with chronic suicidal ideation agrees to collaborate on a Crisis Response Plan (CRP) after expressing distress over losing her job. Which of the following components is most essential to include in her written CRP to reduce suicide risk effectively?",
     "choices": [
-      "Reduced serotonin synthesis in the raphe nuclei",
-      "Tyramine-induced catecholamine release with inhibited breakdown",
-      "Enhanced glutamate transmission in limbic circuits",
-      "Autoimmune adrenal hyperfunction leading to cortisol excess",
-      "Acute dopamine depletion in the mesolimbic system"
+      "A contract stating she will not attempt suicide",
+      "A daily log of negative thoughts",
+      "A list of warning signs, coping strategies, reasons to live, supportive contacts, and plan to restrict access to lethal means",
+      "Her diagnosis and a summary of previous psychiatric hospitalizations",
+      "A calendar of follow-up psychiatry appointments only"
     ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is: Tyramine-induced catecholamine release with inhibited breakdown. MAOIs like phenelzine inhibit the breakdown of monoamines, including dietary tyramine. Tyramine normally is metabolized by MAO-A in the gut; when it accumulates, it displaces norepinephrine from vesicles, causing a hypertensive crisis. This is why patients are advised to avoid aged cheeses, wines, and certain meats. The syndrome is unrelated to serotonin synthesis, glutamate transmission, or autoimmune adrenal dysfunction. Dopamine depletion can cause parkinsonism but is not relevant here."
+    "correctAnswer": 2,
+    "explanation": "The correct answer is: A list of warning signs, coping strategies, reasons to live, supportive contacts, and plan to restrict access to lethal means. Crisis Response Planning is a brief, evidence-based intervention shown to reduce suicide attempts significantly. It includes personalized coping strategies, early warning signs, reasons for living, social support contacts, and steps to reduce access to lethal means. Unlike no-suicide contracts, which lack evidence of efficacy, CRPs engage the patient in active safety planning and promote autonomy."
   },
   {
-    "question": "A 35-year-old man with depression is started on an antidepressant that inhibits the reuptake of both norepinephrine and dopamine. He reports increased energy and focus within a few days but returns later with insomnia and anxiety. He has a history of alcohol use disorder but has been sober for 6 months. Which of the following is the most likely adverse effect associated with this medication in the context of his history?",
+    "question": "A 31-year-old man with schizophrenia develops muscle rigidity, confusion, fever, and elevated creatine kinase one week after starting a high-potency typical antipsychotic. He is diagnosed with neuroleptic malignant syndrome (NMS). Which of the following best explains the pathophysiological mechanism underlying this patient's condition?",
     "choices": [
-      "Seizure exacerbation due to dopaminergic stimulation",
-      "Hypertensive crisis due to increased norepinephrine",
-      "Anhedonia from serotonin receptor downregulation",
-      "Hyperglycemia via HPA axis activation",
-      "Bradycardia from muscarinic receptor blockade"
+      "Excessive dopamine stimulation in the mesocortical tract",
+      "Antagonism of serotonin 5-HT2A receptors in the prefrontal cortex",
+      "D2 receptor blockade in the nigrostriatal and hypothalamic pathways",
+      "Agonism at 5-HT1A receptors in the limbic system",
+      "Upregulation of NMDA receptors in the anterior cingulate cortex"
     ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is: Seizure exacerbation due to dopaminergic stimulation. This patient is most likely taking bupropion, a norepinephrine-dopamine reuptake inhibitor (NDRI). While bupropion is activating and can be helpful for low-energy depression, it lowers the seizure threshold, especially in individuals with a history of eating disorders, alcohol use disorder, or brain injury. The risk is not primarily due to norepinephrine. Hypertensive crisis is not common with bupropion. Serotonin modulation is minimal with this drug. It does not significantly affect glucose or muscarinic tone."
+    "correctAnswer": 2,
+    "explanation": "The correct answer is: D2 receptor blockade in the nigrostriatal and hypothalamic pathways. NMS is a life-threatening reaction to antipsychotics, especially high-potency typicals like haloperidol, characterized by rigidity, hyperthermia, autonomic instability, and altered mental status. It is primarily due to sudden, profound blockade of dopamine D2 receptors in the nigrostriatal and hypothalamic pathways. This disrupts thermoregulation and motor control. Serotonin antagonism and NMDA receptor upregulation are more associated with atypical antipsychotic effects and schizophrenia pathophysiology, respectively."
   },
   {
-    "question": "A 28-year-old woman presents with a 9-month history of multiple physical complaints, including abdominal pain, headaches, and fatigue. She has undergone extensive medical evaluations including CT scans, endoscopy, and blood work, all of which were normal. She frequently visits multiple physicians and is convinced she has a serious undiagnosed illness. She becomes anxious if tests are not ordered. Which of the following diagnostic criteria must be present to confirm a diagnosis of somatic symptom disorder?",
+    "question": "A 42-year-old woman with schizophrenia is started on risperidone. After three months, she presents with amenorrhea and galactorrhea. Laboratory evaluation reveals elevated serum prolactin. Which dopaminergic pathway is most likely responsible for her symptoms?",
     "choices": [
-      "Symptoms must be unexplained by medical conditions",
-      "Evidence of intentional symptom production must be present",
-      "Symptoms must persist for more than 12 months",
-      "Excessive thoughts, feelings, or behaviors related to the symptoms",
-      "Symptoms must result in a formal diagnosis by a specialist"
+      "Mesolimbic",
+      "Mesocortical",
+      "Nigrostriatal",
+      "Tuberoinfundibular",
+      "Reticulospinal"
     ],
     "correctAnswer": 3,
-    "explanation": "The correct answer is: Excessive thoughts, feelings, or behaviors related to the symptoms. According to DSM-5 criteria for somatic symptom disorder, the patient must have distressing somatic symptoms plus excessive thoughts, feelings, or behaviors related to those symptoms. Importantly, DSM-5 no longer requires symptoms to be medically unexplained. There is no requirement for 12-month duration (6 months suffices), nor must a specialist confirm diagnosis. Intentional production of symptoms would indicate factitious disorder or malingering, not somatic symptom disorder."
+    "explanation": "The correct answer is: Tuberoinfundibular. Dopamine inhibits prolactin secretion from the anterior pituitary via the tuberoinfundibular pathway. Antipsychotics that block D2 receptors (especially risperidone) can disinhibit prolactin release, leading to hyperprolactinemia, which manifests as galactorrhea, amenorrhea, and sexual dysfunction. The mesolimbic pathway is targeted for antipsychotic efficacy, while the nigrostriatal pathway mediates extrapyramidal symptoms. The mesocortical pathway is associated with negative and cognitive symptoms of schizophrenia."
   },
   {
-    "question": "A 24-year-old woman presents to the neurology clinic with episodes of whole-body shaking lasting up to 5 minutes. Her eyes are tightly closed during the episodes, and she displays asynchronous limb movements with no postictal confusion. EEG monitoring during the episodes shows no epileptiform activity. Which of the following factors is most strongly associated with this presentation?",
+    "question": "A 28-year-old man with schizophrenia is treated with aripiprazole. He reports significant improvement in affect and minimal side effects. Which of the following best describes aripiprazole’s mechanism of action and why it is less likely to cause extrapyramidal symptoms?",
     "choices": [
-      "Excess dopamine synthesis in the nigrostriatal pathway",
-      "Deficiency of orexin in the hypothalamus",
-      "History of childhood trauma and psychiatric comorbidity",
-      "Structural abnormalities of the hippocampus",
-      "Underlying viral encephalitis"
+      "Inverse agonist at D2 receptors and antagonist at 5-HT2C receptors",
+      "High-affinity antagonist at both D1 and D2 receptors",
+      "Partial agonist at D2 and 5-HT1A receptors, antagonist at 5-HT2A receptors",
+      "Irreversible antagonist at D2 receptors in the mesolimbic tract",
+      "Selective antagonist at 5-HT2A receptors with no dopaminergic activity"
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is: History of childhood trauma and psychiatric comorbidity. This presentation is consistent with functional neurologic symptom disorder (conversion disorder), particularly psychogenic non-epileptic seizures (PNES). A strong association exists between PNES and childhood trauma, along with high rates of psychiatric comorbidity such as depression, anxiety, or personality disorders. There is no evidence supporting orexin, dopamine, or hippocampal pathology in PNES. Viral encephalitis would more likely present with altered mental status, fever, or focal neurological findings."
+    "explanation": "The correct answer is: Partial agonist at D2 and 5-HT1A receptors, antagonist at 5-HT2A receptors. Aripiprazole is a second-generation (atypical) antipsychotic with a unique mechanism. As a partial agonist at D2 receptors, it stabilizes dopaminergic activity rather than completely blocking it, reducing risk of extrapyramidal side effects. It also antagonizes 5-HT2A receptors, helping to alleviate negative symptoms. It does not act as a full antagonist or irreversible binder at D2, nor is it selective only for serotonin receptors."
   },
   {
-    "question": "A 36-year-old female nurse is admitted for the fourth time in 12 months for hypernatremia and dehydration. Extensive testing reveals no organic cause. During her hospitalizations, she is overly familiar with staff and frequently requests invasive testing. She has no external incentives for illness behavior. Which of the following features most clearly differentiates her condition from malingering?",
+    "question": "A 34-year-old woman presents with persistent anxiety symptoms including muscle tension, restlessness, and difficulty concentrating. She reports that her worries span several domains of life including work, finances, and family, and have persisted for the last 9 months. She has no history of substance use, and medical work-up is unremarkable. Which of the following pharmacological agents is most appropriate as first-line treatment, and what is the most likely mechanism by which it alleviates her symptoms?",
     "choices": [
-      "History of healthcare employment",
-      "Deliberate symptom falsification",
-      "Desire for medical attention in the absence of external gain",
-      "Inconsistent clinical findings",
-      "Multiple prior hospitalizations"
+      "Alprazolam; potentiation of GABA-A receptor activity",
+      "Amitriptyline; inhibition of histamine and muscarinic receptors",
+      "Propranolol; antagonism of peripheral beta-adrenergic receptors",
+      "Sertraline; blockade of serotonin reuptake at the presynaptic terminal",
+      "Gabapentin; modulation of voltage-gated calcium channels"
     ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is: Desire for medical attention in the absence of external gain. Factitious disorder is characterized by intentional production of symptoms for internal psychological reasons, such as the need to assume a sick role. This contrasts with malingering, where the motive is external (e.g., financial gain, avoiding work). While features like healthcare employment, multiple hospitalizations, and inconsistent findings may be seen in both, the absence of external incentives is what definitively distinguishes factitious disorder from malingering."
+    "correctAnswer": 3,
+    "explanation": "The correct answer is: Sertraline; blockade of serotonin reuptake at the presynaptic terminal. This patient meets criteria for Generalized Anxiety Disorder (GAD), characterized by chronic, excessive, and uncontrollable worry across various life domains. SSRIs such as sertraline are first-line pharmacologic treatments for GAD. They increase serotonin availability by inhibiting its reuptake, thus enhancing serotonergic neurotransmission. Alprazolam, a benzodiazepine, is not first-line due to risk of dependence. Amitriptyline and gabapentin are not recommended as initial therapy. Propranolol may help performance anxiety but not generalized anxiety."
   },
   {
-    "question": "A 40-year-old man recently diagnosed with HIV presents with depressed mood, poor sleep, and suicidal ideation. He expresses intense guilt and social isolation since learning of his diagnosis. He started antiretroviral therapy (ART) but inconsistently adheres to it. Which of the following best explains the bidirectional relationship between HIV and depression in this patient?",
+    "question": "A 17-year-old high school student presents with severe anxiety surrounding classroom presentations. He experiences excessive fear of being judged, avoids eye contact, and has started skipping school to avoid these situations. He reports no panic attacks outside of social settings and feels generally calm otherwise. Which of the following features would best distinguish his condition from avoidant personality disorder?",
     "choices": [
-      "HIV increases dopamine levels in the nucleus accumbens leading to emotional instability",
-      "Depression increases CD8+ T cell activity which lowers viral load but increases symptoms",
-      "HIV-related immune activation and CNS inflammation increase risk of depression, which then worsens ART adherence and health outcomes",
-      "Psychological stress from HIV diagnosis lowers CD4 count through direct T cell depletion",
-      "Depression reduces viral replication due to HPA axis suppression"
+      "Early onset in adolescence",
+      "Functional impairment due to social fears",
+      "Co-occurrence with depressive symptoms",
+      "Capacity for normal social functioning with familiar individuals",
+      "Fear of negative evaluation from others"
     ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is: HIV-related immune activation and CNS inflammation increase risk of depression, which then worsens ART adherence and health outcomes. Depression is highly prevalent in people living with HIV (PLWH), and its pathogenesis involves both psychological and biological mechanisms. HIV directly affects the CNS, contributing to inflammation and neurotransmitter dysregulation, which can trigger or worsen depressive symptoms. Depression, in turn, negatively impacts ART adherence, retention in care, and viral suppression. There is no evidence that depression improves HIV outcomes or alters T cell responses beneficially."
+    "correctAnswer": 3,
+    "explanation": "The correct answer is: Capacity for normal social functioning with familiar individuals. Social Anxiety Disorder (SAD) can resemble avoidant personality disorder (AVPD), but a key distinction is that individuals with SAD often function normally in comfortable social contexts (e.g., with family or close friends), whereas AVPD involves pervasive interpersonal avoidance across all contexts. Both disorders may have early onset and cause functional impairment due to fear of evaluation. Co-occurrence with depression is common in both but not distinguishing."
   },
   {
-    "question": "A 32-year-old transgender woman with a history of HIV, PTSD, and opioid use disorder is brought in for care after missing multiple appointments. She reports being harassed at her housing shelter and fears discrimination from healthcare providers. Her viral load is detectable despite being prescribed ART. Which of the following best explains the layered impact on her HIV care engagement?",
+    "question": "A clinical trial is evaluating neural correlates of various anxiety disorders. One subset of patients exhibits hyperactivity in the locus coeruleus and elevated catecholamine levels in response to minimal stimuli. Which of the following neurotransmitters is most likely contributing to the somatic symptoms observed in these patients, such as increased heart rate, tremors, and heightened vigilance?",
     "choices": [
-      "PTSD is the strongest predictor of treatment nonadherence in all populations",
-      "Stigma is solely driven by individual beliefs and not systemic factors",
-      "Minority stress from overlapping identities and structural barriers contributes to poor health outcomes",
-      "ART nonadherence is primarily related to opioid-induced cognitive deficits",
-      "Access to ART is unaffected by housing status in developed countries"
+      "Gamma-aminobutyric acid (GABA)",
+      "Glutamate",
+      "Serotonin (5-HT)",
+      "Dopamine",
+      "Norepinephrine"
     ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is: Minority stress from overlapping identities and structural barriers contributes to poor health outcomes. Layered or intersectional minority stress recognizes how overlapping marginalized identities (e.g., transgender, HIV+, substance use history) amplify discrimination and vulnerability. These compounded barriers lead to poorer mental health, reduced access to care, and decreased ART adherence. Structural determinants such as unstable housing and stigma within healthcare systems significantly impact outcomes. PTSD, while relevant, is not the sole factor. Statements denying systemic factors or housing barriers are incorrect."
+    "correctAnswer": 4,
+    "explanation": "The correct answer is: Norepinephrine. Hyperactivity in the locus coeruleus and the sympathetic nervous system is associated with increased norepinephrine release, contributing to arousal, vigilance, and somatic symptoms such as tachycardia, sweating, and tremor—common in anxiety disorders, especially panic disorder. GABA is inhibitory and tends to reduce anxiety. Serotonin dysregulation is associated with anxiety but is more related to mood and emotional regulation. Glutamate is excitatory but not directly implicated in the specific autonomic symptoms. Dopamine plays a more prominent role in reward and psychotic disorders."
   },
   {
-    "question": "A 50-year-old man with well-controlled HIV presents with fatigue, insomnia, and low mood. He reports difficulty maintaining medication adherence due to lack of motivation and poor concentration. He is worried about being judged if he tells others about his diagnosis. Which of the following interventions is most likely to improve both his depressive symptoms and ART adherence?",
+    "question": "A 30-year-old woman with generalized anxiety disorder (GAD) and comorbid major depressive disorder is initiated on an appropriate pharmacologic treatment. Two days later, she returns with complaints of increased restlessness and insomnia. Which of the following best explains the cause of her current symptoms, and what is the most appropriate next step?",
     "choices": [
-      "Switching to a protease inhibitor-based regimen",
-      "Increasing ART pill burden to reinforce accountability",
-      "Referral for cognitive behavioral therapy and mental health screening",
-      "Immediate hospitalization to monitor ART administration",
-      "Replacing ART with intermittent prophylactic antibiotics"
+      "Adverse interaction between SRI and benzodiazepine; discontinue both drugs immediately",
+      "Delayed therapeutic onset of SSRI with transient anxiogenic effects; provide supportive care and monitor",
+      "Development of serotonin syndrome; discontinue SSRI and administer cyproheptadine",
+      "Onset of atypical depression; switch to a norepinephrine-dopamine reuptake inhibitor",
+      "Benzodiazepine withdrawal symptoms; reinitiate benzodiazepine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is: Delayed therapeutic onset of SSRI with transient anxiogenic effects; provide supportive care and monitor. SSRIs are first-line for GAD but may cause increased anxiety, restlessness, and insomnia in the initial days of treatment due to serotonergic modulation before receptor downregulation occurs. These effects typically resolve within 1–2 weeks. Benzodiazepines may be used transiently to bridge this period, but immediate cessation is not recommended. There is no indication of serotonin syndrome in this case. NDRIs like bupropion are not first-line for anxiety."
+  },
+  {
+    "question": "A 44-year-old man with panic disorder is started on alprazolam for acute symptom management while awaiting response to an SSRI. He reports improvement but misses a follow-up visit and abruptly stops taking the alprazolam. Two days later, he presents with tremors, insomnia, and worsening anxiety. Which of the following best explains the pathophysiology of his current condition?",
+    "choices": [
+      "Inhibition of norepinephrine reuptake leading to catecholaminergic toxicity",
+      "Dysregulation of 5HT1A signaling from buspirone discontinuation",
+      "Rebound cholinergic activity from muscarinic blockade",
+      "Acute GABA-A receptor downregulation and compensatory CNS hyperexcitability",
+      "Serotonin depletion in the prefrontal cortex due to rapid SSRI withdrawal"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is: Acute GABA-A receptor downregulation and compensatory CNS hyperexcitability. Benzodiazepines like alprazolam enhance GABA-A activity and can lead to physiological dependence. Abrupt cessation results in CNS hyperexcitability due to receptor downregulation and decreased inhibitory tone, manifesting as tremors, anxiety, and insomnia. Gradual tapering is essential. SSRI withdrawal typically has a different profile and occurs over days to weeks, not days. Buspirone and muscarinic effects are not relevant here."
+  },
+  {
+    "question": "A 39-year-old woman with anxiety symptoms and a past history of substance use disorder seeks pharmacologic treatment. She refuses SSRIs due to previous adverse sexual side effects and requests a medication that will not impair cognition or lead to dependence. Which of the following is the most appropriate pharmacologic choice for this patient?",
+    "choices": [
+      "Diazepam",
+      "Buspirone",
+      "Hydroxyzine",
+      "Venlafaxine",
+      "Clonazepam"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is: Buspirone. Buspirone is a 5HT1A partial agonist with anxiolytic properties and a low risk of sedation, psychomotor impairment, or dependence. It is a suitable alternative in patients with substance use disorders or those concerned about sexual side effects and cognitive impairment. SSRIs and SNRIs can cause sexual dysfunction. Benzodiazepines like diazepam and clonazepam carry dependence risks. Hydroxyzine is sedating and often used short-term but may not be ideal for long-term maintenance in functional individuals."
+  },
+  {
+    "question": "A 27-year-old man presents with decreased need for sleep, pressured speech, flight of ideas, and increased goal-directed activity for the past 8 days. He believes he is on the verge of launching a multi-million-dollar startup despite lacking any background in business. His family brings him to the ED due to recent reckless spending and aggressive outbursts. He is not on any medications and has no substance use. Which of the following findings, if present, would distinguish this presentation from hypomania?",
+    "choices": [
+      "Elevated mood",
+      "Increased goal-directed activity",
+      "Grandiosity",
+      "Marked impairment in occupational and social functioning",
+      "Duration of at least 7 days"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is: Marked impairment in occupational and social functioning. The key distinction between a manic and hypomanic episode is severity. While both share similar symptoms such as elevated mood, increased energy, and grandiosity, manic episodes are associated with significant impairment or require hospitalization. Hypomanic episodes, by contrast, do not cause marked impairment or require hospitalization, and do not include psychotic features. A duration of at least 4 days is sufficient for hypomania, while mania requires at least 7 days unless hospitalization occurs earlier."
+  },
+  {
+    "question": "A 32-year-old woman with a diagnosis of bipolar I disorder is hospitalized for mania. She is started on lithium, and her mood symptoms begin to improve over the following week. On day 10 of hospitalization, she develops confusion, dysarthria, and coarse tremors. Serum lithium level is 2.3 mmol/L. Which of the following is the most appropriate next step in management?",
+    "choices": [
+      "Administer flumazenil",
+      "Start propranolol",
+      "Administer naloxone",
+      "Initiate hemodialysis",
+      "Increase fluid intake only"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is: Initiate hemodialysis. This patient has symptoms of acute lithium toxicity (confusion, ataxia, dysarthria, tremor) with a serum level above 2.0 mmol/L. In cases of severe toxicity or impaired renal clearance, hemodialysis is the treatment of choice due to lithium’s low molecular weight and lack of protein binding. Supportive therapy alone is not sufficient at this level. Naloxone and flumazenil are specific antidotes for opioids and benzodiazepines, respectively. Propranolol is sometimes used for lithium-induced tremor but is inappropriate here."
+  },
+  {
+    "question": "A 22-year-old woman is being evaluated for mood symptoms. She reports periods lasting 4–5 days of elevated mood, decreased sleep, and increased productivity, followed by weeks of intense sadness, fatigue, and suicidal ideation. She has no history of psychosis or hospitalization. Which of the following is the most likely diagnosis, and which treatment would best address her depressive symptoms?",
+    "choices": [
+      "Bipolar I disorder; treat with fluoxetine monotherapy",
+      "Major depressive disorder; initiate sertraline",
+      "Bipolar II disorder; initiate lamotrigine",
+      "Cyclothymic disorder; treat with bupropion",
+      "Persistent depressive disorder; initiate mirtazapine"
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is: Referral for cognitive behavioral therapy and mental health screening. Integrated mental health services are essential for managing depression in PLWH, especially given its strong association with poor ART adherence. Psychotherapeutic interventions like CBT, in combination with antidepressants when needed, can address cognitive distortions, internalized stigma, and behavior patterns affecting adherence. Hospitalization is not indicated in the absence of acute suicidality or medical instability. Switching ART regimens or increasing pill burden without addressing underlying psychological issues will not improve outcomes."
+    "explanation": "The correct answer is: Bipolar II disorder; initiate lamotrigine. This patient has clear episodes of hypomania (lasting 4–5 days without psychosis or hospitalization) alternating with major depressive episodes, which defines bipolar II disorder. Lamotrigine is an FDA-approved mood stabilizer for bipolar depression and is preferred because of its favorable side-effect profile. SSRIs or SNRIs used as monotherapy can precipitate mania or rapid cycling in bipolar patients. Cyclothymia involves subthreshold symptoms. Mirtazapine and bupropion are not first-line for bipolar depression."
+  },
+  {
+    "question": "A 26-year-old woman with bipolar I disorder is stabilized on lithium for maintenance therapy. She presents with new-onset confusion, ataxia, and slurred speech. Her lithium level is 1.1 mmol/L (therapeutic range: 0.6–1.2 mmol/L). Her BUN and creatinine are elevated. She reports profuse diarrhea and fever over the past two days. Which of the following best explains her clinical presentation?",
+    "choices": [
+      "Serotonin syndrome due to recent SSRI initiation",
+      "Central pontine myelinolysis due to rapid sodium correction",
+      "Lithium toxicity secondary to volume depletion",
+      "Acute valproate toxicity due to hepatic failure",
+      "Neuroleptic malignant syndrome from antipsychotic therapy"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is: Lithium toxicity secondary to volume depletion. Despite being within the therapeutic range, lithium toxicity can occur when volume depletion (from diarrhea, fever, or dehydration) reduces renal clearance. Lithium has a narrow therapeutic index and is exclusively excreted by the kidneys. Conditions that impair renal function—such as dehydration—can elevate tissue concentrations without drastically increasing serum levels. Symptoms such as confusion, ataxia, and slurred speech are classic for lithium toxicity. SSRI-related serotonin syndrome would present with clonus and hyperreflexia. Valproate toxicity involves hepatic symptoms, and NMS typically includes rigidity and fever in patients on antipsychotics."
+  },
+  {
+    "question": "A 34-year-old woman with bipolar II disorder is started on lamotrigine for depressive episodes. After two weeks, she develops a widespread maculopapular rash involving her trunk and face. Which of the following is the most appropriate next step in management, and what is the most likely mechanism of this adverse effect?",
+    "choices": [
+      "Continue lamotrigine with antihistamines; delayed IgE-mediated hypersensitivity",
+      "Switch to valproic acid; lamotrigine blocks GABA-A receptors causing rash",
+      "Discontinue lamotrigine immediately; risk of Stevens-Johnson syndrome due to rapid titration",
+      "Add carbamazepine to mitigate rash; lamotrigine cross-reactivity is rare",
+      "Switch to lithium; rash is due to serotonin excess from lamotrigine"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is: Discontinue lamotrigine immediately; risk of Stevens-Johnson syndrome due to rapid titration. Lamotrigine carries a known risk of severe skin reactions including Stevens-Johnson syndrome (SJS), especially when titrated too quickly, combined with valproate, or in pediatric patients. The rash requires immediate discontinuation and rechallenge is contraindicated. The mechanism is not IgE-mediated but rather idiosyncratic, possibly involving T-cell activation. Adding carbamazepine is incorrect due to shared risk of rash. Lamotrigine does not cause serotonin excess."
+  },
+  {
+    "question": "A 40-year-old woman with rapid-cycling bipolar disorder has not responded to lithium monotherapy. She has a history of obesity, mild hepatic steatosis, and is planning pregnancy. Which of the following is the most appropriate pharmacologic strategy for long-term mood stabilization?",
+    "choices": [
+      "Initiate valproic acid for its superior antimanic efficacy",
+      "Add carbamazepine for dual mood stabilization",
+      "Switch to lamotrigine due to favorable metabolic and reproductive profile",
+      "Switch to olanzapine for rapid symptom control",
+      "Start quetiapine; titrate to ≥800 mg/day"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is: Switch to lamotrigine due to favorable metabolic and reproductive profile. Lamotrigine is preferred in women planning pregnancy due to its low teratogenic risk, favorable metabolic profile (weight neutral), and efficacy in bipolar depression and maintenance. Valproate and carbamazepine are contraindicated due to high teratogenic risk. Olanzapine and quetiapine have metabolic side effects and are not first-line for long-term monotherapy in this context. Quetiapine’s use at high doses increases the risk of metabolic syndrome, which is particularly relevant in a patient with obesity and hepatic steatosis."
+  },
+  {
+    "question": "A 38-year-old woman presents to a primary care clinic for the first time. Her previous provider documented frequent missed appointments and low treatment adherence. During the visit, she appears guarded and avoids eye contact. Which of the following approaches best reflects a trauma-informed care model that could improve patient engagement and reduce risk of retraumatization?",
+    "choices": [
+      "Confront the patient about noncompliance and emphasize adherence to treatment",
+      "Use firm boundaries and standardized questioning to establish control and order",
+      "Normalize the clinical setting by minimizing personal interaction and focusing on efficiency",
+      "Acknowledge prior negative healthcare experiences and invite the patient to share concerns",
+      "Remind the patient that medical care is objective and not influenced by past experiences"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is: Acknowledge prior negative healthcare experiences and invite the patient to share concerns. Trauma-informed care recognizes that many patients have experienced emotional, physical, or psychological trauma. Such experiences can result in distrust, avoidance, and difficulty engaging in care. Building trust through transparency, empathy, and acknowledging potential past harm improves engagement. Confronting or minimizing their concerns can lead to retraumatization or emotional withdrawal. Trauma-informed care prioritizes psychological safety and shared decision-making."
+  },
+  {
+    "question": "A hospital implements new protocols emphasizing trauma-informed care. As part of the initiative, which of the following institutional changes would most effectively demonstrate the trauma-informed principle of 'empowerment, voice, and choice'?",
+    "choices": [
+      "Assigning patients to clinicians based on insurance status and availability",
+      "Mandating uniform treatment protocols to minimize provider bias",
+      "Allowing patients to choose examination timing and offering gowns or clothing coverage",
+      "Encouraging providers to reduce face-to-face time to increase clinic efficiency",
+      "Emphasizing procedural competency in staff training over interpersonal communication"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is: Allowing patients to choose examination timing and offering gowns or clothing coverage. Trauma-informed care supports patient empowerment and autonomy through shared decision-making and meaningful choices. Offering patients agency—such as opting to remain clothed during exams or timing appointments around comfort—directly supports these principles. The other options may increase efficiency but do not align with trauma-informed values, particularly the emphasis on individualized, collaborative, and respectful care."
+  },
+  {
+    "question": "A 45-year-old male patient with chronic pain and a history of childhood abuse frequently misses follow-up appointments and becomes angry during visits when discussing medication changes. Which of the following best explains his behavior through the lens of trauma-informed care?",
+    "choices": [
+      "Personality disorder traits driving manipulative behavior",
+      "Drug-seeking behavior due to opioid dependence",
+      "Behavioral conditioning reinforced by past secondary gain",
+      "Dysregulation of emotional and cognitive processes due to past trauma",
+      "Somatization disorder manifesting as pain-focused resistance"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is: Dysregulation of emotional and cognitive processes due to past trauma. Trauma, particularly early and prolonged, affects the development of trust, emotion regulation, and the capacity to feel safe in clinical interactions. This patient’s anger and resistance likely reflect a hypervigilant or defensive state rather than conscious manipulation. Trauma-informed care shifts the question from 'What’s wrong with you?' to 'What happened to you?', emphasizing understanding over blame and encouraging provider empathy."
+  },
+  {
+    "question": "A 24-year-old man presents with a 9-month history of progressively worsening social withdrawal, flat affect, and episodes of believing that strangers are controlling his thoughts. He has no history of mood symptoms outside these psychotic episodes. He is admitted and started on haloperidol. Two days later, he develops severe muscle rigidity, high fever, confusion, and autonomic instability. Which of the following neurotransmitter actions is most directly implicated in the mechanism of both his psychotic symptoms and the treatment-related complication he developed?",
+    "choices": [
+      "Excess serotonin activity in the mesocortical tract",
+      "Inhibition of norepinephrine in the locus coeruleus",
+      "Dopamine antagonism in the nigrostriatal pathway",
+      "Excess GABAergic tone in the tuberoinfundibular pathway",
+      "Upregulation of NMDA receptor activity in the prefrontal cortex"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is: Dopamine antagonism in the nigrostriatal pathway. The patient's diagnosis is schizophrenia, based on his 9-month history of psychotic symptoms without mood episodes. He was treated with haloperidol, a first-generation antipsychotic (FGA) with high D2 receptor antagonism, particularly in the nigrostriatal pathway, leading to extrapyramidal symptoms and potentially neuroleptic malignant syndrome (NMS), as seen here. NMS is characterized by fever, muscle rigidity, altered mental status, and autonomic instability. The mesolimbic dopamine pathway is implicated in positive psychotic symptoms, while antipsychotic-induced D2 blockade in the nigrostriatal tract causes movement-related side effects. Other options involve incorrect neurotransmitters or pathways not primarily involved in this clinical picture."
+  },
+  {
+    "question": "A 21-year-old man with newly diagnosed schizophrenia is started on risperidone. Six months later, he returns with galactorrhea and decreased libido. Which of the following best explains the side effect observed in this patient?",
+    "choices": [
+      "Dopamine blockade in the mesolimbic system",
+      "Serotonin antagonism in the prefrontal cortex",
+      "Increased prolactin due to tuberoinfundibular dopamine blockade",
+      "Cholinergic antagonism in the hypothalamus",
+      "Noradrenergic stimulation of anterior pituitary"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is: Increased prolactin due to tuberoinfundibular dopamine blockade. Risperidone is a second-generation antipsychotic (SGA) with relatively high D2 receptor antagonism compared to other SGAs. Dopamine normally inhibits prolactin release from the anterior pituitary via the tuberoinfundibular pathway. Blocking this pathway leads to elevated prolactin levels, resulting in galactorrhea, amenorrhea, and sexual dysfunction. This side effect is more pronounced with risperidone than other SGAs. The mesolimbic system is targeted to reduce positive symptoms, while the prefrontal cortex is associated with cognitive symptoms. Cholinergic and noradrenergic systems are not primarily involved in this side effect."
+  },
+  {
+    "question": "A 27-year-old woman presents with 3 weeks of bizarre behavior, auditory hallucinations, and disorganized speech following a traumatic breakup. She has no prior psychiatric history. She returns to baseline after 4 weeks with no medication. Which of the following features most accurately distinguishes her diagnosis from schizophrenia?",
+    "choices": [
+      "Presence of hallucinations",
+      "Presence of disorganized speech",
+      "Absence of negative symptoms",
+      "Duration of symptoms",
+      "Precipitating psychosocial stressor"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is: Duration of symptoms. The clinical scenario describes a brief psychotic disorder, which by DSM-5 criteria lasts between 1 day and less than 1 month, with full return to premorbid functioning. While hallucinations, disorganized speech, and psychosocial stressors can occur in both schizophrenia and brief psychotic disorder, the key distinguishing feature is the duration of symptoms. Schizophrenia requires continuous signs of disturbance for at least 6 months, including at least 1 month of active-phase symptoms. Negative symptoms may or may not be present in brief psychotic disorder and are not required for the diagnosis."
+  },
+  {
+    "question": "A 19-year-old man is brought to the ED by his parents due to bizarre behavior, including talking to himself and insisting that the government is inserting thoughts into his brain. His symptoms began 2 months ago, and he has shown social withdrawal, poor hygiene, and declining academic performance. He has no prior psychiatric or medical history. Which of the following is the most appropriate diagnosis at this time?",
+    "choices": [
+      "Brief psychotic disorder",
+      "Schizophreniform disorder",
+      "Schizophrenia",
+      "Schizoaffective disorder",
+      "Delusional disorder"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is: Schizophreniform disorder. This diagnosis is made when the duration of psychotic symptoms is between 1 and 6 months. The patient displays hallmark psychotic features (delusions, hallucinations, disorganized behavior, social withdrawal), but has not met the 6-month duration required for schizophrenia. Brief psychotic disorder lasts less than 1 month, while schizoaffective disorder includes a major mood episode concurrent with psychosis. Delusional disorder involves non-bizarre delusions and lacks prominent hallucinations or disorganized behavior."
+  },
+  {
+    "question": "A 29-year-old man with schizophrenia is started on clozapine after multiple trials of other antipsychotics failed. After 3 weeks, he presents with fever, sore throat, and fatigue. Laboratory tests show an absolute neutrophil count (ANC) of 900/μL. What is the most appropriate next step in management?",
+    "choices": [
+      "Continue clozapine and monitor symptoms weekly",
+      "Switch to risperidone immediately",
+      "Discontinue clozapine and monitor for agranulocytosis",
+      "Start G-CSF and resume clozapine at a lower dose",
+      "Reduce dose and monitor ANC monthly"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is: Discontinue clozapine and monitor for agranulocytosis. Clozapine carries a serious risk of agranulocytosis, especially within the first 18 weeks. An ANC below 1,000/μL warrants immediate discontinuation. Patients should be monitored closely and should not be rechallenged unless under specialist supervision. G-CSF is not routinely started unless severe neutropenia (<500/μL). Switching to another antipsychotic such as risperidone is appropriate once neutrophil counts recover."
+  },
+  {
+    "question": "A 33-year-old man presents with delusions of being surveilled by neighbors. He denies hallucinations or mood symptoms. He functions well at work but avoids social interactions. He has held the belief for over a year and is otherwise cognitively intact. Which of the following features best distinguishes his condition from schizophrenia?",
+    "choices": [
+      "Presence of delusions",
+      "Absence of hallucinations",
+      "Preserved functional capacity",
+      "Lack of negative symptoms",
+      "Duration of symptoms"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is: Preserved functional capacity. This patient has delusional disorder, characterized by the presence of one or more fixed, non-bizarre delusions lasting at least 1 month with otherwise preserved functioning and no marked impairment. Unlike schizophrenia, which involves functional deterioration, delusional disorder patients often maintain occupational and social capabilities. The duration and absence of hallucinations or disorganized thought are not sufficient to rule out schizophrenia alone."
   }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
